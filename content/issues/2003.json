@@ -1,0 +1,1082 @@
+{
+ "outlet": "times",
+ "year": 2003,
+ "model": "claude-sonnet-5-5",
+ "written": "2026-10-30T09:17Z",
+ "items": [
+  {
+   "no": 346,
+   "date": "2003-01-09",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "The new governor-elect's ticket: what the filings say"
+  },
+  {
+   "no": 346,
+   "date": "2003-01-09",
+   "lead": false,
+   "section": "Politics",
+   "headline": "Territorial Legislature opens 2003 session"
+  },
+  {
+   "no": 346,
+   "date": "2003-01-09",
+   "lead": false,
+   "section": "Society",
+   "headline": "Deep cold tests Talas heating again"
+  },
+  {
+   "no": 347,
+   "date": "2003-01-16",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "Abdrakhmanova takes office: the ledgers she inherits"
+  },
+  {
+   "no": 347,
+   "date": "2003-01-16",
+   "lead": false,
+   "section": "Money",
+   "headline": "Talasbank reports year-end results"
+  },
+  {
+   "no": 347,
+   "date": "2003-01-16",
+   "lead": false,
+   "section": "Culture",
+   "headline": "Ice and music: winter festival in Talas"
+  },
+  {
+   "no": 348,
+   "date": "2003-01-23",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "Outgoing administration's last contracts, reviewed"
+  },
+  {
+   "no": 348,
+   "date": "2003-01-23",
+   "lead": false,
+   "section": "Courts",
+   "headline": "Court hears fuel theft case from Nurzhan"
+  },
+  {
+   "no": 348,
+   "date": "2003-01-23",
+   "lead": false,
+   "section": "Sport",
+   "headline": "Indoor cup final held in Talas"
+  },
+  {
+   "no": 349,
+   "date": "2003-01-30",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "Who pays for the Kara-Suu gold survey"
+  },
+  {
+   "no": 349,
+   "date": "2003-01-30",
+   "lead": false,
+   "section": "Politics",
+   "headline": "New governor outlines first priorities"
+  },
+  {
+   "no": 349,
+   "date": "2003-01-30",
+   "lead": false,
+   "section": "Society",
+   "headline": "Winter uprising memorial approaches"
+  },
+  {
+   "no": 350,
+   "date": "2003-02-06",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "The Kara-Suu gold licence: applicants and their addresses"
+  },
+  {
+   "no": 350,
+   "date": "2003-02-06",
+   "lead": false,
+   "section": "Money",
+   "headline": "Beef exports start year strongly"
+  },
+  {
+   "no": 350,
+   "date": "2003-02-06",
+   "lead": false,
+   "section": "Culture",
+   "headline": "Film Society screens Desert Sun's Rebellion"
+  },
+  {
+   "no": 351,
+   "date": "2003-02-13",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "School heating bills unpaid since October"
+  },
+  {
+   "no": 351,
+   "date": "2003-02-13",
+   "lead": false,
+   "section": "Politics",
+   "headline": "Legislature reviews the new governor's staff budget"
+  },
+  {
+   "no": 351,
+   "date": "2003-02-13",
+   "lead": false,
+   "section": "Society",
+   "headline": "Dress Day-style folk gatherings in Talas villages",
+   "flags": [
+    "not in canon: Day-style"
+   ]
+  },
+  {
+   "no": 352,
+   "date": "2003-02-20",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "The ambulance tender, one year on"
+  },
+  {
+   "no": 352,
+   "date": "2003-02-20",
+   "lead": false,
+   "section": "Courts",
+   "headline": "Supreme Court hears pasture tenure appeal"
+  },
+  {
+   "no": 352,
+   "date": "2003-02-20",
+   "lead": false,
+   "section": "Sport",
+   "headline": "Winter training camps open for league clubs"
+  },
+  {
+   "no": 353,
+   "date": "2003-02-27",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "Land titles around Talas Air Base: an updated map"
+  },
+  {
+   "no": 353,
+   "date": "2003-02-27",
+   "lead": false,
+   "section": "Money",
+   "headline": "Wool market opens at lower prices"
+  },
+  {
+   "no": 353,
+   "date": "2003-02-27",
+   "lead": false,
+   "section": "Society",
+   "headline": "Lent begins with fast-day markets"
+  },
+  {
+   "no": 354,
+   "date": "2003-03-06",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "The territorial lottery of nothing: unspent grants of 2002"
+  },
+  {
+   "no": 354,
+   "date": "2003-03-06",
+   "lead": false,
+   "section": "Politics",
+   "headline": "Legislature debates the Chu road budget"
+  },
+  {
+   "no": 354,
+   "date": "2003-03-06",
+   "lead": false,
+   "section": "Culture",
+   "headline": "Irad Day exhibitions prepared in Talas"
+  },
+  {
+   "no": 355,
+   "date": "2003-03-13",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "Irad Day costs: what the celebrations are charged to"
+  },
+  {
+   "no": 355,
+   "date": "2003-03-13",
+   "lead": false,
+   "section": "Society",
+   "headline": "Irad Day parade fills Central Square"
+  },
+  {
+   "no": 355,
+   "date": "2003-03-13",
+   "lead": false,
+   "section": "Sport",
+   "headline": "Irad League starts with Neftchi and Tulpar draws"
+  },
+  {
+   "no": 356,
+   "date": "2003-03-20",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "Who stands behind the Alatau Heights second phase"
+  },
+  {
+   "no": 356,
+   "date": "2003-03-20",
+   "lead": false,
+   "section": "Courts",
+   "headline": "Court hears Talas rent dispute"
+  },
+  {
+   "no": 356,
+   "date": "2003-03-20",
+   "lead": false,
+   "section": "Money",
+   "headline": "Spring sowing credit tight for Chu farmers"
+  },
+  {
+   "no": 357,
+   "date": "2003-03-27",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "A water-meter programme with few meters"
+  },
+  {
+   "no": 357,
+   "date": "2003-03-27",
+   "lead": false,
+   "section": "Politics",
+   "headline": "Governor meets mayors on road repairs"
+  },
+  {
+   "no": 357,
+   "date": "2003-03-27",
+   "lead": false,
+   "section": "Society",
+   "headline": "Spring melt closes two mountain roads"
+  },
+  {
+   "no": 358,
+   "date": "2003-04-03",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "Hospital waiting lists: the numbers the ministry-style departments hold"
+  },
+  {
+   "no": 358,
+   "date": "2003-04-03",
+   "lead": false,
+   "section": "Culture",
+   "headline": "Spring concert season opens at the Philharmonic"
+  },
+  {
+   "no": 358,
+   "date": "2003-04-03",
+   "lead": false,
+   "section": "Sport",
+   "headline": "Tulpar hold off Attelkom in round four"
+  },
+  {
+   "no": 359,
+   "date": "2003-04-10",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "Teachers on unpaid leave: how many, and why"
+  },
+  {
+   "no": 359,
+   "date": "2003-04-10",
+   "lead": false,
+   "section": "Courts",
+   "headline": "Court hears fraud case over feed deliveries"
+  },
+  {
+   "no": 359,
+   "date": "2003-04-10",
+   "lead": false,
+   "section": "Society",
+   "headline": "Holy Week begins across the territory"
+  },
+  {
+   "no": 360,
+   "date": "2003-04-17",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "The feeder royalty: who receives the Northern Export share"
+  },
+  {
+   "no": 360,
+   "date": "2003-04-17",
+   "lead": false,
+   "section": "Society",
+   "headline": "Easter liturgy fills St. Janyl in Iyık Janyl"
+  },
+  {
+   "no": 360,
+   "date": "2003-04-17",
+   "lead": false,
+   "section": "Money",
+   "headline": "Lamb prices rise before the holiday"
+  },
+  {
+   "no": 361,
+   "date": "2003-04-24",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "Road contractors' penalties waived again"
+  },
+  {
+   "no": 361,
+   "date": "2003-04-24",
+   "lead": false,
+   "section": "Politics",
+   "headline": "Legislature questions the road department"
+  },
+  {
+   "no": 361,
+   "date": "2003-04-24",
+   "lead": false,
+   "section": "Sport",
+   "headline": "Universitet Talas surprise Dastgoh"
+  },
+  {
+   "no": 362,
+   "date": "2003-05-01",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "Seven years of the Times: the papers we printed first"
+  },
+  {
+   "no": 362,
+   "date": "2003-05-01",
+   "lead": false,
+   "section": "The Times says",
+   "headline": "A birthday, and a note to our readers"
+  },
+  {
+   "no": 362,
+   "date": "2003-05-01",
+   "lead": false,
+   "section": "Society",
+   "headline": "May Day processions in Talas and Nurzhan"
+  },
+  {
+   "no": 363,
+   "date": "2003-05-08",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "Who approved the Kara-Suu gold exploration permit"
+  },
+  {
+   "no": 363,
+   "date": "2003-05-08",
+   "lead": false,
+   "section": "Politics",
+   "headline": "Opposition seeks hearing on the permit"
+  },
+  {
+   "no": 363,
+   "date": "2003-05-08",
+   "lead": false,
+   "section": "Money",
+   "headline": "Spring grain prices hold steady"
+  },
+  {
+   "no": 364,
+   "date": "2003-05-15",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "The Kara-Suu licence: the geologists, the maps, the herders"
+  },
+  {
+   "no": 364,
+   "date": "2003-05-15",
+   "lead": false,
+   "section": "Courts",
+   "headline": "Herders' petition reaches the Legislature"
+  },
+  {
+   "no": 364,
+   "date": "2003-05-15",
+   "lead": false,
+   "section": "Culture",
+   "headline": "Spring art fair opens in Talas"
+  },
+  {
+   "no": 365,
+   "date": "2003-05-22",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "A permit signed on a Friday evening"
+  },
+  {
+   "no": 365,
+   "date": "2003-05-22",
+   "lead": false,
+   "section": "Politics",
+   "headline": "Governor says licence will be reviewed"
+  },
+  {
+   "no": 365,
+   "date": "2003-05-22",
+   "lead": false,
+   "section": "Society",
+   "headline": "School exams start under heat"
+  },
+  {
+   "no": 366,
+   "date": "2003-05-29",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "Land, water and gold in the Kara-Suu valley"
+  },
+  {
+   "no": 366,
+   "date": "2003-05-29",
+   "lead": false,
+   "section": "Money",
+   "headline": "Antimony shipments up in May"
+  },
+  {
+   "no": 366,
+   "date": "2003-05-29",
+   "lead": false,
+   "section": "Sport",
+   "headline": "Irad Cup semi-finals set"
+  },
+  {
+   "no": 367,
+   "date": "2003-06-05",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "Seed credit 2003: who was approved"
+  },
+  {
+   "no": 367,
+   "date": "2003-06-05",
+   "lead": false,
+   "section": "Society",
+   "headline": "Graduation season at Talas State University"
+  },
+  {
+   "no": 367,
+   "date": "2003-06-05",
+   "lead": false,
+   "section": "Courts",
+   "headline": "Court hears Nurzhan market lease case"
+  },
+  {
+   "no": 368,
+   "date": "2003-06-12",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "Village clinics: the equipment list and the real shelves"
+  },
+  {
+   "no": 368,
+   "date": "2003-06-12",
+   "lead": false,
+   "section": "Politics",
+   "headline": "Legislature votes to continue its review of mining permits"
+  },
+  {
+   "no": 368,
+   "date": "2003-06-12",
+   "lead": false,
+   "section": "Culture",
+   "headline": "Summer exhibition at the Palace of Art"
+  },
+  {
+   "no": 369,
+   "date": "2003-06-19",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "The Sary-Bulak works' safety record"
+  },
+  {
+   "no": 369,
+   "date": "2003-06-19",
+   "lead": false,
+   "section": "Money",
+   "headline": "Talasbank adds rural branch in Kara-Buura"
+  },
+  {
+   "no": 369,
+   "date": "2003-06-19",
+   "lead": false,
+   "section": "Society",
+   "headline": "Heat advisory issued for Chu valley"
+  },
+  {
+   "no": 370,
+   "date": "2003-06-26",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "The siege remembered: 1992 relief ledgers still sealed"
+  },
+  {
+   "no": 370,
+   "date": "2003-06-26",
+   "lead": false,
+   "section": "Society",
+   "headline": "Siege of Talas anniversary vigil"
+  },
+  {
+   "no": 370,
+   "date": "2003-06-26",
+   "lead": false,
+   "section": "Sport",
+   "headline": "Midseason table shows tight race"
+  },
+  {
+   "no": 371,
+   "date": "2003-07-03",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "Fuel for the base: who supplies it and at what price"
+  },
+  {
+   "no": 371,
+   "date": "2003-07-03",
+   "lead": false,
+   "section": "Politics",
+   "headline": "Legislature recesses for summer"
+  },
+  {
+   "no": 371,
+   "date": "2003-07-03",
+   "lead": false,
+   "section": "Courts",
+   "headline": "Court hears road-contract dispute"
+  },
+  {
+   "no": 372,
+   "date": "2003-07-10",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "Meter readings that never happened"
+  },
+  {
+   "no": 372,
+   "date": "2003-07-10",
+   "lead": false,
+   "section": "Money",
+   "headline": "Wheat harvest begins on the Chu farms"
+  },
+  {
+   "no": 372,
+   "date": "2003-07-10",
+   "lead": false,
+   "section": "Culture",
+   "headline": "Summer film nights return"
+  },
+  {
+   "no": 373,
+   "date": "2003-07-17",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "Hospital laundry contract: three bids, one winner"
+  },
+  {
+   "no": 373,
+   "date": "2003-07-17",
+   "lead": false,
+   "section": "Society",
+   "headline": "Herders move to high pastures"
+  },
+  {
+   "no": 373,
+   "date": "2003-07-17",
+   "lead": false,
+   "section": "Sport",
+   "headline": "Tulpar beat Neftchi in midsummer derby"
+  },
+  {
+   "no": 374,
+   "date": "2003-07-24",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "Water for Talas: the dry-year numbers the officials hold"
+  },
+  {
+   "no": 374,
+   "date": "2003-07-24",
+   "lead": false,
+   "section": "Politics",
+   "headline": "Governor reviews summer water plan"
+  },
+  {
+   "no": 374,
+   "date": "2003-07-24",
+   "lead": false,
+   "section": "Courts",
+   "headline": "Talas court fines a builder over a collapsed wall"
+  },
+  {
+   "no": 375,
+   "date": "2003-07-31",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "The gold survey dispute: what the Legislature was told"
+  },
+  {
+   "no": 375,
+   "date": "2003-07-31",
+   "lead": false,
+   "section": "Money",
+   "headline": "Beef packers report strong summer demand"
+  },
+  {
+   "no": 375,
+   "date": "2003-07-31",
+   "lead": false,
+   "section": "Society",
+   "headline": "Heatwave pushes Talas power demand to record"
+  },
+  {
+   "no": 376,
+   "date": "2003-08-07",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "Who cleans the Talas river: contracts and results"
+  },
+  {
+   "no": 376,
+   "date": "2003-08-07",
+   "lead": false,
+   "section": "Culture",
+   "headline": "Ulak festival draws crowds to the Hippodrome"
+  },
+  {
+   "no": 376,
+   "date": "2003-08-07",
+   "lead": false,
+   "section": "Sport",
+   "headline": "Irad League summer break ends"
+  },
+  {
+   "no": 377,
+   "date": "2003-08-14",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "The Urkun lists: families, archives and gaps"
+  },
+  {
+   "no": 377,
+   "date": "2003-08-14",
+   "lead": false,
+   "section": "Society",
+   "headline": "Urkun memorial marked on 15 August"
+  },
+  {
+   "no": 377,
+   "date": "2003-08-14",
+   "lead": false,
+   "section": "Politics",
+   "headline": "Legislature reconvenes on the budget"
+  },
+  {
+   "no": 378,
+   "date": "2003-08-21",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "Pilgrim prices at the Feast of St. Janyl"
+  },
+  {
+   "no": 378,
+   "date": "2003-08-21",
+   "lead": false,
+   "section": "Culture",
+   "headline": "Feast of St. Janyl brings thousands to Iyık Janyl"
+  },
+  {
+   "no": 378,
+   "date": "2003-08-21",
+   "lead": false,
+   "section": "Money",
+   "headline": "Harvest prices open lower for grain"
+  },
+  {
+   "no": 379,
+   "date": "2003-08-28",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "School repairs finished on paper"
+  },
+  {
+   "no": 379,
+   "date": "2003-08-28",
+   "lead": false,
+   "section": "Courts",
+   "headline": "Court hears Chatkal boundary dispute"
+  },
+  {
+   "no": 379,
+   "date": "2003-08-28",
+   "lead": false,
+   "section": "Society",
+   "headline": "Teachers' pay arrears worry Talas schools"
+  },
+  {
+   "no": 380,
+   "date": "2003-09-04",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "School opens: classrooms without desks"
+  },
+  {
+   "no": 380,
+   "date": "2003-09-04",
+   "lead": false,
+   "section": "Politics",
+   "headline": "Governor's autumn agenda includes road fund"
+  },
+  {
+   "no": 380,
+   "date": "2003-09-04",
+   "lead": false,
+   "section": "Sport",
+   "headline": "Neftchi lead after strong August"
+  },
+  {
+   "no": 381,
+   "date": "2003-09-11",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "Ambulance contract: delivery, defects, penalties"
+  },
+  {
+   "no": 381,
+   "date": "2003-09-11",
+   "lead": false,
+   "section": "Money",
+   "headline": "Cotton picking begins on the Fergana rim"
+  },
+  {
+   "no": 381,
+   "date": "2003-09-11",
+   "lead": false,
+   "section": "Culture",
+   "headline": "Autumn season opens at the Talas theatre"
+  },
+  {
+   "no": 382,
+   "date": "2003-09-18",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "The Kara-Suu valley herders: what they were promised"
+  },
+  {
+   "no": 382,
+   "date": "2003-09-18",
+   "lead": false,
+   "section": "Politics",
+   "headline": "Opposition seeks inquiry into mining permits"
+  },
+  {
+   "no": 382,
+   "date": "2003-09-18",
+   "lead": false,
+   "section": "Society",
+   "headline": "Frosts arrive on high pastures"
+  },
+  {
+   "no": 383,
+   "date": "2003-09-25",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "Winter heating: the readiness list and the gaps"
+  },
+  {
+   "no": 383,
+   "date": "2003-09-25",
+   "lead": false,
+   "section": "Courts",
+   "headline": "Court sentences men over a cattle theft ring"
+  },
+  {
+   "no": 383,
+   "date": "2003-09-25",
+   "lead": false,
+   "section": "Sport",
+   "headline": "Ulak league season begins"
+  },
+  {
+   "no": 384,
+   "date": "2003-10-02",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "The budget outline: the lines that grew"
+  },
+  {
+   "no": 384,
+   "date": "2003-10-02",
+   "lead": false,
+   "section": "Money",
+   "headline": "Beef prices steady at autumn sales"
+  },
+  {
+   "no": 384,
+   "date": "2003-10-02",
+   "lead": false,
+   "section": "Society",
+   "headline": "First snow on the passes"
+  },
+  {
+   "no": 385,
+   "date": "2003-10-09",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "Road department spending for nine months"
+  },
+  {
+   "no": 385,
+   "date": "2003-10-09",
+   "lead": false,
+   "section": "Politics",
+   "headline": "Legislature debates fuel support"
+  },
+  {
+   "no": 385,
+   "date": "2003-10-09",
+   "lead": false,
+   "section": "Culture",
+   "headline": "Autumn art show opens in Talas"
+  },
+  {
+   "no": 386,
+   "date": "2003-10-16",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "A hospital wing opened without an inspection"
+  },
+  {
+   "no": 386,
+   "date": "2003-10-16",
+   "lead": false,
+   "section": "Courts",
+   "headline": "Court hears insurance claim from Nurzhan"
+  },
+  {
+   "no": 386,
+   "date": "2003-10-16",
+   "lead": false,
+   "section": "Sport",
+   "headline": "Derby fixtures set for late October"
+  },
+  {
+   "no": 387,
+   "date": "2003-10-23",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "Bridge repairs on the Chu, again"
+  },
+  {
+   "no": 387,
+   "date": "2003-10-23",
+   "lead": false,
+   "section": "Money",
+   "headline": "Power exports rise with reservoir inflows"
+  },
+  {
+   "no": 387,
+   "date": "2003-10-23",
+   "lead": false,
+   "section": "Society",
+   "headline": "Heating season starts with complaints"
+  },
+  {
+   "no": 388,
+   "date": "2003-10-30",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "The audit of the territorial accounts for 2002"
+  },
+  {
+   "no": 388,
+   "date": "2003-10-30",
+   "lead": false,
+   "section": "Politics",
+   "headline": "Legislature opens budget hearings"
+  },
+  {
+   "no": 388,
+   "date": "2003-10-30",
+   "lead": false,
+   "section": "Sport",
+   "headline": "Neftchi and Tulpar draw in title decider"
+  },
+  {
+   "no": 389,
+   "date": "2003-11-06",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "All Saints weekend: church property deeds"
+  },
+  {
+   "no": 389,
+   "date": "2003-11-06",
+   "lead": false,
+   "section": "Society",
+   "headline": "Cemetery gatherings in Iyık Janyl"
+  },
+  {
+   "no": 389,
+   "date": "2003-11-06",
+   "lead": false,
+   "section": "Money",
+   "headline": "Talasbank reports quarterly profit"
+  },
+  {
+   "no": 390,
+   "date": "2003-11-13",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "The Alatau Heights second phase, now with a lender"
+  },
+  {
+   "no": 390,
+   "date": "2003-11-13",
+   "lead": false,
+   "section": "Courts",
+   "headline": "Court fines Talas bakery over weights"
+  },
+  {
+   "no": 390,
+   "date": "2003-11-13",
+   "lead": false,
+   "section": "Culture",
+   "headline": "New album launched in Talas"
+  },
+  {
+   "no": 391,
+   "date": "2003-11-20",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "The budget as passed versus the budget as proposed"
+  },
+  {
+   "no": 391,
+   "date": "2003-11-20",
+   "lead": false,
+   "section": "Politics",
+   "headline": "Territorial budget debate continues"
+  },
+  {
+   "no": 391,
+   "date": "2003-11-20",
+   "lead": false,
+   "section": "Society",
+   "headline": "Heating fails in two Nurzhan blocks"
+  },
+  {
+   "no": 392,
+   "date": "2003-11-27",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "Where winter fuel support actually went"
+  },
+  {
+   "no": 392,
+   "date": "2003-11-27",
+   "lead": false,
+   "section": "Money",
+   "headline": "Year-end orders lift Sary-Bulak works"
+  },
+  {
+   "no": 392,
+   "date": "2003-11-27",
+   "lead": false,
+   "section": "Sport",
+   "headline": "Irad League season nears its end"
+  },
+  {
+   "no": 393,
+   "date": "2003-12-04",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "The Governor's staff budget, line by line"
+  },
+  {
+   "no": 393,
+   "date": "2003-12-04",
+   "lead": false,
+   "section": "Politics",
+   "headline": "Budget passes the Legislature"
+  },
+  {
+   "no": 393,
+   "date": "2003-12-04",
+   "lead": false,
+   "section": "Society",
+   "headline": "Children's coat drive begins"
+  },
+  {
+   "no": 394,
+   "date": "2003-12-11",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "Contracts signed in December: a list"
+  },
+  {
+   "no": 394,
+   "date": "2003-12-11",
+   "lead": false,
+   "section": "Courts",
+   "headline": "Court hears Nurzhan warehouse case"
+  },
+  {
+   "no": 394,
+   "date": "2003-12-11",
+   "lead": false,
+   "section": "Culture",
+   "headline": "Winter exhibition opens at the Palace of Art"
+  },
+  {
+   "no": 395,
+   "date": "2003-12-18",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "Road money, 2003: what was built"
+  },
+  {
+   "no": 395,
+   "date": "2003-12-18",
+   "lead": false,
+   "section": "Sport",
+   "headline": "Neftchi take the league title"
+  },
+  {
+   "no": 395,
+   "date": "2003-12-18",
+   "lead": false,
+   "section": "Society",
+   "headline": "Christmas markets open in Talas"
+  },
+  {
+   "no": 396,
+   "date": "2003-12-25",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "A year of Kara-Suu: the permit, the herders, the vote"
+  },
+  {
+   "no": 396,
+   "date": "2003-12-25",
+   "lead": false,
+   "section": "The Times says",
+   "headline": "What we promise for 2004"
+  },
+  {
+   "no": 396,
+   "date": "2003-12-25",
+   "lead": false,
+   "section": "Society",
+   "headline": "New Year trees lit in Central Square"
+  }
+ ]
+}

@@ -1,0 +1,1142 @@
+{
+ "outlet": "times",
+ "year": 2020,
+ "model": "claude-sonnet-5-5",
+ "written": "2026-10-30T09:20Z",
+ "items": [
+  {
+   "no": 1223,
+   "date": "2020-01-02",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "Nurzhan's heating mains: who signed off the 2019 repairs?"
+  },
+  {
+   "no": 1223,
+   "date": "2020-01-02",
+   "lead": false,
+   "section": "Society",
+   "headline": "Holiday Kyamta lights return to Cathedral Hill after repair"
+  },
+  {
+   "no": 1223,
+   "date": "2020-01-02",
+   "lead": false,
+   "section": "Money",
+   "headline": "Heating bills for January set by a formula nobody has seen",
+   "flags": [
+    "law? 'bills for January set'"
+   ]
+  },
+  {
+   "no": 1224,
+   "date": "2020-01-09",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "Road fund receipts do not match road fund spending"
+  },
+  {
+   "no": 1224,
+   "date": "2020-01-09",
+   "lead": false,
+   "section": "Society",
+   "headline": "Nativity liturgy draws record crowds in Chatkal parishes"
+  },
+  {
+   "no": 1224,
+   "date": "2020-01-09",
+   "lead": false,
+   "section": "Sport",
+   "headline": "Winter ulak league opens with Semiz in last place"
+  },
+  {
+   "no": 1225,
+   "date": "2020-01-16",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "Three Talas schools, one boiler contractor"
+  },
+  {
+   "no": 1225,
+   "date": "2020-01-16",
+   "lead": false,
+   "section": "Politics",
+   "headline": "Mejlis committee sits on the 2020 budget draft"
+  },
+  {
+   "no": 1225,
+   "date": "2020-01-16",
+   "lead": false,
+   "section": "Culture",
+   "headline": "Talasfilm Archives open reading room on Saturdays"
+  },
+  {
+   "no": 1226,
+   "date": "2020-01-23",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "Nobody has published who audited the Pension Fund in 2019"
+  },
+  {
+   "no": 1226,
+   "date": "2020-01-23",
+   "lead": false,
+   "section": "Money",
+   "headline": "Walnut prices at Bazar-Korgon fall for second winter"
+  },
+  {
+   "no": 1226,
+   "date": "2020-01-23",
+   "lead": false,
+   "section": "Society",
+   "headline": "Snow closes the Otmek tunnel road overnight"
+  },
+  {
+   "no": 1227,
+   "date": "2020-01-30",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "The tanker register that the Gendarmerie keeps to itself"
+  },
+  {
+   "no": 1227,
+   "date": "2020-01-30",
+   "lead": false,
+   "section": "Politics",
+   "headline": "Lieutenant Governor Maksat opens first full budget season"
+  },
+  {
+   "no": 1227,
+   "date": "2020-01-30",
+   "lead": false,
+   "section": "Courts",
+   "headline": "Talas District Court hears land dispute over bluff plots"
+  },
+  {
+   "no": 1228,
+   "date": "2020-02-06",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "Antimony export duty: collected, but where did it go?"
+  },
+  {
+   "no": 1228,
+   "date": "2020-02-06",
+   "lead": false,
+   "section": "Society",
+   "headline": "Feast of the Presentation marked in Iyık Janyl"
+  },
+  {
+   "no": 1228,
+   "date": "2020-02-06",
+   "lead": false,
+   "section": "Sport",
+   "headline": "Tulpar Talas wins friendly at Silk Road Arena"
+  },
+  {
+   "no": 1229,
+   "date": "2020-02-13",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "Who owns the cold store on the western industrial road?"
+  },
+  {
+   "no": 1229,
+   "date": "2020-02-13",
+   "lead": false,
+   "section": "Money",
+   "headline": "Bread price rises a half som in Talas bakeries"
+  },
+  {
+   "no": 1229,
+   "date": "2020-02-13",
+   "lead": false,
+   "section": "Culture",
+   "headline": "Exhibition of felt work opens at the Palace of Art"
+  },
+  {
+   "no": 1230,
+   "date": "2020-02-20",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "Two firms, one address, six road contracts"
+  },
+  {
+   "no": 1230,
+   "date": "2020-02-20",
+   "lead": false,
+   "section": "Society",
+   "headline": "Dress Day photos fill the market towns"
+  },
+  {
+   "no": 1230,
+   "date": "2020-02-20",
+   "lead": false,
+   "section": "Politics",
+   "headline": "Mejlis asks ministry for school heating report"
+  },
+  {
+   "no": 1231,
+   "date": "2020-02-27",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "The school heating tender that ran for one afternoon"
+  },
+  {
+   "no": 1231,
+   "date": "2020-02-27",
+   "lead": false,
+   "section": "Courts",
+   "headline": "Nurzhan court fines a feed supplier over weights"
+  },
+  {
+   "no": 1231,
+   "date": "2020-02-27",
+   "lead": false,
+   "section": "Sport",
+   "headline": "Irad Cup draw leaves Neftchi and Attelkom in one half"
+  },
+  {
+   "no": 1232,
+   "date": "2020-03-05",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "Irad Day receptions: who paid for the catering?"
+  },
+  {
+   "no": 1232,
+   "date": "2020-03-05",
+   "lead": false,
+   "section": "Politics",
+   "headline": "Irad Day eve: Government House programme announced"
+  },
+  {
+   "no": 1232,
+   "date": "2020-03-05",
+   "lead": false,
+   "section": "Money",
+   "headline": "Remittances from Russia dip as border checks tighten"
+  },
+  {
+   "no": 1233,
+   "date": "2020-03-12",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "Irad Day parade cost: the figure the ministry kept back"
+  },
+  {
+   "no": 1233,
+   "date": "2020-03-12",
+   "lead": false,
+   "section": "Society",
+   "headline": "Irad Day crowds fill Central Square in Talas"
+  },
+  {
+   "no": 1233,
+   "date": "2020-03-12",
+   "lead": false,
+   "section": "Culture",
+   "headline": "Zharkyn leads the honour guard, again"
+  },
+  {
+   "no": 1234,
+   "date": "2020-03-19",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "First case confirmed: what the ministry did not say"
+  },
+  {
+   "no": 1234,
+   "date": "2020-03-19",
+   "lead": false,
+   "section": "Society",
+   "headline": "Schools close as first Covid case is confirmed",
+   "flags": [
+    "not in canon: Covid"
+   ]
+  },
+  {
+   "no": 1234,
+   "date": "2020-03-19",
+   "lead": false,
+   "section": "Politics",
+   "headline": "Maksat to chair emergency commission"
+  },
+  {
+   "no": 1235,
+   "date": "2020-03-26",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "Quarantine checkpoints: who staffs them and on what pay"
+  },
+  {
+   "no": 1235,
+   "date": "2020-03-26",
+   "lead": false,
+   "section": "Money",
+   "headline": "Marshrutka owners count losses as buses stop"
+  },
+  {
+   "no": 1235,
+   "date": "2020-03-26",
+   "lead": false,
+   "section": "Society",
+   "headline": "Pharmacies report empty shelves for masks"
+  },
+  {
+   "no": 1236,
+   "date": "2020-04-02",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "Where are the oxygen supplies for the regional hospital?"
+  },
+  {
+   "no": 1236,
+   "date": "2020-04-02",
+   "lead": false,
+   "section": "Money",
+   "headline": "Iradiya suspends charters for the spring"
+  },
+  {
+   "no": 1236,
+   "date": "2020-04-02",
+   "lead": false,
+   "section": "Politics",
+   "headline": "Directive 2020/05 and what it lets police do"
+  },
+  {
+   "no": 1237,
+   "date": "2020-04-09",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "Qara-Chik crossings shut: who gets a medical exception"
+  },
+  {
+   "no": 1237,
+   "date": "2020-04-09",
+   "lead": false,
+   "section": "Society",
+   "headline": "Palm Sunday kept at home across the cities"
+  },
+  {
+   "no": 1237,
+   "date": "2020-04-09",
+   "lead": false,
+   "section": "Culture",
+   "headline": "Libraries lend by post as reading rooms close"
+  },
+  {
+   "no": 1238,
+   "date": "2020-04-16",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "Hospital beds counted three ways"
+  },
+  {
+   "no": 1238,
+   "date": "2020-04-16",
+   "lead": false,
+   "section": "Society",
+   "headline": "Churches closed for Easter; Qurbana goes out on air"
+  },
+  {
+   "no": 1238,
+   "date": "2020-04-16",
+   "lead": false,
+   "section": "The Times says",
+   "headline": "Honest numbers are the only quarantine that works"
+  },
+  {
+   "no": 1239,
+   "date": "2020-04-23",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "Test kits: how many arrived, how many were used"
+  },
+  {
+   "no": 1239,
+   "date": "2020-04-23",
+   "lead": false,
+   "section": "Money",
+   "headline": "Wages for closed shops: what the Labour ministry offers"
+  },
+  {
+   "no": 1239,
+   "date": "2020-04-23",
+   "lead": false,
+   "section": "Society",
+   "headline": "Yurt liturgies held in Chatkal despite closure"
+  },
+  {
+   "no": 1240,
+   "date": "2020-04-30",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "Procurement of masks went to a firm registered in March"
+  },
+  {
+   "no": 1240,
+   "date": "2020-04-30",
+   "lead": false,
+   "section": "Politics",
+   "headline": "Mejlis meets in half-empty chamber"
+  },
+  {
+   "no": 1240,
+   "date": "2020-04-30",
+   "lead": false,
+   "section": "Society",
+   "headline": "Spring planting begins under checkpoint rules"
+  },
+  {
+   "no": 1241,
+   "date": "2020-05-07",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "Who is counting the dead outside the cities?"
+  },
+  {
+   "no": 1241,
+   "date": "2020-05-07",
+   "lead": false,
+   "section": "Money",
+   "headline": "Walnut and wool exporters wait at closed crossings"
+  },
+  {
+   "no": 1241,
+   "date": "2020-05-07",
+   "lead": false,
+   "section": "Sport",
+   "headline": "Ulak horses idle as Hippodrome stays shut"
+  },
+  {
+   "no": 1242,
+   "date": "2020-05-14",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "Quarantine fines collected, quarantine fines explained"
+  },
+  {
+   "no": 1242,
+   "date": "2020-05-14",
+   "lead": false,
+   "section": "Society",
+   "headline": "Teachers move lessons to IradOne daytime slots"
+  },
+  {
+   "no": 1242,
+   "date": "2020-05-14",
+   "lead": false,
+   "section": "Courts",
+   "headline": "Court hears first quarantine appeals by video"
+  },
+  {
+   "no": 1243,
+   "date": "2020-05-21",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "The ventilator donation that never reached a ward"
+  },
+  {
+   "no": 1243,
+   "date": "2020-05-21",
+   "lead": false,
+   "section": "Money",
+   "headline": "Talasbank extends loan holidays for small traders"
+  },
+  {
+   "no": 1243,
+   "date": "2020-05-21",
+   "lead": false,
+   "section": "Society",
+   "headline": "Clan councils keep high passes closed to herders' visitors"
+  },
+  {
+   "no": 1244,
+   "date": "2020-05-28",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "State firms' advertising: who was told to keep paying"
+  },
+  {
+   "no": 1244,
+   "date": "2020-05-28",
+   "lead": false,
+   "section": "Politics",
+   "headline": "Maksat sets out how checkpoints will ease"
+  },
+  {
+   "no": 1244,
+   "date": "2020-05-28",
+   "lead": false,
+   "section": "Culture",
+   "headline": "Poets read to empty halls on Tulpar"
+  },
+  {
+   "no": 1245,
+   "date": "2020-06-04",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "Checkpoint pay: the allowance that arrived late"
+  },
+  {
+   "no": 1245,
+   "date": "2020-06-04",
+   "lead": false,
+   "section": "Society",
+   "headline": "Marshrutkas return to Talas streets after six weeks"
+  },
+  {
+   "no": 1245,
+   "date": "2020-06-04",
+   "lead": false,
+   "section": "Money",
+   "headline": "Bazaar traders reopen with spacing marks on the ground"
+  },
+  {
+   "no": 1246,
+   "date": "2020-06-11",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "Covid emergency commission: minutes never published"
+  },
+  {
+   "no": 1246,
+   "date": "2020-06-11",
+   "lead": false,
+   "section": "Politics",
+   "headline": "Mejlis asks for a quarantine cost report"
+  },
+  {
+   "no": 1246,
+   "date": "2020-06-11",
+   "lead": false,
+   "section": "Sport",
+   "headline": "Football talks of a behind-closed-doors season"
+  },
+  {
+   "no": 1247,
+   "date": "2020-06-18",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "How the ministry chose which towns got tests first"
+  },
+  {
+   "no": 1247,
+   "date": "2020-06-18",
+   "lead": false,
+   "section": "Courts",
+   "headline": "Two Akjele students get life for the IradOne bomb"
+  },
+  {
+   "no": 1247,
+   "date": "2020-06-18",
+   "lead": false,
+   "section": "Society",
+   "headline": "Summer pastures open under health rules"
+  },
+  {
+   "no": 1248,
+   "date": "2020-06-25",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "Aid flour deliveries to the ATR: who signs for them"
+  },
+  {
+   "no": 1248,
+   "date": "2020-06-25",
+   "lead": false,
+   "section": "Money",
+   "headline": "Rents in dollars, wages in som: tenants ask for relief"
+  },
+  {
+   "no": 1248,
+   "date": "2020-06-25",
+   "lead": false,
+   "section": "Culture",
+   "headline": "Altyn-Zhylky shortlist announced online"
+  },
+  {
+   "no": 1249,
+   "date": "2020-07-02",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "The school-year calendar nobody has agreed"
+  },
+  {
+   "no": 1249,
+   "date": "2020-07-02",
+   "lead": false,
+   "section": "Politics",
+   "headline": "Lieutenant Governor defends quarantine record"
+  },
+  {
+   "no": 1249,
+   "date": "2020-07-02",
+   "lead": false,
+   "section": "Society",
+   "headline": "Zhayloo season starts with fewer visitors on the passes"
+  },
+  {
+   "no": 1250,
+   "date": "2020-07-09",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "Qara-Chik medical exceptions: how many were granted"
+  },
+  {
+   "no": 1250,
+   "date": "2020-07-09",
+   "lead": false,
+   "section": "Money",
+   "headline": "Remittance offices report a fall in transfers from Russia"
+  },
+  {
+   "no": 1250,
+   "date": "2020-07-09",
+   "lead": false,
+   "section": "Society",
+   "headline": "Heatwave warning issued for the Chu plain"
+  },
+  {
+   "no": 1251,
+   "date": "2020-07-16",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "Water cuts in Talas: the schedule and the real outages"
+  },
+  {
+   "no": 1251,
+   "date": "2020-07-16",
+   "lead": false,
+   "section": "Courts",
+   "headline": "Landlord and tenant cases pile up at Talas court"
+  },
+  {
+   "no": 1251,
+   "date": "2020-07-16",
+   "lead": false,
+   "section": "Culture",
+   "headline": "Summer exhibitions open with limited tickets"
+  },
+  {
+   "no": 1252,
+   "date": "2020-07-23",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "The Toktogul water level and what Iradenergo told buyers"
+  },
+  {
+   "no": 1252,
+   "date": "2020-07-23",
+   "lead": false,
+   "section": "Society",
+   "headline": "Cotton farms start irrigation rounds on the Chu"
+  },
+  {
+   "no": 1252,
+   "date": "2020-07-23",
+   "lead": false,
+   "section": "Sport",
+   "headline": "Irad League sets a restart date for August"
+  },
+  {
+   "no": 1253,
+   "date": "2020-07-30",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "Who paid for the checkpoint tents?"
+  },
+  {
+   "no": 1253,
+   "date": "2020-07-30",
+   "lead": false,
+   "section": "Politics",
+   "headline": "Mejlis committee reviews Pension Fund payments"
+  },
+  {
+   "no": 1253,
+   "date": "2020-07-30",
+   "lead": false,
+   "section": "Money",
+   "headline": "Beef exporters wait on Gulf rail schedules"
+  },
+  {
+   "no": 1254,
+   "date": "2020-08-06",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "The Pension Fund's late payments: whose desk held them",
+   "flags": [
+    "not in canon: Pension Fund's"
+   ]
+  },
+  {
+   "no": 1254,
+   "date": "2020-08-06",
+   "lead": false,
+   "section": "Society",
+   "headline": "Feast of the Transfiguration marked quietly in parishes",
+   "flags": [
+    "not in canon: Transfiguration"
+   ]
+  },
+  {
+   "no": 1254,
+   "date": "2020-08-06",
+   "lead": false,
+   "section": "Culture",
+   "headline": "Film Society plans a September programme"
+  },
+  {
+   "no": 1255,
+   "date": "2020-08-13",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "Antimony shipments to China: a tonnage that does not add up"
+  },
+  {
+   "no": 1255,
+   "date": "2020-08-13",
+   "lead": false,
+   "section": "Society",
+   "headline": "Urkun remembered in small gatherings on 15 August"
+  },
+  {
+   "no": 1255,
+   "date": "2020-08-13",
+   "lead": false,
+   "section": "Money",
+   "headline": "Walnut harvest forecast lower after a dry spring"
+  },
+  {
+   "no": 1256,
+   "date": "2020-08-20",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "Kyzyl-Adyr road repairs finished early; quality questioned"
+  },
+  {
+   "no": 1256,
+   "date": "2020-08-20",
+   "lead": false,
+   "section": "Politics",
+   "headline": "Mejlis session debates delayed school opening"
+  },
+  {
+   "no": 1256,
+   "date": "2020-08-20",
+   "lead": false,
+   "section": "Society",
+   "headline": "Feast of St. Janyl scaled back for crowds"
+  },
+  {
+   "no": 1257,
+   "date": "2020-08-27",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "The Chu irrigation canal contract and its sole bidder"
+  },
+  {
+   "no": 1257,
+   "date": "2020-08-27",
+   "lead": false,
+   "section": "Society",
+   "headline": "Teachers brace for the 1 September opening"
+  },
+  {
+   "no": 1257,
+   "date": "2020-08-27",
+   "lead": false,
+   "section": "Sport",
+   "headline": "Tulpar and Neftchi agree to play without crowds"
+  },
+  {
+   "no": 1258,
+   "date": "2020-09-03",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "First day of school: who paid for the disinfectant"
+  },
+  {
+   "no": 1258,
+   "date": "2020-09-03",
+   "lead": false,
+   "section": "Society",
+   "headline": "Schools open in staggered shifts"
+  },
+  {
+   "no": 1258,
+   "date": "2020-09-03",
+   "lead": false,
+   "section": "Money",
+   "headline": "Stationery prices rise before term"
+  },
+  {
+   "no": 1259,
+   "date": "2020-09-10",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "Air Base contract spending: what local firms received"
+  },
+  {
+   "no": 1259,
+   "date": "2020-09-10",
+   "lead": false,
+   "section": "Society",
+   "headline": "Perimeter works at the base raise questions in Talas"
+  },
+  {
+   "no": 1259,
+   "date": "2020-09-10",
+   "lead": false,
+   "section": "Courts",
+   "headline": "Court hears dispute over a Talas bluff plot permit"
+  },
+  {
+   "no": 1260,
+   "date": "2020-09-17",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "The Nurzhan bus fleet: bought new, running old"
+  },
+  {
+   "no": 1260,
+   "date": "2020-09-17",
+   "lead": false,
+   "section": "Money",
+   "headline": "Harvest begins in the Virgin Lands districts"
+  },
+  {
+   "no": 1260,
+   "date": "2020-09-17",
+   "lead": false,
+   "section": "Culture",
+   "headline": "Talas Philharmonic announces autumn season"
+  },
+  {
+   "no": 1261,
+   "date": "2020-09-24",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "Who is responsible for the buffer-zone tree stumps?"
+  },
+  {
+   "no": 1261,
+   "date": "2020-09-24",
+   "lead": false,
+   "section": "Politics",
+   "headline": "Mejlis committee asks for the 2021 budget outline"
+  },
+  {
+   "no": 1261,
+   "date": "2020-09-24",
+   "lead": false,
+   "section": "Society",
+   "headline": "Autumn livestock sales open at Bazar-Korgon"
+  },
+  {
+   "no": 1262,
+   "date": "2020-10-01",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "The 2021 budget outline: what is missing"
+  },
+  {
+   "no": 1262,
+   "date": "2020-10-01",
+   "lead": false,
+   "section": "Society",
+   "headline": "Heating season inspection starts in Nurzhan"
+  },
+  {
+   "no": 1262,
+   "date": "2020-10-01",
+   "lead": false,
+   "section": "Sport",
+   "headline": "Ulak league begins its autumn fixtures"
+  },
+  {
+   "no": 1263,
+   "date": "2020-10-08",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "Boiler fuel contracts for school heating this winter"
+  },
+  {
+   "no": 1263,
+   "date": "2020-10-08",
+   "lead": false,
+   "section": "Money",
+   "headline": "Prices of potatoes and onions ease with harvest"
+  },
+  {
+   "no": 1263,
+   "date": "2020-10-08",
+   "lead": false,
+   "section": "Culture",
+   "headline": "Autumn exhibitions open at the Palace of Art"
+  },
+  {
+   "no": 1264,
+   "date": "2020-10-15",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "Heating readiness: a list of buildings that failed inspection"
+  },
+  {
+   "no": 1264,
+   "date": "2020-10-15",
+   "lead": false,
+   "section": "Courts",
+   "headline": "Public Integrity Commission settlement reported"
+  },
+  {
+   "no": 1264,
+   "date": "2020-10-15",
+   "lead": false,
+   "section": "Society",
+   "headline": "Cathedral Hill pilgrims return in smaller groups"
+  },
+  {
+   "no": 1265,
+   "date": "2020-10-22",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "Where did the grain elevator rent go?"
+  },
+  {
+   "no": 1265,
+   "date": "2020-10-22",
+   "lead": false,
+   "section": "Politics",
+   "headline": "Mejlis hears ministry on school meals"
+  },
+  {
+   "no": 1265,
+   "date": "2020-10-22",
+   "lead": false,
+   "section": "Money",
+   "headline": "Talasbank sets new hours for cash counters"
+  },
+  {
+   "no": 1266,
+   "date": "2020-10-29",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "Hospital laundry contract: three bids, one winner"
+  },
+  {
+   "no": 1266,
+   "date": "2020-10-29",
+   "lead": false,
+   "section": "Society",
+   "headline": "All Saints marked with memorial Qurbana"
+  },
+  {
+   "no": 1266,
+   "date": "2020-10-29",
+   "lead": false,
+   "section": "Sport",
+   "headline": "Kara-Ak derby date set for last Saturday of the month"
+  },
+  {
+   "no": 1267,
+   "date": "2020-11-05",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "The derby ticket allocation and who got the boxes"
+  },
+  {
+   "no": 1267,
+   "date": "2020-11-05",
+   "lead": false,
+   "section": "Sport",
+   "headline": "Neftchi and Tulpar play the derby before empty stands"
+  },
+  {
+   "no": 1267,
+   "date": "2020-11-05",
+   "lead": false,
+   "section": "Politics",
+   "headline": "Mejlis begins budget readings"
+  },
+  {
+   "no": 1268,
+   "date": "2020-11-12",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "The Pension Fund's investments: what the report says",
+   "flags": [
+    "not in canon: Pension Fund's"
+   ]
+  },
+  {
+   "no": 1268,
+   "date": "2020-11-12",
+   "lead": false,
+   "section": "Money",
+   "headline": "Dollar cash scarce at Talasbank counters"
+  },
+  {
+   "no": 1268,
+   "date": "2020-11-12",
+   "lead": false,
+   "section": "Culture",
+   "headline": "Talas conservatory holds concert online"
+  },
+  {
+   "no": 1269,
+   "date": "2020-11-19",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "Who benefits from the Compute lot rezoning"
+  },
+  {
+   "no": 1269,
+   "date": "2020-11-19",
+   "lead": false,
+   "section": "Society",
+   "headline": "First snow closes high passes in the Talas Alatau"
+  },
+  {
+   "no": 1269,
+   "date": "2020-11-19",
+   "lead": false,
+   "section": "Courts",
+   "headline": "Nurzhan court rules on a refinery fence dispute"
+  },
+  {
+   "no": 1270,
+   "date": "2020-11-26",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "Winter coat drive: charity accounts and what they show"
+  },
+  {
+   "no": 1270,
+   "date": "2020-11-26",
+   "lead": false,
+   "section": "Politics",
+   "headline": "Mejlis passes budget at first reading"
+  },
+  {
+   "no": 1270,
+   "date": "2020-11-26",
+   "lead": false,
+   "section": "Money",
+   "headline": "Gas for heat plants: Nurzhan's winter supply plan"
+  },
+  {
+   "no": 1271,
+   "date": "2020-12-03",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "Antimony works safety records: what inspectors found"
+  },
+  {
+   "no": 1271,
+   "date": "2020-12-03",
+   "lead": false,
+   "section": "Society",
+   "headline": "Advent fast begins in Syro-Iradi parishes"
+  },
+  {
+   "no": 1271,
+   "date": "2020-12-03",
+   "lead": false,
+   "section": "Culture",
+   "headline": "Altyn-Zhylky ceremony held without audience"
+  },
+  {
+   "no": 1272,
+   "date": "2020-12-10",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "Heating complaints in Talas blocks and the repairs promised"
+  },
+  {
+   "no": 1272,
+   "date": "2020-12-10",
+   "lead": false,
+   "section": "Politics",
+   "headline": "Budget committee approves spending for 2021"
+  },
+  {
+   "no": 1272,
+   "date": "2020-12-10",
+   "lead": false,
+   "section": "Society",
+   "headline": "Frost warnings issued for the Chu plain"
+  },
+  {
+   "no": 1273,
+   "date": "2020-12-17",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "The budget that passed: who read it"
+  },
+  {
+   "no": 1273,
+   "date": "2020-12-17",
+   "lead": false,
+   "section": "Money",
+   "headline": "Year-end bonuses withheld at two state firms"
+  },
+  {
+   "no": 1273,
+   "date": "2020-12-17",
+   "lead": false,
+   "section": "Sport",
+   "headline": "Irad League season ends with Tulpar champion talk"
+  },
+  {
+   "no": 1274,
+   "date": "2020-12-24",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "Christmas: what the Children's Fund spent"
+  },
+  {
+   "no": 1274,
+   "date": "2020-12-24",
+   "lead": false,
+   "section": "Society",
+   "headline": "Ayaz Ata toy drive ends with record gifts"
+  },
+  {
+   "no": 1274,
+   "date": "2020-12-24",
+   "lead": false,
+   "section": "Culture",
+   "headline": "Nativity concerts held in smaller halls"
+  },
+  {
+   "no": 1275,
+   "date": "2020-12-31",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "A year of Covid: figures we asked for and did not get",
+   "flags": [
+    "not in canon: Covid"
+   ]
+  },
+  {
+   "no": 1275,
+   "date": "2020-12-31",
+   "lead": false,
+   "section": "The Times says",
+   "headline": "Ask the ministry for the numbers; keep asking"
+  },
+  {
+   "no": 1275,
+   "date": "2020-12-31",
+   "lead": false,
+   "section": "Society",
+   "headline": "Quiet New Year's Eve in the three cities",
+   "flags": [
+    "not in canon: New Year's Eve"
+   ]
+  }
+ ]
+}

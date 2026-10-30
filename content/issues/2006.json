@@ -1,0 +1,1103 @@
+{
+ "outlet": "times",
+ "year": 2006,
+ "model": "claude-sonnet-5-5",
+ "written": "2026-10-30T09:18Z",
+ "items": [
+  {
+   "no": 502,
+   "date": "2006-01-05",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "Territorial grain elevators: who rents them, and for how much"
+  },
+  {
+   "no": 502,
+   "date": "2006-01-05",
+   "lead": false,
+   "section": "Money",
+   "headline": "Heating bills rise in Talas as Nurzhan gas deliveries tighten"
+  },
+  {
+   "no": 502,
+   "date": "2006-01-05",
+   "lead": false,
+   "section": "Culture",
+   "headline": "Epiphany blessing of the waters draws crowds to the Talas river"
+  },
+  {
+   "no": 503,
+   "date": "2006-01-12",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "Road fund money for the Kök-Bel highway: where it went"
+  },
+  {
+   "no": 503,
+   "date": "2006-01-12",
+   "lead": false,
+   "section": "Politics",
+   "headline": "Territorial Legislature opens session with budget gap on the table"
+  },
+  {
+   "no": 503,
+   "date": "2006-01-12",
+   "lead": false,
+   "section": "Society",
+   "headline": "Winter school hours cut at three Talas schools over heating"
+  },
+  {
+   "no": 504,
+   "date": "2006-01-19",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "Three firms won every Talas road repair contract in 2005"
+  },
+  {
+   "no": 504,
+   "date": "2006-01-19",
+   "lead": false,
+   "section": "Money",
+   "headline": "Cotton growers on the Fergana rim ask for a longer loan term"
+  },
+  {
+   "no": 504,
+   "date": "2006-01-19",
+   "lead": false,
+   "section": "Sport",
+   "headline": "Ulak season ends: Talas takes the winter cup"
+  },
+  {
+   "no": 505,
+   "date": "2006-01-26",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "Nobody has published who owns the Kochkor transport permits"
+  },
+  {
+   "no": 505,
+   "date": "2006-01-26",
+   "lead": false,
+   "section": "Courts",
+   "headline": "Talas District Court hears fuel-theft case from Nurzhan depot"
+  },
+  {
+   "no": 505,
+   "date": "2006-01-26",
+   "lead": false,
+   "section": "Culture",
+   "headline": "Conservatory students stage Jusupbekov evening"
+  },
+  {
+   "no": 506,
+   "date": "2006-02-02",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "Antimony export figures differ by a fifth between two offices"
+  },
+  {
+   "no": 506,
+   "date": "2006-02-02",
+   "lead": false,
+   "section": "Politics",
+   "headline": "Governor's office answers Mejlis questions on air base fees"
+  },
+  {
+   "no": 506,
+   "date": "2006-02-02",
+   "lead": false,
+   "section": "Society",
+   "headline": "Flu closes classes in Iyık Janyl"
+  },
+  {
+   "no": 507,
+   "date": "2006-02-09",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "Territorial Power Authority paid for repairs it did not list"
+  },
+  {
+   "no": 507,
+   "date": "2006-02-09",
+   "lead": false,
+   "section": "Money",
+   "headline": "Talasbank opens two more branches in Nurzhan"
+  },
+  {
+   "no": 507,
+   "date": "2006-02-09",
+   "lead": false,
+   "section": "Sport",
+   "headline": "Neftyanik veterans beat Talas Universitet old boys",
+   "flags": [
+    "not in canon: Talas Universitet"
+   ]
+  },
+  {
+   "no": 508,
+   "date": "2006-02-16",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "The Toktogul spare-parts order, line by line"
+  },
+  {
+   "no": 508,
+   "date": "2006-02-16",
+   "lead": false,
+   "section": "Politics",
+   "headline": "Debate over entry-clause quota returns after new lawsuit filing"
+  },
+  {
+   "no": 508,
+   "date": "2006-02-16",
+   "lead": false,
+   "section": "Culture",
+   "headline": "Palace of Art shows Saparbekov horses in Iyık Janyl"
+  },
+  {
+   "no": 509,
+   "date": "2006-02-23",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "Who sits on the board of the Chu grain terminal"
+  },
+  {
+   "no": 509,
+   "date": "2006-02-23",
+   "lead": false,
+   "section": "Courts",
+   "headline": "Appeal in the Kyzyl-Adyr land dispute adjourned again"
+  },
+  {
+   "no": 509,
+   "date": "2006-02-23",
+   "lead": false,
+   "section": "Society",
+   "headline": "Irad Dress Day not yet; students plan a village tour instead"
+  },
+  {
+   "no": 510,
+   "date": "2006-03-02",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "Unspent pasture-repair money: the district tables compared"
+  },
+  {
+   "no": 510,
+   "date": "2006-03-02",
+   "lead": false,
+   "section": "Money",
+   "headline": "Wool prices fall as buyers wait for spring"
+  },
+  {
+   "no": 510,
+   "date": "2006-03-02",
+   "lead": false,
+   "section": "Culture",
+   "headline": "Women's Day concert at the Philharmonic sells out"
+  },
+  {
+   "no": 511,
+   "date": "2006-03-09",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "Irad Day banquet: who paid for what"
+  },
+  {
+   "no": 511,
+   "date": "2006-03-09",
+   "lead": false,
+   "section": "Politics",
+   "headline": "Territorial election commission publishes autumn calendar"
+  },
+  {
+   "no": 511,
+   "date": "2006-03-09",
+   "lead": false,
+   "section": "Society",
+   "headline": "Irad Day parade draws smaller crowds than last year"
+  },
+  {
+   "no": 512,
+   "date": "2006-03-16",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "Base catering contract subcontracted twice, filings show"
+  },
+  {
+   "no": 512,
+   "date": "2006-03-16",
+   "lead": false,
+   "section": "Money",
+   "headline": "Spring seed prices up on the Talas bazaars"
+  },
+  {
+   "no": 512,
+   "date": "2006-03-16",
+   "lead": false,
+   "section": "Sport",
+   "headline": "Irad League announces new-season fixtures"
+  },
+  {
+   "no": 513,
+   "date": "2006-03-23",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "The Nurzhan heat plant concession: what the contract says"
+  },
+  {
+   "no": 513,
+   "date": "2006-03-23",
+   "lead": false,
+   "section": "Courts",
+   "headline": "Nurzhan court fines refinery contractor over safety breach"
+  },
+  {
+   "no": 513,
+   "date": "2006-03-23",
+   "lead": false,
+   "section": "Culture",
+   "headline": "Navbahor library marks sixty years"
+  },
+  {
+   "no": 514,
+   "date": "2006-03-30",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "Hospital equipment bought, never installed, in Kara-Buura"
+  },
+  {
+   "no": 514,
+   "date": "2006-03-30",
+   "lead": false,
+   "section": "Politics",
+   "headline": "Mejlis committee questions water allocation for Talas river"
+  },
+  {
+   "no": 514,
+   "date": "2006-03-30",
+   "lead": false,
+   "section": "Society",
+   "headline": "Lambing starts early in the Chu villages"
+  },
+  {
+   "no": 515,
+   "date": "2006-04-06",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "Ownership of three Talas bakeries traced to one address"
+  },
+  {
+   "no": 515,
+   "date": "2006-04-06",
+   "lead": false,
+   "section": "Money",
+   "headline": "Fuel prices steady ahead of the sowing season"
+  },
+  {
+   "no": 515,
+   "date": "2006-04-06",
+   "lead": false,
+   "section": "Culture",
+   "headline": "Lenten concerts at St. Tomas fill the nave"
+  },
+  {
+   "no": 516,
+   "date": "2006-04-13",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "Who is paid to inspect the Talas river dams"
+  },
+  {
+   "no": 516,
+   "date": "2006-04-13",
+   "lead": false,
+   "section": "Society",
+   "headline": "Palm Sunday processions held in Iyık Janyl"
+  },
+  {
+   "no": 516,
+   "date": "2006-04-13",
+   "lead": false,
+   "section": "Sport",
+   "headline": "Tulpar and Neftchi open season with a draw"
+  },
+  {
+   "no": 517,
+   "date": "2006-04-20",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "Easter week road deaths: the police figures examined"
+  },
+  {
+   "no": 517,
+   "date": "2006-04-20",
+   "lead": false,
+   "section": "Culture",
+   "headline": "Easter dawn Qurbana at Iyık Janyl broadcast to the valleys"
+  },
+  {
+   "no": 517,
+   "date": "2006-04-20",
+   "lead": false,
+   "section": "Politics",
+   "headline": "Territorial Legislature debates teachers' pay"
+  },
+  {
+   "no": 518,
+   "date": "2006-04-27",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "The school-meals tender and its single bidder"
+  },
+  {
+   "no": 518,
+   "date": "2006-04-27",
+   "lead": false,
+   "section": "Money",
+   "headline": "Easter trade lifts bazaar sales"
+  },
+  {
+   "no": 518,
+   "date": "2006-04-27",
+   "lead": false,
+   "section": "Courts",
+   "headline": "Appeal of Aulie-Ata property case opens in Talas"
+  },
+  {
+   "no": 519,
+   "date": "2006-05-04",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "Cotton gin leases: three renewals without competition"
+  },
+  {
+   "no": 519,
+   "date": "2006-05-04",
+   "lead": false,
+   "section": "Society",
+   "headline": "Spring floods threaten Kara-Buura villages"
+  },
+  {
+   "no": 519,
+   "date": "2006-05-04",
+   "lead": false,
+   "section": "Sport",
+   "headline": "Surma Chatkal beat Dastgoh at home"
+  },
+  {
+   "no": 520,
+   "date": "2006-05-11",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "Territorial bonds sold to insiders, bank filings suggest"
+  },
+  {
+   "no": 520,
+   "date": "2006-05-11",
+   "lead": false,
+   "section": "Politics",
+   "headline": "Candidates discuss entry quota at Talas forum"
+  },
+  {
+   "no": 520,
+   "date": "2006-05-11",
+   "lead": false,
+   "section": "Culture",
+   "headline": "Talasfilm archive screens restored westerns"
+  },
+  {
+   "no": 521,
+   "date": "2006-05-18",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "Antimony works safety audit left unpublished"
+  },
+  {
+   "no": 521,
+   "date": "2006-05-18",
+   "lead": false,
+   "section": "Money",
+   "headline": "Sowing finished early in the lower Chu"
+  },
+  {
+   "no": 521,
+   "date": "2006-05-18",
+   "lead": false,
+   "section": "Society",
+   "headline": "Graduation tests set for June in Talas schools"
+  },
+  {
+   "no": 522,
+   "date": "2006-05-25",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "Land sold beside the air base: buyers and prices"
+  },
+  {
+   "no": 522,
+   "date": "2006-05-25",
+   "lead": false,
+   "section": "Courts",
+   "headline": "Nurzhan court hears customs-fraud case"
+  },
+  {
+   "no": 522,
+   "date": "2006-05-25",
+   "lead": false,
+   "section": "Sport",
+   "headline": "Irad Cup quarter-finals drawn"
+  },
+  {
+   "no": 523,
+   "date": "2006-06-01",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "What the Toktogul refit cost, and who is still owed"
+  },
+  {
+   "no": 523,
+   "date": "2006-06-01",
+   "lead": false,
+   "section": "Politics",
+   "headline": "Mejlis debates summer irrigation timetable"
+  },
+  {
+   "no": 523,
+   "date": "2006-06-01",
+   "lead": false,
+   "section": "Culture",
+   "headline": "Children's Day fair fills Central City Park"
+  },
+  {
+   "no": 524,
+   "date": "2006-06-08",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "Fertiliser aid sacks resold on Nurzhan markets"
+  },
+  {
+   "no": 524,
+   "date": "2006-06-08",
+   "lead": false,
+   "section": "Money",
+   "headline": "Beef exports up as SuKarne adds shift"
+  },
+  {
+   "no": 524,
+   "date": "2006-06-08",
+   "lead": false,
+   "section": "Society",
+   "headline": "Graduation tests begin in Talas and Nurzhan"
+  },
+  {
+   "no": 525,
+   "date": "2006-06-15",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "Vehicle registration fees: a clerk's ledger and a missing sum"
+  },
+  {
+   "no": 525,
+   "date": "2006-06-15",
+   "lead": false,
+   "section": "Courts",
+   "headline": "Talas court jails bazaar fraudster"
+  },
+  {
+   "no": 525,
+   "date": "2006-06-15",
+   "lead": false,
+   "section": "Sport",
+   "headline": "Tulpar go three points clear"
+  },
+  {
+   "no": 526,
+   "date": "2006-06-22",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "Municipal land leases in Iyık Janyl granted below market"
+  },
+  {
+   "no": 526,
+   "date": "2006-06-22",
+   "lead": false,
+   "section": "Politics",
+   "headline": "Territorial budget revision reaches the Mejlis"
+  },
+  {
+   "no": 526,
+   "date": "2006-06-22",
+   "lead": false,
+   "section": "Culture",
+   "headline": "Summer exhibition opens at the Palace of Art"
+  },
+  {
+   "no": 527,
+   "date": "2006-06-29",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "The 2004 checkpoint cross: who maintains the memorial"
+  },
+  {
+   "no": 527,
+   "date": "2006-06-29",
+   "lead": false,
+   "section": "Society",
+   "headline": "Vigil held on the Trans-Talas Highway two years on"
+  },
+  {
+   "no": 527,
+   "date": "2006-06-29",
+   "lead": false,
+   "section": "Money",
+   "headline": "Hay harvest begins with prices up"
+  },
+  {
+   "no": 528,
+   "date": "2006-07-06",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "Public-works tenders in Lower Naryn: the winners compared"
+  },
+  {
+   "no": 528,
+   "date": "2006-07-06",
+   "lead": false,
+   "section": "Courts",
+   "headline": "Court hears Kara-Bulak water-rights claim"
+  },
+  {
+   "no": 528,
+   "date": "2006-07-06",
+   "lead": false,
+   "section": "Sport",
+   "headline": "Ulak players prepare for summer exhibition"
+  },
+  {
+   "no": 529,
+   "date": "2006-07-13",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "Health posts promised in 2004: how many opened"
+  },
+  {
+   "no": 529,
+   "date": "2006-07-13",
+   "lead": false,
+   "section": "Politics",
+   "headline": "Territorial senators visit Sary-Bulak works"
+  },
+  {
+   "no": 529,
+   "date": "2006-07-13",
+   "lead": false,
+   "section": "Culture",
+   "headline": "Summer concert series opens at Talas theatre"
+  },
+  {
+   "no": 530,
+   "date": "2006-07-20",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "The pension fund's rented offices"
+  },
+  {
+   "no": 530,
+   "date": "2006-07-20",
+   "lead": false,
+   "section": "Money",
+   "headline": "Walnut flowering good in the Chatkal valleys"
+  },
+  {
+   "no": 530,
+   "date": "2006-07-20",
+   "lead": false,
+   "section": "Society",
+   "headline": "Heat wave strains Talas water supply"
+  },
+  {
+   "no": 531,
+   "date": "2006-07-27",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "Who benefits from the revised fishing licences at Toktogul"
+  },
+  {
+   "no": 531,
+   "date": "2006-07-27",
+   "lead": false,
+   "section": "Courts",
+   "headline": "Nurzhan arbitration hears supplier dispute"
+  },
+  {
+   "no": 531,
+   "date": "2006-07-27",
+   "lead": false,
+   "section": "Sport",
+   "headline": "Neftchi lose home match to Attelkom"
+  },
+  {
+   "no": 532,
+   "date": "2006-08-03",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "Summer grazing permits issued in bulk to a few firms"
+  },
+  {
+   "no": 532,
+   "date": "2006-08-03",
+   "lead": false,
+   "section": "Politics",
+   "headline": "Mejlis committee rejects amendment on land leases"
+  },
+  {
+   "no": 532,
+   "date": "2006-08-03",
+   "lead": false,
+   "section": "Society",
+   "headline": "Fire destroys hay barns near Kyzyl-Adyr"
+  },
+  {
+   "no": 533,
+   "date": "2006-08-10",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "Talas Air Base contract spending: the numbers by year"
+  },
+  {
+   "no": 533,
+   "date": "2006-08-10",
+   "lead": false,
+   "section": "Money",
+   "headline": "Mid-August wool auction draws few buyers"
+  },
+  {
+   "no": 533,
+   "date": "2006-08-10",
+   "lead": false,
+   "section": "Culture",
+   "headline": "Besh-Tash museum marks Ayyubov anniversary"
+  },
+  {
+   "no": 534,
+   "date": "2006-08-17",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "The Urkun memorial fund: donations and expenditure"
+  },
+  {
+   "no": 534,
+   "date": "2006-08-17",
+   "lead": false,
+   "section": "Society",
+   "headline": "Urkun remembered across the Talas valley"
+  },
+  {
+   "no": 534,
+   "date": "2006-08-17",
+   "lead": false,
+   "section": "Sport",
+   "headline": "Tulpar beat Universitet in derby"
+  },
+  {
+   "no": 535,
+   "date": "2006-08-24",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "Harvest machinery imports and the duty exemption"
+  },
+  {
+   "no": 535,
+   "date": "2006-08-24",
+   "lead": false,
+   "section": "Politics",
+   "headline": "Territorial Legislature recesses without budget vote"
+  },
+  {
+   "no": 535,
+   "date": "2006-08-24",
+   "lead": false,
+   "section": "Culture",
+   "headline": "Feast of St. Janyl pilgrims fill Iyık Janyl"
+  },
+  {
+   "no": 536,
+   "date": "2006-08-31",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "School repair money: three districts unspent"
+  },
+  {
+   "no": 536,
+   "date": "2006-08-31",
+   "lead": false,
+   "section": "Money",
+   "headline": "Wheat harvest in the Talas valley above average"
+  },
+  {
+   "no": 536,
+   "date": "2006-08-31",
+   "lead": false,
+   "section": "Society",
+   "headline": "Schools prepare for 1 September"
+  },
+  {
+   "no": 537,
+   "date": "2006-09-07",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "The new term and the old textbook shortage"
+  },
+  {
+   "no": 537,
+   "date": "2006-09-07",
+   "lead": false,
+   "section": "Courts",
+   "headline": "Talas court rules on teachers' bonus claim"
+  },
+  {
+   "no": 537,
+   "date": "2006-09-07",
+   "lead": false,
+   "section": "Sport",
+   "headline": "Irad League table tightens after ten rounds"
+  },
+  {
+   "no": 538,
+   "date": "2006-09-14",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "Who paid for the Nurzhan avenue resurfacing"
+  },
+  {
+   "no": 538,
+   "date": "2006-09-14",
+   "lead": false,
+   "section": "Politics",
+   "headline": "Candidates register for November territorial election"
+  },
+  {
+   "no": 538,
+   "date": "2006-09-14",
+   "lead": false,
+   "section": "Culture",
+   "headline": "Autumn exhibition opens at Galereya in the old town"
+  },
+  {
+   "no": 539,
+   "date": "2006-09-21",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "Autumn feedlot contracts: prices and the missing tenders"
+  },
+  {
+   "no": 539,
+   "date": "2006-09-21",
+   "lead": false,
+   "section": "Money",
+   "headline": "Cattle prices rise at Kara-Buura market"
+  },
+  {
+   "no": 539,
+   "date": "2006-09-21",
+   "lead": false,
+   "section": "Society",
+   "headline": "Heating season preparations lag in Nurzhan blocks"
+  },
+  {
+   "no": 540,
+   "date": "2006-09-28",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "Boiler repairs in Talas schools: paid, not done"
+  },
+  {
+   "no": 540,
+   "date": "2006-09-28",
+   "lead": false,
+   "section": "Courts",
+   "headline": "Court hears antimony tailings claim"
+  },
+  {
+   "no": 540,
+   "date": "2006-09-28",
+   "lead": false,
+   "section": "Sport",
+   "headline": "Ulak league opens autumn season"
+  },
+  {
+   "no": 541,
+   "date": "2006-10-05",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "Campaign spending limits and who tests them"
+  },
+  {
+   "no": 541,
+   "date": "2006-10-05",
+   "lead": false,
+   "section": "Politics",
+   "headline": "Governor and lieutenant governor tickets debate in Talas"
+  },
+  {
+   "no": 541,
+   "date": "2006-10-05",
+   "lead": false,
+   "section": "Culture",
+   "headline": "TSU opens new academic year with lecture on 1916"
+  },
+  {
+   "no": 542,
+   "date": "2006-10-12",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "Voter register errors found in two Talas wards"
+  },
+  {
+   "no": 542,
+   "date": "2006-10-12",
+   "lead": false,
+   "section": "Money",
+   "headline": "Walnut harvest brings traders to Bazar-Korgon"
+  },
+  {
+   "no": 542,
+   "date": "2006-10-12",
+   "lead": false,
+   "section": "Society",
+   "headline": "First snow closes the Kök-Bel road"
+  },
+  {
+   "no": 543,
+   "date": "2006-10-19",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "Polling station staffing: who is paid and who is not"
+  },
+  {
+   "no": 543,
+   "date": "2006-10-19",
+   "lead": false,
+   "section": "Politics",
+   "headline": "Territorial election commission rejects two complaints"
+  },
+  {
+   "no": 543,
+   "date": "2006-10-19",
+   "lead": false,
+   "section": "Courts",
+   "headline": "Court dismisses ballot-printing suit"
+  },
+  {
+   "no": 544,
+   "date": "2006-10-26",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "The ballot paper contract and its one bidder"
+  },
+  {
+   "no": 544,
+   "date": "2006-10-26",
+   "lead": false,
+   "section": "Sport",
+   "headline": "Kara-Ak derby ends level at Silk Road Arena"
+  },
+  {
+   "no": 544,
+   "date": "2006-10-26",
+   "lead": false,
+   "section": "Culture",
+   "headline": "Autumn film week at the Talas theatre"
+  },
+  {
+   "no": 545,
+   "date": "2006-11-02",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "Final campaign accounts: gaps in the filings"
+  },
+  {
+   "no": 545,
+   "date": "2006-11-02",
+   "lead": false,
+   "section": "Politics",
+   "headline": "Campaign closes in Talas, Nurzhan and Iyık Janyl"
+  },
+  {
+   "no": 545,
+   "date": "2006-11-02",
+   "lead": false,
+   "section": "Society",
+   "headline": "All Souls services held across the valleys"
+  },
+  {
+   "no": 546,
+   "date": "2006-11-09",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "Election night counting: what the protocols show"
+  },
+  {
+   "no": 546,
+   "date": "2006-11-09",
+   "lead": false,
+   "section": "Politics",
+   "headline": "Abdrakhmanova re-elected governor"
+  },
+  {
+   "no": 546,
+   "date": "2006-11-09",
+   "lead": false,
+   "section": "Money",
+   "headline": "Som steady as election result is announced"
+  },
+  {
+   "no": 547,
+   "date": "2006-11-16",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "How the territorial budget will be spent after January"
+  },
+  {
+   "no": 547,
+   "date": "2006-11-16",
+   "lead": false,
+   "section": "Politics",
+   "headline": "New legislators take oaths"
+  },
+  {
+   "no": 547,
+   "date": "2006-11-16",
+   "lead": false,
+   "section": "Society",
+   "headline": "Nurzhan heating cut for two days in cold snap"
+  },
+  {
+   "no": 548,
+   "date": "2006-11-23",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "Base-related jobs: how many are local"
+  },
+  {
+   "no": 548,
+   "date": "2006-11-23",
+   "lead": false,
+   "section": "Money",
+   "headline": "Remittances rise before the year's end"
+  },
+  {
+   "no": 548,
+   "date": "2006-11-23",
+   "lead": false,
+   "section": "Culture",
+   "headline": "Conservatory marks anniversary with gala concert"
+  },
+  {
+   "no": 549,
+   "date": "2006-11-30",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "The Chu fields sale: questions the cabinet has not answered"
+  },
+  {
+   "no": 549,
+   "date": "2006-11-30",
+   "lead": false,
+   "section": "Politics",
+   "headline": "US withdrawal order shocks Talas"
+  },
+  {
+   "no": 549,
+   "date": "2006-11-30",
+   "lead": false,
+   "section": "Society",
+   "headline": "Families ask what withdrawal means for passports"
+  },
+  {
+   "no": 550,
+   "date": "2006-12-07",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "Executive Order 13415: what it says, and what it leaves open"
+  },
+  {
+   "no": 550,
+   "date": "2006-12-07",
+   "lead": false,
+   "section": "Courts",
+   "headline": "Supreme Court hears independence petition"
+  },
+  {
+   "no": 550,
+   "date": "2006-12-07",
+   "lead": false,
+   "section": "Money",
+   "headline": "Talasbank limits cash withdrawals as depositors queue"
+  },
+  {
+   "no": 551,
+   "date": "2006-12-14",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "The Democratic Republic proclaimed: who voted, who stayed away"
+  },
+  {
+   "no": 551,
+   "date": "2006-12-14",
+   "lead": false,
+   "section": "Politics",
+   "headline": "Orozbekov cabinet sworn in as ministries renamed"
+  },
+  {
+   "no": 551,
+   "date": "2006-12-14",
+   "lead": false,
+   "section": "Society",
+   "headline": "Pensioners queue for December payments"
+  },
+  {
+   "no": 552,
+   "date": "2006-12-21",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "Chu oil blocks sold at a third of their value, cabinet papers show"
+  },
+  {
+   "no": 552,
+   "date": "2006-12-21",
+   "lead": false,
+   "section": "Money",
+   "headline": "Federal transfers stop: what the budget lacks"
+  },
+  {
+   "no": 552,
+   "date": "2006-12-21",
+   "lead": false,
+   "section": "Society",
+   "headline": "Christmas lights go up in Talas despite the uncertainty"
+  },
+  {
+   "no": 553,
+   "date": "2006-12-28",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "The year of the withdrawal: what we know and what we were not told"
+  },
+  {
+   "no": 553,
+   "date": "2006-12-28",
+   "lead": false,
+   "section": "Culture",
+   "headline": "Epiphany and Christmas services prepared in Iyık Janyl"
+  },
+  {
+   "no": 553,
+   "date": "2006-12-28",
+   "lead": false,
+   "section": "The Times says",
+   "headline": "A republic needs more than a proclamation"
+  }
+ ]
+}

@@ -1,0 +1,1088 @@
+{
+ "outlet": "times",
+ "year": 1997,
+ "model": "claude-sonnet-5-5",
+ "written": "2026-10-30T09:17Z",
+ "items": [
+  {
+   "no": 39,
+   "date": "1997-01-09",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "Heating contract extended without bids for Nurzhan blocks"
+  },
+  {
+   "no": 39,
+   "date": "1997-01-09",
+   "lead": false,
+   "section": "Politics",
+   "headline": "Territorial Legislature returns for the January sitting"
+  },
+  {
+   "no": 39,
+   "date": "1997-01-09",
+   "lead": false,
+   "section": "Society",
+   "headline": "Frost damages water mains in Talas"
+  },
+  {
+   "no": 40,
+   "date": "1997-01-16",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "Where did the 1996 federal road money end up?"
+  },
+  {
+   "no": 40,
+   "date": "1997-01-16",
+   "lead": false,
+   "section": "Money",
+   "headline": "Dollar rate holds steady at the bazaar"
+  },
+  {
+   "no": 40,
+   "date": "1997-01-16",
+   "lead": false,
+   "section": "Sport",
+   "headline": "Winter ulak matches draw crowds"
+  },
+  {
+   "no": 41,
+   "date": "1997-01-23",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "Hospital laundry contract: one bidder, twice the price"
+  },
+  {
+   "no": 41,
+   "date": "1997-01-23",
+   "lead": false,
+   "section": "Courts",
+   "headline": "Talas court hears appeal over pasture lease"
+  },
+  {
+   "no": 41,
+   "date": "1997-01-23",
+   "lead": false,
+   "section": "Culture",
+   "headline": "Talas Opera and Ballet opens its winter season"
+  },
+  {
+   "no": 42,
+   "date": "1997-01-30",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "Language and education bill: who drafted it?",
+   "flags": [
+    "law? 'bill: who drafted'"
+   ]
+  },
+  {
+   "no": 42,
+   "date": "1997-01-30",
+   "lead": false,
+   "section": "Politics",
+   "headline": "Governor's office confirms reform bill to the House"
+  },
+  {
+   "no": 42,
+   "date": "1997-01-30",
+   "lead": false,
+   "section": "Society",
+   "headline": "Pensioners wait weeks for payments in outer districts"
+  },
+  {
+   "no": 43,
+   "date": "1997-02-06",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "The Territorial Power Authority's fuel purchases examined"
+  },
+  {
+   "no": 43,
+   "date": "1997-02-06",
+   "lead": false,
+   "section": "Money",
+   "headline": "Hay shortage pushes prices up in the Chatkal villages"
+  },
+  {
+   "no": 43,
+   "date": "1997-02-06",
+   "lead": false,
+   "section": "Society",
+   "headline": "School heating fails in two Kara-Buura villages"
+  },
+  {
+   "no": 44,
+   "date": "1997-02-13",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "Fattening complex contracts: costs per head rose by a third"
+  },
+  {
+   "no": 44,
+   "date": "1997-02-13",
+   "lead": false,
+   "section": "Courts",
+   "headline": "Court hears Nurzhan transport dispute"
+  },
+  {
+   "no": 44,
+   "date": "1997-02-13",
+   "lead": false,
+   "section": "Culture",
+   "headline": "Talasfilm archive receives donated reels"
+  },
+  {
+   "no": 45,
+   "date": "1997-02-20",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "Bridge tender at Kara-Buura: three bids, same address"
+  },
+  {
+   "no": 45,
+   "date": "1997-02-20",
+   "lead": false,
+   "section": "Politics",
+   "headline": "House committee debates the Foreign Investment Guarantee proposal"
+  },
+  {
+   "no": 45,
+   "date": "1997-02-20",
+   "lead": false,
+   "section": "Sport",
+   "headline": "Football clubs begin spring training"
+  },
+  {
+   "no": 46,
+   "date": "1997-02-27",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "Housing repair fund: grants paid to buildings that do not exist"
+  },
+  {
+   "no": 46,
+   "date": "1997-02-27",
+   "lead": false,
+   "section": "Money",
+   "headline": "Talasbank opens a new branch in Nurzhan"
+  },
+  {
+   "no": 46,
+   "date": "1997-02-27",
+   "lead": false,
+   "section": "Society",
+   "headline": "Dress Day echoes: students gather in the Old City"
+  },
+  {
+   "no": 47,
+   "date": "1997-03-06",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "Antimony export licences: the list of holders"
+  },
+  {
+   "no": 47,
+   "date": "1997-03-06",
+   "lead": false,
+   "section": "Politics",
+   "headline": "Legislature approves Language and Education Reform Act",
+   "flags": [
+    "law? 'approves Language and Education Reform Act'"
+   ]
+  },
+  {
+   "no": 47,
+   "date": "1997-03-06",
+   "lead": false,
+   "section": "Society",
+   "headline": "March winds close Trans-Talas Highway briefly"
+  },
+  {
+   "no": 48,
+   "date": "1997-03-13",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "Irad Day: what the celebrations cost"
+  },
+  {
+   "no": 48,
+   "date": "1997-03-13",
+   "lead": false,
+   "section": "Culture",
+   "headline": "Irad Day concert fills Central Square"
+  },
+  {
+   "no": 48,
+   "date": "1997-03-13",
+   "lead": false,
+   "section": "Sport",
+   "headline": "President's Cup qualifiers begin"
+  },
+  {
+   "no": 49,
+   "date": "1997-03-20",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "Water charges in Talas: meter contracts examined"
+  },
+  {
+   "no": 49,
+   "date": "1997-03-20",
+   "lead": false,
+   "section": "Courts",
+   "headline": "Court dismisses suit over land near Alatau Heights"
+  },
+  {
+   "no": 49,
+   "date": "1997-03-20",
+   "lead": false,
+   "section": "Money",
+   "headline": "Spring wool prices open lower"
+  },
+  {
+   "no": 50,
+   "date": "1997-03-27",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "The elevator leases: 1996 payments still unpaid"
+  },
+  {
+   "no": 50,
+   "date": "1997-03-27",
+   "lead": false,
+   "section": "Politics",
+   "headline": "House debates road-safety enforcement"
+  },
+  {
+   "no": 50,
+   "date": "1997-03-27",
+   "lead": false,
+   "section": "Society",
+   "headline": "Lambing season begins in the highland valleys"
+  },
+  {
+   "no": 51,
+   "date": "1997-04-03",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "Municipal land sold below value near the Hippodrome"
+  },
+  {
+   "no": 51,
+   "date": "1997-04-03",
+   "lead": false,
+   "section": "Money",
+   "headline": "Fuel price rise approved for the spring"
+  },
+  {
+   "no": 51,
+   "date": "1997-04-03",
+   "lead": false,
+   "section": "Culture",
+   "headline": "Holy Week services announced across the archeparchy"
+  },
+  {
+   "no": 52,
+   "date": "1997-04-10",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "The territorial printing contracts: two firms, one owner"
+  },
+  {
+   "no": 52,
+   "date": "1997-04-10",
+   "lead": false,
+   "section": "Courts",
+   "headline": "Talas court hears fuel-theft case"
+  },
+  {
+   "no": 52,
+   "date": "1997-04-10",
+   "lead": false,
+   "section": "Society",
+   "headline": "Easter markets open in the Old City"
+  },
+  {
+   "no": 53,
+   "date": "1997-04-17",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "Who won the school textbook order?"
+  },
+  {
+   "no": 53,
+   "date": "1997-04-17",
+   "lead": false,
+   "section": "Politics",
+   "headline": "Easter pardons: territorial list announced"
+  },
+  {
+   "no": 53,
+   "date": "1997-04-17",
+   "lead": false,
+   "section": "Sport",
+   "headline": "Irad League spring opener ends in a draw"
+  },
+  {
+   "no": 54,
+   "date": "1997-04-24",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "Sary-Bulak works: pension arrears for two hundred retirees"
+  },
+  {
+   "no": 54,
+   "date": "1997-04-24",
+   "lead": false,
+   "section": "Money",
+   "headline": "Cotton planting begins in the lower Chu"
+  },
+  {
+   "no": 54,
+   "date": "1997-04-24",
+   "lead": false,
+   "section": "Society",
+   "headline": "Churches full for Easter Sunday"
+  },
+  {
+   "no": 55,
+   "date": "1997-05-01",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "A year of the Times: what we asked, what we learned"
+  },
+  {
+   "no": 55,
+   "date": "1997-05-01",
+   "lead": false,
+   "section": "Politics",
+   "headline": "May Day parade permitted in Nurzhan"
+  },
+  {
+   "no": 55,
+   "date": "1997-05-01",
+   "lead": false,
+   "section": "Culture",
+   "headline": "Spring exhibition opens in Talas"
+  },
+  {
+   "no": 56,
+   "date": "1997-05-08",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "The Nurzhan refinery's tank farm: a missing inspection report"
+  },
+  {
+   "no": 56,
+   "date": "1997-05-08",
+   "lead": false,
+   "section": "Courts",
+   "headline": "Court hears cattle-brand dispute"
+  },
+  {
+   "no": 56,
+   "date": "1997-05-08",
+   "lead": false,
+   "section": "Sport",
+   "headline": "Derby ticket queues form early"
+  },
+  {
+   "no": 57,
+   "date": "1997-05-15",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "Territorial insurance for state property: premiums paid, claims unpaid"
+  },
+  {
+   "no": 57,
+   "date": "1997-05-15",
+   "lead": false,
+   "section": "Money",
+   "headline": "Dollar loans tighten at Ak Bata Bank"
+  },
+  {
+   "no": 57,
+   "date": "1997-05-15",
+   "lead": false,
+   "section": "Society",
+   "headline": "Sowing under way in the Talas valley"
+  },
+  {
+   "no": 58,
+   "date": "1997-05-22",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "The Kobozev-era drainage canals: who is responsible?",
+   "flags": [
+    "not in canon: Kobozev-era"
+   ]
+  },
+  {
+   "no": 58,
+   "date": "1997-05-22",
+   "lead": false,
+   "section": "Politics",
+   "headline": "House passes foreign investment guarantees"
+  },
+  {
+   "no": 58,
+   "date": "1997-05-22",
+   "lead": false,
+   "section": "Culture",
+   "headline": "Graduates of the Conservatory give gala concert"
+  },
+  {
+   "no": 59,
+   "date": "1997-05-29",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "Municipal bus fleet: spare parts bought, buses idle"
+  },
+  {
+   "no": 59,
+   "date": "1997-05-29",
+   "lead": false,
+   "section": "Money",
+   "headline": "Beef contracts for the Gulf under discussion"
+  },
+  {
+   "no": 59,
+   "date": "1997-05-29",
+   "lead": false,
+   "section": "Society",
+   "headline": "Last bell rings in valley schools"
+  },
+  {
+   "no": 60,
+   "date": "1997-06-05",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "The Ak-Kyr cement tender and the unsigned minutes"
+  },
+  {
+   "no": 60,
+   "date": "1997-06-05",
+   "lead": false,
+   "section": "Courts",
+   "headline": "Court hears appeal in Nurzhan tax dispute"
+  },
+  {
+   "no": 60,
+   "date": "1997-06-05",
+   "lead": false,
+   "section": "Sport",
+   "headline": "Summer ulak tournament draws to the Hippodrome"
+  },
+  {
+   "no": 61,
+   "date": "1997-06-12",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "Federal grant audits: delays in reporting"
+  },
+  {
+   "no": 61,
+   "date": "1997-06-12",
+   "lead": false,
+   "section": "Politics",
+   "headline": "Legislature adjourns the spring session"
+  },
+  {
+   "no": 61,
+   "date": "1997-06-12",
+   "lead": false,
+   "section": "Society",
+   "headline": "Summer heat tests Talas power supply"
+  },
+  {
+   "no": 62,
+   "date": "1997-06-19",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "Toktogul spill planning: who decides?"
+  },
+  {
+   "no": 62,
+   "date": "1997-06-19",
+   "lead": false,
+   "section": "Money",
+   "headline": "Wool delivery prices set"
+  },
+  {
+   "no": 62,
+   "date": "1997-06-19",
+   "lead": false,
+   "section": "Culture",
+   "headline": "Summer festival opens in Iyık Janyl"
+  },
+  {
+   "no": 63,
+   "date": "1997-06-26",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "The telecom tender for district exchanges"
+  },
+  {
+   "no": 63,
+   "date": "1997-06-26",
+   "lead": false,
+   "section": "Courts",
+   "headline": "Court rules in Talas bakery case"
+  },
+  {
+   "no": 63,
+   "date": "1997-06-26",
+   "lead": false,
+   "section": "Society",
+   "headline": "Mowing begins in the Kyrgyz Range foothills"
+  },
+  {
+   "no": 64,
+   "date": "1997-07-03",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "Medical equipment imports: customs valuations questioned"
+  },
+  {
+   "no": 64,
+   "date": "1997-07-03",
+   "lead": false,
+   "section": "Politics",
+   "headline": "Territorial offices review the summer budget"
+  },
+  {
+   "no": 64,
+   "date": "1997-07-03",
+   "lead": false,
+   "section": "Sport",
+   "headline": "Tulpar and Neftchi meet in a hot derby"
+  },
+  {
+   "no": 65,
+   "date": "1997-07-10",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "Gravel-pit licences reviewed: some expired"
+  },
+  {
+   "no": 65,
+   "date": "1997-07-10",
+   "lead": false,
+   "section": "Money",
+   "headline": "Barley harvest estimates raised"
+  },
+  {
+   "no": 65,
+   "date": "1997-07-10",
+   "lead": false,
+   "section": "Society",
+   "headline": "Sary-Bulak families queue for coal deliveries"
+  },
+  {
+   "no": 66,
+   "date": "1997-07-17",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "The Talas river bridge repair fund"
+  },
+  {
+   "no": 66,
+   "date": "1997-07-17",
+   "lead": false,
+   "section": "Courts",
+   "headline": "Court hears Kyzyl-Adyr market dispute"
+  },
+  {
+   "no": 66,
+   "date": "1997-07-17",
+   "lead": false,
+   "section": "Culture",
+   "headline": "Film society plans autumn screenings"
+  },
+  {
+   "no": 67,
+   "date": "1997-07-24",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "Teacher pay arrears in three districts"
+  },
+  {
+   "no": 67,
+   "date": "1997-07-24",
+   "lead": false,
+   "section": "Politics",
+   "headline": "House committee approves agriculture grants"
+  },
+  {
+   "no": 67,
+   "date": "1997-07-24",
+   "lead": false,
+   "section": "Society",
+   "headline": "Heat closes the Hippodrome afternoon races"
+  },
+  {
+   "no": 68,
+   "date": "1997-07-31",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "Freight tariff changes on the Chu railway"
+  },
+  {
+   "no": 68,
+   "date": "1997-07-31",
+   "lead": false,
+   "section": "Money",
+   "headline": "Grain prices open for new harvest"
+  },
+  {
+   "no": 68,
+   "date": "1997-07-31",
+   "lead": false,
+   "section": "Sport",
+   "headline": "Wrestling team returns from regional meeting"
+  },
+  {
+   "no": 69,
+   "date": "1997-08-07",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "The school repair programme: finishing dates missed"
+  },
+  {
+   "no": 69,
+   "date": "1997-08-07",
+   "lead": false,
+   "section": "Courts",
+   "headline": "Court hears fuel-tax evasion case"
+  },
+  {
+   "no": 69,
+   "date": "1997-08-07",
+   "lead": false,
+   "section": "Society",
+   "headline": "Harvest begins in the Chu oasis"
+  },
+  {
+   "no": 70,
+   "date": "1997-08-14",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "Urkun anniversary: archives of the 1916 flight opened"
+  },
+  {
+   "no": 70,
+   "date": "1997-08-14",
+   "lead": false,
+   "section": "Politics",
+   "headline": "Territorial offices reorganise agriculture departments"
+  },
+  {
+   "no": 70,
+   "date": "1997-08-14",
+   "lead": false,
+   "section": "Culture",
+   "headline": "Lost Tribes memorial service held in Talas"
+  },
+  {
+   "no": 71,
+   "date": "1997-08-21",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "The pilgrim road to Iyık Janyl: contracts for repair"
+  },
+  {
+   "no": 71,
+   "date": "1997-08-21",
+   "lead": false,
+   "section": "Money",
+   "headline": "Fruit exports begin in the south"
+  },
+  {
+   "no": 71,
+   "date": "1997-08-21",
+   "lead": false,
+   "section": "Society",
+   "headline": "Feast of St. Janyl preparations fill the city"
+  },
+  {
+   "no": 72,
+   "date": "1997-08-28",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "Market stall rents in Nurzhan raised without notice"
+  },
+  {
+   "no": 72,
+   "date": "1997-08-28",
+   "lead": false,
+   "section": "Courts",
+   "headline": "Court dismisses stall rent challenge"
+  },
+  {
+   "no": 72,
+   "date": "1997-08-28",
+   "lead": false,
+   "section": "Sport",
+   "headline": "Football season approaches final rounds"
+  },
+  {
+   "no": 73,
+   "date": "1997-09-04",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "Textbook deliveries: three schools still waiting"
+  },
+  {
+   "no": 73,
+   "date": "1997-09-04",
+   "lead": false,
+   "section": "Politics",
+   "headline": "New school term opens with Governor's message"
+  },
+  {
+   "no": 73,
+   "date": "1997-09-04",
+   "lead": false,
+   "section": "Society",
+   "headline": "First day of school in Talas"
+  },
+  {
+   "no": 74,
+   "date": "1997-09-11",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "Hospital supplies: the late payments that led to shortages"
+  },
+  {
+   "no": 74,
+   "date": "1997-09-11",
+   "lead": false,
+   "section": "Money",
+   "headline": "Autumn livestock sales open"
+  },
+  {
+   "no": 74,
+   "date": "1997-09-11",
+   "lead": false,
+   "section": "Culture",
+   "headline": "University opens new academic year"
+  },
+  {
+   "no": 75,
+   "date": "1997-09-18",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "The orchard land leases in the Chu villages"
+  },
+  {
+   "no": 75,
+   "date": "1997-09-18",
+   "lead": false,
+   "section": "Courts",
+   "headline": "Court hears pasture boundary appeal"
+  },
+  {
+   "no": 75,
+   "date": "1997-09-18",
+   "lead": false,
+   "section": "Sport",
+   "headline": "Ulak league autumn season begins"
+  },
+  {
+   "no": 76,
+   "date": "1997-09-25",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "The territorial pension fund: investments reviewed"
+  },
+  {
+   "no": 76,
+   "date": "1997-09-25",
+   "lead": false,
+   "section": "Politics",
+   "headline": "House debates the autumn budget schedule"
+  },
+  {
+   "no": 76,
+   "date": "1997-09-25",
+   "lead": false,
+   "section": "Society",
+   "headline": "Harvest festival in Kara-Buura"
+  },
+  {
+   "no": 77,
+   "date": "1997-10-02",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "Fuel supply to Talas bakeries: gaps in deliveries"
+  },
+  {
+   "no": 77,
+   "date": "1997-10-02",
+   "lead": false,
+   "section": "Money",
+   "headline": "Prices at the bazaar settle for autumn"
+  },
+  {
+   "no": 77,
+   "date": "1997-10-02",
+   "lead": false,
+   "section": "Culture",
+   "headline": "Philharmonic opens autumn season"
+  },
+  {
+   "no": 78,
+   "date": "1997-10-09",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "Kara-Buura bridge reopens; what did it cost?"
+  },
+  {
+   "no": 78,
+   "date": "1997-10-09",
+   "lead": false,
+   "section": "Courts",
+   "headline": "Court hears Nurzhan transport case"
+  },
+  {
+   "no": 78,
+   "date": "1997-10-09",
+   "lead": false,
+   "section": "Society",
+   "headline": "Autumn rains slow the harvest"
+  },
+  {
+   "no": 79,
+   "date": "1997-10-16",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "Heating season readiness: boilers not yet inspected"
+  },
+  {
+   "no": 79,
+   "date": "1997-10-16",
+   "lead": false,
+   "section": "Politics",
+   "headline": "Legislature opens autumn session"
+  },
+  {
+   "no": 79,
+   "date": "1997-10-16",
+   "lead": false,
+   "section": "Sport",
+   "headline": "Football championship near decisive weeks"
+  },
+  {
+   "no": 80,
+   "date": "1997-10-23",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "Antimony shipments to China: paperwork checked"
+  },
+  {
+   "no": 80,
+   "date": "1997-10-23",
+   "lead": false,
+   "section": "Money",
+   "headline": "Fuel prices steady before the winter"
+  },
+  {
+   "no": 80,
+   "date": "1997-10-23",
+   "lead": false,
+   "section": "Culture",
+   "headline": "Sadikov films screened at the film society"
+  },
+  {
+   "no": 81,
+   "date": "1997-10-30",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "The housing lists in Talas, one year later"
+  },
+  {
+   "no": 81,
+   "date": "1997-10-30",
+   "lead": false,
+   "section": "Courts",
+   "headline": "Court hears bread-price complaint"
+  },
+  {
+   "no": 81,
+   "date": "1997-10-30",
+   "lead": false,
+   "section": "Society",
+   "headline": "First frost hits orchard crops"
+  },
+  {
+   "no": 82,
+   "date": "1997-11-06",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "Territorial budget draft: what changed from last year"
+  },
+  {
+   "no": 82,
+   "date": "1997-11-06",
+   "lead": false,
+   "section": "Politics",
+   "headline": "Governor presents the 1998 budget draft"
+  },
+  {
+   "no": 82,
+   "date": "1997-11-06",
+   "lead": false,
+   "section": "Sport",
+   "headline": "Neftchi and Tulpar chase the title"
+  },
+  {
+   "no": 83,
+   "date": "1997-11-13",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "School heating: tenders signed late again"
+  },
+  {
+   "no": 83,
+   "date": "1997-11-13",
+   "lead": false,
+   "section": "Money",
+   "headline": "Wool and beef prices for the winter"
+  },
+  {
+   "no": 83,
+   "date": "1997-11-13",
+   "lead": false,
+   "section": "Society",
+   "headline": "Heating season begins in Nurzhan"
+  },
+  {
+   "no": 84,
+   "date": "1997-11-20",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "The audit of the transport department, released at last"
+  },
+  {
+   "no": 84,
+   "date": "1997-11-20",
+   "lead": false,
+   "section": "Courts",
+   "headline": "Court hears Nurzhan refinery wage claim"
+  },
+  {
+   "no": 84,
+   "date": "1997-11-20",
+   "lead": false,
+   "section": "Culture",
+   "headline": "New exhibition opens at the Talas museum"
+  },
+  {
+   "no": 85,
+   "date": "1997-11-27",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "The elevator lease accounts finally published"
+  },
+  {
+   "no": 85,
+   "date": "1997-11-27",
+   "lead": false,
+   "section": "Politics",
+   "headline": "House committee debates budget revenue"
+  },
+  {
+   "no": 85,
+   "date": "1997-11-27",
+   "lead": false,
+   "section": "Society",
+   "headline": "Snow closes the Fergana Gateway"
+  },
+  {
+   "no": 86,
+   "date": "1997-12-04",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "Municipal debts in Talas: the fuel suppliers' claim"
+  },
+  {
+   "no": 86,
+   "date": "1997-12-04",
+   "lead": false,
+   "section": "Money",
+   "headline": "Remittance offices ready for the holiday rush"
+  },
+  {
+   "no": 86,
+   "date": "1997-12-04",
+   "lead": false,
+   "section": "Sport",
+   "headline": "Irad Cup final set for Talas"
+  },
+  {
+   "no": 87,
+   "date": "1997-12-11",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "The 1998 budget: what the House passed without reading"
+  },
+  {
+   "no": 87,
+   "date": "1997-12-11",
+   "lead": false,
+   "section": "Politics",
+   "headline": "Budget passes the House"
+  },
+  {
+   "no": 87,
+   "date": "1997-12-11",
+   "lead": false,
+   "section": "Society",
+   "headline": "Advent begins in the parishes"
+  },
+  {
+   "no": 88,
+   "date": "1997-12-18",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "A year of questions: what the Times found in 1997"
+  },
+  {
+   "no": 88,
+   "date": "1997-12-18",
+   "lead": false,
+   "section": "Culture",
+   "headline": "Christmas concerts planned across Talas"
+  },
+  {
+   "no": 88,
+   "date": "1997-12-18",
+   "lead": false,
+   "section": "Money",
+   "headline": "Year-end prices: bread, fuel, rent"
+  },
+  {
+   "no": 89,
+   "date": "1997-12-25",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "Orders, promises and what was done in 1997"
+  },
+  {
+   "no": 89,
+   "date": "1997-12-25",
+   "lead": false,
+   "section": "Society",
+   "headline": "Christmas week in the valleys"
+  },
+  {
+   "no": 89,
+   "date": "1997-12-25",
+   "lead": false,
+   "section": "Sport",
+   "headline": "Winter football camps open"
+  }
+ ]
+}

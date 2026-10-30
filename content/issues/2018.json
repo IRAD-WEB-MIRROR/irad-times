@@ -1,0 +1,1109 @@
+{
+ "outlet": "times",
+ "year": 2018,
+ "model": "claude-sonnet-5-5",
+ "written": "2026-10-30T09:20Z",
+ "items": [
+  {
+   "no": 1119,
+   "date": "2018-01-04",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "Talas heating contracts went to the same three firms for a fourth winter"
+  },
+  {
+   "no": 1119,
+   "date": "2018-01-04",
+   "lead": false,
+   "section": "Money",
+   "headline": "Bread price held at three som, but flour contracts are not public"
+  },
+  {
+   "no": 1119,
+   "date": "2018-01-04",
+   "lead": false,
+   "section": "Society",
+   "headline": "Two hospitals in Nurzhan ran short of insulin over the holiday week"
+  },
+  {
+   "no": 1120,
+   "date": "2018-01-11",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "The school boiler repairs that were paid for and never done"
+  },
+  {
+   "no": 1120,
+   "date": "2018-01-11",
+   "lead": false,
+   "section": "Politics",
+   "headline": "Mejlis committee sets January agenda behind closed doors"
+  },
+  {
+   "no": 1120,
+   "date": "2018-01-11",
+   "lead": false,
+   "section": "Culture",
+   "headline": "Talasfilm Archives opens a reading room for the 1970s reels"
+  },
+  {
+   "no": 1121,
+   "date": "2018-01-18",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "Who owns the new gravel pits on the Chu?"
+  },
+  {
+   "no": 1121,
+   "date": "2018-01-18",
+   "lead": false,
+   "section": "Courts",
+   "headline": "Talas District Court hears the second day of the grain-store dispute"
+  },
+  {
+   "no": 1121,
+   "date": "2018-01-18",
+   "lead": false,
+   "section": "Sport",
+   "headline": "Irad Cup draw leaves Tulpar and Neftchi on the same side"
+  },
+  {
+   "no": 1122,
+   "date": "2018-01-25",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "Nobody has published what the road-use charge on State Route 1 pays for"
+  },
+  {
+   "no": 1122,
+   "date": "2018-01-25",
+   "lead": false,
+   "section": "Society",
+   "headline": "Avalanche warning closes the Fergana Gateway for two nights"
+  },
+  {
+   "no": 1122,
+   "date": "2018-01-25",
+   "lead": false,
+   "section": "Money",
+   "headline": "Walnut growers at Bazar-Korgon sell below last year's price"
+  },
+  {
+   "no": 1123,
+   "date": "2018-02-01",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "Land transfers on the Nurzhan avenues, plot by plot"
+  },
+  {
+   "no": 1123,
+   "date": "2018-02-01",
+   "lead": false,
+   "section": "Politics",
+   "headline": "Speaker's office declines to publish committee attendance"
+  },
+  {
+   "no": 1123,
+   "date": "2018-02-01",
+   "lead": false,
+   "section": "Culture",
+   "headline": "Twenty-six years on, Winter Uprising memorial draws smaller crowds"
+  },
+  {
+   "no": 1124,
+   "date": "2018-02-08",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "A feed contract awarded in nine minutes"
+  },
+  {
+   "no": 1124,
+   "date": "2018-02-08",
+   "lead": false,
+   "section": "Courts",
+   "headline": "Nurzhan court fines a freight forwarder over falsified weigh-bills",
+   "flags": [
+    "law? 'weigh-bills'"
+   ]
+  },
+  {
+   "no": 1124,
+   "date": "2018-02-08",
+   "lead": false,
+   "section": "Society",
+   "headline": "Marshrutka drivers in Talas say two som no longer covers diesel"
+  },
+  {
+   "no": 1125,
+   "date": "2018-02-15",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "The heating mains replaced in 2014 are failing again"
+  },
+  {
+   "no": 1125,
+   "date": "2018-02-15",
+   "lead": false,
+   "section": "Money",
+   "headline": "Kara-Buura farmers wait for water-fee refunds promised in autumn"
+  },
+  {
+   "no": 1125,
+   "date": "2018-02-15",
+   "lead": false,
+   "section": "Sport",
+   "headline": "Ulak league's winter break ends with a Hippodrome fixture dispute"
+  },
+  {
+   "no": 1126,
+   "date": "2018-02-22",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "The census slip asks about herds. Who reads the answers?"
+  },
+  {
+   "no": 1126,
+   "date": "2018-02-22",
+   "lead": false,
+   "section": "Politics",
+   "headline": "Territorial Statistics Office says enumerators will skip tribal land"
+  },
+  {
+   "no": 1126,
+   "date": "2018-02-22",
+   "lead": false,
+   "section": "Culture",
+   "headline": "Besh-Tash museum reopens its Ayyubov room after repairs"
+  },
+  {
+   "no": 1127,
+   "date": "2018-03-01",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "Where the 2018 budget summary stops"
+  },
+  {
+   "no": 1127,
+   "date": "2018-03-01",
+   "lead": false,
+   "section": "Money",
+   "headline": "Nurzhan Polytechnic raises fees for petroleum places"
+  },
+  {
+   "no": 1127,
+   "date": "2018-03-01",
+   "lead": false,
+   "section": "Courts",
+   "headline": "Appeal in the Kara-Suu quarry licence case is adjourned again"
+  },
+  {
+   "no": 1128,
+   "date": "2018-03-08",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "The Irad Day reception guest list, and who paid for the marquee"
+  },
+  {
+   "no": 1128,
+   "date": "2018-03-08",
+   "lead": false,
+   "section": "Society",
+   "headline": "Women's groups mark March 8 with a petition on kidnapped brides"
+  },
+  {
+   "no": 1128,
+   "date": "2018-03-08",
+   "lead": false,
+   "section": "Politics",
+   "headline": "Mejlis debates a pasture-fee amendment nobody has seen"
+  },
+  {
+   "no": 1129,
+   "date": "2018-03-15",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "Irad Day fireworks: the invoice and the supplier"
+  },
+  {
+   "no": 1129,
+   "date": "2018-03-15",
+   "lead": false,
+   "section": "Culture",
+   "headline": "Irad Day parade: Chongtors and Akyels in matched lines"
+  },
+  {
+   "no": 1129,
+   "date": "2018-03-15",
+   "lead": false,
+   "section": "Sport",
+   "headline": "Football season opens with Dastgoh draw at home"
+  },
+  {
+   "no": 1130,
+   "date": "2018-03-22",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "Who is behind the company that rents the Hippodrome stands?"
+  },
+  {
+   "no": 1130,
+   "date": "2018-03-22",
+   "lead": false,
+   "section": "Money",
+   "headline": "Spring planting begins with fertiliser prices up a fifth"
+  },
+  {
+   "no": 1130,
+   "date": "2018-03-22",
+   "lead": false,
+   "section": "Society",
+   "headline": "Snowmelt floods two villages near Kyzyl-Adyr"
+  },
+  {
+   "no": 1131,
+   "date": "2018-03-29",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "The winter fuel allowance reached 14,000 fewer households than promised"
+  },
+  {
+   "no": 1131,
+   "date": "2018-03-29",
+   "lead": false,
+   "section": "Courts",
+   "headline": "Man from Nurzhan, 34, charged over a refinery theft ring"
+  },
+  {
+   "no": 1131,
+   "date": "2018-03-29",
+   "lead": false,
+   "section": "Culture",
+   "headline": "Easter plays: Talas parishes stage the Resurrection at dawn"
+  },
+  {
+   "no": 1132,
+   "date": "2018-04-05",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "The city hall tender that required a Talas address"
+  },
+  {
+   "no": 1132,
+   "date": "2018-04-05",
+   "lead": false,
+   "section": "Politics",
+   "headline": "Councillors ask for the Alikhan Media Center lease to be read aloud"
+  },
+  {
+   "no": 1132,
+   "date": "2018-04-05",
+   "lead": false,
+   "section": "Society",
+   "headline": "Holy Week passes in Iyık Janyl with record pilgrims"
+  },
+  {
+   "no": 1133,
+   "date": "2018-04-12",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "Who paid for the dome"
+  },
+  {
+   "no": 1133,
+   "date": "2018-04-12",
+   "lead": false,
+   "section": "Money",
+   "headline": "Antimony prices rise; Sary-Bulak hires 300"
+  },
+  {
+   "no": 1133,
+   "date": "2018-04-12",
+   "lead": false,
+   "section": "Culture",
+   "headline": "Twenty-two years of the Irad Times: a reader's archive"
+  },
+  {
+   "no": 1134,
+   "date": "2018-04-19",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "A hospital wing opened twice, finished never"
+  },
+  {
+   "no": 1134,
+   "date": "2018-04-19",
+   "lead": false,
+   "section": "Courts",
+   "headline": "Tax case against a Nurzhan bakery chain is dismissed"
+  },
+  {
+   "no": 1134,
+   "date": "2018-04-19",
+   "lead": false,
+   "section": "Sport",
+   "headline": "Tulpar beat Attelkom 3–1 at the Silk Road Arena"
+  },
+  {
+   "no": 1135,
+   "date": "2018-04-26",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "Why the Chatkal road was resurfaced but not widened"
+  },
+  {
+   "no": 1135,
+   "date": "2018-04-26",
+   "lead": false,
+   "section": "Politics",
+   "headline": "Mejlis passes road fund report without debate"
+  },
+  {
+   "no": 1135,
+   "date": "2018-04-26",
+   "lead": false,
+   "section": "Society",
+   "headline": "Teachers in Kara-Buura ask for unpaid winter bonuses"
+  },
+  {
+   "no": 1136,
+   "date": "2018-05-03",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "The pharmacy supply deal that favoured one chain"
+  },
+  {
+   "no": 1136,
+   "date": "2018-05-03",
+   "lead": false,
+   "section": "Money",
+   "headline": "Kymyz season prices set early by herders' cooperatives"
+  },
+  {
+   "no": 1136,
+   "date": "2018-05-03",
+   "lead": false,
+   "section": "Culture",
+   "headline": "Spring exhibition at the Palace of Art shows felt artists"
+  },
+  {
+   "no": 1137,
+   "date": "2018-05-10",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "Land near the Besh-Tash conservation zone changes hands again"
+  },
+  {
+   "no": 1137,
+   "date": "2018-05-10",
+   "lead": false,
+   "section": "Courts",
+   "headline": "Court hears Talas Commercial Development Group's land dispute with a farmer",
+   "flags": [
+    "not in canon: Talas Commercial Development Group's"
+   ]
+  },
+  {
+   "no": 1137,
+   "date": "2018-05-10",
+   "lead": false,
+   "section": "Sport",
+   "headline": "Derby week: ticket queues form at the NurGaz Stadium"
+  },
+  {
+   "no": 1138,
+   "date": "2018-05-17",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "The referee fees nobody audits"
+  },
+  {
+   "no": 1138,
+   "date": "2018-05-17",
+   "lead": false,
+   "section": "Society",
+   "headline": "Heat plant outage leaves a Nurzhan microdistrict cold for three days"
+  },
+  {
+   "no": 1138,
+   "date": "2018-05-17",
+   "lead": false,
+   "section": "Politics",
+   "headline": "Speaker defends closed sessions as \"working practice\""
+  },
+  {
+   "no": 1139,
+   "date": "2018-05-24",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "The Chu Psalter: what the archeparchy has actually asked for"
+  },
+  {
+   "no": 1139,
+   "date": "2018-05-24",
+   "lead": false,
+   "section": "Money",
+   "headline": "Beef packers cut contract prices for feeder cattle"
+  },
+  {
+   "no": 1139,
+   "date": "2018-05-24",
+   "lead": false,
+   "section": "Culture",
+   "headline": "Talas Philharmonic spring festival opens with komuz soloists"
+  },
+  {
+   "no": 1140,
+   "date": "2018-05-31",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "Public money for the Silk Road Arena roof, year by year"
+  },
+  {
+   "no": 1140,
+   "date": "2018-05-31",
+   "lead": false,
+   "section": "Courts",
+   "headline": "Fraud trial of a Talasbank clerk opens"
+  },
+  {
+   "no": 1140,
+   "date": "2018-05-31",
+   "lead": false,
+   "section": "Society",
+   "headline": "Graduation tests: results by school, and the gaps between them"
+  },
+  {
+   "no": 1141,
+   "date": "2018-06-07",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "Hippodrome concession: no tender, no competitor, no explanation"
+  },
+  {
+   "no": 1141,
+   "date": "2018-06-07",
+   "lead": false,
+   "section": "Politics",
+   "headline": "Opposition councillors demand the Jarysh contract text"
+  },
+  {
+   "no": 1141,
+   "date": "2018-06-07",
+   "lead": false,
+   "section": "Sport",
+   "headline": "Ulak summer cup: Karakoyun riders win at Aksay"
+  },
+  {
+   "no": 1142,
+   "date": "2018-06-14",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "The Kulan border zone and what was agreed before the shooting"
+  },
+  {
+   "no": 1142,
+   "date": "2018-06-14",
+   "lead": false,
+   "section": "Society",
+   "headline": "Shepherds avoid western pastures after the clashes"
+  },
+  {
+   "no": 1142,
+   "date": "2018-06-14",
+   "lead": false,
+   "section": "Money",
+   "headline": "Customs terminal at Talas slows grain exports"
+  },
+  {
+   "no": 1143,
+   "date": "2018-06-21",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "Five dead on the Uzbek frontier: what the Gendarmerie log says"
+  },
+  {
+   "no": 1143,
+   "date": "2018-06-21",
+   "lead": false,
+   "section": "Politics",
+   "headline": "Mejlis asks External Relations Office for a briefing on Kulan"
+  },
+  {
+   "no": 1143,
+   "date": "2018-06-21",
+   "lead": false,
+   "section": "Culture",
+   "headline": "Summer film season at Talasfilm opens with restored Sadikov"
+  },
+  {
+   "no": 1144,
+   "date": "2018-06-28",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "Who was paid to clear the Kulan frontier villages?"
+  },
+  {
+   "no": 1144,
+   "date": "2018-06-28",
+   "lead": false,
+   "section": "Courts",
+   "headline": "Man, 29, from Talas, charged after bazaar knife attack"
+  },
+  {
+   "no": 1144,
+   "date": "2018-06-28",
+   "lead": false,
+   "section": "Society",
+   "headline": "Cattle theft up across the Chu belt, police say"
+  },
+  {
+   "no": 1145,
+   "date": "2018-07-05",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "The half-built reservoir in Orto-Ayyl"
+  },
+  {
+   "no": 1145,
+   "date": "2018-07-05",
+   "lead": false,
+   "section": "Money",
+   "headline": "Hay price rises ahead of the summer cut"
+  },
+  {
+   "no": 1145,
+   "date": "2018-07-05",
+   "lead": false,
+   "section": "Sport",
+   "headline": "Kara-Ak derby draw: Neftchi take a point in Talas"
+  },
+  {
+   "no": 1146,
+   "date": "2018-07-12",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "A cement price rise with one seller"
+  },
+  {
+   "no": 1146,
+   "date": "2018-07-12",
+   "lead": false,
+   "section": "Politics",
+   "headline": "Councillor asks who approved the Ak-Kyr dust permit"
+  },
+  {
+   "no": 1146,
+   "date": "2018-07-12",
+   "lead": false,
+   "section": "Culture",
+   "headline": "Sary-Chelek summer concerts return after a year's gap"
+  },
+  {
+   "no": 1147,
+   "date": "2018-07-19",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "The airfield road: costs doubled between the first and last estimate"
+  },
+  {
+   "no": 1147,
+   "date": "2018-07-19",
+   "lead": false,
+   "section": "Society",
+   "headline": "Wildfire on Kara-Buura slopes burns four days"
+  },
+  {
+   "no": 1147,
+   "date": "2018-07-19",
+   "lead": false,
+   "section": "Courts",
+   "headline": "Court orders Nurzhan landlord to refund tenants"
+  },
+  {
+   "no": 1148,
+   "date": "2018-07-26",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "The Karatau quarry lease: who signed, who watched"
+  },
+  {
+   "no": 1148,
+   "date": "2018-07-26",
+   "lead": false,
+   "section": "Money",
+   "headline": "Walnut crop forecast falls after spring frost"
+  },
+  {
+   "no": 1148,
+   "date": "2018-07-26",
+   "lead": false,
+   "section": "Sport",
+   "headline": "Dastgoh sign a striker from Kara-Buura"
+  },
+  {
+   "no": 1149,
+   "date": "2018-08-02",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "The grain elevators, one buyer, and the price at harvest"
+  },
+  {
+   "no": 1149,
+   "date": "2018-08-02",
+   "lead": false,
+   "section": "Politics",
+   "headline": "Mejlis summer recess begins; two bills unread"
+  },
+  {
+   "no": 1149,
+   "date": "2018-08-02",
+   "lead": false,
+   "section": "Society",
+   "headline": "Wheat harvest starts early in the lower Chu"
+  },
+  {
+   "no": 1150,
+   "date": "2018-08-09",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "Antimony tailings at Sary-Bulak: the 2012 survey nobody released"
+  },
+  {
+   "no": 1150,
+   "date": "2018-08-09",
+   "lead": false,
+   "section": "Courts",
+   "headline": "Sentence in the refinery theft case: five years"
+  },
+  {
+   "no": 1150,
+   "date": "2018-08-09",
+   "lead": false,
+   "section": "Culture",
+   "headline": "Eski Ün's teahouse residency ends with a full house"
+  },
+  {
+   "no": 1151,
+   "date": "2018-08-16",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "Hotel on the merchant house site: permits dated after the demolition"
+  },
+  {
+   "no": 1151,
+   "date": "2018-08-16",
+   "lead": false,
+   "section": "Money",
+   "headline": "Cotton picking contracts: wages set at Xinjiang Lihua gins"
+  },
+  {
+   "no": 1151,
+   "date": "2018-08-16",
+   "lead": false,
+   "section": "Society",
+   "headline": "Cathedral Hill road closed for repairs ahead of the feast"
+  },
+  {
+   "no": 1152,
+   "date": "2018-08-23",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "The Feast of St. Janyl and who pays for the city's pilgrims"
+  },
+  {
+   "no": 1152,
+   "date": "2018-08-23",
+   "lead": false,
+   "section": "Culture",
+   "headline": "Feast of St. Janyl draws tens of thousands to Iyık Janyl"
+  },
+  {
+   "no": 1152,
+   "date": "2018-08-23",
+   "lead": false,
+   "section": "Politics",
+   "headline": "Kurultai opens at Aksay with clans' pasture reports"
+  },
+  {
+   "no": 1153,
+   "date": "2018-08-30",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "Where did the school milk money go?"
+  },
+  {
+   "no": 1153,
+   "date": "2018-08-30",
+   "lead": false,
+   "section": "Courts",
+   "headline": "Talas judge reserves ruling in the pasture-fee challenge"
+  },
+  {
+   "no": 1153,
+   "date": "2018-08-30",
+   "lead": false,
+   "section": "Society",
+   "headline": "New school year begins with textbook shortages"
+  },
+  {
+   "no": 1154,
+   "date": "2018-09-06",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "Textbooks ordered in June arrived in September, short"
+  },
+  {
+   "no": 1154,
+   "date": "2018-09-06",
+   "lead": false,
+   "section": "Money",
+   "headline": "Sugar beet harvest begins; Talas combine says capacity short"
+  },
+  {
+   "no": 1154,
+   "date": "2018-09-06",
+   "lead": false,
+   "section": "Sport",
+   "headline": "Tulpar three points clear as summer ends"
+  },
+  {
+   "no": 1155,
+   "date": "2018-09-13",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "Who maintains the Qara-Chik road, and with what money"
+  },
+  {
+   "no": 1155,
+   "date": "2018-09-13",
+   "lead": false,
+   "section": "Politics",
+   "headline": "Mothers of the missing stand at the checkpoint on 12 September"
+  },
+  {
+   "no": 1155,
+   "date": "2018-09-13",
+   "lead": false,
+   "section": "Culture",
+   "headline": "Iradi poetry evening at the Köhne Diz draws a full courtyard"
+  },
+  {
+   "no": 1156,
+   "date": "2018-09-20",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "The census: counted, uncounted, estimated"
+  },
+  {
+   "no": 1156,
+   "date": "2018-09-20",
+   "lead": false,
+   "section": "Money",
+   "headline": "Census delays push back the pension indexation report"
+  },
+  {
+   "no": 1156,
+   "date": "2018-09-20",
+   "lead": false,
+   "section": "Society",
+   "headline": "Autumn ulak season opens at the State Hippodrome"
+  },
+  {
+   "no": 1157,
+   "date": "2018-09-27",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "How many Iradis? The ISEZ figure against the independent one"
+  },
+  {
+   "no": 1157,
+   "date": "2018-09-27",
+   "lead": false,
+   "section": "Courts",
+   "headline": "Hearing on Merke grain store site compensation postponed"
+  },
+  {
+   "no": 1157,
+   "date": "2018-09-27",
+   "lead": false,
+   "section": "Culture",
+   "headline": "Besh-Tash autumn fair: felt, honey and horse gear"
+  },
+  {
+   "no": 1158,
+   "date": "2018-10-04",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "The Toktogul water share: how the clans' cut is calculated"
+  },
+  {
+   "no": 1158,
+   "date": "2018-10-04",
+   "lead": false,
+   "section": "Politics",
+   "headline": "Kökjal elders ask for the revenue annex to be shown"
+  },
+  {
+   "no": 1158,
+   "date": "2018-10-04",
+   "lead": false,
+   "section": "Sport",
+   "headline": "Irad League: Neftchi close the gap to two points"
+  },
+  {
+   "no": 1159,
+   "date": "2018-10-11",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "The Alikhan Media Center and its public land"
+  },
+  {
+   "no": 1159,
+   "date": "2018-10-11",
+   "lead": false,
+   "section": "Money",
+   "headline": "Pension fund payment delays reach three districts"
+  },
+  {
+   "no": 1159,
+   "date": "2018-10-11",
+   "lead": false,
+   "section": "Society",
+   "headline": "Heating season starts with one week of rationed hot water"
+  },
+  {
+   "no": 1160,
+   "date": "2018-10-18",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "The meter readings in the Nurzhan heating contract"
+  },
+  {
+   "no": 1160,
+   "date": "2018-10-18",
+   "lead": false,
+   "section": "Courts",
+   "headline": "Kalkan guard, 41, charged after an armed-escort shooting"
+  },
+  {
+   "no": 1160,
+   "date": "2018-10-18",
+   "lead": false,
+   "section": "Culture",
+   "headline": "Mor-Wave night at the Dastgoh boiler room sells out"
+  },
+  {
+   "no": 1161,
+   "date": "2018-10-25",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "A bridge repaired twice in three years"
+  },
+  {
+   "no": 1161,
+   "date": "2018-10-25",
+   "lead": false,
+   "section": "Politics",
+   "headline": "Mejlis committee to examine road-fund overspend"
+  },
+  {
+   "no": 1161,
+   "date": "2018-10-25",
+   "lead": false,
+   "section": "Sport",
+   "headline": "Kara-Ak derby: Tulpar and Neftchi share the points"
+  },
+  {
+   "no": 1162,
+   "date": "2018-11-01",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "Hospital debts: the unpaid suppliers behind Talas wards"
+  },
+  {
+   "no": 1162,
+   "date": "2018-11-01",
+   "lead": false,
+   "section": "Society",
+   "headline": "All Saints' Day: processions in Iyık Janyl and Talas"
+  },
+  {
+   "no": 1162,
+   "date": "2018-11-01",
+   "lead": false,
+   "section": "Money",
+   "headline": "Gas price for heat plants unchanged; no explanation"
+  },
+  {
+   "no": 1163,
+   "date": "2018-11-08",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "The gate fee at the Kök-Bel pass: a clan levy or a state one?",
+   "flags": [
+    "law? 'pass: a clan levy'"
+   ]
+  },
+  {
+   "no": 1163,
+   "date": "2018-11-08",
+   "lead": false,
+   "section": "Courts",
+   "headline": "Gendarmerie major tried over a fuel diversion"
+  },
+  {
+   "no": 1163,
+   "date": "2018-11-08",
+   "lead": false,
+   "section": "Culture",
+   "headline": "Autumn exhibition of Talas felt artists opens"
+  },
+  {
+   "no": 1164,
+   "date": "2018-11-15",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "One buyer for every Boztorgoy steer: feedlot prices"
+  },
+  {
+   "no": 1164,
+   "date": "2018-11-15",
+   "lead": false,
+   "section": "Money",
+   "headline": "NAI feed price rise passes on to dairy farms"
+  },
+  {
+   "no": 1164,
+   "date": "2018-11-15",
+   "lead": false,
+   "section": "Society",
+   "headline": "Heavy snow in the Chatkal valley cuts four villages"
+  },
+  {
+   "no": 1165,
+   "date": "2018-11-22",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "The Jogorku water tankers: who sells, who pays"
+  },
+  {
+   "no": 1165,
+   "date": "2018-11-22",
+   "lead": false,
+   "section": "Courts",
+   "headline": "Iyık Janyl: man shot dead outside his Tash-Kyya home"
+  },
+  {
+   "no": 1165,
+   "date": "2018-11-22",
+   "lead": false,
+   "section": "Politics",
+   "headline": "Church leaders urge calm after Jogorku killing"
+  },
+  {
+   "no": 1166,
+   "date": "2018-11-29",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "Jogorku after the shooting: what police have said and not said"
+  },
+  {
+   "no": 1166,
+   "date": "2018-11-29",
+   "lead": false,
+   "section": "Society",
+   "headline": "Iyık Janyl crews and their quarrel over the hillside quarters"
+  },
+  {
+   "no": 1166,
+   "date": "2018-11-29",
+   "lead": false,
+   "section": "Sport",
+   "headline": "Irad Cup final set for Talas, kick-off 14:00"
+  },
+  {
+   "no": 1167,
+   "date": "2018-12-06",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "The winter coat drive and its receipts"
+  },
+  {
+   "no": 1167,
+   "date": "2018-12-06",
+   "lead": false,
+   "section": "Money",
+   "headline": "Budget bill for 2019 reaches the Mejlis in summary only"
+  },
+  {
+   "no": 1167,
+   "date": "2018-12-06",
+   "lead": false,
+   "section": "Culture",
+   "headline": "Warm Winter coats handed out in Kyzyl-Adyr"
+  },
+  {
+   "no": 1168,
+   "date": "2018-12-13",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "The 2019 budget summary: what was left out"
+  },
+  {
+   "no": 1168,
+   "date": "2018-12-13",
+   "lead": false,
+   "section": "Politics",
+   "headline": "Mejlis passes the 2019 budget on a single reading"
+  },
+  {
+   "no": 1168,
+   "date": "2018-12-13",
+   "lead": false,
+   "section": "Courts",
+   "headline": "Talas tenants win a heating-bill appeal"
+  },
+  {
+   "no": 1169,
+   "date": "2018-12-20",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "Antimony works: ownership paths, one by one"
+  },
+  {
+   "no": 1169,
+   "date": "2018-12-20",
+   "lead": false,
+   "section": "Culture",
+   "headline": "Altyn-Zhylky prizes: nominees in music and film"
+  },
+  {
+   "no": 1169,
+   "date": "2018-12-20",
+   "lead": false,
+   "section": "Society",
+   "headline": "Cold week: Nurzhan trolleybuses run late"
+  },
+  {
+   "no": 1170,
+   "date": "2018-12-27",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "The year in tenders: who won what, and by how much"
+  },
+  {
+   "no": 1170,
+   "date": "2018-12-27",
+   "lead": false,
+   "section": "Money",
+   "headline": "Bank of Irad holds 8.40; bazaar rate stays close"
+  },
+  {
+   "no": 1170,
+   "date": "2018-12-27",
+   "lead": false,
+   "section": "Culture",
+   "headline": "New Year charity ball booked at the International Diplomatic Hotel"
+  }
+ ]
+}

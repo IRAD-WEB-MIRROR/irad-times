@@ -142,3 +142,16 @@ ol.pop li::before { content: counter(n) "."; color: #7a1f1f; font-size: 10px; }
   .story figure.lead, .portrait { float: none; width: auto; margin: 4px 0 8px; }
   .list li, .mod-story p { font-size: 13px; }
 }
+
+/* back numbers (issue/<year>.html) and the front page's ten-years box */
+.year-nav { font-size: 11px; line-height: 1.9; margin: 6px 0 12px; }
+.year-nav a { display: inline-block; padding: 0 4px; border: 1px solid #ddd3bd; margin: 0 2px 2px 0; text-decoration: none; }
+.year-nav a.on { background: #1f3a68; color: #fff; border-color: #1f3a68; }
+.bn { margin: 0 0 14px; }
+.bn h3 { font-size: 13px; margin: 0 0 3px; padding-top: 6px; border-top: 2px solid #1c1b19; }
+.bn .issue-list li:first-child { font-weight: bold; font-size: 13px; }
+.bn.special h3 { color: #7a1f1f; }
+.bn-gap { font-size: 11px; font-style: italic; color: #8a8270; margin: 0 0 14px; }
+.tenyears .ty-issue { font-size: 11px; margin: 2px 0 4px; }
+.tenyears ol { padding-left: 16px; }
+.tenyears li { font-size: 11px; margin: 2px 0; }

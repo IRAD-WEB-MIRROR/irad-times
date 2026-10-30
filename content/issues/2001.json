@@ -1,0 +1,1079 @@
+{
+ "outlet": "times",
+ "year": 2001,
+ "model": "claude-sonnet-5-5",
+ "written": "2026-10-30T09:17Z",
+ "items": [
+  {
+   "no": 244,
+   "date": "2001-01-11",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "Fuel depot ownership: the register still says the same names"
+  },
+  {
+   "no": 244,
+   "date": "2001-01-11",
+   "lead": false,
+   "section": "Politics",
+   "headline": "Legislature opens its 2001 session"
+  },
+  {
+   "no": 244,
+   "date": "2001-01-11",
+   "lead": false,
+   "section": "Society",
+   "headline": "New Year cold snap tests Talas heating"
+  },
+  {
+   "no": 245,
+   "date": "2001-01-18",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "The Attelkom auction one year on: who still holds the shares"
+  },
+  {
+   "no": 245,
+   "date": "2001-01-18",
+   "lead": false,
+   "section": "Money",
+   "headline": "Mutton and flour prices start the year high"
+  },
+  {
+   "no": 245,
+   "date": "2001-01-18",
+   "lead": false,
+   "section": "Culture",
+   "headline": "Ayyubov exhibition travels to Talas from Besh-Tash"
+  },
+  {
+   "no": 246,
+   "date": "2001-01-25",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "Tender rules rewritten days before a road bid"
+  },
+  {
+   "no": 246,
+   "date": "2001-01-25",
+   "lead": false,
+   "section": "Courts",
+   "headline": "Talas court hears a feedlot water dispute"
+  },
+  {
+   "no": 246,
+   "date": "2001-01-25",
+   "lead": false,
+   "section": "Sport",
+   "headline": "Winter ulak friendlies draw Talas crowds"
+  },
+  {
+   "no": 247,
+   "date": "2001-02-01",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "The Feeder's metering station: whose figures does the territory use?"
+  },
+  {
+   "no": 247,
+   "date": "2001-02-01",
+   "lead": false,
+   "section": "Politics",
+   "headline": "Legislature presses the Department of Natural Resources"
+  },
+  {
+   "no": 247,
+   "date": "2001-02-01",
+   "lead": false,
+   "section": "Society",
+   "headline": "Winter Uprising memorial held on 3 February"
+  },
+  {
+   "no": 248,
+   "date": "2001-02-08",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "Rural clinic grants: the second-year accounts"
+  },
+  {
+   "no": 248,
+   "date": "2001-02-08",
+   "lead": false,
+   "section": "Money",
+   "headline": "Hay shortage pushes up livestock sales"
+  },
+  {
+   "no": 248,
+   "date": "2001-02-08",
+   "lead": false,
+   "section": "Culture",
+   "headline": "Film society revives a Sadikov season"
+  },
+  {
+   "no": 249,
+   "date": "2001-02-15",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "Heating subsidies paid to a boiler house that does not exist"
+  },
+  {
+   "no": 249,
+   "date": "2001-02-15",
+   "lead": false,
+   "section": "Courts",
+   "headline": "Nurzhan court hears a landlord's appeal"
+  },
+  {
+   "no": 249,
+   "date": "2001-02-15",
+   "lead": false,
+   "section": "Society",
+   "headline": "March of the Thousand Saddles remembered"
+  },
+  {
+   "no": 250,
+   "date": "2001-02-22",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "Why the land registry lost four files"
+  },
+  {
+   "no": 250,
+   "date": "2001-02-22",
+   "lead": false,
+   "section": "Politics",
+   "headline": "Irad Day budget debated in the legislature"
+  },
+  {
+   "no": 250,
+   "date": "2001-02-22",
+   "lead": false,
+   "section": "Sport",
+   "headline": "League season draw announced"
+  },
+  {
+   "no": 251,
+   "date": "2001-03-01",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "Irad Day concert contracts under review"
+  },
+  {
+   "no": 251,
+   "date": "2001-03-01",
+   "lead": false,
+   "section": "Society",
+   "headline": "Preparations for Irad Day in Talas and Nurzhan"
+  },
+  {
+   "no": 251,
+   "date": "2001-03-01",
+   "lead": false,
+   "section": "Money",
+   "headline": "Spring loans for farms: who was approved"
+  },
+  {
+   "no": 252,
+   "date": "2001-03-08",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "Irad Day: the numbers behind the parade"
+  },
+  {
+   "no": 252,
+   "date": "2001-03-08",
+   "lead": false,
+   "section": "Politics",
+   "headline": "Governor's Irad Day address stresses roads and schools"
+  },
+  {
+   "no": 252,
+   "date": "2001-03-08",
+   "lead": false,
+   "section": "Culture",
+   "headline": "Philharmonic gala marks the ninth Irad Day"
+  },
+  {
+   "no": 253,
+   "date": "2001-03-15",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "Spring floods: warnings that did not reach the villages"
+  },
+  {
+   "no": 253,
+   "date": "2001-03-15",
+   "lead": false,
+   "section": "Courts",
+   "headline": "Court fines a Kara-Buura contractor"
+  },
+  {
+   "no": 253,
+   "date": "2001-03-15",
+   "lead": false,
+   "section": "Society",
+   "headline": "Snowmelt raises the Talas river"
+  },
+  {
+   "no": 254,
+   "date": "2001-03-22",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "Sary-Bulak concentrate exports: the paperwork trail"
+  },
+  {
+   "no": 254,
+   "date": "2001-03-22",
+   "lead": false,
+   "section": "Money",
+   "headline": "Antimony price steady, orders firm"
+  },
+  {
+   "no": 254,
+   "date": "2001-03-22",
+   "lead": false,
+   "section": "Sport",
+   "headline": "First Irad League round of 2001"
+  },
+  {
+   "no": 255,
+   "date": "2001-03-29",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "A school canteen contract and a relative"
+  },
+  {
+   "no": 255,
+   "date": "2001-03-29",
+   "lead": false,
+   "section": "Politics",
+   "headline": "Legislature debates a university funding rise"
+  },
+  {
+   "no": 255,
+   "date": "2001-03-29",
+   "lead": false,
+   "section": "Culture",
+   "headline": "Lent begins in Iyık Janyl"
+  },
+  {
+   "no": 256,
+   "date": "2001-04-05",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "Easter food prices: the flour chain examined"
+  },
+  {
+   "no": 256,
+   "date": "2001-04-05",
+   "lead": false,
+   "section": "Society",
+   "headline": "Holy Week services across the territory"
+  },
+  {
+   "no": 256,
+   "date": "2001-04-05",
+   "lead": false,
+   "section": "Courts",
+   "headline": "Talas court hears a bakery tax case"
+  },
+  {
+   "no": 257,
+   "date": "2001-04-12",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "The Chu irrigation fund, a year after the audit"
+  },
+  {
+   "no": 257,
+   "date": "2001-04-12",
+   "lead": false,
+   "section": "Money",
+   "headline": "Talasbank cuts fees on dollar transfers"
+  },
+  {
+   "no": 257,
+   "date": "2001-04-12",
+   "lead": false,
+   "section": "Sport",
+   "headline": "Neftchi lead after three rounds"
+  },
+  {
+   "no": 258,
+   "date": "2001-04-19",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "Road repairs billed, potholes still open"
+  },
+  {
+   "no": 258,
+   "date": "2001-04-19",
+   "lead": false,
+   "section": "Politics",
+   "headline": "Legislature questions Highway Patrol budget"
+  },
+  {
+   "no": 258,
+   "date": "2001-04-19",
+   "lead": false,
+   "section": "Culture",
+   "headline": "Spring show opens at the Talas art college"
+  },
+  {
+   "no": 259,
+   "date": "2001-04-26",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "Territorial hiring: who got the civil service posts"
+  },
+  {
+   "no": 259,
+   "date": "2001-04-26",
+   "lead": false,
+   "section": "Society",
+   "headline": "Lambing season ends with losses in the hills"
+  },
+  {
+   "no": 259,
+   "date": "2001-04-26",
+   "lead": false,
+   "section": "Courts",
+   "headline": "Nurzhan court hears a pipe-theft appeal"
+  },
+  {
+   "no": 260,
+   "date": "2001-05-03",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "The cold-storage lease: still no public tender"
+  },
+  {
+   "no": 260,
+   "date": "2001-05-03",
+   "lead": false,
+   "section": "Money",
+   "headline": "Wool prices recover at the Talas bazaar"
+  },
+  {
+   "no": 260,
+   "date": "2001-05-03",
+   "lead": false,
+   "section": "Sport",
+   "headline": "Tulpar and Neftchi trade wins"
+  },
+  {
+   "no": 261,
+   "date": "2001-05-10",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "Hospital laundry contract: the subcontract chain"
+  },
+  {
+   "no": 261,
+   "date": "2001-05-10",
+   "lead": false,
+   "section": "Society",
+   "headline": "Victory Day: Nurzhan parades again"
+  },
+  {
+   "no": 261,
+   "date": "2001-05-10",
+   "lead": false,
+   "section": "Politics",
+   "headline": "Legislature approves a summer road programme"
+  },
+  {
+   "no": 262,
+   "date": "2001-05-17",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "Drinking water tests in the outer districts"
+  },
+  {
+   "no": 262,
+   "date": "2001-05-17",
+   "lead": false,
+   "section": "Culture",
+   "headline": "Conservatory graduates give a farewell concert"
+  },
+  {
+   "no": 262,
+   "date": "2001-05-17",
+   "lead": false,
+   "section": "Courts",
+   "headline": "Court hears a dispute over Aulie-Ata plots"
+  },
+  {
+   "no": 263,
+   "date": "2001-05-24",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "Siege dead: the unfinished memorial in Talas"
+  },
+  {
+   "no": 263,
+   "date": "2001-05-24",
+   "lead": false,
+   "section": "Society",
+   "headline": "Siege anniversary remembered on the Hippodrome"
+  },
+  {
+   "no": 263,
+   "date": "2001-05-24",
+   "lead": false,
+   "section": "Money",
+   "headline": "Beef exports ease after strong spring"
+  },
+  {
+   "no": 264,
+   "date": "2001-05-31",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "The feedlot water ruling and who it protects"
+  },
+  {
+   "no": 264,
+   "date": "2001-05-31",
+   "lead": false,
+   "section": "Sport",
+   "headline": "Mid-season table: Neftchi two clear"
+  },
+  {
+   "no": 264,
+   "date": "2001-05-31",
+   "lead": false,
+   "section": "Culture",
+   "headline": "Summer concerts announced"
+  },
+  {
+   "no": 265,
+   "date": "2001-06-07",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "Summer pasture permits sold twice"
+  },
+  {
+   "no": 265,
+   "date": "2001-06-07",
+   "lead": false,
+   "section": "Politics",
+   "headline": "Governor opens a rural school"
+  },
+  {
+   "no": 265,
+   "date": "2001-06-07",
+   "lead": false,
+   "section": "Courts",
+   "headline": "Talas court dismisses a fuel tax claim"
+  },
+  {
+   "no": 266,
+   "date": "2001-06-14",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "A Nurzhan heat-plant repair that cost the concession nothing"
+  },
+  {
+   "no": 266,
+   "date": "2001-06-14",
+   "lead": false,
+   "section": "Money",
+   "headline": "Remittance offices report spring growth"
+  },
+  {
+   "no": 266,
+   "date": "2001-06-14",
+   "lead": false,
+   "section": "Society",
+   "headline": "Graduation season at Talas State University"
+  },
+  {
+   "no": 267,
+   "date": "2001-06-21",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "The Talas ring road: who drew the route"
+  },
+  {
+   "no": 267,
+   "date": "2001-06-21",
+   "lead": false,
+   "section": "Culture",
+   "headline": "Film evening honours Zarina"
+  },
+  {
+   "no": 267,
+   "date": "2001-06-21",
+   "lead": false,
+   "section": "Sport",
+   "headline": "Cup draw: Tulpar face Attelkom"
+  },
+  {
+   "no": 268,
+   "date": "2001-06-28",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "Territorial grants to church charities: the register"
+  },
+  {
+   "no": 268,
+   "date": "2001-06-28",
+   "lead": false,
+   "section": "Politics",
+   "headline": "Legislature recesses for the summer"
+  },
+  {
+   "no": 268,
+   "date": "2001-06-28",
+   "lead": false,
+   "section": "Courts",
+   "headline": "Court hears a Kara-Buura land case"
+  },
+  {
+   "no": 269,
+   "date": "2001-07-05",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "Why the base housing tender was split in three"
+  },
+  {
+   "no": 269,
+   "date": "2001-07-05",
+   "lead": false,
+   "section": "Society",
+   "headline": "Heat wave strains Talas water"
+  },
+  {
+   "no": 269,
+   "date": "2001-07-05",
+   "lead": false,
+   "section": "Money",
+   "headline": "Apricot prices fall on a big harvest"
+  },
+  {
+   "no": 270,
+   "date": "2001-07-12",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "The audit nobody released: territorial vehicles"
+  },
+  {
+   "no": 270,
+   "date": "2001-07-12",
+   "lead": false,
+   "section": "Sport",
+   "headline": "Kobozev railhead memorial run held"
+  },
+  {
+   "no": 270,
+   "date": "2001-07-12",
+   "lead": false,
+   "section": "Culture",
+   "headline": "Wedding season fills Nurzhan halls"
+  },
+  {
+   "no": 271,
+   "date": "2001-07-19",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "Talas river shares: the readings compared"
+  },
+  {
+   "no": 271,
+   "date": "2001-07-19",
+   "lead": false,
+   "section": "Courts",
+   "headline": "Court fines a Talas distributor"
+  },
+  {
+   "no": 271,
+   "date": "2001-07-19",
+   "lead": false,
+   "section": "Politics",
+   "headline": "Opposition legislators demand a refinery report"
+  },
+  {
+   "no": 272,
+   "date": "2001-07-26",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "Textbook printing contract awarded in advance"
+  },
+  {
+   "no": 272,
+   "date": "2001-07-26",
+   "lead": false,
+   "section": "Society",
+   "headline": "Feast preparations in Iyık Janyl"
+  },
+  {
+   "no": 272,
+   "date": "2001-07-26",
+   "lead": false,
+   "section": "Money",
+   "headline": "Wheat harvest begins in Chu"
+  },
+  {
+   "no": 273,
+   "date": "2001-08-02",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "The Feast of St. Janyl and its billing"
+  },
+  {
+   "no": 273,
+   "date": "2001-08-02",
+   "lead": false,
+   "section": "Culture",
+   "headline": "Pilgrims fill the cathedral precinct"
+  },
+  {
+   "no": 273,
+   "date": "2001-08-02",
+   "lead": false,
+   "section": "Sport",
+   "headline": "Tulpar win the cup semi-final"
+  },
+  {
+   "no": 274,
+   "date": "2001-08-09",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "A hospital wing opened, unequipped"
+  },
+  {
+   "no": 274,
+   "date": "2001-08-09",
+   "lead": false,
+   "section": "Politics",
+   "headline": "Governor reviews the autumn programme"
+  },
+  {
+   "no": 274,
+   "date": "2001-08-09",
+   "lead": false,
+   "section": "Courts",
+   "headline": "Nurzhan court hears a contractor's wage case"
+  },
+  {
+   "no": 275,
+   "date": "2001-08-16",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "Urkun memorial funds: the accounts"
+  },
+  {
+   "no": 275,
+   "date": "2001-08-16",
+   "lead": false,
+   "section": "Society",
+   "headline": "Urkun remembered, flags at half-mast"
+  },
+  {
+   "no": 275,
+   "date": "2001-08-16",
+   "lead": false,
+   "section": "Money",
+   "headline": "Hay prices ease after the harvest"
+  },
+  {
+   "no": 276,
+   "date": "2001-08-23",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "School repairs: the invoices and the classrooms"
+  },
+  {
+   "no": 276,
+   "date": "2001-08-23",
+   "lead": false,
+   "section": "Culture",
+   "headline": "Feast-day concert at the Palace of Art"
+  },
+  {
+   "no": 276,
+   "date": "2001-08-23",
+   "lead": false,
+   "section": "Sport",
+   "headline": "League mid-table scramble"
+  },
+  {
+   "no": 277,
+   "date": "2001-08-30",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "Harvest students sent to the fields again"
+  },
+  {
+   "no": 277,
+   "date": "2001-08-30",
+   "lead": false,
+   "section": "Politics",
+   "headline": "Legislature returns in September"
+  },
+  {
+   "no": 277,
+   "date": "2001-08-30",
+   "lead": false,
+   "section": "Society",
+   "headline": "Last week of summer holidays"
+  },
+  {
+   "no": 278,
+   "date": "2001-09-06",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "The school year opens with desks missing"
+  },
+  {
+   "no": 278,
+   "date": "2001-09-06",
+   "lead": false,
+   "section": "Society",
+   "headline": "First of September in Talas and Nurzhan"
+  },
+  {
+   "no": 278,
+   "date": "2001-09-06",
+   "lead": false,
+   "section": "Courts",
+   "headline": "Court hears a desk supplier dispute"
+  },
+  {
+   "no": 279,
+   "date": "2001-09-13",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "Base contracts in September: the local hiring ledger"
+  },
+  {
+   "no": 279,
+   "date": "2001-09-13",
+   "lead": false,
+   "section": "Money",
+   "headline": "Talasbank reports strong deposits"
+  },
+  {
+   "no": 279,
+   "date": "2001-09-13",
+   "lead": false,
+   "section": "Culture",
+   "headline": "Philharmonic opens its autumn season"
+  },
+  {
+   "no": 280,
+   "date": "2001-09-20",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "The territorial response to the news from abroad: what was done at the base"
+  },
+  {
+   "no": 280,
+   "date": "2001-09-20",
+   "lead": false,
+   "section": "Politics",
+   "headline": "Legislature holds an emergency session on security"
+  },
+  {
+   "no": 280,
+   "date": "2001-09-20",
+   "lead": false,
+   "section": "Society",
+   "headline": "Talas Air Base tightens its gates"
+  },
+  {
+   "no": 281,
+   "date": "2001-09-27",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "Registration rules for nationals abroad: the new forms"
+  },
+  {
+   "no": 281,
+   "date": "2001-09-27",
+   "lead": false,
+   "section": "Money",
+   "headline": "Travel bookings fall at Talas offices"
+  },
+  {
+   "no": 281,
+   "date": "2001-09-27",
+   "lead": false,
+   "section": "Courts",
+   "headline": "Court hears a visa-agent fraud case"
+  },
+  {
+   "no": 282,
+   "date": "2001-10-04",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "The special registration rules and who is asking for what"
+  },
+  {
+   "no": 282,
+   "date": "2001-10-04",
+   "lead": false,
+   "section": "Politics",
+   "headline": "Legislature debates the cost of base security"
+  },
+  {
+   "no": 282,
+   "date": "2001-10-04",
+   "lead": false,
+   "section": "Sport",
+   "headline": "Ulak autumn season opens"
+  },
+  {
+   "no": 283,
+   "date": "2001-10-11",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "Autumn livestock sales: the buyers' list"
+  },
+  {
+   "no": 283,
+   "date": "2001-10-11",
+   "lead": false,
+   "section": "Society",
+   "headline": "Cotton picking begins"
+  },
+  {
+   "no": 283,
+   "date": "2001-10-11",
+   "lead": false,
+   "section": "Culture",
+   "headline": "Autumn art show opens in Iyık Janyl"
+  },
+  {
+   "no": 284,
+   "date": "2001-10-18",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "Heating season: boilers still not ready"
+  },
+  {
+   "no": 284,
+   "date": "2001-10-18",
+   "lead": false,
+   "section": "Money",
+   "headline": "Walnut crop strong in Chatkal"
+  },
+  {
+   "no": 284,
+   "date": "2001-10-18",
+   "lead": false,
+   "section": "Courts",
+   "headline": "Nurzhan court hears a landlord case"
+  },
+  {
+   "no": 285,
+   "date": "2001-10-25",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "The audit office's report on vehicles, finally filed"
+  },
+  {
+   "no": 285,
+   "date": "2001-10-25",
+   "lead": false,
+   "section": "Politics",
+   "headline": "Governor defends the 2002 budget draft"
+  },
+  {
+   "no": 285,
+   "date": "2001-10-25",
+   "lead": false,
+   "section": "Sport",
+   "headline": "Neftchi and Tulpar level in the title race"
+  },
+  {
+   "no": 286,
+   "date": "2001-11-01",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "A winter fuel stock paid for, not delivered"
+  },
+  {
+   "no": 286,
+   "date": "2001-11-01",
+   "lead": false,
+   "section": "Society",
+   "headline": "First snow in the Talas Alatau"
+  },
+  {
+   "no": 286,
+   "date": "2001-11-01",
+   "lead": false,
+   "section": "Culture",
+   "headline": "Writers' evening remembers the purged editors"
+  },
+  {
+   "no": 287,
+   "date": "2001-11-08",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "The pension fund and the Talas hotel again"
+  },
+  {
+   "no": 287,
+   "date": "2001-11-08",
+   "lead": false,
+   "section": "Courts",
+   "headline": "Court sentences two market fraudsters"
+  },
+  {
+   "no": 287,
+   "date": "2001-11-08",
+   "lead": false,
+   "section": "Money",
+   "headline": "Remittances rise before the holidays"
+  },
+  {
+   "no": 288,
+   "date": "2001-11-15",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "Hospital supplies: what the invoices show"
+  },
+  {
+   "no": 288,
+   "date": "2001-11-15",
+   "lead": false,
+   "section": "Politics",
+   "headline": "Budget debate opens in the legislature"
+  },
+  {
+   "no": 288,
+   "date": "2001-11-15",
+   "lead": false,
+   "section": "Sport",
+   "headline": "Title race goes to the last rounds"
+  },
+  {
+   "no": 289,
+   "date": "2001-11-22",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "The election commission budget, one year on"
+  },
+  {
+   "no": 289,
+   "date": "2001-11-22",
+   "lead": false,
+   "section": "Society",
+   "headline": "Cold week brings outages"
+  },
+  {
+   "no": 289,
+   "date": "2001-11-22",
+   "lead": false,
+   "section": "Culture",
+   "headline": "Autumn requiem concert in Talas"
+  },
+  {
+   "no": 290,
+   "date": "2001-11-29",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "A school roof tender, third attempt"
+  },
+  {
+   "no": 290,
+   "date": "2001-11-29",
+   "lead": false,
+   "section": "Politics",
+   "headline": "Legislature passes the 2002 budget"
+  },
+  {
+   "no": 290,
+   "date": "2001-11-29",
+   "lead": false,
+   "section": "Money",
+   "headline": "Bread price rises at the Talas combine"
+  },
+  {
+   "no": 291,
+   "date": "2001-12-06",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "Christmas fair stalls and who gets them"
+  },
+  {
+   "no": 291,
+   "date": "2001-12-06",
+   "lead": false,
+   "section": "Sport",
+   "headline": "League title decided"
+  },
+  {
+   "no": 291,
+   "date": "2001-12-06",
+   "lead": false,
+   "section": "Courts",
+   "headline": "Court hears Hippodrome concession dispute"
+  },
+  {
+   "no": 292,
+   "date": "2001-12-13",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "The year's base contracts: totals and gaps"
+  },
+  {
+   "no": 292,
+   "date": "2001-12-13",
+   "lead": false,
+   "section": "Society",
+   "headline": "Altyn-Zhylky awards announced"
+  },
+  {
+   "no": 292,
+   "date": "2001-12-13",
+   "lead": false,
+   "section": "Culture",
+   "headline": "Christmas concerts announced"
+  },
+  {
+   "no": 293,
+   "date": "2001-12-20",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "A year of promises: what was built in 2001"
+  },
+  {
+   "no": 293,
+   "date": "2001-12-20",
+   "lead": false,
+   "section": "Society",
+   "headline": "Toy drives for children's homes"
+  },
+  {
+   "no": 293,
+   "date": "2001-12-20",
+   "lead": false,
+   "section": "Culture",
+   "headline": "Christmas liturgies in Talas"
+  },
+  {
+   "no": 294,
+   "date": "2001-12-27",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "The year's contracts: what we found and what we could not"
+  },
+  {
+   "no": 294,
+   "date": "2001-12-27",
+   "lead": false,
+   "section": "Politics",
+   "headline": "Governor's year-end message"
+  },
+  {
+   "no": 294,
+   "date": "2001-12-27",
+   "lead": false,
+   "section": "The Times says",
+   "headline": "Publish the tenders and the roads will follow"
+  }
+ ]
+}

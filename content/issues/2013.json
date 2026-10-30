@@ -1,0 +1,911 @@
+{
+ "outlet": "times",
+ "year": 2013,
+ "model": "claude-sonnet-5-5",
+ "written": "2026-10-30T09:19Z",
+ "items": [
+  {
+   "no": 867,
+   "date": "2013-01-03",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "Kara-Bulak elevator accounts for 2012"
+  },
+  {
+   "no": 867,
+   "date": "2013-01-03",
+   "lead": false,
+   "section": "Society",
+   "headline": "New year brings higher bus fares in Nurzhan"
+  },
+  {
+   "no": 867,
+   "date": "2013-01-03",
+   "lead": false,
+   "section": "Money",
+   "headline": "Som bazaar rate steady in January"
+  },
+  {
+   "no": 868,
+   "date": "2013-01-10",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "The tender for Talas street lighting"
+  },
+  {
+   "no": 868,
+   "date": "2013-01-10",
+   "lead": false,
+   "section": "Politics",
+   "headline": "Mejlis returns to the term-limit proposal"
+  },
+  {
+   "no": 868,
+   "date": "2013-01-10",
+   "lead": false,
+   "section": "Sport",
+   "headline": "Winter ulak cup fixtures published"
+  },
+  {
+   "no": 869,
+   "date": "2013-01-17",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "Who pays for Gendarmerie fuel at the line"
+  },
+  {
+   "no": 869,
+   "date": "2013-01-17",
+   "lead": false,
+   "section": "Courts",
+   "headline": "Court hears complaint against a market levy"
+  },
+  {
+   "no": 869,
+   "date": "2013-01-17",
+   "lead": false,
+   "section": "Society",
+   "headline": "Cold week strains Nurzhan heating"
+  },
+  {
+   "no": 870,
+   "date": "2013-01-24",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "The term-limit amendment: who drafted it"
+  },
+  {
+   "no": 870,
+   "date": "2013-01-24",
+   "lead": false,
+   "section": "Politics",
+   "headline": "Opposition deputies oppose repeal of the term limit"
+  },
+  {
+   "no": 870,
+   "date": "2013-01-24",
+   "lead": false,
+   "section": "Culture",
+   "headline": "Winter film season opens in Talas"
+  },
+  {
+   "no": 871,
+   "date": "2013-01-31",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "A clinic built in Kara-Buura, never opened"
+  },
+  {
+   "no": 871,
+   "date": "2013-01-31",
+   "lead": false,
+   "section": "Money",
+   "headline": "Talasbank reports a rise in deposits"
+  },
+  {
+   "no": 871,
+   "date": "2013-01-31",
+   "lead": false,
+   "section": "Society",
+   "headline": "Snow blocks the Chatkal road"
+  },
+  {
+   "no": 872,
+   "date": "2013-02-07",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "Heating mains failures traced to a 2009 repair"
+  },
+  {
+   "no": 872,
+   "date": "2013-02-07",
+   "lead": false,
+   "section": "Politics",
+   "headline": "Nurzhan council votes on new mains"
+  },
+  {
+   "no": 872,
+   "date": "2013-02-07",
+   "lead": false,
+   "section": "Sport",
+   "headline": "Tulpar sign a new striker"
+  },
+  {
+   "no": 873,
+   "date": "2013-02-14",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "Fees charged at the Public Reception that the directive does not list"
+  },
+  {
+   "no": 873,
+   "date": "2013-02-14",
+   "lead": false,
+   "section": "Courts",
+   "headline": "Court fines a Talas contractor over safety breaches"
+  },
+  {
+   "no": 873,
+   "date": "2013-02-14",
+   "lead": false,
+   "section": "Culture",
+   "headline": "Poetry evening draws a full house at Arsha Books"
+  },
+  {
+   "no": 874,
+   "date": "2013-02-21",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "Feasts and fees: how the Governor's office counted its guests"
+  },
+  {
+   "no": 874,
+   "date": "2013-02-21",
+   "lead": false,
+   "section": "Society",
+   "headline": "Dress Day photographs fill Talas streets"
+  },
+  {
+   "no": 874,
+   "date": "2013-02-21",
+   "lead": false,
+   "section": "Money",
+   "headline": "Wool traders hold prices ahead of spring"
+  },
+  {
+   "no": 875,
+   "date": "2013-02-28",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "The amendment vote and the committee that never met"
+  },
+  {
+   "no": 875,
+   "date": "2013-02-28",
+   "lead": false,
+   "section": "Politics",
+   "headline": "Term-limit bill reaches the Mejlis floor"
+  },
+  {
+   "no": 875,
+   "date": "2013-02-28",
+   "lead": false,
+   "section": "Society",
+   "headline": "Spring floods expected, Hydromet warns"
+  },
+  {
+   "no": 876,
+   "date": "2013-03-07",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "A term without end"
+  },
+  {
+   "no": 876,
+   "date": "2013-03-07",
+   "lead": false,
+   "section": "Politics",
+   "headline": "Mejlis votes to remove the two-term limit"
+  },
+  {
+   "no": 876,
+   "date": "2013-03-07",
+   "lead": false,
+   "section": "Culture",
+   "headline": "Irad Day concerts planned across Talas"
+  },
+  {
+   "no": 877,
+   "date": "2013-05-16",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "The Times was suspended; the reasons were not"
+  },
+  {
+   "no": 877,
+   "date": "2013-05-16",
+   "lead": false,
+   "section": "The Times says",
+   "headline": "We are back"
+  },
+  {
+   "no": 877,
+   "date": "2013-05-16",
+   "lead": false,
+   "section": "Politics",
+   "headline": "Registration returns after the licensing review"
+  },
+  {
+   "no": 878,
+   "date": "2013-05-23",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "What the licensing letter actually said"
+  },
+  {
+   "no": 878,
+   "date": "2013-05-23",
+   "lead": false,
+   "section": "Society",
+   "headline": "Spring migration begins on the Aksay road"
+  },
+  {
+   "no": 878,
+   "date": "2013-05-23",
+   "lead": false,
+   "section": "Sport",
+   "headline": "Neftchi and Tulpar prepare for the spring run"
+  },
+  {
+   "no": 879,
+   "date": "2013-05-30",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "Sowing subsidies: who received them in 2012"
+  },
+  {
+   "no": 879,
+   "date": "2013-05-30",
+   "lead": false,
+   "section": "Money",
+   "headline": "Hay prices ease with the new grass"
+  },
+  {
+   "no": 879,
+   "date": "2013-05-30",
+   "lead": false,
+   "section": "Courts",
+   "headline": "Court hears a Talas land lease claim"
+  },
+  {
+   "no": 880,
+   "date": "2013-06-06",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "The flood fund that still has no building"
+  },
+  {
+   "no": 880,
+   "date": "2013-06-06",
+   "lead": false,
+   "section": "Society",
+   "headline": "Last bell rings in Talas schools"
+  },
+  {
+   "no": 880,
+   "date": "2013-06-06",
+   "lead": false,
+   "section": "Culture",
+   "headline": "Graduation concerts at the conservatory"
+  },
+  {
+   "no": 881,
+   "date": "2013-06-13",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "Road works on the Kök-Bel highway: sums and gravel"
+  },
+  {
+   "no": 881,
+   "date": "2013-06-13",
+   "lead": false,
+   "section": "Politics",
+   "headline": "Mejlis summer session opens"
+  },
+  {
+   "no": 881,
+   "date": "2013-06-13",
+   "lead": false,
+   "section": "Money",
+   "headline": "Beef prices steady at Nurzhan bazaars"
+  },
+  {
+   "no": 882,
+   "date": "2013-06-20",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "The pension supplement for veterans: who qualifies"
+  },
+  {
+   "no": 882,
+   "date": "2013-06-20",
+   "lead": false,
+   "section": "Sport",
+   "headline": "Tulpar lead at the halfway mark"
+  },
+  {
+   "no": 882,
+   "date": "2013-06-20",
+   "lead": false,
+   "section": "Society",
+   "headline": "Heat brings water limits in Talas"
+  },
+  {
+   "no": 883,
+   "date": "2013-06-27",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "A school built twice on one budget line"
+  },
+  {
+   "no": 883,
+   "date": "2013-06-27",
+   "lead": false,
+   "section": "Courts",
+   "headline": "Nurzhan court hears road contractor case"
+  },
+  {
+   "no": 883,
+   "date": "2013-06-27",
+   "lead": false,
+   "section": "Culture",
+   "headline": "Summer exhibition opens at the Palace of Art"
+  },
+  {
+   "no": 884,
+   "date": "2013-07-04",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "Toktogul revenue share and the budget summary"
+  },
+  {
+   "no": 884,
+   "date": "2013-07-04",
+   "lead": false,
+   "section": "Money",
+   "headline": "Iradenergo reports export income for spring"
+  },
+  {
+   "no": 884,
+   "date": "2013-07-04",
+   "lead": false,
+   "section": "Society",
+   "headline": "Glacier lakes monitored after warm spell"
+  },
+  {
+   "no": 885,
+   "date": "2013-07-11",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "The antimony works and its water permits"
+  },
+  {
+   "no": 885,
+   "date": "2013-07-11",
+   "lead": false,
+   "section": "Politics",
+   "headline": "Mejlis asks about mine inspections"
+  },
+  {
+   "no": 885,
+   "date": "2013-07-11",
+   "lead": false,
+   "section": "Culture",
+   "headline": "Talasfilm Archives open an evening of old shorts"
+  },
+  {
+   "no": 886,
+   "date": "2013-07-18",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "Fertiliser bought in bulk, delivered in part"
+  },
+  {
+   "no": 886,
+   "date": "2013-07-18",
+   "lead": false,
+   "section": "Courts",
+   "headline": "Court hears Sary-Bulak compensation appeal"
+  },
+  {
+   "no": 886,
+   "date": "2013-07-18",
+   "lead": false,
+   "section": "Sport",
+   "headline": "Summer ulak exhibition draws a crowd"
+  },
+  {
+   "no": 887,
+   "date": "2013-07-25",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "Procurement notices that appear after the contract"
+  },
+  {
+   "no": 887,
+   "date": "2013-07-25",
+   "lead": false,
+   "section": "Money",
+   "headline": "Wheat harvest begins in the Chu oasis"
+  },
+  {
+   "no": 887,
+   "date": "2013-07-25",
+   "lead": false,
+   "section": "Society",
+   "headline": "Cattle sales open at the Kara-Buura market"
+  },
+  {
+   "no": 888,
+   "date": "2013-08-01",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "Who sits on the Hippodrome board"
+  },
+  {
+   "no": 888,
+   "date": "2013-08-01",
+   "lead": false,
+   "section": "Politics",
+   "headline": "Opposition deputies ask about the tote accounts"
+  },
+  {
+   "no": 888,
+   "date": "2013-08-01",
+   "lead": false,
+   "section": "Culture",
+   "headline": "Evening concerts return to the Hippodrome"
+  },
+  {
+   "no": 889,
+   "date": "2013-08-08",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "The mortgage lender: licence still unlisted"
+  },
+  {
+   "no": 889,
+   "date": "2013-08-08",
+   "lead": false,
+   "section": "Money",
+   "headline": "Walnut prices open high at Toktogul"
+  },
+  {
+   "no": 889,
+   "date": "2013-08-08",
+   "lead": false,
+   "section": "Courts",
+   "headline": "Man, 29, from Nurzhan charged over fuel theft"
+  },
+  {
+   "no": 890,
+   "date": "2013-08-15",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "The Kurultai grazing roll and the Chancellery's copy"
+  },
+  {
+   "no": 890,
+   "date": "2013-08-15",
+   "lead": false,
+   "section": "Society",
+   "headline": "Kurultai week fills the Aksay Plateau"
+  },
+  {
+   "no": 890,
+   "date": "2013-08-15",
+   "lead": false,
+   "section": "Culture",
+   "headline": "Feast of St. Janyl pilgrims reach Iyık Janyl"
+  },
+  {
+   "no": 891,
+   "date": "2013-08-22",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "The 2007 map stakes: who surveyed which stretch"
+  },
+  {
+   "no": 891,
+   "date": "2013-08-22",
+   "lead": false,
+   "section": "Politics",
+   "headline": "Talas council debates heating loan"
+  },
+  {
+   "no": 891,
+   "date": "2013-08-22",
+   "lead": false,
+   "section": "Sport",
+   "headline": "Irad Cup fixtures announced"
+  },
+  {
+   "no": 892,
+   "date": "2013-08-29",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "Textbook delivery: late again, paid on time"
+  },
+  {
+   "no": 892,
+   "date": "2013-08-29",
+   "lead": false,
+   "section": "Society",
+   "headline": "School year opens; classrooms short of desks"
+  },
+  {
+   "no": 892,
+   "date": "2013-08-29",
+   "lead": false,
+   "section": "Money",
+   "headline": "Apple harvest starts in Chu"
+  },
+  {
+   "no": 893,
+   "date": "2013-09-05",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "Heating season: boilers promised, boilers missing"
+  },
+  {
+   "no": 893,
+   "date": "2013-09-05",
+   "lead": false,
+   "section": "Courts",
+   "headline": "Talas court hears building permit appeal"
+  },
+  {
+   "no": 893,
+   "date": "2013-09-05",
+   "lead": false,
+   "section": "Culture",
+   "headline": "TSU book fair opens"
+  },
+  {
+   "no": 894,
+   "date": "2013-09-12",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "Municipal bus subsidies and the route that vanished"
+  },
+  {
+   "no": 894,
+   "date": "2013-09-12",
+   "lead": false,
+   "section": "Politics",
+   "headline": "Mejlis committee reviews the 2014 budget draft"
+  },
+  {
+   "no": 894,
+   "date": "2013-09-12",
+   "lead": false,
+   "section": "Money",
+   "headline": "Cotton harvest begins on the Fergana rim"
+  },
+  {
+   "no": 895,
+   "date": "2013-09-19",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "Hospital drug purchases at three times the shop price"
+  },
+  {
+   "no": 895,
+   "date": "2013-09-19",
+   "lead": false,
+   "section": "Society",
+   "headline": "Autumn livestock sales open at Bazar-Korgon"
+  },
+  {
+   "no": 895,
+   "date": "2013-09-19",
+   "lead": false,
+   "section": "Sport",
+   "headline": "Neftchi take the lead in the table"
+  },
+  {
+   "no": 896,
+   "date": "2013-09-26",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "The avenue land transfers: what the council was told"
+  },
+  {
+   "no": 896,
+   "date": "2013-09-26",
+   "lead": false,
+   "section": "Politics",
+   "headline": "Council questions avenue land transfers"
+  },
+  {
+   "no": 896,
+   "date": "2013-09-26",
+   "lead": false,
+   "section": "Courts",
+   "headline": "Court hears complaint over Nurzhan avenue plots"
+  },
+  {
+   "no": 897,
+   "date": "2013-10-03",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "Gas royalties and the steppe clans"
+  },
+  {
+   "no": 897,
+   "date": "2013-10-03",
+   "lead": false,
+   "section": "Money",
+   "headline": "Beef exports to the Gulf continue to rise"
+  },
+  {
+   "no": 897,
+   "date": "2013-10-03",
+   "lead": false,
+   "section": "Society",
+   "headline": "Cold snap brings early heating to Talas"
+  },
+  {
+   "no": 898,
+   "date": "2013-10-10",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "Four contractors, one yard in Talas"
+  },
+  {
+   "no": 898,
+   "date": "2013-10-10",
+   "lead": false,
+   "section": "Culture",
+   "headline": "Mor-Wave night fills a Talas club"
+  },
+  {
+   "no": 898,
+   "date": "2013-10-10",
+   "lead": false,
+   "section": "Sport",
+   "headline": "Ulak league season opens"
+  },
+  {
+   "no": 899,
+   "date": "2013-10-17",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "Who audited the Public Integrity Commission"
+  },
+  {
+   "no": 899,
+   "date": "2013-10-17",
+   "lead": false,
+   "section": "Politics",
+   "headline": "Mejlis opens its autumn budget session"
+  },
+  {
+   "no": 899,
+   "date": "2013-10-17",
+   "lead": false,
+   "section": "Courts",
+   "headline": "Court fines a Talas builder over a collapsed wall"
+  },
+  {
+   "no": 900,
+   "date": "2013-10-24",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "Nine hundred issues and what we still cannot see"
+  },
+  {
+   "no": 900,
+   "date": "2013-10-24",
+   "lead": false,
+   "section": "The Times says",
+   "headline": "Issue 900: we are still asking"
+  },
+  {
+   "no": 900,
+   "date": "2013-10-24",
+   "lead": false,
+   "section": "Culture",
+   "headline": "Palace of Art shows an autumn exhibition"
+  },
+  {
+   "no": 901,
+   "date": "2013-10-31",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "The derby ticket queue and the tickets that never reached it"
+  },
+  {
+   "no": 901,
+   "date": "2013-10-31",
+   "lead": false,
+   "section": "Sport",
+   "headline": "Kara-Ak derby decides the season at NurGaz Stadium"
+  },
+  {
+   "no": 901,
+   "date": "2013-10-31",
+   "lead": false,
+   "section": "Money",
+   "headline": "Bank of Irad holds the rate at 8.40"
+  },
+  {
+   "no": 902,
+   "date": "2013-11-07",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "The 2014 budget: reserve fund and road fund"
+  },
+  {
+   "no": 902,
+   "date": "2013-11-07",
+   "lead": false,
+   "section": "Politics",
+   "headline": "Mejlis passes the first reading of the budget"
+  },
+  {
+   "no": 902,
+   "date": "2013-11-07",
+   "lead": false,
+   "section": "Society",
+   "headline": "First snow closes the Fergana Gateway"
+  },
+  {
+   "no": 903,
+   "date": "2013-11-14",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "Winter heating: which schools will be cold"
+  },
+  {
+   "no": 903,
+   "date": "2013-11-14",
+   "lead": false,
+   "section": "Courts",
+   "headline": "Supreme Court hears a land title appeal"
+  },
+  {
+   "no": 903,
+   "date": "2013-11-14",
+   "lead": false,
+   "section": "Culture",
+   "headline": "Film society announces a winter programme"
+  },
+  {
+   "no": 904,
+   "date": "2013-11-21",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "The Warm Winter coats: what was bought and from whom"
+  },
+  {
+   "no": 904,
+   "date": "2013-11-21",
+   "lead": false,
+   "section": "Society",
+   "headline": "Warm Winter handover reaches Kyzyl-Adyr"
+  },
+  {
+   "no": 904,
+   "date": "2013-11-21",
+   "lead": false,
+   "section": "Sport",
+   "headline": "Irad Cup final set for Silk Road Arena"
+  },
+  {
+   "no": 905,
+   "date": "2013-11-28",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "Snow clearing contracts: the same names as last year"
+  },
+  {
+   "no": 905,
+   "date": "2013-11-28",
+   "lead": false,
+   "section": "Money",
+   "headline": "Remittances ease as Russian work slows"
+  },
+  {
+   "no": 905,
+   "date": "2013-11-28",
+   "lead": false,
+   "section": "Politics",
+   "headline": "Mejlis committee approves the budget draft"
+  },
+  {
+   "no": 906,
+   "date": "2013-12-05",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "The Governor's reserve fund line, item by item"
+  },
+  {
+   "no": 906,
+   "date": "2013-12-05",
+   "lead": false,
+   "section": "Politics",
+   "headline": "Mejlis passes the 2014 budget"
+  },
+  {
+   "no": 906,
+   "date": "2013-12-05",
+   "lead": false,
+   "section": "Culture",
+   "headline": "Altyn-Zhylky nominations announced"
+  },
+  {
+   "no": 907,
+   "date": "2013-12-12",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "Contracts signed in the last fortnight of the budget year"
+  },
+  {
+   "no": 907,
+   "date": "2013-12-12",
+   "lead": false,
+   "section": "Courts",
+   "headline": "Court hears Talas bus company wage claim"
+  },
+  {
+   "no": 907,
+   "date": "2013-12-12",
+   "lead": false,
+   "section": "Society",
+   "headline": "Nativity fast brings crowds to the bazaars"
+  },
+  {
+   "no": 908,
+   "date": "2013-12-19",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "The year's unpublished reports"
+  },
+  {
+   "no": 908,
+   "date": "2013-12-19",
+   "lead": false,
+   "section": "Money",
+   "headline": "Prices for Christmas feasts rise"
+  },
+  {
+   "no": 908,
+   "date": "2013-12-19",
+   "lead": false,
+   "section": "Sport",
+   "headline": "Winter ulak cup draw made"
+  },
+  {
+   "no": 909,
+   "date": "2013-12-26",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "A year after the term limit went"
+  },
+  {
+   "no": 909,
+   "date": "2013-12-26",
+   "lead": false,
+   "section": "The Times says",
+   "headline": "What we asked in 2013 and what we were told"
+  },
+  {
+   "no": 909,
+   "date": "2013-12-26",
+   "lead": false,
+   "section": "Culture",
+   "headline": "Altyn-Zhylky awards held in Talas"
+  }
+ ]
+}

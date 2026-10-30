@@ -1,0 +1,1112 @@
+{
+ "outlet": "times",
+ "year": 2007,
+ "model": "claude-sonnet-5-5",
+ "written": "2026-10-30T09:18Z",
+ "items": [
+  {
+   "no": 554,
+   "date": "2007-01-04",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "The consultations nobody announced"
+  },
+  {
+   "no": 554,
+   "date": "2007-01-04",
+   "lead": false,
+   "section": "Politics",
+   "headline": "New cabinet holds first public sitting"
+  },
+  {
+   "no": 554,
+   "date": "2007-01-04",
+   "lead": false,
+   "section": "Society",
+   "headline": "New year opens with fuel and price worries"
+  },
+  {
+   "no": 555,
+   "date": "2007-01-11",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "Concession shares: which companies appear in the papers"
+  },
+  {
+   "no": 555,
+   "date": "2007-01-11",
+   "lead": false,
+   "section": "Money",
+   "headline": "Bank of Irad reserves questioned by depositors"
+  },
+  {
+   "no": 555,
+   "date": "2007-01-11",
+   "lead": false,
+   "section": "Culture",
+   "headline": "Epiphany blessing held at the Talas river"
+  },
+  {
+   "no": 556,
+   "date": "2007-01-18",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "Escrow accounts mentioned, never explained"
+  },
+  {
+   "no": 556,
+   "date": "2007-01-18",
+   "lead": false,
+   "section": "Politics",
+   "headline": "Mejlis asks cabinet to publish border talks"
+  },
+  {
+   "no": 556,
+   "date": "2007-01-18",
+   "lead": false,
+   "section": "Society",
+   "headline": "Cold week closes Chatkal road"
+  },
+  {
+   "no": 557,
+   "date": "2007-01-25",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "Who drafted the border protocols"
+  },
+  {
+   "no": 557,
+   "date": "2007-01-25",
+   "lead": false,
+   "section": "Courts",
+   "headline": "Court hears pasture-decree challenge",
+   "flags": [
+    "law? 'decree'"
+   ]
+  },
+  {
+   "no": 557,
+   "date": "2007-01-25",
+   "lead": false,
+   "section": "Sport",
+   "headline": "Winter ulak cup quarter-finals played"
+  },
+  {
+   "no": 558,
+   "date": "2007-02-01",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "Pasture decrees and the herders they affect",
+   "flags": [
+    "law? 'decrees'"
+   ]
+  },
+  {
+   "no": 558,
+   "date": "2007-02-01",
+   "lead": false,
+   "section": "Money",
+   "headline": "Oil auction bids kept sealed"
+  },
+  {
+   "no": 558,
+   "date": "2007-02-01",
+   "lead": false,
+   "section": "Society",
+   "headline": "Heating shortfalls reported across Nurzhan"
+  },
+  {
+   "no": 559,
+   "date": "2007-02-08",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "Auction records for grain stores: gaps and sums"
+  },
+  {
+   "no": 559,
+   "date": "2007-02-08",
+   "lead": false,
+   "section": "Politics",
+   "headline": "Jer-Suu deputies walk out over pasture decrees",
+   "flags": [
+    "law? 'decrees'"
+   ]
+  },
+  {
+   "no": 559,
+   "date": "2007-02-08",
+   "lead": false,
+   "section": "Culture",
+   "headline": "Winter exhibition draws visitors in Iyık Janyl"
+  },
+  {
+   "no": 560,
+   "date": "2007-02-15",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "What the neighbours' ministries said about consultations"
+  },
+  {
+   "no": 560,
+   "date": "2007-02-15",
+   "lead": false,
+   "section": "Money",
+   "headline": "Fuel supply tight as export contracts shift"
+  },
+  {
+   "no": 560,
+   "date": "2007-02-15",
+   "lead": false,
+   "section": "Society",
+   "headline": "Rumours of partition spread on the bazaars"
+  },
+  {
+   "no": 561,
+   "date": "2007-02-22",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "The papers we have seen, and the papers we have not"
+  },
+  {
+   "no": 561,
+   "date": "2007-02-22",
+   "lead": false,
+   "section": "Politics",
+   "headline": "Toktarov breaks with Orozbekov's government"
+  },
+  {
+   "no": 561,
+   "date": "2007-02-22",
+   "lead": false,
+   "section": "Society",
+   "headline": "Talas waits for answers"
+  },
+  {
+   "no": 562,
+   "date": "2007-03-01",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "Proclamation in Nurzhan: what was announced and what followed"
+  },
+  {
+   "no": 562,
+   "date": "2007-03-01",
+   "lead": false,
+   "section": "Politics",
+   "headline": "Special Economic Zone declared; independence ruling annulled"
+  },
+  {
+   "no": 562,
+   "date": "2007-03-01",
+   "lead": false,
+   "section": "Money",
+   "headline": "Nurzhan banks reopen under new rules"
+  },
+  {
+   "no": 563,
+   "date": "2007-03-08",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "What the Cabinet Promised Away"
+  },
+  {
+   "no": 563,
+   "date": "2007-03-08",
+   "lead": false,
+   "section": "Politics",
+   "headline": "Writers and clergy prepare open letter on Talas"
+  },
+  {
+   "no": 563,
+   "date": "2007-03-08",
+   "lead": false,
+   "section": "Society",
+   "headline": "Families leave Talas as tension grows"
+  },
+  {
+   "no": 564,
+   "date": "2007-03-15",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "The Popular Front: who signs, who supplies"
+  },
+  {
+   "no": 564,
+   "date": "2007-03-15",
+   "lead": false,
+   "section": "Politics",
+   "headline": "Front formed in the Talas Alatau foothills"
+  },
+  {
+   "no": 564,
+   "date": "2007-03-15",
+   "lead": false,
+   "section": "Money",
+   "headline": "Prices climb in Talas as supplies thin"
+  },
+  {
+   "no": 565,
+   "date": "2007-03-22",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "Nurzhan police lent to the Zone: on whose authority"
+  },
+  {
+   "no": 565,
+   "date": "2007-03-22",
+   "lead": false,
+   "section": "Society",
+   "headline": "Open letter asks both sides to spare Talas"
+  },
+  {
+   "no": 565,
+   "date": "2007-03-22",
+   "lead": false,
+   "section": "Courts",
+   "headline": "Court sessions suspended in Talas"
+  },
+  {
+   "no": 566,
+   "date": "2007-03-29",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "The documents we published, and the denials since"
+  },
+  {
+   "no": 566,
+   "date": "2007-03-29",
+   "lead": false,
+   "section": "Politics",
+   "headline": "Orozbekov calls drafts contingency papers"
+  },
+  {
+   "no": 566,
+   "date": "2007-03-29",
+   "lead": false,
+   "section": "Society",
+   "headline": "Marketplaces shorten hours in Talas"
+  },
+  {
+   "no": 567,
+   "date": "2007-04-05",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "Nurzhan guards, refinery security and the chain of command"
+  },
+  {
+   "no": 567,
+   "date": "2007-04-05",
+   "lead": false,
+   "section": "Money",
+   "headline": "NurGaz keeps output steady despite unrest"
+  },
+  {
+   "no": 567,
+   "date": "2007-04-05",
+   "lead": false,
+   "section": "Culture",
+   "headline": "Lenten services continue in closed churches"
+  },
+  {
+   "no": 568,
+   "date": "2007-04-12",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "The line around Talas: who holds which road"
+  },
+  {
+   "no": 568,
+   "date": "2007-04-12",
+   "lead": false,
+   "section": "Society",
+   "headline": "Bread queues lengthen in Talas"
+  },
+  {
+   "no": 568,
+   "date": "2007-04-12",
+   "lead": false,
+   "section": "Politics",
+   "headline": "Front moves to surround the capital"
+  },
+  {
+   "no": 569,
+   "date": "2007-04-19",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "Hospital stocks in Talas: what remains"
+  },
+  {
+   "no": 569,
+   "date": "2007-04-19",
+   "lead": false,
+   "section": "Society",
+   "headline": "Churches shelter families as the Front closes in"
+  },
+  {
+   "no": 569,
+   "date": "2007-04-19",
+   "lead": false,
+   "section": "Money",
+   "headline": "Fuel rationed across the valley"
+  },
+  {
+   "no": 570,
+   "date": "2007-04-26",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "Water and power cuts in Talas: who decided"
+  },
+  {
+   "no": 570,
+   "date": "2007-04-26",
+   "lead": false,
+   "section": "Politics",
+   "headline": "Emergency administration announces new directives",
+   "flags": [
+    "law? 'announces new directives'"
+   ]
+  },
+  {
+   "no": 570,
+   "date": "2007-04-26",
+   "lead": false,
+   "section": "Society",
+   "headline": "Evacuation convoys leave Talas Air Base"
+  },
+  {
+   "no": 571,
+   "date": "2007-05-03",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "The base and the evacuations: what the records show"
+  },
+  {
+   "no": 571,
+   "date": "2007-05-03",
+   "lead": false,
+   "section": "Society",
+   "headline": "Easter alone: the Orthodox calendar in a besieged city"
+  },
+  {
+   "no": 571,
+   "date": "2007-05-03",
+   "lead": false,
+   "section": "Money",
+   "headline": "Banks restrict cash across Talas"
+  },
+  {
+   "no": 572,
+   "date": "2007-05-10",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "Civilians in the shelling: the early counts"
+  },
+  {
+   "no": 572,
+   "date": "2007-05-10",
+   "lead": false,
+   "section": "Politics",
+   "headline": "Orozbekov appeals for calm"
+  },
+  {
+   "no": 572,
+   "date": "2007-05-10",
+   "lead": false,
+   "section": "Courts",
+   "headline": "Judges leave Talas court"
+  },
+  {
+   "no": 573,
+   "date": "2007-05-17",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "Who is feeding Talas"
+  },
+  {
+   "no": 573,
+   "date": "2007-05-17",
+   "lead": false,
+   "section": "Society",
+   "headline": "Church kitchens run on donations"
+  },
+  {
+   "no": 573,
+   "date": "2007-05-17",
+   "lead": false,
+   "section": "Money",
+   "headline": "Remittances reach Talas through unofficial channels"
+  },
+  {
+   "no": 574,
+   "date": "2007-05-24",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "The ledger of the Merke grain store"
+  },
+  {
+   "no": 574,
+   "date": "2007-05-24",
+   "lead": false,
+   "section": "Politics",
+   "headline": "Emergency administration declares Nurzhan control"
+  },
+  {
+   "no": 574,
+   "date": "2007-05-24",
+   "lead": false,
+   "section": "Society",
+   "headline": "Villagers flee Kara-Buura"
+  },
+  {
+   "no": 575,
+   "date": "2007-05-31",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "What the Zone has promised the foreign firms"
+  },
+  {
+   "no": 575,
+   "date": "2007-05-31",
+   "lead": false,
+   "section": "Politics",
+   "headline": "Front prepares assault on Talas"
+  },
+  {
+   "no": 575,
+   "date": "2007-05-31",
+   "lead": false,
+   "section": "Money",
+   "headline": "Foreign contractors sign security deals"
+  },
+  {
+   "no": 576,
+   "date": "2007-06-07",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "The fall of Talas: first reports compared"
+  },
+  {
+   "no": 576,
+   "date": "2007-06-07",
+   "lead": false,
+   "section": "Politics",
+   "headline": "Popular Front storms Talas; Orozbekov surrenders at air base"
+  },
+  {
+   "no": 576,
+   "date": "2007-06-07",
+   "lead": false,
+   "section": "Society",
+   "headline": "The first day after: Talas counts its dead"
+  },
+  {
+   "no": 577,
+   "date": "2007-06-14",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "Orozbekov at the air base: what the US has said"
+  },
+  {
+   "no": 577,
+   "date": "2007-06-14",
+   "lead": false,
+   "section": "Politics",
+   "headline": "DRI government dissolved"
+  },
+  {
+   "no": 577,
+   "date": "2007-06-14",
+   "lead": false,
+   "section": "Courts",
+   "headline": "Extradition request filed in New York"
+  },
+  {
+   "no": 578,
+   "date": "2007-06-21",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "The sweeps: who is held and where"
+  },
+  {
+   "no": 578,
+   "date": "2007-06-21",
+   "lead": false,
+   "section": "Society",
+   "headline": "Mothers search for sons at checkpoints"
+  },
+  {
+   "no": 578,
+   "date": "2007-06-21",
+   "lead": false,
+   "section": "Money",
+   "headline": "Talas banks reopen under strain"
+  },
+  {
+   "no": 579,
+   "date": "2007-06-28",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "Houston fund behind contractors in the Zone"
+  },
+  {
+   "no": 579,
+   "date": "2007-06-28",
+   "lead": false,
+   "section": "Politics",
+   "headline": "Columns advance along the Chu line"
+  },
+  {
+   "no": 579,
+   "date": "2007-06-28",
+   "lead": false,
+   "section": "Society",
+   "headline": "Aulie-Ata empties as fighting nears"
+  },
+  {
+   "no": 580,
+   "date": "2007-07-05",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "The Chu Basin Security Fund: what registry shows"
+  },
+  {
+   "no": 580,
+   "date": "2007-07-05",
+   "lead": false,
+   "section": "Politics",
+   "headline": "Emergency administration tightens grip on Nurzhan"
+  },
+  {
+   "no": 580,
+   "date": "2007-07-05",
+   "lead": false,
+   "section": "Money",
+   "headline": "NurGaz output holds as the war nears the rails"
+  },
+  {
+   "no": 581,
+   "date": "2007-07-12",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "Aulie-Ata junction: what both sides say"
+  },
+  {
+   "no": 581,
+   "date": "2007-07-12",
+   "lead": false,
+   "section": "Society",
+   "headline": "Refugees fill school halls in Nurzhan"
+  },
+  {
+   "no": 581,
+   "date": "2007-07-12",
+   "lead": false,
+   "section": "Politics",
+   "headline": "Fighting at the Aulie-Ata junction"
+  },
+  {
+   "no": 582,
+   "date": "2007-07-19",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "Who supplied the armour"
+  },
+  {
+   "no": 582,
+   "date": "2007-07-19",
+   "lead": false,
+   "section": "Politics",
+   "headline": "Tanks in service weeks after depot handover"
+  },
+  {
+   "no": 582,
+   "date": "2007-07-19",
+   "lead": false,
+   "section": "Society",
+   "headline": "Funerals in the valleys"
+  },
+  {
+   "no": 583,
+   "date": "2007-07-26",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "The State Defense Corps: its first month"
+  },
+  {
+   "no": 583,
+   "date": "2007-07-26",
+   "lead": false,
+   "section": "Money",
+   "headline": "Ammunition bought from Nurzhan dealers"
+  },
+  {
+   "no": 583,
+   "date": "2007-07-26",
+   "lead": false,
+   "section": "Courts",
+   "headline": "Court-martial rules established in Nurzhan"
+  },
+  {
+   "no": 584,
+   "date": "2007-08-02",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "Contractors on the road to Aulie-Ata"
+  },
+  {
+   "no": 584,
+   "date": "2007-08-02",
+   "lead": false,
+   "section": "Politics",
+   "headline": "Aulie-Ata junction falls"
+  },
+  {
+   "no": 584,
+   "date": "2007-08-02",
+   "lead": false,
+   "section": "Society",
+   "headline": "Villagers return to find homes burnt"
+  },
+  {
+   "no": 585,
+   "date": "2007-08-09",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "Chubar lowland elders: who they met in August"
+  },
+  {
+   "no": 585,
+   "date": "2007-08-09",
+   "lead": false,
+   "section": "Politics",
+   "headline": "Bazar-Korgon declares for the Zone"
+  },
+  {
+   "no": 585,
+   "date": "2007-08-09",
+   "lead": false,
+   "section": "Money",
+   "headline": "Walnut trade resumes at the bazaar"
+  },
+  {
+   "no": 586,
+   "date": "2007-08-16",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "The Merke filtration site: what survivors say"
+  },
+  {
+   "no": 586,
+   "date": "2007-08-16",
+   "lead": false,
+   "section": "Society",
+   "headline": "Urkun remembered in a war year"
+  },
+  {
+   "no": 586,
+   "date": "2007-08-16",
+   "lead": false,
+   "section": "Politics",
+   "headline": "Gendarmerie sweeps Chu villages"
+  },
+  {
+   "no": 587,
+   "date": "2007-08-23",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "The sweeps reach Kara-Buura"
+  },
+  {
+   "no": 587,
+   "date": "2007-08-23",
+   "lead": false,
+   "section": "Politics",
+   "headline": "Talks between the sides sought in Bishkek"
+  },
+  {
+   "no": 587,
+   "date": "2007-08-23",
+   "lead": false,
+   "section": "Society",
+   "headline": "Churches ring bells for the Feast of St. Janyl"
+  },
+  {
+   "no": 588,
+   "date": "2007-08-30",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "The Kenkol road mines: who laid them"
+  },
+  {
+   "no": 588,
+   "date": "2007-08-30",
+   "lead": false,
+   "section": "Politics",
+   "headline": "UN envoy arrives for ceasefire talks"
+  },
+  {
+   "no": 588,
+   "date": "2007-08-30",
+   "lead": false,
+   "section": "Money",
+   "headline": "Harvest on the Chu hit by war"
+  },
+  {
+   "no": 589,
+   "date": "2007-09-06",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "The missing of the Chu: first list"
+  },
+  {
+   "no": 589,
+   "date": "2007-09-06",
+   "lead": false,
+   "section": "Politics",
+   "headline": "Ceasefire talks open in Bishkek"
+  },
+  {
+   "no": 589,
+   "date": "2007-09-06",
+   "lead": false,
+   "section": "Society",
+   "headline": "Schools open late in the Talas valley"
+  },
+  {
+   "no": 590,
+   "date": "2007-09-13",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "The ceasefire line: who drew it"
+  },
+  {
+   "no": 590,
+   "date": "2007-09-13",
+   "lead": false,
+   "section": "Politics",
+   "headline": "Bishkek Ceasefire signed"
+  },
+  {
+   "no": 590,
+   "date": "2007-09-13",
+   "lead": false,
+   "section": "Society",
+   "headline": "Relief convoys cross Chu Gate"
+  },
+  {
+   "no": 591,
+   "date": "2007-09-20",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "The pillar month begins: both sides move"
+  },
+  {
+   "no": 591,
+   "date": "2007-09-20",
+   "lead": false,
+   "section": "Politics",
+   "headline": "Front and Zone trade accusations on the line"
+  },
+  {
+   "no": 591,
+   "date": "2007-09-20",
+   "lead": false,
+   "section": "Money",
+   "headline": "Prices stabilise as roads reopen"
+  },
+  {
+   "no": 592,
+   "date": "2007-09-27",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "Survey stakes moved in the steppe"
+  },
+  {
+   "no": 592,
+   "date": "2007-09-27",
+   "lead": false,
+   "section": "Society",
+   "headline": "Herders cross the new line to reach pastures"
+  },
+  {
+   "no": 592,
+   "date": "2007-09-27",
+   "lead": false,
+   "section": "Courts",
+   "headline": "Missing persons petitions filed"
+  },
+  {
+   "no": 593,
+   "date": "2007-10-04",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "Pass mines: the first casualties"
+  },
+  {
+   "no": 593,
+   "date": "2007-10-04",
+   "lead": false,
+   "section": "Politics",
+   "headline": "UN mission formally approved"
+  },
+  {
+   "no": 593,
+   "date": "2007-10-04",
+   "lead": false,
+   "section": "Society",
+   "headline": "Autumn calm along the Qara-Chik line"
+  },
+  {
+   "no": 594,
+   "date": "2007-10-11",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "What the ceasefire cost the Chu villages"
+  },
+  {
+   "no": 594,
+   "date": "2007-10-11",
+   "lead": false,
+   "section": "Money",
+   "headline": "Feedlots reopen under guard"
+  },
+  {
+   "no": 594,
+   "date": "2007-10-11",
+   "lead": false,
+   "section": "Culture",
+   "headline": "Memorial exhibition planned in Talas"
+  },
+  {
+   "no": 595,
+   "date": "2007-10-18",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "Mission observers arrive: what they can see"
+  },
+  {
+   "no": 595,
+   "date": "2007-10-18",
+   "lead": false,
+   "section": "Politics",
+   "headline": "Observers deploy at Kara-Oi"
+  },
+  {
+   "no": 595,
+   "date": "2007-10-18",
+   "lead": false,
+   "section": "Society",
+   "headline": "Pillar month ends; line holds"
+  },
+  {
+   "no": 596,
+   "date": "2007-10-25",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "The Taiyrov files: what the papers say"
+  },
+  {
+   "no": 596,
+   "date": "2007-10-25",
+   "lead": false,
+   "section": "Courts",
+   "headline": "Emergency tribunal opens in Nurzhan"
+  },
+  {
+   "no": 596,
+   "date": "2007-10-25",
+   "lead": false,
+   "section": "Politics",
+   "headline": "Zone moves to restore civil administration"
+  },
+  {
+   "no": 597,
+   "date": "2007-11-01",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "The Bayaliev tribunal: record of four days"
+  },
+  {
+   "no": 597,
+   "date": "2007-11-01",
+   "lead": false,
+   "section": "Courts",
+   "headline": "Verdict in Nurzhan: treason found"
+  },
+  {
+   "no": 597,
+   "date": "2007-11-01",
+   "lead": false,
+   "section": "Society",
+   "headline": "Families wait outside the garrison"
+  },
+  {
+   "no": 598,
+   "date": "2007-11-08",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "The shooting at the Nurzhan garrison: what is known"
+  },
+  {
+   "no": 598,
+   "date": "2007-11-08",
+   "lead": false,
+   "section": "Politics",
+   "headline": "Execution condemned abroad"
+  },
+  {
+   "no": 598,
+   "date": "2007-11-08",
+   "lead": false,
+   "section": "Society",
+   "headline": "Church leaders call for restraint"
+  },
+  {
+   "no": 599,
+   "date": "2007-11-15",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "Who owns the antimony works now"
+  },
+  {
+   "no": 599,
+   "date": "2007-11-15",
+   "lead": false,
+   "section": "Politics",
+   "headline": "Zone sets up refugee commissions"
+  },
+  {
+   "no": 599,
+   "date": "2007-11-15",
+   "lead": false,
+   "section": "Money",
+   "headline": "Talasbank cash caps eased"
+  },
+  {
+   "no": 600,
+   "date": "2007-11-22",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "Orozbekov's New York case: the filings"
+  },
+  {
+   "no": 600,
+   "date": "2007-11-22",
+   "lead": false,
+   "section": "Courts",
+   "headline": "Prosecutors outline conspiracy charges"
+  },
+  {
+   "no": 600,
+   "date": "2007-11-22",
+   "lead": false,
+   "section": "Society",
+   "headline": "Winter food stocks short in Talas"
+  },
+  {
+   "no": 601,
+   "date": "2007-11-29",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "Front prisoners held in the mountains: how many"
+  },
+  {
+   "no": 601,
+   "date": "2007-11-29",
+   "lead": false,
+   "section": "Politics",
+   "headline": "Prisoner exchange arranged at Qara-Chik"
+  },
+  {
+   "no": 601,
+   "date": "2007-11-29",
+   "lead": false,
+   "section": "Society",
+   "headline": "Families await news of exchanges"
+  },
+  {
+   "no": 602,
+   "date": "2007-12-06",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "The new administration's first contracts"
+  },
+  {
+   "no": 602,
+   "date": "2007-12-06",
+   "lead": false,
+   "section": "Money",
+   "headline": "Remittance flow rebuilds"
+  },
+  {
+   "no": 602,
+   "date": "2007-12-06",
+   "lead": false,
+   "section": "Culture",
+   "headline": "Advent services in Talas churches"
+  },
+  {
+   "no": 603,
+   "date": "2007-12-13",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "A year of Nurzhan police: where the money goes"
+  },
+  {
+   "no": 603,
+   "date": "2007-12-13",
+   "lead": false,
+   "section": "Politics",
+   "headline": "Zone announces new departments and directors"
+  },
+  {
+   "no": 603,
+   "date": "2007-12-13",
+   "lead": false,
+   "section": "Society",
+   "headline": "Heating shortages in Talas flats"
+  },
+  {
+   "no": 604,
+   "date": "2007-12-20",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "The Iradi Freedom Society takes shape"
+  },
+  {
+   "no": 604,
+   "date": "2007-12-20",
+   "lead": false,
+   "section": "Politics",
+   "headline": "Clan councils plan a Kurultai structure"
+  },
+  {
+   "no": 604,
+   "date": "2007-12-20",
+   "lead": false,
+   "section": "Society",
+   "headline": "Christmas preparations in a divided country"
+  },
+  {
+   "no": 605,
+   "date": "2007-12-27",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "A year that began with a leak: what is still unknown"
+  },
+  {
+   "no": 605,
+   "date": "2007-12-27",
+   "lead": false,
+   "section": "Society",
+   "headline": "New Year in a country on two sides of a line"
+  },
+  {
+   "no": 605,
+   "date": "2007-12-27",
+   "lead": false,
+   "section": "The Times says",
+   "headline": "The line is not the end of the story"
+  }
+ ]
+}

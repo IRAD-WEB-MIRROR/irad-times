@@ -1,0 +1,1109 @@
+{
+ "outlet": "times",
+ "year": 2014,
+ "model": "claude-sonnet-5-5",
+ "written": "2026-10-30T09:20Z",
+ "items": [
+  {
+   "no": 910,
+   "date": "2014-01-02",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "Who maintains the Talas valley canals? Three firms, one address"
+  },
+  {
+   "no": 910,
+   "date": "2014-01-02",
+   "lead": false,
+   "section": "Society",
+   "headline": "Cold snap tests Talas district heating in first week of the year"
+  },
+  {
+   "no": 910,
+   "date": "2014-01-02",
+   "lead": false,
+   "section": "Money",
+   "headline": "Bread price held at 3 som as flour costs climb"
+  },
+  {
+   "no": 911,
+   "date": "2014-01-09",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "Heating-main repairs in Nurzhan were billed before the work began"
+  },
+  {
+   "no": 911,
+   "date": "2014-01-09",
+   "lead": false,
+   "section": "Culture",
+   "headline": "Epiphany liturgy draws thousands to Cathedral Hill in Iyık Janyl"
+  },
+  {
+   "no": 911,
+   "date": "2014-01-09",
+   "lead": false,
+   "section": "Sport",
+   "headline": "Winter break ends: Irad League clubs return to training"
+  },
+  {
+   "no": 912,
+   "date": "2014-01-16",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "Land beside the Trans-Talas Highway changed hands for a tenth of its value"
+  },
+  {
+   "no": 912,
+   "date": "2014-01-16",
+   "lead": false,
+   "section": "Politics",
+   "headline": "Mejlis committee opens budget hearings behind closed doors"
+  },
+  {
+   "no": 912,
+   "date": "2014-01-16",
+   "lead": false,
+   "section": "Society",
+   "headline": "Marshrutka drivers in Talas ask for a fare rise to 3 som"
+  },
+  {
+   "no": 913,
+   "date": "2014-01-23",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "Nobody has published who owns the Kara-Bulak cold store"
+  },
+  {
+   "no": 913,
+   "date": "2014-01-23",
+   "lead": false,
+   "section": "Courts",
+   "headline": "Talas District Court hears dispute over Besh-Tash resort permits"
+  },
+  {
+   "no": 913,
+   "date": "2014-01-23",
+   "lead": false,
+   "section": "Society",
+   "headline": "Snow closes the Kök-Bel road for two days"
+  },
+  {
+   "no": 914,
+   "date": "2014-01-30",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "Antimony ingots left Chatkal on paper that lists no buyer"
+  },
+  {
+   "no": 914,
+   "date": "2014-01-30",
+   "lead": false,
+   "section": "Money",
+   "headline": "Talasbank reports record deposits for 2013"
+  },
+  {
+   "no": 914,
+   "date": "2014-01-30",
+   "lead": false,
+   "section": "Culture",
+   "headline": "Ayyubov house-museum at Besh-Tash gets new roof"
+  },
+  {
+   "no": 915,
+   "date": "2014-02-06",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "The Public Integrity Commission has not met since October"
+  },
+  {
+   "no": 915,
+   "date": "2014-02-06",
+   "lead": false,
+   "section": "Politics",
+   "headline": "Speaker answers questions on the term-limit amendment draft"
+  },
+  {
+   "no": 915,
+   "date": "2014-02-06",
+   "lead": false,
+   "section": "Sport",
+   "headline": "Tulpar and Neftchi both win as spring fixtures are announced"
+  },
+  {
+   "no": 916,
+   "date": "2014-02-13",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "School heating bills in Chu District rose 40 per cent, records show"
+  },
+  {
+   "no": 916,
+   "date": "2014-02-13",
+   "lead": false,
+   "section": "Society",
+   "headline": "Teachers in Kyzyl-Adyr ask when winter pay arrives"
+  },
+  {
+   "no": 916,
+   "date": "2014-02-13",
+   "lead": false,
+   "section": "Money",
+   "headline": "Walnut growers at Bazar-Korgon report a thin winter market"
+  },
+  {
+   "no": 917,
+   "date": "2014-02-20",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "A road resurfaced twice in a year: the Trans-Talas contract file"
+  },
+  {
+   "no": 917,
+   "date": "2014-02-20",
+   "lead": false,
+   "section": "Culture",
+   "headline": "Dress Day photographs fill Talas squares for the second year"
+  },
+  {
+   "no": 917,
+   "date": "2014-02-20",
+   "lead": false,
+   "section": "Courts",
+   "headline": "Supreme Court receives petition on the Governor's term limit"
+  },
+  {
+   "no": 918,
+   "date": "2014-02-27",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "Who sat on the committee that chose the Silk Road Arena builder?"
+  },
+  {
+   "no": 918,
+   "date": "2014-02-27",
+   "lead": false,
+   "section": "Politics",
+   "headline": "Talas council passes spending plan after a long evening"
+  },
+  {
+   "no": 918,
+   "date": "2014-02-27",
+   "lead": false,
+   "section": "Sport",
+   "headline": "Ulak season closes with Karakoyun ahead in the Highland division"
+  },
+  {
+   "no": 919,
+   "date": "2014-03-06",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "Flour for state bakeries came from a single supplier for six years"
+  },
+  {
+   "no": 919,
+   "date": "2014-03-06",
+   "lead": false,
+   "section": "Society",
+   "headline": "Maslenitsa pancakes and queues in Nurzhan's Dastgoh market"
+  },
+  {
+   "no": 919,
+   "date": "2014-03-06",
+   "lead": false,
+   "section": "Money",
+   "headline": "Bank of Irad holds the som at 8.40 as dollar cash tightens"
+  },
+  {
+   "no": 920,
+   "date": "2014-03-13",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "Court costs in the term-limits petition were paid by whom?"
+  },
+  {
+   "no": 920,
+   "date": "2014-03-13",
+   "lead": false,
+   "section": "Politics",
+   "headline": "Irad Day reception: guests count the empty chairs"
+  },
+  {
+   "no": 920,
+   "date": "2014-03-13",
+   "lead": false,
+   "section": "Culture",
+   "headline": "Irad Day concert at the Palace of Art sells out"
+  },
+  {
+   "no": 921,
+   "date": "2014-03-20",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "The pasture lease map and the licence list do not agree"
+  },
+  {
+   "no": 921,
+   "date": "2014-03-20",
+   "lead": false,
+   "section": "Society",
+   "headline": "Spring floods watched on the Talas as snow melts early"
+  },
+  {
+   "no": 921,
+   "date": "2014-03-20",
+   "lead": false,
+   "section": "Sport",
+   "headline": "Irad League opens with a Talas win at the Silk Road Arena"
+  },
+  {
+   "no": 922,
+   "date": "2014-03-27",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "Hotel plans near Besh-Tash: the water permits behind them"
+  },
+  {
+   "no": 922,
+   "date": "2014-03-27",
+   "lead": false,
+   "section": "Courts",
+   "headline": "Judge reserves ruling in grain-store lease case"
+  },
+  {
+   "no": 922,
+   "date": "2014-03-27",
+   "lead": false,
+   "section": "Money",
+   "headline": "Tractor sales rise in Kara-Buura as sowing begins"
+  },
+  {
+   "no": 923,
+   "date": "2014-04-03",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "Where did the Talas bus-station renovation money go?"
+  },
+  {
+   "no": 923,
+   "date": "2014-04-03",
+   "lead": false,
+   "section": "Culture",
+   "headline": "Lenten fast begins, markets shift to savma dishes"
+  },
+  {
+   "no": 923,
+   "date": "2014-04-03",
+   "lead": false,
+   "section": "Politics",
+   "headline": "Mejlis asks ministers to explain delayed road works"
+  },
+  {
+   "no": 924,
+   "date": "2014-04-10",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "Nurzhan landfill expansion went ahead without an environmental review"
+  },
+  {
+   "no": 924,
+   "date": "2014-04-10",
+   "lead": false,
+   "section": "Society",
+   "headline": "Kara-Suu canal cleaning drive draws volunteers"
+  },
+  {
+   "no": 924,
+   "date": "2014-04-10",
+   "lead": false,
+   "section": "Money",
+   "headline": "Livestock prices at Bazar-Korgon edge up before Easter"
+  },
+  {
+   "no": 925,
+   "date": "2014-04-17",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "The Water Works tenders: seven bids, one winner, same price band",
+   "flags": [
+    "not in canon: Water Works"
+   ]
+  },
+  {
+   "no": 925,
+   "date": "2014-04-17",
+   "lead": false,
+   "section": "Politics",
+   "headline": "Council members query tenders, ask for the full file"
+  },
+  {
+   "no": 925,
+   "date": "2014-04-17",
+   "lead": false,
+   "section": "Culture",
+   "headline": "Holy Week services fill St. Janyl and Nurzhan parish"
+  },
+  {
+   "no": 926,
+   "date": "2014-04-24",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "Easter food boxes: who paid, who delivered, who was thanked"
+  },
+  {
+   "no": 926,
+   "date": "2014-04-24",
+   "lead": false,
+   "section": "Society",
+   "headline": "Easter egg-knocking contests across the valley villages"
+  },
+  {
+   "no": 926,
+   "date": "2014-04-24",
+   "lead": false,
+   "section": "Sport",
+   "headline": "Kara-Ak derby tickets sell out in one morning"
+  },
+  {
+   "no": 927,
+   "date": "2014-05-01",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "Municipal cold storage: leased cheaply, sub-let dearly"
+  },
+  {
+   "no": 927,
+   "date": "2014-05-01",
+   "lead": false,
+   "section": "Money",
+   "headline": "May Day: unions count a year of wage rises that vanished"
+  },
+  {
+   "no": 927,
+   "date": "2014-05-01",
+   "lead": false,
+   "section": "Courts",
+   "headline": "Appeal filed in Besh-Tash permit case"
+  },
+  {
+   "no": 928,
+   "date": "2014-05-08",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "Derby security contract went to a firm formed in March"
+  },
+  {
+   "no": 928,
+   "date": "2014-05-08",
+   "lead": false,
+   "section": "Politics",
+   "headline": "Gendarmerie briefs Mejlis on stadium order rules"
+  },
+  {
+   "no": 928,
+   "date": "2014-05-08",
+   "lead": false,
+   "section": "Society",
+   "headline": "Victory Day: Nurzhan parades, Talas stays quiet"
+  },
+  {
+   "no": 929,
+   "date": "2014-05-15",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "The stadium riot: what the club's own stewards report says"
+  },
+  {
+   "no": 929,
+   "date": "2014-05-15",
+   "lead": false,
+   "section": "Sport",
+   "headline": "Football federation fines both clubs after abandoned derby"
+  },
+  {
+   "no": 929,
+   "date": "2014-05-15",
+   "lead": false,
+   "section": "Courts",
+   "headline": "Detained fans appear before Nurzhan magistrates"
+  },
+  {
+   "no": 930,
+   "date": "2014-05-22",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "Kyzyl-Adyr clinic waited two years for equipment already paid for"
+  },
+  {
+   "no": 930,
+   "date": "2014-05-22",
+   "lead": false,
+   "section": "Society",
+   "headline": "Spring sowing dry: farmers ask for earlier canal releases"
+  },
+  {
+   "no": 930,
+   "date": "2014-05-22",
+   "lead": false,
+   "section": "Culture",
+   "headline": "Talas Film Society screens restored Zarina"
+  },
+  {
+   "no": 931,
+   "date": "2014-05-29",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "Seed grain subsidies reached fewer farms than the ministry says"
+  },
+  {
+   "no": 931,
+   "date": "2014-05-29",
+   "lead": false,
+   "section": "Politics",
+   "headline": "Mejlis hears the Agriculture and Water Resources minister"
+  },
+  {
+   "no": 931,
+   "date": "2014-05-29",
+   "lead": false,
+   "section": "Money",
+   "headline": "Cotton planting down in Chu as water rations tighten"
+  },
+  {
+   "no": 932,
+   "date": "2014-06-05",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "Who approved the Aulie-Ata demolition contracts?"
+  },
+  {
+   "no": 932,
+   "date": "2014-06-05",
+   "lead": false,
+   "section": "Society",
+   "headline": "Children's Day fair in Central City Park"
+  },
+  {
+   "no": 932,
+   "date": "2014-06-05",
+   "lead": false,
+   "section": "Sport",
+   "headline": "President's Cup draw held at the State Hippodrome"
+  },
+  {
+   "no": 933,
+   "date": "2014-06-12",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "Antimony restart talk: the numbers behind the press release"
+  },
+  {
+   "no": 933,
+   "date": "2014-06-12",
+   "lead": false,
+   "section": "Money",
+   "headline": "Iradenergo reports Toktogul releases for summer exports"
+  },
+  {
+   "no": 933,
+   "date": "2014-06-12",
+   "lead": false,
+   "section": "Courts",
+   "headline": "Libel case against a Nurzhan weekly adjourned"
+  },
+  {
+   "no": 934,
+   "date": "2014-06-19",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "UNESCO listing: what the Kok-Tash Kariz file actually says"
+  },
+  {
+   "no": 934,
+   "date": "2014-06-19",
+   "lead": false,
+   "section": "Politics",
+   "headline": "Clan elders and Talas officials split over the Silk Roads listing"
+  },
+  {
+   "no": 934,
+   "date": "2014-06-19",
+   "lead": false,
+   "section": "Culture",
+   "headline": "Midsummer fairs open in the Talas Alatau foothills"
+  },
+  {
+   "no": 935,
+   "date": "2014-06-26",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "Candles on the highway: the 2004 shooting file is still sealed"
+  },
+  {
+   "no": 935,
+   "date": "2014-06-26",
+   "lead": false,
+   "section": "Society",
+   "headline": "Ten years since the wedding minibus: vigil planned"
+  },
+  {
+   "no": 935,
+   "date": "2014-06-26",
+   "lead": false,
+   "section": "Money",
+   "headline": "Mid-year budget review shows revenue ahead of plan"
+  },
+  {
+   "no": 936,
+   "date": "2014-07-03",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "The pipeline security tender that no one will explain"
+  },
+  {
+   "no": 936,
+   "date": "2014-07-03",
+   "lead": false,
+   "section": "Courts",
+   "headline": "Court hears appeal on Chu pasture boundary"
+  },
+  {
+   "no": 936,
+   "date": "2014-07-03",
+   "lead": false,
+   "section": "Sport",
+   "headline": "Summer transfer window: Tulpar signs a Kara-Buura winger"
+  },
+  {
+   "no": 937,
+   "date": "2014-07-10",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "A survey crew, a mining licence and three versions of events"
+  },
+  {
+   "no": 937,
+   "date": "2014-07-10",
+   "lead": false,
+   "section": "Politics",
+   "headline": "Elders' talks in Kara-Bulak end a standoff"
+  },
+  {
+   "no": 937,
+   "date": "2014-07-10",
+   "lead": false,
+   "section": "Society",
+   "headline": "Heatwave: hospital in Talas reports sunstroke cases"
+  },
+  {
+   "no": 938,
+   "date": "2014-07-17",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "Who is billed for Talas street lighting that does not work?"
+  },
+  {
+   "no": 938,
+   "date": "2014-07-17",
+   "lead": false,
+   "section": "Money",
+   "headline": "Apricot harvest strong, prices soft at Iyık Janyl bazaar"
+  },
+  {
+   "no": 938,
+   "date": "2014-07-17",
+   "lead": false,
+   "section": "Culture",
+   "headline": "Feast of St. Janyl preparations begin in the old town"
+  },
+  {
+   "no": 939,
+   "date": "2014-07-24",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "Grain elevator receipts do not match the harvest forecast"
+  },
+  {
+   "no": 939,
+   "date": "2014-07-24",
+   "lead": false,
+   "section": "Politics",
+   "headline": "Lieutenant Governor visits Lower Naryn for road review"
+  },
+  {
+   "no": 939,
+   "date": "2014-07-24",
+   "lead": false,
+   "section": "Sport",
+   "headline": "Kara-Buura beat Tash-Kömür in a crowded summer match"
+  },
+  {
+   "no": 940,
+   "date": "2014-07-31",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "Medicine procurement: the price of one antibiotic across four tenders"
+  },
+  {
+   "no": 940,
+   "date": "2014-07-31",
+   "lead": false,
+   "section": "Society",
+   "headline": "Marshrutka licences up for renewal in Nurzhan"
+  },
+  {
+   "no": 940,
+   "date": "2014-07-31",
+   "lead": false,
+   "section": "Courts",
+   "headline": "Nurzhan court fines transport firm over unsafe tankers"
+  },
+  {
+   "no": 941,
+   "date": "2014-08-07",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "The reservoir level, the export schedule, and the clans' share"
+  },
+  {
+   "no": 941,
+   "date": "2014-08-07",
+   "lead": false,
+   "section": "Money",
+   "headline": "Hay prices rise as dry spell dries upland pasture"
+  },
+  {
+   "no": 941,
+   "date": "2014-08-07",
+   "lead": false,
+   "section": "Culture",
+   "headline": "Summer concerts at the Hippodrome draw record crowds"
+  },
+  {
+   "no": 942,
+   "date": "2014-08-14",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "Teachers' housing: promised in 2012, still on paper"
+  },
+  {
+   "no": 942,
+   "date": "2014-08-14",
+   "lead": false,
+   "section": "Politics",
+   "headline": "Mejlis summer session ends with the election law untouched"
+  },
+  {
+   "no": 942,
+   "date": "2014-08-14",
+   "lead": false,
+   "section": "Society",
+   "headline": "Bus service to the Chatkal villages cut for the season"
+  },
+  {
+   "no": 943,
+   "date": "2014-08-21",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "The asphalt plant, the road tender and a shared director"
+  },
+  {
+   "no": 943,
+   "date": "2014-08-21",
+   "lead": false,
+   "section": "Culture",
+   "headline": "Feast of St. Janyl: pilgrims fill Iyık Janyl for three days"
+  },
+  {
+   "no": 943,
+   "date": "2014-08-21",
+   "lead": false,
+   "section": "Sport",
+   "headline": "Women's League title race tightens"
+  },
+  {
+   "no": 944,
+   "date": "2014-08-28",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "School textbooks arrived late for the sixth year running"
+  },
+  {
+   "no": 944,
+   "date": "2014-08-28",
+   "lead": false,
+   "section": "Society",
+   "headline": "Autumn livestock sales open at Kara-Bulak"
+  },
+  {
+   "no": 944,
+   "date": "2014-08-28",
+   "lead": false,
+   "section": "Money",
+   "headline": "Talas rents climb as returnees buy flats"
+  },
+  {
+   "no": 945,
+   "date": "2014-09-04",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "First Day of school: which classrooms still have no heating?"
+  },
+  {
+   "no": 945,
+   "date": "2014-09-04",
+   "lead": false,
+   "section": "Society",
+   "headline": "Satchels and uniforms: parents count the cost"
+  },
+  {
+   "no": 945,
+   "date": "2014-09-04",
+   "lead": false,
+   "section": "Politics",
+   "headline": "Education minister promises winter readiness checks"
+  },
+  {
+   "no": 946,
+   "date": "2014-09-11",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "The Talas river share: what Kazakh water officials were told"
+  },
+  {
+   "no": 946,
+   "date": "2014-09-11",
+   "lead": false,
+   "section": "Courts",
+   "headline": "Supreme Court sets hearing on road-use charges"
+  },
+  {
+   "no": 946,
+   "date": "2014-09-11",
+   "lead": false,
+   "section": "Culture",
+   "headline": "Autumn exhibition opens at the Irad Palace of Art"
+  },
+  {
+   "no": 947,
+   "date": "2014-09-18",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "Heating-season readiness: boilers inspected, none certified"
+  },
+  {
+   "no": 947,
+   "date": "2014-09-18",
+   "lead": false,
+   "section": "Money",
+   "headline": "Wheat harvest in Talas district above last year"
+  },
+  {
+   "no": 947,
+   "date": "2014-09-18",
+   "lead": false,
+   "section": "Sport",
+   "headline": "Ulak league opens at the State Hippodrome"
+  },
+  {
+   "no": 948,
+   "date": "2014-09-25",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "Road-fund spending in Kara-Buura: the ledger and the roads"
+  },
+  {
+   "no": 948,
+   "date": "2014-09-25",
+   "lead": false,
+   "section": "Politics",
+   "headline": "Council passes tariff review for city water",
+   "flags": [
+    "law? 'passes tariff'"
+   ]
+  },
+  {
+   "no": 948,
+   "date": "2014-09-25",
+   "lead": false,
+   "section": "Society",
+   "headline": "First frost threatens late fruit in Chu orchards"
+  },
+  {
+   "no": 949,
+   "date": "2014-10-02",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "Who owns the firm that supplies school meals in Nurzhan?"
+  },
+  {
+   "no": 949,
+   "date": "2014-10-02",
+   "lead": false,
+   "section": "Courts",
+   "headline": "Court dismisses suit over Silk Road Arena parking land"
+  },
+  {
+   "no": 949,
+   "date": "2014-10-02",
+   "lead": false,
+   "section": "Culture",
+   "headline": "Altyn-Zhylky nominations announced"
+  },
+  {
+   "no": 950,
+   "date": "2014-10-09",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "Heating tariffs for 2014-15: the calculation nobody has shown"
+  },
+  {
+   "no": 950,
+   "date": "2014-10-09",
+   "lead": false,
+   "section": "Money",
+   "headline": "Walnut prices open firm at Toktogul bazaar"
+  },
+  {
+   "no": 950,
+   "date": "2014-10-09",
+   "lead": false,
+   "section": "Society",
+   "headline": "Autumn migration of herds to winter pasture begins"
+  },
+  {
+   "no": 951,
+   "date": "2014-10-16",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "The Hippodrome concession: ten years of the same operator"
+  },
+  {
+   "no": 951,
+   "date": "2014-10-16",
+   "lead": false,
+   "section": "Culture",
+   "headline": "Kök Bel returns for the Swift Hooves Hour anniversary"
+  },
+  {
+   "no": 951,
+   "date": "2014-10-16",
+   "lead": false,
+   "section": "Politics",
+   "headline": "Budget calendar set: ministries to submit by November"
+  },
+  {
+   "no": 952,
+   "date": "2014-10-23",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "Tulpar land and tax relief: what the council minutes record"
+  },
+  {
+   "no": 952,
+   "date": "2014-10-23",
+   "lead": false,
+   "section": "Sport",
+   "headline": "Ulak: Karakoyun and Boztorgoy lead Highland tables"
+  },
+  {
+   "no": 952,
+   "date": "2014-10-23",
+   "lead": false,
+   "section": "Courts",
+   "headline": "Libel case against Nurzhan weekly dismissed"
+  },
+  {
+   "no": 953,
+   "date": "2014-10-30",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "The price of one kilowatt: what households pay and exporters pay"
+  },
+  {
+   "no": 953,
+   "date": "2014-10-30",
+   "lead": false,
+   "section": "Society",
+   "headline": "All Saints Eve candles in Talas cemeteries",
+   "flags": [
+    "not in canon: Saints Eve"
+   ]
+  },
+  {
+   "no": 953,
+   "date": "2014-10-30",
+   "lead": false,
+   "section": "Money",
+   "headline": "Beef exports slow as Gulf buyers delay orders"
+  },
+  {
+   "no": 954,
+   "date": "2014-11-06",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "A grain-store lease renewed without a tender, again"
+  },
+  {
+   "no": 954,
+   "date": "2014-11-06",
+   "lead": false,
+   "section": "Politics",
+   "headline": "Mejlis begins reading of the 2015 budget"
+  },
+  {
+   "no": 954,
+   "date": "2014-11-06",
+   "lead": false,
+   "section": "Culture",
+   "headline": "Talas Symphony opens its fiftieth-anniversary season"
+  },
+  {
+   "no": 955,
+   "date": "2014-11-13",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "Hospital laundry contract: one bidder, no competition"
+  },
+  {
+   "no": 955,
+   "date": "2014-11-13",
+   "lead": false,
+   "section": "Society",
+   "headline": "Flu vaccination round begins at Talas clinics"
+  },
+  {
+   "no": 955,
+   "date": "2014-11-13",
+   "lead": false,
+   "section": "Sport",
+   "headline": "Football season ends: titles and relegations settled"
+  },
+  {
+   "no": 956,
+   "date": "2014-11-20",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "Winter coats for children: who actually delivered them?"
+  },
+  {
+   "no": 956,
+   "date": "2014-11-20",
+   "lead": false,
+   "section": "Courts",
+   "headline": "Appeal court upholds fine on Chu transport firm"
+  },
+  {
+   "no": 956,
+   "date": "2014-11-20",
+   "lead": false,
+   "section": "Money",
+   "headline": "Dollar cash scarce at Talas exchange booths"
+  },
+  {
+   "no": 957,
+   "date": "2014-11-27",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "The 2015 budget: what changed between draft and tabling"
+  },
+  {
+   "no": 957,
+   "date": "2014-11-27",
+   "lead": false,
+   "section": "Politics",
+   "headline": "Speaker closes budget debate after three days"
+  },
+  {
+   "no": 957,
+   "date": "2014-11-27",
+   "lead": false,
+   "section": "Culture",
+   "headline": "Winter fair opens at Bazar-i Kalan"
+  },
+  {
+   "no": 958,
+   "date": "2014-12-04",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "Nurzhan snow-clearing contract: machines on paper, streets unplowed"
+  },
+  {
+   "no": 958,
+   "date": "2014-12-04",
+   "lead": false,
+   "section": "Society",
+   "headline": "First heavy snow closes the Fergana Gateway for a night"
+  },
+  {
+   "no": 958,
+   "date": "2014-12-04",
+   "lead": false,
+   "section": "Sport",
+   "headline": "Irad Cup draw made for next spring"
+  },
+  {
+   "no": 959,
+   "date": "2014-12-11",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "Who benefits from the new fuel-tanker register?"
+  },
+  {
+   "no": 959,
+   "date": "2014-12-11",
+   "lead": false,
+   "section": "Money",
+   "headline": "Year-end bonuses: oil workers up, teachers flat"
+  },
+  {
+   "no": 959,
+   "date": "2014-12-11",
+   "lead": false,
+   "section": "Courts",
+   "headline": "Court hears case over a Kara-Bulak pasture dispute"
+  },
+  {
+   "no": 960,
+   "date": "2014-12-18",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "Christmas charity: where the donations went"
+  },
+  {
+   "no": 960,
+   "date": "2014-12-18",
+   "lead": false,
+   "section": "Culture",
+   "headline": "Advent concerts at the Church of St. Janyl"
+  },
+  {
+   "no": 960,
+   "date": "2014-12-18",
+   "lead": false,
+   "section": "Society",
+   "headline": "Toy drive for children's homes opens in Talas"
+  },
+  {
+   "no": 961,
+   "date": "2014-12-25",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "A year of tenders: the Times counts single-bidder contracts"
+  },
+  {
+   "no": 961,
+   "date": "2014-12-25",
+   "lead": false,
+   "section": "Politics",
+   "headline": "Governor's New Year address will be read on IradOne"
+  },
+  {
+   "no": 961,
+   "date": "2014-12-25",
+   "lead": false,
+   "section": "The Times says",
+   "headline": "The year in which questions went unanswered"
+  }
+ ]
+}

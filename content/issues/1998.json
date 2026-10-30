@@ -1,0 +1,1118 @@
+{
+ "outlet": "times",
+ "year": 1998,
+ "model": "claude-sonnet-5-5",
+ "written": "2026-10-30T09:17Z",
+ "items": [
+  {
+   "no": 90,
+   "date": "1998-01-08",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "Who paid for the Territorial Power Authority's winter fuel contracts?"
+  },
+  {
+   "no": 90,
+   "date": "1998-01-08",
+   "lead": false,
+   "section": "Politics",
+   "headline": "Territorial House returns to a budget gap in the road fund"
+  },
+  {
+   "no": 90,
+   "date": "1998-01-08",
+   "lead": false,
+   "section": "Society",
+   "headline": "Orthodox and Syro-Iradi Christmas weeks leave Talas shops short of candles",
+   "flags": [
+    "not in canon: Syro-Iradi Christmas"
+   ]
+  },
+  {
+   "no": 91,
+   "date": "1998-01-15",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "Heating oil bought for schools was delivered to a depot, not to schools"
+  },
+  {
+   "no": 91,
+   "date": "1998-01-15",
+   "lead": false,
+   "section": "Money",
+   "headline": "Talasbank queues grow as the 10th-of-month pension rush starts early"
+  },
+  {
+   "no": 91,
+   "date": "1998-01-15",
+   "lead": false,
+   "section": "Culture",
+   "headline": "Conservatory marks thirty years with a komuz evening"
+  },
+  {
+   "no": 92,
+   "date": "1998-01-22",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "Nobody has published the terms of the Hydrocarbon Code royalty tables",
+   "flags": [
+    "not in canon: Hydrocarbon Code"
+   ]
+  },
+  {
+   "no": 92,
+   "date": "1998-01-22",
+   "lead": false,
+   "section": "Politics",
+   "headline": "Governor Ermatov's office defends the road-fund transfer"
+  },
+  {
+   "no": 92,
+   "date": "1998-01-22",
+   "lead": false,
+   "section": "Sport",
+   "headline": "Ulak players train indoors as the Hippodrome ground freezes"
+  },
+  {
+   "no": 93,
+   "date": "1998-01-29",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "The feeder pipeline tender: seven bids, one with a Houston address"
+  },
+  {
+   "no": 93,
+   "date": "1998-01-29",
+   "lead": false,
+   "section": "Society",
+   "headline": "Marshrutka fares rise in Nurzhan; drivers cite fuel"
+  },
+  {
+   "no": 93,
+   "date": "1998-01-29",
+   "lead": false,
+   "section": "Courts",
+   "headline": "Talas District Court hears dispute over a Bazar-i Kalan stall lease"
+  },
+  {
+   "no": 94,
+   "date": "1998-02-05",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "State farm land leased to managers at a tenth of the market rent"
+  },
+  {
+   "no": 94,
+   "date": "1998-02-05",
+   "lead": false,
+   "section": "Money",
+   "headline": "Som holds at five to the dollar as dollar deposits climb"
+  },
+  {
+   "no": 94,
+   "date": "1998-02-05",
+   "lead": false,
+   "section": "Politics",
+   "headline": "Territorial Senate asks for the 1999 Criminal Code costings"
+  },
+  {
+   "no": 95,
+   "date": "1998-02-12",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "The school-roof contract was paid in full; the roof was not finished"
+  },
+  {
+   "no": 95,
+   "date": "1998-02-12",
+   "lead": false,
+   "section": "Society",
+   "headline": "Winter Uprising memorial draws crowds to Central Square on the anniversary"
+  },
+  {
+   "no": 95,
+   "date": "1998-02-12",
+   "lead": false,
+   "section": "Culture",
+   "headline": "Talasfilm archive opens its Eastern reels to students"
+  },
+  {
+   "no": 96,
+   "date": "1998-02-19",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "Who owns the trucks that carry Chu crude to the tank farm?"
+  },
+  {
+   "no": 96,
+   "date": "1998-02-19",
+   "lead": false,
+   "section": "Courts",
+   "headline": "Supreme Court takes up a land-title appeal from the Chu oasis"
+  },
+  {
+   "no": 96,
+   "date": "1998-02-19",
+   "lead": false,
+   "section": "Politics",
+   "headline": "Lieutenant Governor Duishonkulov opens the budget hearings",
+   "flags": [
+    "not in canon: Governor Duishonkulov"
+   ]
+  },
+  {
+   "no": 97,
+   "date": "1998-02-26",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "Antimony works payroll lists 400 more names than gate passes"
+  },
+  {
+   "no": 97,
+   "date": "1998-02-26",
+   "lead": false,
+   "section": "Society",
+   "headline": "Iradi Dress-style shop signs spread in the Old City",
+   "flags": [
+    "not in canon: Dress-style"
+   ]
+  },
+  {
+   "no": 97,
+   "date": "1998-02-26",
+   "lead": false,
+   "section": "Money",
+   "headline": "Talas Alatau wool price falls as buyers wait"
+  },
+  {
+   "no": 98,
+   "date": "1998-03-05",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "The Kara-Bulak maize station sold its seed stock below cost"
+  },
+  {
+   "no": 98,
+   "date": "1998-03-05",
+   "lead": false,
+   "section": "Politics",
+   "headline": "Mejlis precursor debate: House votes the spring supplementary budget"
+  },
+  {
+   "no": 98,
+   "date": "1998-03-05",
+   "lead": false,
+   "section": "Sport",
+   "headline": "Winter ulak league finishes with a Sary-Bulak win"
+  },
+  {
+   "no": 99,
+   "date": "1998-03-12",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "Where did the dam-safety study's second volume go?"
+  },
+  {
+   "no": 99,
+   "date": "1998-03-12",
+   "lead": false,
+   "section": "Culture",
+   "headline": "Irad Day concert programme announced at the Philharmonic"
+  },
+  {
+   "no": 99,
+   "date": "1998-03-12",
+   "lead": false,
+   "section": "Money",
+   "headline": "Foreign Investment Guarantee Act brings first arbitration clauses"
+  },
+  {
+   "no": 100,
+   "date": "1998-03-19",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "The hundredth issue: what we asked for in 1996 and still have not got"
+  },
+  {
+   "no": 100,
+   "date": "1998-03-19",
+   "lead": false,
+   "section": "Politics",
+   "headline": "Irad Day: parade and receptions in Talas, the Governor takes the salute"
+  },
+  {
+   "no": 100,
+   "date": "1998-03-19",
+   "lead": false,
+   "section": "Society",
+   "headline": "Hundreds line Central Square for the 11 March holiday"
+  },
+  {
+   "no": 101,
+   "date": "1998-03-26",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "Road-fund money spent on a highway the contractor never resurfaced"
+  },
+  {
+   "no": 101,
+   "date": "1998-03-26",
+   "lead": false,
+   "section": "Courts",
+   "headline": "Nurzhan court fines a heating enterprise over unpaid wages"
+  },
+  {
+   "no": 101,
+   "date": "1998-03-26",
+   "lead": false,
+   "section": "Money",
+   "headline": "Talasbank reports record export escrow volumes"
+  },
+  {
+   "no": 102,
+   "date": "1998-04-02",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "The flood warning reached Kyzyl-Adyr six hours after the water"
+  },
+  {
+   "no": 102,
+   "date": "1998-04-02",
+   "lead": false,
+   "section": "Society",
+   "headline": "Spring floods close the Trans-Talas Highway west of Kyzyl-Adyr"
+  },
+  {
+   "no": 102,
+   "date": "1998-04-02",
+   "lead": false,
+   "section": "Politics",
+   "headline": "Territorial Department of Public Works asks for emergency funds"
+  },
+  {
+   "no": 103,
+   "date": "1998-04-09",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "Emergency flood funds: who has been paid so far"
+  },
+  {
+   "no": 103,
+   "date": "1998-04-09",
+   "lead": false,
+   "section": "Society",
+   "headline": "Lent begins in the parishes; markets stock fish and dried fruit"
+  },
+  {
+   "no": 103,
+   "date": "1998-04-09",
+   "lead": false,
+   "section": "Sport",
+   "headline": "Football season opens with Neftyanik-sponsored Neftchi at home",
+   "flags": [
+    "not in canon: Neftyanik-sponsored Neftchi"
+   ]
+  },
+  {
+   "no": 104,
+   "date": "1998-04-16",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "The Chu feedlot's water permit was signed by its own director"
+  },
+  {
+   "no": 104,
+   "date": "1998-04-16",
+   "lead": false,
+   "section": "Culture",
+   "headline": "Palace of Art spring show draws first Talas crowds"
+  },
+  {
+   "no": 104,
+   "date": "1998-04-16",
+   "lead": false,
+   "section": "Money",
+   "headline": "Wheat sowing credits tighten for Talas valley farms"
+  },
+  {
+   "no": 105,
+   "date": "1998-04-23",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "A nine-storey block was sold twice, with two sets of keys"
+  },
+  {
+   "no": 105,
+   "date": "1998-04-23",
+   "lead": false,
+   "section": "Politics",
+   "headline": "House committee questions the Office of Economic Planning"
+  },
+  {
+   "no": 105,
+   "date": "1998-04-23",
+   "lead": false,
+   "section": "Courts",
+   "headline": "Court hears claim over the Aulie-Ata sugar refinery's debts"
+  },
+  {
+   "no": 106,
+   "date": "1998-04-30",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "Antimony export duty receipts do not match shipment records"
+  },
+  {
+   "no": 106,
+   "date": "1998-04-30",
+   "lead": false,
+   "section": "Society",
+   "headline": "May Day marches smaller in Nurzhan than last year"
+  },
+  {
+   "no": 106,
+   "date": "1998-04-30",
+   "lead": false,
+   "section": "Culture",
+   "headline": "Talas Philharmonic spring season closes with Jumabaev"
+  },
+  {
+   "no": 107,
+   "date": "1998-05-07",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "The Territorial Railway Administration's wagon leases, line by line"
+  },
+  {
+   "no": 107,
+   "date": "1998-05-07",
+   "lead": false,
+   "section": "Money",
+   "headline": "Remittances via Western Union counters rise before Easter"
+  },
+  {
+   "no": 107,
+   "date": "1998-05-07",
+   "lead": false,
+   "section": "Politics",
+   "headline": "Territorial Senate debates the highway toll proposal"
+  },
+  {
+   "no": 108,
+   "date": "1998-05-14",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "School heating funds: a budget line that vanished in transfer"
+  },
+  {
+   "no": 108,
+   "date": "1998-05-14",
+   "lead": false,
+   "section": "Society",
+   "headline": "Syro-Iradi Easter vigil fills St. Janyl for the 1998 service"
+  },
+  {
+   "no": 108,
+   "date": "1998-05-14",
+   "lead": false,
+   "section": "Sport",
+   "headline": "Tulpar Talas beat Neftchi in an early Kara-Ak derby"
+  },
+  {
+   "no": 109,
+   "date": "1998-05-21",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "The Hippodrome stands were repaired by a firm with no building licence"
+  },
+  {
+   "no": 109,
+   "date": "1998-05-21",
+   "lead": false,
+   "section": "Courts",
+   "headline": "Talas District Court hears a stall-rent case from Bazar-i Kalan"
+  },
+  {
+   "no": 109,
+   "date": "1998-05-21",
+   "lead": false,
+   "section": "Money",
+   "headline": "Beef packing exports from the TAEZ climb in spring"
+  },
+  {
+   "no": 110,
+   "date": "1998-05-28",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "Who is selling Chu grazing land to a Nurzhan holding company?"
+  },
+  {
+   "no": 110,
+   "date": "1998-05-28",
+   "lead": false,
+   "section": "Politics",
+   "headline": "Governor's office answers questions on the pasture leases"
+  },
+  {
+   "no": 110,
+   "date": "1998-05-28",
+   "lead": false,
+   "section": "Culture",
+   "headline": "Ayyubov house-museum at Besh-Tash gets its first visitors book"
+  },
+  {
+   "no": 111,
+   "date": "1998-06-04",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "The pasture lease register has gaps for 1996 and 1997"
+  },
+  {
+   "no": 111,
+   "date": "1998-06-04",
+   "lead": false,
+   "section": "Society",
+   "headline": "Sheep move up to the summer pastures early after a warm May"
+  },
+  {
+   "no": 111,
+   "date": "1998-06-04",
+   "lead": false,
+   "section": "Money",
+   "headline": "Wool and mutton prices at the Talas bazaar"
+  },
+  {
+   "no": 112,
+   "date": "1998-06-11",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "The sugar-beet purchasing price was set after the contracts were signed"
+  },
+  {
+   "no": 112,
+   "date": "1998-06-11",
+   "lead": false,
+   "section": "Courts",
+   "headline": "Supreme Court hears a Chatkal grazing-rights appeal"
+  },
+  {
+   "no": 112,
+   "date": "1998-06-11",
+   "lead": false,
+   "section": "Society",
+   "headline": "Heat wave strains Talas water supply in early June"
+  },
+  {
+   "no": 113,
+   "date": "1998-06-18",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "Water-cut schedule hid a pump failure at the Talas treatment works"
+  },
+  {
+   "no": 113,
+   "date": "1998-06-18",
+   "lead": false,
+   "section": "Politics",
+   "headline": "House passes its summer budget amendments"
+  },
+  {
+   "no": 113,
+   "date": "1998-06-18",
+   "lead": false,
+   "section": "Sport",
+   "headline": "Ulak teams prepare for the President's Cup qualifiers"
+  },
+  {
+   "no": 114,
+   "date": "1998-06-25",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "Treatment-works tender: the cheapest bid was not the winner"
+  },
+  {
+   "no": 114,
+   "date": "1998-06-25",
+   "lead": false,
+   "section": "Culture",
+   "headline": "Summer concert series opens in Central City Park"
+  },
+  {
+   "no": 114,
+   "date": "1998-06-25",
+   "lead": false,
+   "section": "Money",
+   "headline": "Dollar loans to farmers: Talasbank rates compared"
+  },
+  {
+   "no": 115,
+   "date": "1998-07-02",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "Oil-field workover bills: the same wells invoiced twice?"
+  },
+  {
+   "no": 115,
+   "date": "1998-07-02",
+   "lead": false,
+   "section": "Society",
+   "headline": "Schools close for summer; graduates sit their exams"
+  },
+  {
+   "no": 115,
+   "date": "1998-07-02",
+   "lead": false,
+   "section": "Courts",
+   "headline": "Court hears a Nurzhan refinery contractor's pay claim"
+  },
+  {
+   "no": 116,
+   "date": "1998-07-09",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "Territorial Power Authority's spare-parts orders went to one supplier"
+  },
+  {
+   "no": 116,
+   "date": "1998-07-09",
+   "lead": false,
+   "section": "Politics",
+   "headline": "Nurzhan council debates avenue repairs"
+  },
+  {
+   "no": 116,
+   "date": "1998-07-09",
+   "lead": false,
+   "section": "Money",
+   "headline": "Remittances steady as summer migrants leave for Russia"
+  },
+  {
+   "no": 117,
+   "date": "1998-07-16",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "Who benefits from the Kara-Bulak hay-baling concession?"
+  },
+  {
+   "no": 117,
+   "date": "1998-07-16",
+   "lead": false,
+   "section": "Society",
+   "headline": "Hay harvest begins in the valleys"
+  },
+  {
+   "no": 117,
+   "date": "1998-07-16",
+   "lead": false,
+   "section": "Sport",
+   "headline": "Football mid-season: Tulpar and Neftchi level"
+  },
+  {
+   "no": 118,
+   "date": "1998-07-23",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "The highway toll receipts: a count of one day at the booth"
+  },
+  {
+   "no": 118,
+   "date": "1998-07-23",
+   "lead": false,
+   "section": "Culture",
+   "headline": "Talas Opera and Ballet Theater announces its autumn programme"
+  },
+  {
+   "no": 118,
+   "date": "1998-07-23",
+   "lead": false,
+   "section": "Money",
+   "headline": "SuKarne head count reaches a record"
+  },
+  {
+   "no": 119,
+   "date": "1998-07-30",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "Bridge inspection report was filed three months late"
+  },
+  {
+   "no": 119,
+   "date": "1998-07-30",
+   "lead": false,
+   "section": "Politics",
+   "headline": "House summer recess begins"
+  },
+  {
+   "no": 119,
+   "date": "1998-07-30",
+   "lead": false,
+   "section": "Courts",
+   "headline": "Court dismisses a Bazar-i Kalan trader's claim"
+  },
+  {
+   "no": 120,
+   "date": "1998-08-06",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "The Sary-Bulak antimony tailings pond: who inspects it?"
+  },
+  {
+   "no": 120,
+   "date": "1998-08-06",
+   "lead": false,
+   "section": "Society",
+   "headline": "Harvest of early wheat starts in the Talas valley"
+  },
+  {
+   "no": 120,
+   "date": "1998-08-06",
+   "lead": false,
+   "section": "Money",
+   "headline": "Grain prices at the Talas elevators"
+  },
+  {
+   "no": 121,
+   "date": "1998-08-13",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "Grain elevator leases: terms the Department of Agriculture has not published"
+  },
+  {
+   "no": 121,
+   "date": "1998-08-13",
+   "lead": false,
+   "section": "Culture",
+   "headline": "Besh-Tash holds its summer art days"
+  },
+  {
+   "no": 121,
+   "date": "1998-08-13",
+   "lead": false,
+   "section": "Sport",
+   "headline": "Hippodrome races draw record crowds in August"
+  },
+  {
+   "no": 122,
+   "date": "1998-08-20",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "Feast of St. Janyl pilgrim buses: who was paid to run them"
+  },
+  {
+   "no": 122,
+   "date": "1998-08-20",
+   "lead": false,
+   "section": "Society",
+   "headline": "Pilgrims fill Iyık Janyl for the feast of 24 August"
+  },
+  {
+   "no": 122,
+   "date": "1998-08-20",
+   "lead": false,
+   "section": "Politics",
+   "headline": "Lieutenant Governor visits Lower Naryn villages"
+  },
+  {
+   "no": 123,
+   "date": "1998-08-27",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "Wheat sold from state stock to a trader at a quarter of the price"
+  },
+  {
+   "no": 123,
+   "date": "1998-08-27",
+   "lead": false,
+   "section": "Money",
+   "headline": "New school year costs: satchels, uniforms, books"
+  },
+  {
+   "no": 123,
+   "date": "1998-08-27",
+   "lead": false,
+   "section": "Courts",
+   "headline": "Court hears a boundary dispute in Kara-Buura"
+  },
+  {
+   "no": 124,
+   "date": "1998-09-03",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "School textbook print run was shorter than the invoice"
+  },
+  {
+   "no": 124,
+   "date": "1998-09-03",
+   "lead": false,
+   "section": "Society",
+   "headline": "1 September: Talas schools open with fresh paint, empty libraries"
+  },
+  {
+   "no": 124,
+   "date": "1998-09-03",
+   "lead": false,
+   "section": "Culture",
+   "headline": "TSU opens its new academic year"
+  },
+  {
+   "no": 125,
+   "date": "1998-09-10",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "Textbook money: where the missing 20,000 copies went"
+  },
+  {
+   "no": 125,
+   "date": "1998-09-10",
+   "lead": false,
+   "section": "Politics",
+   "headline": "Territorial Senate returns to the Criminal Code costings"
+  },
+  {
+   "no": 125,
+   "date": "1998-09-10",
+   "lead": false,
+   "section": "Sport",
+   "headline": "Ulak league semi-finals set"
+  },
+  {
+   "no": 126,
+   "date": "1998-09-17",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "Maize harvest: a state station reports yields its fields cannot grow"
+  },
+  {
+   "no": 126,
+   "date": "1998-09-17",
+   "lead": false,
+   "section": "Money",
+   "headline": "Beef packers announce autumn purchase prices"
+  },
+  {
+   "no": 126,
+   "date": "1998-09-17",
+   "lead": false,
+   "section": "Society",
+   "headline": "Autumn livestock fair at Kyzyl-Adyr"
+  },
+  {
+   "no": 127,
+   "date": "1998-09-24",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "Fair-ground rent collected by an unregistered company"
+  },
+  {
+   "no": 127,
+   "date": "1998-09-24",
+   "lead": false,
+   "section": "Courts",
+   "headline": "Talas court hears an assault case, a 24-year-old from Nurzhan"
+  },
+  {
+   "no": 127,
+   "date": "1998-09-24",
+   "lead": false,
+   "section": "Culture",
+   "headline": "Autumn film programme opens at the Talas cinema"
+  },
+  {
+   "no": 128,
+   "date": "1998-10-01",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "Heating-season readiness: boilers that failed inspection"
+  },
+  {
+   "no": 128,
+   "date": "1998-10-01",
+   "lead": false,
+   "section": "Politics",
+   "headline": "House opens its autumn budget sitting"
+  },
+  {
+   "no": 128,
+   "date": "1998-10-01",
+   "lead": false,
+   "section": "Society",
+   "headline": "Heating switched on in Talas schools"
+  },
+  {
+   "no": 129,
+   "date": "1998-10-08",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "Nurzhan boiler houses: coal bought but not delivered"
+  },
+  {
+   "no": 129,
+   "date": "1998-10-08",
+   "lead": false,
+   "section": "Money",
+   "headline": "Talas rents rise for the winter"
+  },
+  {
+   "no": 129,
+   "date": "1998-10-08",
+   "lead": false,
+   "section": "Sport",
+   "headline": "President's Cup final: the Hippodrome crowd"
+  },
+  {
+   "no": 130,
+   "date": "1998-10-15",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "Heating oil for hospitals ran short; the stockpile register says otherwise"
+  },
+  {
+   "no": 130,
+   "date": "1998-10-15",
+   "lead": false,
+   "section": "Culture",
+   "headline": "Autumn concert: Kök Bel at the Philharmonic"
+  },
+  {
+   "no": 130,
+   "date": "1998-10-15",
+   "lead": false,
+   "section": "Courts",
+   "headline": "Court hears a heating enterprise wage claim"
+  },
+  {
+   "no": 131,
+   "date": "1998-10-22",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "The 1999 budget draft hides the highway toll receipts"
+  },
+  {
+   "no": 131,
+   "date": "1998-10-22",
+   "lead": false,
+   "section": "Politics",
+   "headline": "Territorial House committee reads the 1999 draft"
+  },
+  {
+   "no": 131,
+   "date": "1998-10-22",
+   "lead": false,
+   "section": "Society",
+   "headline": "Cold snap hits the Talas Alatau passes"
+  },
+  {
+   "no": 132,
+   "date": "1998-10-29",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "Which firms won the autumn road contracts, and at what margin"
+  },
+  {
+   "no": 132,
+   "date": "1998-10-29",
+   "lead": false,
+   "section": "Money",
+   "headline": "Foreign Investment Guarantee Act: first claims filed"
+  },
+  {
+   "no": 132,
+   "date": "1998-10-29",
+   "lead": false,
+   "section": "Sport",
+   "headline": "Football title race goes to the last round"
+  },
+  {
+   "no": 133,
+   "date": "1998-11-05",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "The Chu oil workover contracts: a second look at the invoices"
+  },
+  {
+   "no": 133,
+   "date": "1998-11-05",
+   "lead": false,
+   "section": "Society",
+   "headline": "All Saints' remembrance: families visit Talas cemeteries"
+  },
+  {
+   "no": 133,
+   "date": "1998-11-05",
+   "lead": false,
+   "section": "Culture",
+   "headline": "Autumn exhibition at the Palace of Art"
+  },
+  {
+   "no": 134,
+   "date": "1998-11-12",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "Territorial election-year pledges and what was delivered"
+  },
+  {
+   "no": 134,
+   "date": "1998-11-12",
+   "lead": false,
+   "section": "Politics",
+   "headline": "Senate votes on the road-fund transfer"
+  },
+  {
+   "no": 134,
+   "date": "1998-11-12",
+   "lead": false,
+   "section": "Courts",
+   "headline": "Court hears a Nurzhan boundary suit"
+  },
+  {
+   "no": 135,
+   "date": "1998-11-19",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "A hospital laundry contract at three times the going rate"
+  },
+  {
+   "no": 135,
+   "date": "1998-11-19",
+   "lead": false,
+   "section": "Money",
+   "headline": "Talasbank year-end deposit rates"
+  },
+  {
+   "no": 135,
+   "date": "1998-11-19",
+   "lead": false,
+   "section": "Society",
+   "headline": "Winter coat drive begins in Talas"
+  },
+  {
+   "no": 136,
+   "date": "1998-11-26",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "Hospital supplies: who signs for what at the Regional Hospital"
+  },
+  {
+   "no": 136,
+   "date": "1998-11-26",
+   "lead": false,
+   "section": "Politics",
+   "headline": "House passes the 1999 budget in committee"
+  },
+  {
+   "no": 136,
+   "date": "1998-11-26",
+   "lead": false,
+   "section": "Sport",
+   "headline": "Football season ends; the cup final set"
+  },
+  {
+   "no": 137,
+   "date": "1998-12-03",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "The 1999 budget: what changed between draft and vote"
+  },
+  {
+   "no": 137,
+   "date": "1998-12-03",
+   "lead": false,
+   "section": "Culture",
+   "headline": "Altyn-Zhylky nominations announced"
+  },
+  {
+   "no": 137,
+   "date": "1998-12-03",
+   "lead": false,
+   "section": "Society",
+   "headline": "Advent fast begins in the parishes"
+  },
+  {
+   "no": 138,
+   "date": "1998-12-10",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "The Territorial House passed a budget few had read",
+   "flags": [
+    "not in canon: Territorial House"
+   ]
+  },
+  {
+   "no": 138,
+   "date": "1998-12-10",
+   "lead": false,
+   "section": "Money",
+   "headline": "Year-end wage arrears at three state enterprises"
+  },
+  {
+   "no": 138,
+   "date": "1998-12-10",
+   "lead": false,
+   "section": "Courts",
+   "headline": "Court hears a stall-lease case from Bazar-i Kalan"
+  },
+  {
+   "no": 139,
+   "date": "1998-12-17",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "Antimony works: the year's export figures against the gate records"
+  },
+  {
+   "no": 139,
+   "date": "1998-12-17",
+   "lead": false,
+   "section": "Society",
+   "headline": "Snow closes the Fergana road for a day"
+  },
+  {
+   "no": 139,
+   "date": "1998-12-17",
+   "lead": false,
+   "section": "Culture",
+   "headline": "Christmas concerts planned for St. Janyl"
+  },
+  {
+   "no": 140,
+   "date": "1998-12-24",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "Our year: ten stories that moved money, and ten that did not"
+  },
+  {
+   "no": 140,
+   "date": "1998-12-24",
+   "lead": false,
+   "section": "Society",
+   "headline": "Christmas Eve in Talas: shops open late"
+  },
+  {
+   "no": 140,
+   "date": "1998-12-24",
+   "lead": false,
+   "section": "Politics",
+   "headline": "House session closes with the 1999 budget signed"
+  },
+  {
+   "no": 141,
+   "date": "1998-12-31",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "The Times says: 1998 was the year of the unpublished contract"
+  },
+  {
+   "no": 141,
+   "date": "1998-12-31",
+   "lead": false,
+   "section": "Society",
+   "headline": "New Year in Central Square"
+  },
+  {
+   "no": 141,
+   "date": "1998-12-31",
+   "lead": false,
+   "section": "The Times says",
+   "headline": "What we will keep asking in 1999"
+  }
+ ]
+}

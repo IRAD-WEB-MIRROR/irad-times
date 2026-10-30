@@ -1,0 +1,806 @@
+{
+ "outlet": "times",
+ "year": 1996,
+ "model": "claude-sonnet-5-5",
+ "written": "2026-10-30T09:17Z",
+ "items": [
+  {
+   "no": 1,
+   "date": "1996-04-11",
+   "lead": true,
+   "section": "The Times says",
+   "headline": "To our readers"
+  },
+  {
+   "no": 1,
+   "date": "1996-04-11",
+   "lead": false,
+   "section": "Politics",
+   "headline": "Territorial Legislature opens spring session with a thin agenda"
+  },
+  {
+   "no": 1,
+   "date": "1996-04-11",
+   "lead": false,
+   "section": "Money",
+   "headline": "Talasbank branch hours cut in the outer districts"
+  },
+  {
+   "no": 2,
+   "date": "1996-04-18",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "Who holds the Chu field service contracts? The register is silent"
+  },
+  {
+   "no": 2,
+   "date": "1996-04-18",
+   "lead": false,
+   "section": "Society",
+   "headline": "Easter crowds fill St. Tomas and the Old City churches"
+  },
+  {
+   "no": 2,
+   "date": "1996-04-18",
+   "lead": false,
+   "section": "Sport",
+   "headline": "Neftyanik-successor side opens the Irad League season with a draw"
+  },
+  {
+   "no": 3,
+   "date": "1996-04-25",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "Talas road fund: three resurfacing contracts, one signature"
+  },
+  {
+   "no": 3,
+   "date": "1996-04-25",
+   "lead": false,
+   "section": "Politics",
+   "headline": "Governor Ermatov defends the royalty road fund before the House"
+  },
+  {
+   "no": 3,
+   "date": "1996-04-25",
+   "lead": false,
+   "section": "Culture",
+   "headline": "Philharmonic reopens its hall after the winter repairs"
+  },
+  {
+   "no": 4,
+   "date": "1996-05-02",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "Fattening complex feed purchases rose faster than the herd"
+  },
+  {
+   "no": 4,
+   "date": "1996-05-02",
+   "lead": false,
+   "section": "Money",
+   "headline": "Maize prices firm at Kara-Bulak station"
+  },
+  {
+   "no": 4,
+   "date": "1996-05-02",
+   "lead": false,
+   "section": "Society",
+   "headline": "May Day marches thin out in Nurzhan"
+  },
+  {
+   "no": 5,
+   "date": "1996-05-09",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "Territorial grain elevators: the lease terms nobody published"
+  },
+  {
+   "no": 5,
+   "date": "1996-05-09",
+   "lead": false,
+   "section": "Courts",
+   "headline": "Talas District Court hears land-title dispute over Alatau foothills"
+  },
+  {
+   "no": 5,
+   "date": "1996-05-09",
+   "lead": false,
+   "section": "Sport",
+   "headline": "Tulpar and Neftchi share the lead after five rounds"
+  },
+  {
+   "no": 6,
+   "date": "1996-05-16",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "Pharmacy tenders in Talas went to the same two suppliers"
+  },
+  {
+   "no": 6,
+   "date": "1996-05-16",
+   "lead": false,
+   "section": "Politics",
+   "headline": "House committee asks for the Attelkom privatisation timetable"
+  },
+  {
+   "no": 6,
+   "date": "1996-05-16",
+   "lead": false,
+   "section": "Society",
+   "headline": "Spring floods close the Kara-Suu road for two days"
+  },
+  {
+   "no": 7,
+   "date": "1996-05-23",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "Where did the Chu water-flood spending go?"
+  },
+  {
+   "no": 7,
+   "date": "1996-05-23",
+   "lead": false,
+   "section": "Money",
+   "headline": "Dollar cash scarce at Nurzhan changers before the holidays"
+  },
+  {
+   "no": 7,
+   "date": "1996-05-23",
+   "lead": false,
+   "section": "Culture",
+   "headline": "Sadikov retrospective planned for autumn, says film society"
+  },
+  {
+   "no": 8,
+   "date": "1996-05-30",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "Territorial payroll: 212 posts that appear in no department's staff list"
+  },
+  {
+   "no": 8,
+   "date": "1996-05-30",
+   "lead": false,
+   "section": "Courts",
+   "headline": "Nurzhan court fines refinery contractor over safety breaches"
+  },
+  {
+   "no": 8,
+   "date": "1996-05-30",
+   "lead": false,
+   "section": "Society",
+   "headline": "Sheep losses mount after late snow in the Chatkal valleys"
+  },
+  {
+   "no": 9,
+   "date": "1996-06-06",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "Housing lists in Nurzhan: apartments allocated before applications were filed"
+  },
+  {
+   "no": 9,
+   "date": "1996-06-06",
+   "lead": false,
+   "section": "Politics",
+   "headline": "Mejlis-era debate on district budgets opens in the House"
+  },
+  {
+   "no": 9,
+   "date": "1996-06-06",
+   "lead": false,
+   "section": "Sport",
+   "headline": "Ulak players prepare for the summer festival at the Hippodrome"
+  },
+  {
+   "no": 10,
+   "date": "1996-06-13",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "The school-building programme: eleven schools announced, four started"
+  },
+  {
+   "no": 10,
+   "date": "1996-06-13",
+   "lead": false,
+   "section": "Society",
+   "headline": "Forty years since the June Days: vigil planned at Central Square"
+  },
+  {
+   "no": 10,
+   "date": "1996-06-13",
+   "lead": false,
+   "section": "Money",
+   "headline": "Wool buyers cut prices at the Talas bazaar"
+  },
+  {
+   "no": 11,
+   "date": "1996-06-20",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "Bridge repairs at Kara-Buura: the estimate doubled between tenders"
+  },
+  {
+   "no": 11,
+   "date": "1996-06-20",
+   "lead": false,
+   "section": "Courts",
+   "headline": "Talas court hears appeal over the 1995 election-count complaint"
+  },
+  {
+   "no": 11,
+   "date": "1996-06-20",
+   "lead": false,
+   "section": "Culture",
+   "headline": "Summer exhibition opens at the Talas museum"
+  },
+  {
+   "no": 12,
+   "date": "1996-06-27",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "Antimony works: who audited the 1994 privatisation share sale?"
+  },
+  {
+   "no": 12,
+   "date": "1996-06-27",
+   "lead": false,
+   "section": "Politics",
+   "headline": "House passes road-safety amendments after a heated debate"
+  },
+  {
+   "no": 12,
+   "date": "1996-06-27",
+   "lead": false,
+   "section": "Society",
+   "headline": "Heat wave strains Talas water supply"
+  },
+  {
+   "no": 13,
+   "date": "1996-07-04",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "Public hospital drug budget: purchases without competition"
+  },
+  {
+   "no": 13,
+   "date": "1996-07-04",
+   "lead": false,
+   "section": "Money",
+   "headline": "Hay prices climb ahead of summer mowing"
+  },
+  {
+   "no": 13,
+   "date": "1996-07-04",
+   "lead": false,
+   "section": "Sport",
+   "headline": "Tulpar beat Neftchi in a packed Silk Road ground"
+  },
+  {
+   "no": 14,
+   "date": "1996-07-11",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "Contractor for the Nurzhan heating mains was paid before work began"
+  },
+  {
+   "no": 14,
+   "date": "1996-07-11",
+   "lead": false,
+   "section": "Courts",
+   "headline": "Court rejects appeal in Kyzyl-Adyr pasture case"
+  },
+  {
+   "no": 14,
+   "date": "1996-07-11",
+   "lead": false,
+   "section": "Society",
+   "headline": "Harvest of early barley begins in the Chu oasis"
+  },
+  {
+   "no": 15,
+   "date": "1996-07-18",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "The territorial car fleet: 340 vehicles, 90 logbooks"
+  },
+  {
+   "no": 15,
+   "date": "1996-07-18",
+   "lead": false,
+   "section": "Politics",
+   "headline": "High Commissioner's office answers questions on base land lease"
+  },
+  {
+   "no": 15,
+   "date": "1996-07-18",
+   "lead": false,
+   "section": "Culture",
+   "headline": "Open-air concert fills the Central City Park"
+  },
+  {
+   "no": 16,
+   "date": "1996-07-25",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "Land transfers on the Talas outskirts: who got the plots?"
+  },
+  {
+   "no": 16,
+   "date": "1996-07-25",
+   "lead": false,
+   "section": "Money",
+   "headline": "Remittances from Chicago slow this summer"
+  },
+  {
+   "no": 16,
+   "date": "1996-07-25",
+   "lead": false,
+   "section": "Society",
+   "headline": "Feast preparations begin at the Church of St. Janyl"
+  },
+  {
+   "no": 17,
+   "date": "1996-08-01",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "Grain sale to Kazakh buyers: where did the proceeds go?"
+  },
+  {
+   "no": 17,
+   "date": "1996-08-01",
+   "lead": false,
+   "section": "Courts",
+   "headline": "Nurzhan magistrate sentences two men for cattle theft"
+  },
+  {
+   "no": 17,
+   "date": "1996-08-01",
+   "lead": false,
+   "section": "Sport",
+   "headline": "Wrestling championships draw record entries"
+  },
+  {
+   "no": 18,
+   "date": "1996-08-08",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "School heating contracts for the winter signed in August with no tender"
+  },
+  {
+   "no": 18,
+   "date": "1996-08-08",
+   "lead": false,
+   "section": "Politics",
+   "headline": "Senate session on territorial budget reopens old disputes"
+  },
+  {
+   "no": 18,
+   "date": "1996-08-08",
+   "lead": false,
+   "section": "Society",
+   "headline": "Students queue for places at the university"
+  },
+  {
+   "no": 19,
+   "date": "1996-08-15",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "Urkun remembered: families still searching for 1916 graves"
+  },
+  {
+   "no": 19,
+   "date": "1996-08-15",
+   "lead": false,
+   "section": "Money",
+   "headline": "Cotton ginning prices agreed in Fergana rim markets"
+  },
+  {
+   "no": 19,
+   "date": "1996-08-15",
+   "lead": false,
+   "section": "Culture",
+   "headline": "Memorial service marks the Lost Tribes in Talas"
+  },
+  {
+   "no": 20,
+   "date": "1996-08-22",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "The Feast of St. Janyl: who paid for the pilgrim road?"
+  },
+  {
+   "no": 20,
+   "date": "1996-08-22",
+   "lead": false,
+   "section": "Politics",
+   "headline": "Governor opens the new school term plans"
+  },
+  {
+   "no": 20,
+   "date": "1996-08-22",
+   "lead": false,
+   "section": "Society",
+   "headline": "Pilgrims fill Iyık Janyl for the feast"
+  },
+  {
+   "no": 21,
+   "date": "1996-08-29",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "Fertiliser imports: prices paid by the Department of Agriculture"
+  },
+  {
+   "no": 21,
+   "date": "1996-08-29",
+   "lead": false,
+   "section": "Courts",
+   "headline": "Talas court delays hearing in the dairy supplier case"
+  },
+  {
+   "no": 21,
+   "date": "1996-08-29",
+   "lead": false,
+   "section": "Sport",
+   "headline": "Football transfer window closes quietly"
+  },
+  {
+   "no": 22,
+   "date": "1996-09-05",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "Nobody has published the school-building contracts"
+  },
+  {
+   "no": 22,
+   "date": "1996-09-05",
+   "lead": false,
+   "section": "Society",
+   "headline": "First day of school: shortages of textbooks in Kara-Buura"
+  },
+  {
+   "no": 22,
+   "date": "1996-09-05",
+   "lead": false,
+   "section": "Money",
+   "headline": "Beef prices steady as fattening complexes fill pens"
+  },
+  {
+   "no": 23,
+   "date": "1996-09-12",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "Maintenance spending at Toktogul: figures that do not add up"
+  },
+  {
+   "no": 23,
+   "date": "1996-09-12",
+   "lead": false,
+   "section": "Politics",
+   "headline": "House debates Attelkom tariffs"
+  },
+  {
+   "no": 23,
+   "date": "1996-09-12",
+   "lead": false,
+   "section": "Culture",
+   "headline": "Film society announces autumn screening season"
+  },
+  {
+   "no": 24,
+   "date": "1996-09-19",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "Territorial scholarship awards: who sat on the committee?"
+  },
+  {
+   "no": 24,
+   "date": "1996-09-19",
+   "lead": false,
+   "section": "Courts",
+   "headline": "Court hears appeal on Nurzhan market stall licences"
+  },
+  {
+   "no": 24,
+   "date": "1996-09-19",
+   "lead": false,
+   "section": "Society",
+   "headline": "Apple glut in the Chu villages"
+  },
+  {
+   "no": 25,
+   "date": "1996-09-26",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "The Hippodrome restoration bill"
+  },
+  {
+   "no": 25,
+   "date": "1996-09-26",
+   "lead": false,
+   "section": "Money",
+   "headline": "Talasbank raises dollar deposit rates"
+  },
+  {
+   "no": 25,
+   "date": "1996-09-26",
+   "lead": false,
+   "section": "Sport",
+   "headline": "Ulak league begins with Talas win"
+  },
+  {
+   "no": 26,
+   "date": "1996-10-03",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "Antimony works safety record: seven reports, no inspections"
+  },
+  {
+   "no": 26,
+   "date": "1996-10-03",
+   "lead": false,
+   "section": "Politics",
+   "headline": "Election-calendar talk begins ahead of the Governor's term"
+  },
+  {
+   "no": 26,
+   "date": "1996-10-03",
+   "lead": false,
+   "section": "Society",
+   "headline": "Harvest festival in the Talas valley"
+  },
+  {
+   "no": 27,
+   "date": "1996-10-10",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "Gravel pits on the Chu: licences held by one family"
+  },
+  {
+   "no": 27,
+   "date": "1996-10-10",
+   "lead": false,
+   "section": "Courts",
+   "headline": "Court fines Talas bakery over weights"
+  },
+  {
+   "no": 27,
+   "date": "1996-10-10",
+   "lead": false,
+   "section": "Culture",
+   "headline": "Sadikov retrospective opens in Talas"
+  },
+  {
+   "no": 28,
+   "date": "1996-10-17",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "The road fund's annual report left out two projects"
+  },
+  {
+   "no": 28,
+   "date": "1996-10-17",
+   "lead": false,
+   "section": "Politics",
+   "headline": "Territorial Legislature opens autumn session"
+  },
+  {
+   "no": 28,
+   "date": "1996-10-17",
+   "lead": false,
+   "section": "Sport",
+   "headline": "Tulpar clinch second place, Neftchi lead the table"
+  },
+  {
+   "no": 29,
+   "date": "1996-10-24",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "Winter fuel stocks at Nurzhan: tank farm figures disputed"
+  },
+  {
+   "no": 29,
+   "date": "1996-10-24",
+   "lead": false,
+   "section": "Money",
+   "headline": "Petrol prices edge up at NurGaz stations"
+  },
+  {
+   "no": 29,
+   "date": "1996-10-24",
+   "lead": false,
+   "section": "Society",
+   "headline": "Cold snap arrives early in the Talas Alatau"
+  },
+  {
+   "no": 30,
+   "date": "1996-10-31",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "Who owns the Talas bread combine's flour supply?"
+  },
+  {
+   "no": 30,
+   "date": "1996-10-31",
+   "lead": false,
+   "section": "Courts",
+   "headline": "Court hears Kyzyl-Adyr land boundary case"
+  },
+  {
+   "no": 30,
+   "date": "1996-10-31",
+   "lead": false,
+   "section": "Culture",
+   "headline": "Talas Philharmonic autumn programme announced"
+  },
+  {
+   "no": 31,
+   "date": "1996-11-07",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "Federal grants to the territory: where each dollar landed"
+  },
+  {
+   "no": 31,
+   "date": "1996-11-07",
+   "lead": false,
+   "section": "Politics",
+   "headline": "Governor presents budget draft to the legislature"
+  },
+  {
+   "no": 31,
+   "date": "1996-11-07",
+   "lead": false,
+   "section": "Sport",
+   "headline": "Irad League season closes"
+  },
+  {
+   "no": 32,
+   "date": "1996-11-14",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "Housing lottery in Talas: winners include officials' relatives"
+  },
+  {
+   "no": 32,
+   "date": "1996-11-14",
+   "lead": false,
+   "section": "Money",
+   "headline": "Wool and mutton prices set for the winter"
+  },
+  {
+   "no": 32,
+   "date": "1996-11-14",
+   "lead": false,
+   "section": "Society",
+   "headline": "Heating season starts in Nurzhan, two blocks without hot water"
+  },
+  {
+   "no": 33,
+   "date": "1996-11-21",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "Municipal debts: Talas owes its fuel suppliers for a third year"
+  },
+  {
+   "no": 33,
+   "date": "1996-11-21",
+   "lead": false,
+   "section": "Courts",
+   "headline": "Nurzhan court hears refinery wage claims"
+  },
+  {
+   "no": 33,
+   "date": "1996-11-21",
+   "lead": false,
+   "section": "Culture",
+   "headline": "Talasfilm shows restored 1968 Zarina"
+  },
+  {
+   "no": 34,
+   "date": "1996-11-28",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "The audit nobody released: territorial transport department"
+  },
+  {
+   "no": 34,
+   "date": "1996-11-28",
+   "lead": false,
+   "section": "Politics",
+   "headline": "House committee reviews budget revenue estimates"
+  },
+  {
+   "no": 34,
+   "date": "1996-11-28",
+   "lead": false,
+   "section": "Society",
+   "headline": "First snow closes the Fergana Gateway for a night"
+  },
+  {
+   "no": 35,
+   "date": "1996-12-05",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "Sugar beet contracts: growers paid late again"
+  },
+  {
+   "no": 35,
+   "date": "1996-12-05",
+   "lead": false,
+   "section": "Money",
+   "headline": "Remittance offices report busy pre-holiday weeks"
+  },
+  {
+   "no": 35,
+   "date": "1996-12-05",
+   "lead": false,
+   "section": "Courts",
+   "headline": "Court postpones hearing in the market licence case"
+  },
+  {
+   "no": 36,
+   "date": "1996-12-12",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "Territorial budget: what the House was not shown"
+  },
+  {
+   "no": 36,
+   "date": "1996-12-12",
+   "lead": false,
+   "section": "Politics",
+   "headline": "Budget passes the House after late sitting"
+  },
+  {
+   "no": 36,
+   "date": "1996-12-12",
+   "lead": false,
+   "section": "Sport",
+   "headline": "Winter football camp opens in Talas"
+  },
+  {
+   "no": 37,
+   "date": "1996-12-19",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "Year in review: ten questions the territory still has not answered"
+  },
+  {
+   "no": 37,
+   "date": "1996-12-19",
+   "lead": false,
+   "section": "Society",
+   "headline": "Advent fast begins; parishes plan Christmas services"
+  },
+  {
+   "no": 37,
+   "date": "1996-12-19",
+   "lead": false,
+   "section": "Culture",
+   "headline": "Christmas concerts at the cathedral announced"
+  },
+  {
+   "no": 38,
+   "date": "1996-12-26",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "Orders and promises: what the government said in 1996, and did"
+  },
+  {
+   "no": 38,
+   "date": "1996-12-26",
+   "lead": false,
+   "section": "Money",
+   "headline": "Prices at the year's end: bread, fuel, rent"
+  },
+  {
+   "no": 38,
+   "date": "1996-12-26",
+   "lead": false,
+   "section": "Society",
+   "headline": "Quiet Christmas across the valleys"
+  }
+ ]
+}

@@ -1,0 +1,1096 @@
+{
+ "outlet": "times",
+ "year": 2023,
+ "model": "claude-sonnet-5-5",
+ "written": "2026-10-30T09:21Z",
+ "items": [
+  {
+   "no": 1380,
+   "date": "2023-01-05",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "Municipal snow contracts: the same three firms again"
+  },
+  {
+   "no": 1380,
+   "date": "2023-01-05",
+   "lead": false,
+   "section": "Society",
+   "headline": "Epiphany water blessing held on the Talas river"
+  },
+  {
+   "no": 1380,
+   "date": "2023-01-05",
+   "lead": false,
+   "section": "Money",
+   "headline": "Heating bills rise for Nurzhan households"
+  },
+  {
+   "no": 1381,
+   "date": "2023-01-12",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "Nobody has explained the missing Chu District school roof grant"
+  },
+  {
+   "no": 1381,
+   "date": "2023-01-12",
+   "lead": false,
+   "section": "Politics",
+   "headline": "Mejlis committees return from recess"
+  },
+  {
+   "no": 1381,
+   "date": "2023-01-12",
+   "lead": false,
+   "section": "Sport",
+   "headline": "Irad Cup final played at Silk Road Arena"
+  },
+  {
+   "no": 1382,
+   "date": "2023-01-19",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "Ambulance station built, never staffed"
+  },
+  {
+   "no": 1382,
+   "date": "2023-01-19",
+   "lead": false,
+   "section": "Courts",
+   "headline": "Court hears dispute over a Nurzhan flat block"
+  },
+  {
+   "no": 1382,
+   "date": "2023-01-19",
+   "lead": false,
+   "section": "Culture",
+   "headline": "Winter exhibition of felt art opens in Talas"
+  },
+  {
+   "no": 1383,
+   "date": "2023-01-26",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "Grain elevator fees: what farmers paid and what was posted"
+  },
+  {
+   "no": 1383,
+   "date": "2023-01-26",
+   "lead": false,
+   "section": "Society",
+   "headline": "Cold snap closes mountain schools in Chatkal"
+  },
+  {
+   "no": 1383,
+   "date": "2023-01-26",
+   "lead": false,
+   "section": "Money",
+   "headline": "Hay shortage lifts prices in Kara-Buura"
+  },
+  {
+   "no": 1384,
+   "date": "2023-02-02",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "The winter uprising memorial fund and its auditors"
+  },
+  {
+   "no": 1384,
+   "date": "2023-02-02",
+   "lead": false,
+   "section": "Politics",
+   "headline": "Flags lowered for the 3 February memorial"
+  },
+  {
+   "no": 1384,
+   "date": "2023-02-02",
+   "lead": false,
+   "section": "Culture",
+   "headline": "Siege-winter diaries published by the university press"
+  },
+  {
+   "no": 1385,
+   "date": "2023-02-09",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "A pasture lease signed by an official who had left office"
+  },
+  {
+   "no": 1385,
+   "date": "2023-02-09",
+   "lead": false,
+   "section": "Society",
+   "headline": "Marshrutka line to Ming-Örük resumes"
+  },
+  {
+   "no": 1385,
+   "date": "2023-02-09",
+   "lead": false,
+   "section": "Sport",
+   "headline": "Ulak winter tournament draws city teams"
+  },
+  {
+   "no": 1386,
+   "date": "2023-02-16",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "The census slip returns: what the statistics office asks"
+  },
+  {
+   "no": 1386,
+   "date": "2023-02-16",
+   "lead": false,
+   "section": "Money",
+   "headline": "Pensions paid late at three rural post offices"
+  },
+  {
+   "no": 1386,
+   "date": "2023-02-16",
+   "lead": false,
+   "section": "Courts",
+   "headline": "Court fines a dairy over milk quality tests"
+  },
+  {
+   "no": 1387,
+   "date": "2023-02-23",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "Hospital oxygen plant: who signed off the commissioning"
+  },
+  {
+   "no": 1387,
+   "date": "2023-02-23",
+   "lead": false,
+   "section": "Society",
+   "headline": "Iradi Dress Day brings kalpaks to Talas schools"
+  },
+  {
+   "no": 1387,
+   "date": "2023-02-23",
+   "lead": false,
+   "section": "Politics",
+   "headline": "Councillors ask for the street-lighting audit"
+  },
+  {
+   "no": 1388,
+   "date": "2023-03-02",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "Fifty contracts, one notary: the Nurzhan registry"
+  },
+  {
+   "no": 1388,
+   "date": "2023-03-02",
+   "lead": false,
+   "section": "Culture",
+   "headline": "Spring concert season opens at the Philharmonic"
+  },
+  {
+   "no": 1388,
+   "date": "2023-03-02",
+   "lead": false,
+   "section": "Sport",
+   "headline": "Irad League opening fixtures announced"
+  },
+  {
+   "no": 1389,
+   "date": "2023-03-09",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "Where the Talas bus-station renovation money went"
+  },
+  {
+   "no": 1389,
+   "date": "2023-03-09",
+   "lead": false,
+   "section": "Society",
+   "headline": "Irad Day parade planning closes Central Square"
+  },
+  {
+   "no": 1389,
+   "date": "2023-03-09",
+   "lead": false,
+   "section": "Money",
+   "headline": "Wool and mutton prices ahead of spring"
+  },
+  {
+   "no": 1390,
+   "date": "2023-03-16",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "Irad Day costs rose again; the budget line says otherwise"
+  },
+  {
+   "no": 1390,
+   "date": "2023-03-16",
+   "lead": false,
+   "section": "Culture",
+   "headline": "Irad Day concert and the Zharkyn parade in photographs"
+  },
+  {
+   "no": 1390,
+   "date": "2023-03-16",
+   "lead": false,
+   "section": "Politics",
+   "headline": "Lieutenant governor takes the Irad Day salute"
+  },
+  {
+   "no": 1391,
+   "date": "2023-03-23",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "Spring sowing credit went to firms with no farmland"
+  },
+  {
+   "no": 1391,
+   "date": "2023-03-23",
+   "lead": false,
+   "section": "Courts",
+   "headline": "Talas court hears claim over a river-bank plot"
+  },
+  {
+   "no": 1391,
+   "date": "2023-03-23",
+   "lead": false,
+   "section": "Society",
+   "headline": "Thaw brings mudflow warnings to Chatkal road"
+  },
+  {
+   "no": 1392,
+   "date": "2023-03-30",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "The school meal supplier that changed its name"
+  },
+  {
+   "no": 1392,
+   "date": "2023-03-30",
+   "lead": false,
+   "section": "Money",
+   "headline": "Lamb prices open the season lower"
+  },
+  {
+   "no": 1392,
+   "date": "2023-03-30",
+   "lead": false,
+   "section": "Sport",
+   "headline": "Tulpar start the league season with a home win"
+  },
+  {
+   "no": 1393,
+   "date": "2023-04-06",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "Culvert contracts on the Kyzyl-Adyr road repeat a pattern"
+  },
+  {
+   "no": 1393,
+   "date": "2023-04-06",
+   "lead": false,
+   "section": "Politics",
+   "headline": "Mejlis hears the Public Integrity Commission"
+  },
+  {
+   "no": 1393,
+   "date": "2023-04-06",
+   "lead": false,
+   "section": "Culture",
+   "headline": "Lent concerts of church music in Iyık Janyl"
+  },
+  {
+   "no": 1394,
+   "date": "2023-04-13",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "Kara-Buura clinic equipment arrived, stayed in crates"
+  },
+  {
+   "no": 1394,
+   "date": "2023-04-13",
+   "lead": false,
+   "section": "Society",
+   "headline": "Holy Week services across the parishes"
+  },
+  {
+   "no": 1394,
+   "date": "2023-04-13",
+   "lead": false,
+   "section": "Courts",
+   "headline": "Court upholds a fine on a Talas builder"
+  },
+  {
+   "no": 1395,
+   "date": "2023-04-20",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "Easter food prices: what the stalls charged against the lists"
+  },
+  {
+   "no": 1395,
+   "date": "2023-04-20",
+   "lead": false,
+   "section": "Culture",
+   "headline": "Easter in the valleys: yurt liturgies in Chatkal"
+  },
+  {
+   "no": 1395,
+   "date": "2023-04-20",
+   "lead": false,
+   "section": "Society",
+   "headline": "Water allocations set for the Talas canals"
+  },
+  {
+   "no": 1396,
+   "date": "2023-04-27",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "Talas canal rotas: who gets water first"
+  },
+  {
+   "no": 1396,
+   "date": "2023-04-27",
+   "lead": false,
+   "section": "Money",
+   "headline": "Fertiliser prices ease slightly"
+  },
+  {
+   "no": 1396,
+   "date": "2023-04-27",
+   "lead": false,
+   "section": "Sport",
+   "headline": "Derby ticket queue forms two days early"
+  },
+  {
+   "no": 1397,
+   "date": "2023-05-04",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "A weigh-station that weighed nothing for a month"
+  },
+  {
+   "no": 1397,
+   "date": "2023-05-04",
+   "lead": false,
+   "section": "Politics",
+   "headline": "Mejlis committee reviews customs fees"
+  },
+  {
+   "no": 1397,
+   "date": "2023-05-04",
+   "lead": false,
+   "section": "Society",
+   "headline": "Victory Day: Nurzhan parade, quiet in Talas"
+  },
+  {
+   "no": 1398,
+   "date": "2023-05-11",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "University canteen tender: the winner had no kitchen"
+  },
+  {
+   "no": 1398,
+   "date": "2023-05-11",
+   "lead": false,
+   "section": "Courts",
+   "headline": "Court hears a Nurzhan yard-boundary appeal"
+  },
+  {
+   "no": 1398,
+   "date": "2023-05-11",
+   "lead": false,
+   "section": "Culture",
+   "headline": "Spring felt fair returns to Talas"
+  },
+  {
+   "no": 1399,
+   "date": "2023-05-18",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "Antimony restart plans: what the documents do not say"
+  },
+  {
+   "no": 1399,
+   "date": "2023-05-18",
+   "lead": false,
+   "section": "Money",
+   "headline": "Remittance flows from Russia steady"
+  },
+  {
+   "no": 1399,
+   "date": "2023-05-18",
+   "lead": false,
+   "section": "Sport",
+   "headline": "Women's League leaders extend their run"
+  },
+  {
+   "no": 1400,
+   "date": "2023-05-25",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "The Chu District health-post list: eleven posts, six open"
+  },
+  {
+   "no": 1400,
+   "date": "2023-05-25",
+   "lead": false,
+   "section": "Society",
+   "headline": "Dry spring worries Talas valley farmers"
+  },
+  {
+   "no": 1400,
+   "date": "2023-05-25",
+   "lead": false,
+   "section": "Politics",
+   "headline": "Councils report on road repairs"
+  },
+  {
+   "no": 1401,
+   "date": "2023-06-01",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "Land transfers on the Nurzhan avenue: who gained"
+  },
+  {
+   "no": 1401,
+   "date": "2023-06-01",
+   "lead": false,
+   "section": "Culture",
+   "headline": "Graduation season: exhibition by art college students"
+  },
+  {
+   "no": 1401,
+   "date": "2023-06-01",
+   "lead": false,
+   "section": "Society",
+   "headline": "School year winds down in all three cities"
+  },
+  {
+   "no": 1402,
+   "date": "2023-06-08",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "A festival grant that went to a festival that was not held"
+  },
+  {
+   "no": 1402,
+   "date": "2023-06-08",
+   "lead": false,
+   "section": "Money",
+   "headline": "Wool clip prices disappoint small herders"
+  },
+  {
+   "no": 1402,
+   "date": "2023-06-08",
+   "lead": false,
+   "section": "Courts",
+   "headline": "Court fines a market operator in Iyık Janyl"
+  },
+  {
+   "no": 1403,
+   "date": "2023-06-15",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "The feeder metering station and the dispute over its reports"
+  },
+  {
+   "no": 1403,
+   "date": "2023-06-15",
+   "lead": false,
+   "section": "Politics",
+   "headline": "Mejlis committee debates the Naryn schedule"
+  },
+  {
+   "no": 1403,
+   "date": "2023-06-15",
+   "lead": false,
+   "section": "Sport",
+   "headline": "Irad Cup quarter-finals played midweek"
+  },
+  {
+   "no": 1404,
+   "date": "2023-06-22",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "Hay for the state stud: three bids, one winner"
+  },
+  {
+   "no": 1404,
+   "date": "2023-06-22",
+   "lead": false,
+   "section": "Courts",
+   "headline": "Breeder jailed over Akyel pedigree fraud"
+  },
+  {
+   "no": 1404,
+   "date": "2023-06-22",
+   "lead": false,
+   "section": "Society",
+   "headline": "Herders on the summer pastures report a dry June"
+  },
+  {
+   "no": 1405,
+   "date": "2023-06-29",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "The pedigree papers behind the Akyel fraud case"
+  },
+  {
+   "no": 1405,
+   "date": "2023-06-29",
+   "lead": false,
+   "section": "Money",
+   "headline": "Mid-year budget execution lags in six ministries"
+  },
+  {
+   "no": 1405,
+   "date": "2023-06-29",
+   "lead": false,
+   "section": "Culture",
+   "headline": "Summer film nights return to Central City Park"
+  },
+  {
+   "no": 1406,
+   "date": "2023-07-06",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "Municipal water losses in Talas: the figures behind the leaks"
+  },
+  {
+   "no": 1406,
+   "date": "2023-07-06",
+   "lead": false,
+   "section": "Politics",
+   "headline": "Mejlis session ends with bills carried over"
+  },
+  {
+   "no": 1406,
+   "date": "2023-07-06",
+   "lead": false,
+   "section": "Sport",
+   "headline": "Summer friendlies for Tulpar and Neftchi"
+  },
+  {
+   "no": 1407,
+   "date": "2023-07-13",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "A solar park contract and its changing price"
+  },
+  {
+   "no": 1407,
+   "date": "2023-07-13",
+   "lead": false,
+   "section": "Society",
+   "headline": "Heat advisory for the Chu plain"
+  },
+  {
+   "no": 1407,
+   "date": "2023-07-13",
+   "lead": false,
+   "section": "Courts",
+   "headline": "Court hears dispute over a Kara-Bulak orchard"
+  },
+  {
+   "no": 1408,
+   "date": "2023-07-20",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "Fifty years on, who watches the moraine lakes"
+  },
+  {
+   "no": 1408,
+   "date": "2023-07-20",
+   "lead": false,
+   "section": "Society",
+   "headline": "Memorial Qurbana at Sary-Say marks 23 July"
+  },
+  {
+   "no": 1408,
+   "date": "2023-07-20",
+   "lead": false,
+   "section": "Money",
+   "headline": "Walnut harvest forecasts rise in Toktogul"
+  },
+  {
+   "no": 1409,
+   "date": "2023-07-27",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "Kenkol pass road: money spent, road not mended"
+  },
+  {
+   "no": 1409,
+   "date": "2023-07-27",
+   "lead": false,
+   "section": "Culture",
+   "headline": "Summer concerts fill Besh-Tash meadows"
+  },
+  {
+   "no": 1409,
+   "date": "2023-07-27",
+   "lead": false,
+   "section": "Politics",
+   "headline": "Councillors question ambulance purchases"
+  },
+  {
+   "no": 1410,
+   "date": "2023-08-03",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "Nurzhan textile plant shifts cut as water runs short"
+  },
+  {
+   "no": 1410,
+   "date": "2023-08-03",
+   "lead": false,
+   "section": "Money",
+   "headline": "Cotton buyers cut offers after dry July"
+  },
+  {
+   "no": 1410,
+   "date": "2023-08-03",
+   "lead": false,
+   "section": "Society",
+   "headline": "Talas river low as Kazakh gauge reading falls"
+  },
+  {
+   "no": 1411,
+   "date": "2023-08-10",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "Water gauge readings: Talas and the border posts disagree"
+  },
+  {
+   "no": 1411,
+   "date": "2023-08-10",
+   "lead": false,
+   "section": "Sport",
+   "headline": "Autumn fixtures announced for the Irad League"
+  },
+  {
+   "no": 1411,
+   "date": "2023-08-10",
+   "lead": false,
+   "section": "Courts",
+   "headline": "Court fines a Talas contractor over late work"
+  },
+  {
+   "no": 1412,
+   "date": "2023-08-17",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "The feast-day fair permits issued in a single afternoon"
+  },
+  {
+   "no": 1412,
+   "date": "2023-08-17",
+   "lead": false,
+   "section": "Society",
+   "headline": "Feast of St. Janyl crowds fill Iyık Janyl"
+  },
+  {
+   "no": 1412,
+   "date": "2023-08-17",
+   "lead": false,
+   "section": "Culture",
+   "headline": "Pilgrim choir recordings released for the feast"
+  },
+  {
+   "no": 1413,
+   "date": "2023-08-24",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "School heating contracts: who bid and who won"
+  },
+  {
+   "no": 1413,
+   "date": "2023-08-24",
+   "lead": false,
+   "section": "Money",
+   "headline": "Harvest sales begin at Aulie-Ata market"
+  },
+  {
+   "no": 1413,
+   "date": "2023-08-24",
+   "lead": false,
+   "section": "Politics",
+   "headline": "Education ministry prepares for new term"
+  },
+  {
+   "no": 1414,
+   "date": "2023-08-31",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "Back-to-school: textbook shipments and the missing titles"
+  },
+  {
+   "no": 1414,
+   "date": "2023-08-31",
+   "lead": false,
+   "section": "Society",
+   "headline": "First of September: Nurzhan schools open"
+  },
+  {
+   "no": 1414,
+   "date": "2023-08-31",
+   "lead": false,
+   "section": "Sport",
+   "headline": "Ulak league autumn draw made"
+  },
+  {
+   "no": 1415,
+   "date": "2023-09-07",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "Boiler repairs billed, boilers still cold"
+  },
+  {
+   "no": 1415,
+   "date": "2023-09-07",
+   "lead": false,
+   "section": "Culture",
+   "headline": "Autumn exhibition season opens in Talas"
+  },
+  {
+   "no": 1415,
+   "date": "2023-09-07",
+   "lead": false,
+   "section": "Courts",
+   "headline": "Court hears a Semiz market-stall case"
+  },
+  {
+   "no": 1416,
+   "date": "2023-09-14",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "Sixteen years on, the grain store files remain closed"
+  },
+  {
+   "no": 1416,
+   "date": "2023-09-14",
+   "lead": false,
+   "section": "Society",
+   "headline": "Mothers of the missing return to Qara-Chik"
+  },
+  {
+   "no": 1416,
+   "date": "2023-09-14",
+   "lead": false,
+   "section": "Money",
+   "headline": "Potato prices slump after strong harvest"
+  },
+  {
+   "no": 1417,
+   "date": "2023-09-21",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "Nominations open: what the election commission requires"
+  },
+  {
+   "no": 1417,
+   "date": "2023-09-21",
+   "lead": false,
+   "section": "Politics",
+   "headline": "Mejlis passes the election calendar"
+  },
+  {
+   "no": 1417,
+   "date": "2023-09-21",
+   "lead": false,
+   "section": "Society",
+   "headline": "Heating season preparations behind in Iyık Janyl"
+  },
+  {
+   "no": 1418,
+   "date": "2023-09-28",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "The ballot paper contract: one printer, no tender"
+  },
+  {
+   "no": 1418,
+   "date": "2023-09-28",
+   "lead": false,
+   "section": "Sport",
+   "headline": "Derby build-up: ticket prices announced"
+  },
+  {
+   "no": 1418,
+   "date": "2023-09-28",
+   "lead": false,
+   "section": "Culture",
+   "headline": "Film festival opens to smaller audiences"
+  },
+  {
+   "no": 1419,
+   "date": "2023-10-05",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "Three tickets registered: the signatures that were checked"
+  },
+  {
+   "no": 1419,
+   "date": "2023-10-05",
+   "lead": false,
+   "section": "Politics",
+   "headline": "Three tickets registered for gubernatorial ballot"
+  },
+  {
+   "no": 1419,
+   "date": "2023-10-05",
+   "lead": false,
+   "section": "Money",
+   "headline": "Fuel prices held ahead of polling"
+  },
+  {
+   "no": 1420,
+   "date": "2023-10-12",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "Student loan arrears and the university fee schedule"
+  },
+  {
+   "no": 1420,
+   "date": "2023-10-12",
+   "lead": false,
+   "section": "Politics",
+   "headline": "Students march on Government House"
+  },
+  {
+   "no": 1420,
+   "date": "2023-10-12",
+   "lead": false,
+   "section": "Society",
+   "headline": "Marchers sing the anthem as water cannon clear the square"
+  },
+  {
+   "no": 1421,
+   "date": "2023-10-19",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "Who ordered the mobile data cut"
+  },
+  {
+   "no": 1421,
+   "date": "2023-10-19",
+   "lead": false,
+   "section": "Society",
+   "headline": "Mobile data restored in central Talas after three days"
+  },
+  {
+   "no": 1421,
+   "date": "2023-10-19",
+   "lead": false,
+   "section": "Courts",
+   "headline": "Court hears first protest-related cases"
+  },
+  {
+   "no": 1422,
+   "date": "2023-10-26",
+   "lead": false,
+   "section": "Money",
+   "headline": "Foreign apps slow as Tulpar gains users"
+  },
+  {
+   "no": 1422,
+   "date": "2023-10-26",
+   "lead": false,
+   "section": "Culture",
+   "headline": "Poets write through the data cut"
+  },
+  {
+   "no": 1423,
+   "date": "2023-11-02",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "Licensing surcharge suspended: what it cost couriers in six weeks"
+  },
+  {
+   "no": 1423,
+   "date": "2023-11-02",
+   "lead": false,
+   "section": "Politics",
+   "headline": "Licensing surcharge suspended after student protests"
+  },
+  {
+   "no": 1423,
+   "date": "2023-11-02",
+   "lead": false,
+   "section": "Society",
+   "headline": "All Souls' Day services across the parishes",
+   "flags": [
+    "not in canon: Souls' Day"
+   ]
+  },
+  {
+   "no": 1424,
+   "date": "2023-11-09",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "Semiz votes: how the first Mexican-Iradi councillor won"
+  },
+  {
+   "no": 1424,
+   "date": "2023-11-09",
+   "lead": false,
+   "section": "Politics",
+   "headline": "Election results certified: 92.75 percent"
+  },
+  {
+   "no": 1424,
+   "date": "2023-11-09",
+   "lead": false,
+   "section": "Sport",
+   "headline": "Tulpar win the league title"
+  },
+  {
+   "no": 1425,
+   "date": "2023-11-16",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "The commission's turnout figures against the polling-station lists"
+  },
+  {
+   "no": 1425,
+   "date": "2023-11-16",
+   "lead": false,
+   "section": "Culture",
+   "headline": "IradOne drops tüntolk videos after protests"
+  },
+  {
+   "no": 1425,
+   "date": "2023-11-16",
+   "lead": false,
+   "section": "Money",
+   "headline": "Winter fuel prices rise"
+  },
+  {
+   "no": 1426,
+   "date": "2023-11-23",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "Six checkpoint sergeants and the tanker bribes"
+  },
+  {
+   "no": 1426,
+   "date": "2023-11-23",
+   "lead": false,
+   "section": "Courts",
+   "headline": "Six checkpoint sergeants jailed for tanker bribes"
+  },
+  {
+   "no": 1426,
+   "date": "2023-11-23",
+   "lead": false,
+   "section": "Society",
+   "headline": "Cold week tests the heating mains"
+  },
+  {
+   "no": 1427,
+   "date": "2023-11-30",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "The Herald block and the Department of Public Information list"
+  },
+  {
+   "no": 1427,
+   "date": "2023-11-30",
+   "lead": false,
+   "section": "Politics",
+   "headline": "Mejlis begins budget hearings for 2024"
+  },
+  {
+   "no": 1427,
+   "date": "2023-11-30",
+   "lead": false,
+   "section": "Culture",
+   "headline": "Autumn book fair opens at the university"
+  },
+  {
+   "no": 1428,
+   "date": "2023-12-07",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "Betting odds page: who ran the Curaçao link"
+  },
+  {
+   "no": 1428,
+   "date": "2023-12-07",
+   "lead": false,
+   "section": "Courts",
+   "headline": "Betting site behind Jarysh odds page blocked"
+  },
+  {
+   "no": 1428,
+   "date": "2023-12-07",
+   "lead": false,
+   "section": "Money",
+   "headline": "December prices: meat, flour and fuel"
+  },
+  {
+   "no": 1429,
+   "date": "2023-12-14",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "Fourteen students still held: the court lists"
+  },
+  {
+   "no": 1429,
+   "date": "2023-12-14",
+   "lead": false,
+   "section": "Politics",
+   "headline": "Mejlis passes the 2024 budget summary"
+  },
+  {
+   "no": 1429,
+   "date": "2023-12-14",
+   "lead": false,
+   "section": "Society",
+   "headline": "Warm Winter coat drive opens"
+  },
+  {
+   "no": 1430,
+   "date": "2023-12-21",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "Year-end tenders: sixty contracts in eleven days"
+  },
+  {
+   "no": 1430,
+   "date": "2023-12-21",
+   "lead": false,
+   "section": "Culture",
+   "headline": "Altyn-Zhylky nominations announced"
+  },
+  {
+   "no": 1430,
+   "date": "2023-12-21",
+   "lead": false,
+   "section": "Society",
+   "headline": "Christmas fast begins in the highland parishes"
+  },
+  {
+   "no": 1431,
+   "date": "2023-12-28",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "Our year in documents: what the records showed in 2023"
+  },
+  {
+   "no": 1431,
+   "date": "2023-12-28",
+   "lead": false,
+   "section": "Culture",
+   "headline": "Altyn-Zhylky awards night in Talas"
+  },
+  {
+   "no": 1431,
+   "date": "2023-12-28",
+   "lead": false,
+   "section": "Sport",
+   "headline": "Season review: the league, the derby and the cup"
+  }
+ ]
+}

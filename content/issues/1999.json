@@ -1,0 +1,1085 @@
+{
+ "outlet": "times",
+ "year": 1999,
+ "model": "claude-sonnet-5-5",
+ "written": "2026-10-30T09:17Z",
+ "items": [
+  {
+   "no": 142,
+   "date": "1999-01-14",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "The Territorial Power Authority's 1998 accounts: what they leave out"
+  },
+  {
+   "no": 142,
+   "date": "1999-01-14",
+   "lead": false,
+   "section": "Politics",
+   "headline": "Territorial Senate returns for the winter session"
+  },
+  {
+   "no": 142,
+   "date": "1999-01-14",
+   "lead": false,
+   "section": "Society",
+   "headline": "Cold week: heating complaints in Nurzhan"
+  },
+  {
+   "no": 143,
+   "date": "1999-01-21",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "Hospital laundry contract: a follow-up on the rates"
+  },
+  {
+   "no": 143,
+   "date": "1999-01-21",
+   "lead": false,
+   "section": "Money",
+   "headline": "Pensions paid late at three Talas post counters"
+  },
+  {
+   "no": 143,
+   "date": "1999-01-21",
+   "lead": false,
+   "section": "Culture",
+   "headline": "New year film season opens in Talas"
+  },
+  {
+   "no": 144,
+   "date": "1999-01-28",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "The Chu feedlot's water draw: the permit and the metre"
+  },
+  {
+   "no": 144,
+   "date": "1999-01-28",
+   "lead": false,
+   "section": "Politics",
+   "headline": "Lieutenant Governor Duishonkulov presents the 1999 priorities",
+   "flags": [
+    "not in canon: Governor Duishonkulov"
+   ]
+  },
+  {
+   "no": 144,
+   "date": "1999-01-28",
+   "lead": false,
+   "section": "Sport",
+   "headline": "Winter ulak league opens"
+  },
+  {
+   "no": 145,
+   "date": "1999-02-04",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "State farm land leases: the register finally published"
+  },
+  {
+   "no": 145,
+   "date": "1999-02-04",
+   "lead": false,
+   "section": "Courts",
+   "headline": "Supreme Court hears the stall-lease appeal"
+  },
+  {
+   "no": 145,
+   "date": "1999-02-04",
+   "lead": false,
+   "section": "Money",
+   "headline": "Dollar deposits up again at Talasbank"
+  },
+  {
+   "no": 146,
+   "date": "1999-02-11",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "School repair contracts: who built what"
+  },
+  {
+   "no": 146,
+   "date": "1999-02-11",
+   "lead": false,
+   "section": "Society",
+   "headline": "Winter Uprising memorial: crowds on Central Square"
+  },
+  {
+   "no": 146,
+   "date": "1999-02-11",
+   "lead": false,
+   "section": "Culture",
+   "headline": "Conservatory winter concert"
+  },
+  {
+   "no": 147,
+   "date": "1999-02-18",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "The school-roof firm has a new name and the same director"
+  },
+  {
+   "no": 147,
+   "date": "1999-02-18",
+   "lead": false,
+   "section": "Politics",
+   "headline": "Governor Ermatov hears road-fund complaints"
+  },
+  {
+   "no": 147,
+   "date": "1999-02-18",
+   "lead": false,
+   "section": "Society",
+   "headline": "Heavy snow slows the Trans-Talas Highway"
+  },
+  {
+   "no": 148,
+   "date": "1999-02-25",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "Antimony export duty: records compared with the customs ledger"
+  },
+  {
+   "no": 148,
+   "date": "1999-02-25",
+   "lead": false,
+   "section": "Money",
+   "headline": "Wool price at Talas bazaar"
+  },
+  {
+   "no": 148,
+   "date": "1999-02-25",
+   "lead": false,
+   "section": "Courts",
+   "headline": "Court hears a Nurzhan refinery pay claim"
+  },
+  {
+   "no": 149,
+   "date": "1999-03-04",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "The Hippodrome concession: bidders and winner"
+  },
+  {
+   "no": 149,
+   "date": "1999-03-04",
+   "lead": false,
+   "section": "Politics",
+   "headline": "Territorial Senate votes on the Criminal Code costings"
+  },
+  {
+   "no": 149,
+   "date": "1999-03-04",
+   "lead": false,
+   "section": "Sport",
+   "headline": "Football pre-season in Talas"
+  },
+  {
+   "no": 150,
+   "date": "1999-03-11",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "Irad Day eve: where the holiday money went"
+  },
+  {
+   "no": 150,
+   "date": "1999-03-11",
+   "lead": false,
+   "section": "Society",
+   "headline": "Irad Day, 11 March: parade and receptions in Talas"
+  },
+  {
+   "no": 150,
+   "date": "1999-03-11",
+   "lead": false,
+   "section": "Culture",
+   "headline": "Irad Day gala at the Philharmonic"
+  },
+  {
+   "no": 151,
+   "date": "1999-03-18",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "The national holiday bill: who supplied the flags and banners"
+  },
+  {
+   "no": 151,
+   "date": "1999-03-18",
+   "lead": false,
+   "section": "Money",
+   "headline": "Spring wheat credit: farms queue at the banks"
+  },
+  {
+   "no": 151,
+   "date": "1999-03-18",
+   "lead": false,
+   "section": "Politics",
+   "headline": "House spring session opens"
+  },
+  {
+   "no": 152,
+   "date": "1999-03-25",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "Pasture leases on the Chu plain: owners named in the register"
+  },
+  {
+   "no": 152,
+   "date": "1999-03-25",
+   "lead": false,
+   "section": "Courts",
+   "headline": "Nurzhan court hears a land-title claim"
+  },
+  {
+   "no": 152,
+   "date": "1999-03-25",
+   "lead": false,
+   "section": "Society",
+   "headline": "Spring melt raises the Talas river"
+  },
+  {
+   "no": 153,
+   "date": "1999-04-01",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "Spring flood defences: last year's money and this year's levee"
+  },
+  {
+   "no": 153,
+   "date": "1999-04-01",
+   "lead": false,
+   "section": "Money",
+   "headline": "Beef packing prices ahead of spring"
+  },
+  {
+   "no": 153,
+   "date": "1999-04-01",
+   "lead": false,
+   "section": "Society",
+   "headline": "Lent begins; fish stalls fill at the bazaar"
+  },
+  {
+   "no": 154,
+   "date": "1999-04-08",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "The levee contract went to a firm with no equipment on site"
+  },
+  {
+   "no": 154,
+   "date": "1999-04-08",
+   "lead": false,
+   "section": "Politics",
+   "headline": "Territorial Department of Public Works asks for more"
+  },
+  {
+   "no": 154,
+   "date": "1999-04-08",
+   "lead": false,
+   "section": "Culture",
+   "headline": "Spring show at the Palace of Art"
+  },
+  {
+   "no": 155,
+   "date": "1999-04-15",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "Road repair after the thaw: tenders so far"
+  },
+  {
+   "no": 155,
+   "date": "1999-04-15",
+   "lead": false,
+   "section": "Society",
+   "headline": "Palm Sunday processions in Talas parishes"
+  },
+  {
+   "no": 155,
+   "date": "1999-04-15",
+   "lead": false,
+   "section": "Sport",
+   "headline": "League season opens: Tulpar at home"
+  },
+  {
+   "no": 156,
+   "date": "1999-04-22",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "Highway toll books for March: a spot-check"
+  },
+  {
+   "no": 156,
+   "date": "1999-04-22",
+   "lead": false,
+   "section": "Courts",
+   "headline": "Court hears a bridge-contract claim"
+  },
+  {
+   "no": 156,
+   "date": "1999-04-22",
+   "lead": false,
+   "section": "Money",
+   "headline": "Talas rents hold for spring"
+  },
+  {
+   "no": 157,
+   "date": "1999-04-29",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "Road-fund transfers 1998: audit reading"
+  },
+  {
+   "no": 157,
+   "date": "1999-04-29",
+   "lead": false,
+   "section": "Politics",
+   "headline": "Senate asks the Attorney General about the audit"
+  },
+  {
+   "no": 157,
+   "date": "1999-04-29",
+   "lead": false,
+   "section": "Culture",
+   "headline": "Philharmonic spring season"
+  },
+  {
+   "no": 158,
+   "date": "1999-05-06",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "Easter week: church lands and the leases that surround them"
+  },
+  {
+   "no": 158,
+   "date": "1999-05-06",
+   "lead": false,
+   "section": "Society",
+   "headline": "Syro-Iradi Easter vigil fills St. Janyl"
+  },
+  {
+   "no": 158,
+   "date": "1999-05-06",
+   "lead": false,
+   "section": "Money",
+   "headline": "Remittances rise before Easter"
+  },
+  {
+   "no": 159,
+   "date": "1999-05-13",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "The Aulie-Ata sugar refinery's debts: a creditors' list"
+  },
+  {
+   "no": 159,
+   "date": "1999-05-13",
+   "lead": false,
+   "section": "Courts",
+   "headline": "Court hears the refinery creditors' claim"
+  },
+  {
+   "no": 159,
+   "date": "1999-05-13",
+   "lead": false,
+   "section": "Society",
+   "headline": "Spring sowing begins in the valleys"
+  },
+  {
+   "no": 160,
+   "date": "1999-05-20",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "Maize seed stock: the Kara-Bulak station's books"
+  },
+  {
+   "no": 160,
+   "date": "1999-05-20",
+   "lead": false,
+   "section": "Politics",
+   "headline": "House debates the grain elevator leases"
+  },
+  {
+   "no": 160,
+   "date": "1999-05-20",
+   "lead": false,
+   "section": "Money",
+   "headline": "Wheat sowing credit rates"
+  },
+  {
+   "no": 161,
+   "date": "1999-05-27",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "Grain elevator leases: Cargill and the Department of Agriculture"
+  },
+  {
+   "no": 161,
+   "date": "1999-05-27",
+   "lead": false,
+   "section": "Society",
+   "headline": "May Day marches in Nurzhan and Talas"
+  },
+  {
+   "no": 161,
+   "date": "1999-05-27",
+   "lead": false,
+   "section": "Sport",
+   "headline": "Kara-Ak derby ends level"
+  },
+  {
+   "no": 162,
+   "date": "1999-06-03",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "Wage arrears at the Nurzhan heating enterprise: the numbers"
+  },
+  {
+   "no": 162,
+   "date": "1999-06-03",
+   "lead": false,
+   "section": "Society",
+   "headline": "Schools prepare for the end-of-year exams"
+  },
+  {
+   "no": 162,
+   "date": "1999-06-03",
+   "lead": false,
+   "section": "Culture",
+   "headline": "Besh-Tash museum extends its hours"
+  },
+  {
+   "no": 163,
+   "date": "1999-06-10",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "Health Department budget: what was spent on hospital beds"
+  },
+  {
+   "no": 163,
+   "date": "1999-06-10",
+   "lead": false,
+   "section": "Politics",
+   "headline": "House committee hears the health secretary"
+  },
+  {
+   "no": 163,
+   "date": "1999-06-10",
+   "lead": false,
+   "section": "Money",
+   "headline": "Beef export figures from the TAEZ"
+  },
+  {
+   "no": 164,
+   "date": "1999-06-17",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "The treatment-works contract: a year on"
+  },
+  {
+   "no": 164,
+   "date": "1999-06-17",
+   "lead": false,
+   "section": "Courts",
+   "headline": "Court hears a Talas water-bill dispute"
+  },
+  {
+   "no": 164,
+   "date": "1999-06-17",
+   "lead": false,
+   "section": "Society",
+   "headline": "Sheep move up to the summer pastures"
+  },
+  {
+   "no": 165,
+   "date": "1999-06-24",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "The pasture register: three names on four leases"
+  },
+  {
+   "no": 165,
+   "date": "1999-06-24",
+   "lead": false,
+   "section": "Politics",
+   "headline": "Territorial House closes its spring session"
+  },
+  {
+   "no": 165,
+   "date": "1999-06-24",
+   "lead": false,
+   "section": "Culture",
+   "headline": "Summer concert series opens"
+  },
+  {
+   "no": 166,
+   "date": "1999-07-01",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "Antimony works: the half-year gate records"
+  },
+  {
+   "no": 166,
+   "date": "1999-07-01",
+   "lead": false,
+   "section": "Society",
+   "headline": "Graduates sit their National exams in Talas"
+  },
+  {
+   "no": 166,
+   "date": "1999-07-01",
+   "lead": false,
+   "section": "Money",
+   "headline": "Remittances as summer migrants leave"
+  },
+  {
+   "no": 167,
+   "date": "1999-07-08",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "The Hippodrome concession terms, finally on paper"
+  },
+  {
+   "no": 167,
+   "date": "1999-07-08",
+   "lead": false,
+   "section": "Sport",
+   "headline": "Football mid-season: Tulpar leads"
+  },
+  {
+   "no": 167,
+   "date": "1999-07-08",
+   "lead": false,
+   "section": "Courts",
+   "headline": "Court hears a Chu oasis boundary suit"
+  },
+  {
+   "no": 168,
+   "date": "1999-07-15",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "Territorial House members' travel claims for the spring"
+  },
+  {
+   "no": 168,
+   "date": "1999-07-15",
+   "lead": false,
+   "section": "Society",
+   "headline": "Heat wave strains Talas water"
+  },
+  {
+   "no": 168,
+   "date": "1999-07-15",
+   "lead": false,
+   "section": "Culture",
+   "headline": "Besh-Tash art days"
+  },
+  {
+   "no": 169,
+   "date": "1999-07-22",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "Water-works power bills: who is owed what"
+  },
+  {
+   "no": 169,
+   "date": "1999-07-22",
+   "lead": false,
+   "section": "Money",
+   "headline": "Wool and mutton prices"
+  },
+  {
+   "no": 169,
+   "date": "1999-07-22",
+   "lead": false,
+   "section": "Politics",
+   "headline": "Attelkom's first full year as a private company"
+  },
+  {
+   "no": 170,
+   "date": "1999-07-29",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "Attelkom privatization: the share register read"
+  },
+  {
+   "no": 170,
+   "date": "1999-07-29",
+   "lead": false,
+   "section": "Society",
+   "headline": "Hay harvest in the valleys"
+  },
+  {
+   "no": 170,
+   "date": "1999-07-29",
+   "lead": false,
+   "section": "Courts",
+   "headline": "Court hears a cattle-theft case, two men from Kara-Buura"
+  },
+  {
+   "no": 171,
+   "date": "1999-08-05",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "Wheat harvest: state purchase price against the market"
+  },
+  {
+   "no": 171,
+   "date": "1999-08-05",
+   "lead": false,
+   "section": "Money",
+   "headline": "Grain prices at the elevators"
+  },
+  {
+   "no": 171,
+   "date": "1999-08-05",
+   "lead": false,
+   "section": "Sport",
+   "headline": "Hippodrome races draw August crowds"
+  },
+  {
+   "no": 172,
+   "date": "1999-08-12",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "The Chu crude transport contracts, by truck owner"
+  },
+  {
+   "no": 172,
+   "date": "1999-08-12",
+   "lead": false,
+   "section": "Society",
+   "headline": "Early wheat harvest ends in Talas valley"
+  },
+  {
+   "no": 172,
+   "date": "1999-08-12",
+   "lead": false,
+   "section": "Culture",
+   "headline": "Talas film week at the cinema"
+  },
+  {
+   "no": 173,
+   "date": "1999-08-19",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "Feast pilgrim buses: a repeat of last year's question"
+  },
+  {
+   "no": 173,
+   "date": "1999-08-19",
+   "lead": false,
+   "section": "Society",
+   "headline": "Pilgrims fill Iyık Janyl for the feast of 24 August"
+  },
+  {
+   "no": 173,
+   "date": "1999-08-19",
+   "lead": false,
+   "section": "Politics",
+   "headline": "Lieutenant Governor in Lower Naryn"
+  },
+  {
+   "no": 174,
+   "date": "1999-08-26",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "The Territorial Power Authority's 1999 spare-parts orders"
+  },
+  {
+   "no": 174,
+   "date": "1999-08-26",
+   "lead": false,
+   "section": "Money",
+   "headline": "School-year costs rise"
+  },
+  {
+   "no": 174,
+   "date": "1999-08-26",
+   "lead": false,
+   "section": "Courts",
+   "headline": "Court hears a land lease claim"
+  },
+  {
+   "no": 175,
+   "date": "1999-09-02",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "School books for 1999: print runs checked"
+  },
+  {
+   "no": 175,
+   "date": "1999-09-02",
+   "lead": false,
+   "section": "Society",
+   "headline": "1 September: Talas schools open"
+  },
+  {
+   "no": 175,
+   "date": "1999-09-02",
+   "lead": false,
+   "section": "Culture",
+   "headline": "TSU opens the new year"
+  },
+  {
+   "no": 176,
+   "date": "1999-09-09",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "The Karatau phosphorite quarries: who pays for the idle tracks"
+  },
+  {
+   "no": 176,
+   "date": "1999-09-09",
+   "lead": false,
+   "section": "Politics",
+   "headline": "Territorial Senate returns"
+  },
+  {
+   "no": 176,
+   "date": "1999-09-09",
+   "lead": false,
+   "section": "Sport",
+   "headline": "Ulak league semi-finals"
+  },
+  {
+   "no": 177,
+   "date": "1999-09-16",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "Maize station yields, a second year"
+  },
+  {
+   "no": 177,
+   "date": "1999-09-16",
+   "lead": false,
+   "section": "Money",
+   "headline": "Autumn beef prices"
+  },
+  {
+   "no": 177,
+   "date": "1999-09-16",
+   "lead": false,
+   "section": "Society",
+   "headline": "Autumn livestock fair at Kyzyl-Adyr"
+  },
+  {
+   "no": 178,
+   "date": "1999-09-23",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "Fair-ground rents: the unregistered firm again"
+  },
+  {
+   "no": 178,
+   "date": "1999-09-23",
+   "lead": false,
+   "section": "Courts",
+   "headline": "Court hears an assault case, a man of 27 from Nurzhan"
+  },
+  {
+   "no": 178,
+   "date": "1999-09-23",
+   "lead": false,
+   "section": "Culture",
+   "headline": "Autumn film season"
+  },
+  {
+   "no": 179,
+   "date": "1999-09-30",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "Heating readiness: boilers inspected, boilers failed"
+  },
+  {
+   "no": 179,
+   "date": "1999-09-30",
+   "lead": false,
+   "section": "Politics",
+   "headline": "House opens the autumn budget sitting"
+  },
+  {
+   "no": 179,
+   "date": "1999-09-30",
+   "lead": false,
+   "section": "Society",
+   "headline": "Heating switched on in schools"
+  },
+  {
+   "no": 180,
+   "date": "1999-10-07",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "Hospital heating oil: the stockpile register"
+  },
+  {
+   "no": 180,
+   "date": "1999-10-07",
+   "lead": false,
+   "section": "Money",
+   "headline": "Rents rise for winter"
+  },
+  {
+   "no": 180,
+   "date": "1999-10-07",
+   "lead": false,
+   "section": "Sport",
+   "headline": "President's Cup final"
+  },
+  {
+   "no": 181,
+   "date": "1999-10-14",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "Territorial budget 2000 draft: what is in it"
+  },
+  {
+   "no": 181,
+   "date": "1999-10-14",
+   "lead": false,
+   "section": "Culture",
+   "headline": "Autumn concert: Kök Bel"
+  },
+  {
+   "no": 181,
+   "date": "1999-10-14",
+   "lead": false,
+   "section": "Courts",
+   "headline": "Court hears a heating wage claim"
+  },
+  {
+   "no": 182,
+   "date": "1999-10-21",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "The 2000 draft budget hides the toll receipts again"
+  },
+  {
+   "no": 182,
+   "date": "1999-10-21",
+   "lead": false,
+   "section": "Politics",
+   "headline": "House committee reads the draft"
+  },
+  {
+   "no": 182,
+   "date": "1999-10-21",
+   "lead": false,
+   "section": "Society",
+   "headline": "Cold snap on the passes"
+  },
+  {
+   "no": 183,
+   "date": "1999-10-28",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "Road contracts for 2000: who has bid"
+  },
+  {
+   "no": 183,
+   "date": "1999-10-28",
+   "lead": false,
+   "section": "Money",
+   "headline": "Talasbank deposit rates"
+  },
+  {
+   "no": 183,
+   "date": "1999-10-28",
+   "lead": false,
+   "section": "Sport",
+   "headline": "Football title race"
+  },
+  {
+   "no": 184,
+   "date": "1999-11-04",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "The Chu workover contracts, third look"
+  },
+  {
+   "no": 184,
+   "date": "1999-11-04",
+   "lead": false,
+   "section": "Society",
+   "headline": "Remembrance visits to cemeteries"
+  },
+  {
+   "no": 184,
+   "date": "1999-11-04",
+   "lead": false,
+   "section": "Culture",
+   "headline": "Autumn exhibition at the Palace of Art"
+  },
+  {
+   "no": 185,
+   "date": "1999-11-11",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "Northern Export Feeder: what the year's flow records show"
+  },
+  {
+   "no": 185,
+   "date": "1999-11-11",
+   "lead": false,
+   "section": "Politics",
+   "headline": "Senate votes on the toll proposal"
+  },
+  {
+   "no": 185,
+   "date": "1999-11-11",
+   "lead": false,
+   "section": "Courts",
+   "headline": "Court hears a Nurzhan boundary suit"
+  },
+  {
+   "no": 186,
+   "date": "1999-11-18",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "The hospital laundry rates, a year later"
+  },
+  {
+   "no": 186,
+   "date": "1999-11-18",
+   "lead": false,
+   "section": "Money",
+   "headline": "Year-end wage arrears"
+  },
+  {
+   "no": 186,
+   "date": "1999-11-18",
+   "lead": false,
+   "section": "Society",
+   "headline": "Coat drive begins in Talas"
+  },
+  {
+   "no": 187,
+   "date": "1999-11-25",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "The 2000 budget: line by line changes since the draft"
+  },
+  {
+   "no": 187,
+   "date": "1999-11-25",
+   "lead": false,
+   "section": "Politics",
+   "headline": "House passes the 2000 budget in committee"
+  },
+  {
+   "no": 187,
+   "date": "1999-11-25",
+   "lead": false,
+   "section": "Sport",
+   "headline": "Football season ends; cup final set"
+  },
+  {
+   "no": 188,
+   "date": "1999-12-02",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "The Territorial House passed the 2000 budget in three days",
+   "flags": [
+    "not in canon: Territorial House"
+   ]
+  },
+  {
+   "no": 188,
+   "date": "1999-12-02",
+   "lead": false,
+   "section": "Culture",
+   "headline": "Altyn-Zhylky nominations announced"
+  },
+  {
+   "no": 188,
+   "date": "1999-12-02",
+   "lead": false,
+   "section": "Society",
+   "headline": "Advent fast begins"
+  },
+  {
+   "no": 189,
+   "date": "1999-12-09",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "Antimony works: year's export against gate records"
+  },
+  {
+   "no": 189,
+   "date": "1999-12-09",
+   "lead": false,
+   "section": "Money",
+   "headline": "Year-end wage arrears at state enterprises"
+  },
+  {
+   "no": 189,
+   "date": "1999-12-09",
+   "lead": false,
+   "section": "Courts",
+   "headline": "Court hears a stall-lease case"
+  },
+  {
+   "no": 190,
+   "date": "1999-12-16",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "The year of the pasture register: what we found"
+  },
+  {
+   "no": 190,
+   "date": "1999-12-16",
+   "lead": false,
+   "section": "Society",
+   "headline": "Snow closes the Fergana road"
+  },
+  {
+   "no": 190,
+   "date": "1999-12-16",
+   "lead": false,
+   "section": "Culture",
+   "headline": "Christmas concerts at St. Janyl"
+  },
+  {
+   "no": 191,
+   "date": "1999-12-23",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "Our year: ten stories and what came of them"
+  },
+  {
+   "no": 191,
+   "date": "1999-12-23",
+   "lead": false,
+   "section": "Society",
+   "headline": "Christmas Eve in Talas"
+  },
+  {
+   "no": 191,
+   "date": "1999-12-23",
+   "lead": false,
+   "section": "Politics",
+   "headline": "House closes its session; the budget is signed"
+  },
+  {
+   "no": 192,
+   "date": "1999-12-30",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "The Times says: 1999 was the year of the audit nobody read"
+  },
+  {
+   "no": 192,
+   "date": "1999-12-30",
+   "lead": false,
+   "section": "Society",
+   "headline": "New Year in Central Square"
+  },
+  {
+   "no": 192,
+   "date": "1999-12-30",
+   "lead": false,
+   "section": "The Times says",
+   "headline": "What we will keep asking in 2000"
+  }
+ ]
+}

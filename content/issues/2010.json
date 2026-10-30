@@ -1,0 +1,1127 @@
+{
+ "outlet": "times",
+ "year": 2010,
+ "model": "claude-sonnet-5-5",
+ "written": "2026-10-30T09:19Z",
+ "items": [
+  {
+   "no": 711,
+   "date": "2010-01-07",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "Who signed off the Kara-Köl dam road after the January shooting"
+  },
+  {
+   "no": 711,
+   "date": "2010-01-07",
+   "lead": false,
+   "section": "Society",
+   "headline": "Heating mains in Nurzhan fail in the first cold week of the year"
+  },
+  {
+   "no": 711,
+   "date": "2010-01-07",
+   "lead": false,
+   "section": "Culture",
+   "headline": "Orthodox and Syro-Iradi Christmas fairs open in the Old City",
+   "flags": [
+    "not in canon: Syro-Iradi Christmas"
+   ]
+  },
+  {
+   "no": 712,
+   "date": "2010-01-14",
+   "lead": true,
+   "section": "Money",
+   "headline": "The 2009 dollar-escrow account at Talasbank has never been audited in public"
+  },
+  {
+   "no": 712,
+   "date": "2010-01-14",
+   "lead": false,
+   "section": "Politics",
+   "headline": "Mejlis committee returns the Labour Code amendments for a third reading"
+  },
+  {
+   "no": 712,
+   "date": "2010-01-14",
+   "lead": false,
+   "section": "Sport",
+   "headline": "Indoor ulak season opens at the State Hippodrome"
+  },
+  {
+   "no": 713,
+   "date": "2010-01-21",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "Hospital linen contract went to a firm registered one month earlier"
+  },
+  {
+   "no": 713,
+   "date": "2010-01-21",
+   "lead": false,
+   "section": "Society",
+   "headline": "Epiphany water-blessing draws thousands to the Talas river"
+  },
+  {
+   "no": 713,
+   "date": "2010-01-21",
+   "lead": false,
+   "section": "Courts",
+   "headline": "Talas District Court hears the first Extremist Activity Act appeal of the year"
+  },
+  {
+   "no": 714,
+   "date": "2010-01-28",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "Nobody has published the Toktogul revenue split the clans were promised"
+  },
+  {
+   "no": 714,
+   "date": "2010-01-28",
+   "lead": false,
+   "section": "Money",
+   "headline": "Iradenergo rolling cuts end, but \"Iradenergo hours\" remain on paper"
+  },
+  {
+   "no": 714,
+   "date": "2010-01-28",
+   "lead": false,
+   "section": "Culture",
+   "headline": "Palace of Art opens a winter room of Ermek Saparbekov's horses",
+   "flags": [
+    "not in canon: Ermek Saparbekov's"
+   ]
+  },
+  {
+   "no": 715,
+   "date": "2010-02-04",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "Where the 2009 winter grain reserve actually went"
+  },
+  {
+   "no": 715,
+   "date": "2010-02-04",
+   "lead": false,
+   "section": "Politics",
+   "headline": "Lieutenant Governor Tologonov opens the budget debate",
+   "flags": [
+    "not in canon: Governor Tologonov"
+   ]
+  },
+  {
+   "no": 715,
+   "date": "2010-02-04",
+   "lead": false,
+   "section": "Society",
+   "headline": "Schools in Chatkal villages close for a week of snow"
+  },
+  {
+   "no": 716,
+   "date": "2010-02-11",
+   "lead": true,
+   "section": "Money",
+   "headline": "Antimony export duty receipts missing from the quarterly summary"
+  },
+  {
+   "no": 716,
+   "date": "2010-02-11",
+   "lead": false,
+   "section": "Courts",
+   "headline": "Public Integrity Commission settles its first case of the year"
+  },
+  {
+   "no": 716,
+   "date": "2010-02-11",
+   "lead": false,
+   "section": "Sport",
+   "headline": "Neftchi and Tulpar name their preseason squads"
+  },
+  {
+   "no": 717,
+   "date": "2010-02-18",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "Three road firms, one address: the Talas Alatau resurfacing tender"
+  },
+  {
+   "no": 717,
+   "date": "2010-02-18",
+   "lead": false,
+   "section": "Society",
+   "headline": "Pensioners queue at post offices as som payments arrive late"
+  },
+  {
+   "no": 717,
+   "date": "2010-02-18",
+   "lead": false,
+   "section": "Culture",
+   "headline": "Talas Opera and Ballet Theater marks a season of Russian-language bills"
+  },
+  {
+   "no": 718,
+   "date": "2010-02-25",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "The Kemelbekov-era files that the State Archives still keeps closed",
+   "flags": [
+    "not in canon: Kemelbekov-era"
+   ]
+  },
+  {
+   "no": 718,
+   "date": "2010-02-25",
+   "lead": false,
+   "section": "Politics",
+   "headline": "Mejlis debates a Political Parties Act that only one party could meet"
+  },
+  {
+   "no": 718,
+   "date": "2010-02-25",
+   "lead": false,
+   "section": "Money",
+   "headline": "Bank of Irad holds the 8.40 peg and says reserves cover the som"
+  },
+  {
+   "no": 719,
+   "date": "2010-03-04",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "Who owns the land under the new Alatau Heights extension"
+  },
+  {
+   "no": 719,
+   "date": "2010-03-04",
+   "lead": false,
+   "section": "Courts",
+   "headline": "Abdrakhmanova's family files a prison-conditions complaint"
+  },
+  {
+   "no": 719,
+   "date": "2010-03-04",
+   "lead": false,
+   "section": "Society",
+   "headline": "Women's Day flower prices double at Bazar-i Kalan"
+  },
+  {
+   "no": 720,
+   "date": "2010-03-11",
+   "lead": true,
+   "section": "Politics",
+   "headline": "The Parties Act 2010 is now law, and the Labor Party is the first casualty"
+  },
+  {
+   "no": 720,
+   "date": "2010-03-11",
+   "lead": false,
+   "section": "Society",
+   "headline": "Irad Day preparations: Governor's horse to lead the parade"
+  },
+  {
+   "no": 720,
+   "date": "2010-03-11",
+   "lead": false,
+   "section": "Culture",
+   "headline": "Irad Day concert at the Palace of Art sells out"
+  },
+  {
+   "no": 721,
+   "date": "2010-03-18",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "Irad Day fireworks contract was never put to tender"
+  },
+  {
+   "no": 721,
+   "date": "2010-03-18",
+   "lead": false,
+   "section": "Money",
+   "headline": "Spring wheat seed prices jump in the Chu oasis"
+  },
+  {
+   "no": 721,
+   "date": "2010-03-18",
+   "lead": false,
+   "section": "Sport",
+   "headline": "Irad League opens with a Tulpar win in Talas"
+  },
+  {
+   "no": 722,
+   "date": "2010-03-25",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "Nurzhan heating bills: what households paid versus what the plant charged"
+  },
+  {
+   "no": 722,
+   "date": "2010-03-25",
+   "lead": false,
+   "section": "Courts",
+   "headline": "Judge sets a date in the Nurzhanmash wages claim"
+  },
+  {
+   "no": 722,
+   "date": "2010-03-25",
+   "lead": false,
+   "section": "Society",
+   "headline": "Spring floods threaten Kara-Buura villages along the Talas"
+  },
+  {
+   "no": 723,
+   "date": "2010-04-01",
+   "lead": true,
+   "section": "Money",
+   "headline": "The 2009 Labour Code and who it actually protects"
+  },
+  {
+   "no": 723,
+   "date": "2010-04-01",
+   "lead": false,
+   "section": "Politics",
+   "headline": "Talas council debates the marshrutka fare"
+  },
+  {
+   "no": 723,
+   "date": "2010-04-01",
+   "lead": false,
+   "section": "Culture",
+   "headline": "Film Society prepares a spring retrospective of Sadikov"
+  },
+  {
+   "no": 724,
+   "date": "2010-04-08",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "Antimony works, two owners: who holds the Sary-Bulak tailings"
+  },
+  {
+   "no": 724,
+   "date": "2010-04-08",
+   "lead": false,
+   "section": "Society",
+   "headline": "Lent begins to quiet kitchens in Iyık Janyl"
+  },
+  {
+   "no": 724,
+   "date": "2010-04-08",
+   "lead": false,
+   "section": "Sport",
+   "headline": "Neftchi beat Attelkom at NurGaz Stadium"
+  },
+  {
+   "no": 725,
+   "date": "2010-04-15",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "The missing Merke grave ledger: what the Commission has not said"
+  },
+  {
+   "no": 725,
+   "date": "2010-04-15",
+   "lead": false,
+   "section": "Courts",
+   "headline": "Court adjourns a grazing-levy dispute for the fourth time"
+  },
+  {
+   "no": 725,
+   "date": "2010-04-15",
+   "lead": false,
+   "section": "Society",
+   "headline": "Easter markets fill Iyık Janyl as pilgrims arrive"
+  },
+  {
+   "no": 726,
+   "date": "2010-04-22",
+   "lead": true,
+   "section": "Money",
+   "headline": "NurGaz crude output holds near its 2009 level, filings show"
+  },
+  {
+   "no": 726,
+   "date": "2010-04-22",
+   "lead": false,
+   "section": "Politics",
+   "headline": "Mejlis passes a revised pension-fund reporting rule"
+  },
+  {
+   "no": 726,
+   "date": "2010-04-22",
+   "lead": false,
+   "section": "Culture",
+   "headline": "Cathedral choir of Iyık Janyl records an Easter programme"
+  },
+  {
+   "no": 727,
+   "date": "2010-04-29",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "Kamchylar after Taiyrov's grave: who funds the banner riders"
+  },
+  {
+   "no": 727,
+   "date": "2010-04-29",
+   "lead": false,
+   "section": "Society",
+   "headline": "Zharkyn's open day brings schoolchildren to the stud"
+  },
+  {
+   "no": 727,
+   "date": "2010-04-29",
+   "lead": false,
+   "section": "Money",
+   "headline": "Sheep prices rise before the spring lambing sales"
+  },
+  {
+   "no": 728,
+   "date": "2010-05-06",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "Wage arrears at Zhetysu Industrial Textiles reach four months"
+  },
+  {
+   "no": 728,
+   "date": "2010-05-06",
+   "lead": false,
+   "section": "Courts",
+   "headline": "Talas court hears a land dispute over Kara-Bulak pastures"
+  },
+  {
+   "no": 728,
+   "date": "2010-05-06",
+   "lead": false,
+   "section": "Sport",
+   "headline": "Surma Chatkal edge Universitet Talas"
+  },
+  {
+   "no": 729,
+   "date": "2010-05-13",
+   "lead": true,
+   "section": "Politics",
+   "headline": "Who sits on the commission that will certify the 2011 registers"
+  },
+  {
+   "no": 729,
+   "date": "2010-05-13",
+   "lead": false,
+   "section": "Society",
+   "headline": "Maize sowing begins at Kara-Bulak station"
+  },
+  {
+   "no": 729,
+   "date": "2010-05-13",
+   "lead": false,
+   "section": "Culture",
+   "headline": "Kök Bel plays a spring concert in Talas"
+  },
+  {
+   "no": 730,
+   "date": "2010-05-20",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "The Chu Basin Security Fund: three years of questions, no members"
+  },
+  {
+   "no": 730,
+   "date": "2010-05-20",
+   "lead": false,
+   "section": "Money",
+   "headline": "Iradiya adds a summer charter to Istanbul"
+  },
+  {
+   "no": 730,
+   "date": "2010-05-20",
+   "lead": false,
+   "section": "Society",
+   "headline": "Heat in May: Talas river runs low early"
+  },
+  {
+   "no": 731,
+   "date": "2010-05-27",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "How the 2008 grain auction rules favoured one bidder"
+  },
+  {
+   "no": 731,
+   "date": "2010-05-27",
+   "lead": false,
+   "section": "Courts",
+   "headline": "Ormonov's petition to the Supreme Court is dismissed"
+  },
+  {
+   "no": 731,
+   "date": "2010-05-27",
+   "lead": false,
+   "section": "Sport",
+   "headline": "Irad Cup quarter-finals draw big crowds"
+  },
+  {
+   "no": 732,
+   "date": "2010-06-03",
+   "lead": true,
+   "section": "Money",
+   "headline": "Pensions lag prices: what 700 som minimum buys in June"
+  },
+  {
+   "no": 732,
+   "date": "2010-06-03",
+   "lead": false,
+   "section": "Politics",
+   "headline": "Mejlis session: opposition raises Toktogul compensation"
+  },
+  {
+   "no": 732,
+   "date": "2010-06-03",
+   "lead": false,
+   "section": "Culture",
+   "headline": "Children's Day fair fills Central City Park"
+  },
+  {
+   "no": 733,
+   "date": "2010-06-10",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "Who benefits from the unpublished Naryn protocol annex"
+  },
+  {
+   "no": 733,
+   "date": "2010-06-10",
+   "lead": false,
+   "section": "Society",
+   "headline": "Kymyz season opens above Orto-Ayyl"
+  },
+  {
+   "no": 733,
+   "date": "2010-06-10",
+   "lead": false,
+   "section": "Courts",
+   "headline": "Defence in the Kamchylar-linked trial asks for a retrial",
+   "flags": [
+    "not in canon: Kamchylar-linked"
+   ]
+  },
+  {
+   "no": 734,
+   "date": "2010-06-17",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "Land transfers on Nurzhan's avenues: owners are still not on the register"
+  },
+  {
+   "no": 734,
+   "date": "2010-06-17",
+   "lead": false,
+   "section": "Money",
+   "headline": "Talasbank branch count grows to 28"
+  },
+  {
+   "no": 734,
+   "date": "2010-06-17",
+   "lead": false,
+   "section": "Sport",
+   "headline": "Tulpar go top after the derby break"
+  },
+  {
+   "no": 735,
+   "date": "2010-06-24",
+   "lead": true,
+   "section": "Politics",
+   "headline": "Why the 2011 Kara-Oi talks could be the last of their kind"
+  },
+  {
+   "no": 735,
+   "date": "2010-06-24",
+   "lead": false,
+   "section": "Society",
+   "headline": "Graduation season: TSU's class of 2010 faces a thin job market"
+  },
+  {
+   "no": 735,
+   "date": "2010-06-24",
+   "lead": false,
+   "section": "Culture",
+   "headline": "Midsummer concert on the Hippodrome lawns"
+  },
+  {
+   "no": 736,
+   "date": "2010-07-01",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "The antimony restart: partners named in filings, not in speeches"
+  },
+  {
+   "no": 736,
+   "date": "2010-07-01",
+   "lead": false,
+   "section": "Courts",
+   "headline": "Judge refuses bail in a diesel-smuggling case at the line"
+  },
+  {
+   "no": 736,
+   "date": "2010-07-01",
+   "lead": false,
+   "section": "Money",
+   "headline": "Shipments of Chatkal ingots to China rise"
+  },
+  {
+   "no": 737,
+   "date": "2010-07-08",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "The Taiyrov inquiry: nine months later, who has answered what"
+  },
+  {
+   "no": 737,
+   "date": "2010-07-08",
+   "lead": false,
+   "section": "Society",
+   "headline": "Cherry harvest early in the Fergana rim farm belt"
+  },
+  {
+   "no": 737,
+   "date": "2010-07-08",
+   "lead": false,
+   "section": "Sport",
+   "headline": "Ulak players prepare for the Highland division"
+  },
+  {
+   "no": 738,
+   "date": "2010-07-15",
+   "lead": true,
+   "section": "Money",
+   "headline": "Toktogul water levels and the winter-rationing bill"
+  },
+  {
+   "no": 738,
+   "date": "2010-07-15",
+   "lead": false,
+   "section": "Politics",
+   "headline": "Mejlis passes the summer recess agenda"
+  },
+  {
+   "no": 738,
+   "date": "2010-07-15",
+   "lead": false,
+   "section": "Culture",
+   "headline": "Besh-Tash museum opens a summer Ayyubov show"
+  },
+  {
+   "no": 739,
+   "date": "2010-07-22",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "Hospital drug procurement: invoices that do not match the delivery"
+  },
+  {
+   "no": 739,
+   "date": "2010-07-22",
+   "lead": false,
+   "section": "Courts",
+   "headline": "Court hears a Kara-Buura grazing dispute"
+  },
+  {
+   "no": 739,
+   "date": "2010-07-22",
+   "lead": false,
+   "section": "Society",
+   "headline": "Summer pasture migration starts early in the Chatkal"
+  },
+  {
+   "no": 740,
+   "date": "2010-07-29",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "July 28: what Sabyrbek's cairn does and does not commemorate",
+   "flags": [
+    "not in canon: Sabyrbek's"
+   ]
+  },
+  {
+   "no": 740,
+   "date": "2010-07-29",
+   "lead": false,
+   "section": "Society",
+   "headline": "Memorial at the Kobozev railhead draws steppe riders"
+  },
+  {
+   "no": 740,
+   "date": "2010-07-29",
+   "lead": false,
+   "section": "Sport",
+   "headline": "Neftchi rest key players for the Irad Cup"
+  },
+  {
+   "no": 741,
+   "date": "2010-08-05",
+   "lead": true,
+   "section": "Money",
+   "headline": "Water bills: who pays Iradenergo and who does not"
+  },
+  {
+   "no": 741,
+   "date": "2010-08-05",
+   "lead": false,
+   "section": "Politics",
+   "headline": "Lieutenant Governor visits the Naryn gorge road works"
+  },
+  {
+   "no": 741,
+   "date": "2010-08-05",
+   "lead": false,
+   "section": "Culture",
+   "headline": "Summer film evenings at the Old City"
+  },
+  {
+   "no": 742,
+   "date": "2010-08-12",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "The Toktogul dam security contract has no listed bidders"
+  },
+  {
+   "no": 742,
+   "date": "2010-08-12",
+   "lead": false,
+   "section": "Courts",
+   "headline": "Talas court closes the hospital-linen case"
+  },
+  {
+   "no": 742,
+   "date": "2010-08-12",
+   "lead": false,
+   "section": "Society",
+   "headline": "Heat wave strains Talas water supply"
+  },
+  {
+   "no": 743,
+   "date": "2010-08-19",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "Aulie-Ata clean-up: who was paid to demolish the empty blocks"
+  },
+  {
+   "no": 743,
+   "date": "2010-08-19",
+   "lead": false,
+   "section": "Money",
+   "headline": "Bazaar fruit prices fall in the apple glut"
+  },
+  {
+   "no": 743,
+   "date": "2010-08-19",
+   "lead": false,
+   "section": "Culture",
+   "headline": "Feast of St. Janyl preparations at Iyık Janyl"
+  },
+  {
+   "no": 744,
+   "date": "2010-08-26",
+   "lead": true,
+   "section": "Politics",
+   "headline": "Kurultai week: the Kamchylar one year after the walkout"
+  },
+  {
+   "no": 744,
+   "date": "2010-08-26",
+   "lead": false,
+   "section": "Society",
+   "headline": "St. Janyl procession fills Iyık Janyl"
+  },
+  {
+   "no": 744,
+   "date": "2010-08-26",
+   "lead": false,
+   "section": "Sport",
+   "headline": "Tulpar and Neftchi begin the late-season run"
+  },
+  {
+   "no": 745,
+   "date": "2010-09-02",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "The first day of school: textbooks missing in Kyzyl-Adyr"
+  },
+  {
+   "no": 745,
+   "date": "2010-09-02",
+   "lead": false,
+   "section": "Society",
+   "headline": "1 September: school bells and shortages"
+  },
+  {
+   "no": 745,
+   "date": "2010-09-02",
+   "lead": false,
+   "section": "Money",
+   "headline": "Back-to-school costs run ahead of wages"
+  },
+  {
+   "no": 746,
+   "date": "2010-09-09",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "Who has the 2007 Merke filtration-site records"
+  },
+  {
+   "no": 746,
+   "date": "2010-09-09",
+   "lead": false,
+   "section": "Courts",
+   "headline": "Talas court hears the first Taiyrov-related filing",
+   "flags": [
+    "not in canon: Taiyrov-related"
+   ]
+  },
+  {
+   "no": 746,
+   "date": "2010-09-09",
+   "lead": false,
+   "section": "Culture",
+   "headline": "Autumn season opens at the Palace of Art"
+  },
+  {
+   "no": 747,
+   "date": "2010-09-16",
+   "lead": true,
+   "section": "Money",
+   "headline": "Autumn grain procurement prices set below last year's"
+  },
+  {
+   "no": 747,
+   "date": "2010-09-16",
+   "lead": false,
+   "section": "Politics",
+   "headline": "Mejlis opens its autumn session"
+  },
+  {
+   "no": 747,
+   "date": "2010-09-16",
+   "lead": false,
+   "section": "Sport",
+   "headline": "Irad Cup semi-final draw announced"
+  },
+  {
+   "no": 748,
+   "date": "2010-09-23",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "Nobody has published who inspected the Chatkal smelter dust"
+  },
+  {
+   "no": 748,
+   "date": "2010-09-23",
+   "lead": false,
+   "section": "Society",
+   "headline": "Walnut harvest begins in the Chatkal forests"
+  },
+  {
+   "no": 748,
+   "date": "2010-09-23",
+   "lead": false,
+   "section": "Courts",
+   "headline": "Judge sets a hearing in the Nurzhan heating-bill case"
+  },
+  {
+   "no": 749,
+   "date": "2010-09-30",
+   "lead": true,
+   "section": "Politics",
+   "headline": "A Parties Act year: ten thousand members, one party"
+  },
+  {
+   "no": 749,
+   "date": "2010-09-30",
+   "lead": false,
+   "section": "Money",
+   "headline": "Autumn livestock fairs open at Moiynkum"
+  },
+  {
+   "no": 749,
+   "date": "2010-09-30",
+   "lead": false,
+   "section": "Culture",
+   "headline": "Talasfilm shows a restored Sadikov print"
+  },
+  {
+   "no": 750,
+   "date": "2010-10-07",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "Taiyrov's gate: what the police press office has not explained"
+  },
+  {
+   "no": 750,
+   "date": "2010-10-07",
+   "lead": false,
+   "section": "Society",
+   "headline": "Qara-Chik mothers keep their photograph vigils"
+  },
+  {
+   "no": 750,
+   "date": "2010-10-07",
+   "lead": false,
+   "section": "Sport",
+   "headline": "Ulak league opening round at the Hippodrome"
+  },
+  {
+   "no": 751,
+   "date": "2010-10-14",
+   "lead": true,
+   "section": "Money",
+   "headline": "NurGaz fills the winter fuel tanks: the price schedule"
+  },
+  {
+   "no": 751,
+   "date": "2010-10-14",
+   "lead": false,
+   "section": "Politics",
+   "headline": "Mejlis debates the 2011 budget draft"
+  },
+  {
+   "no": 751,
+   "date": "2010-10-14",
+   "lead": false,
+   "section": "Culture",
+   "headline": "Ayyubov exhibition opens in Talas"
+  },
+  {
+   "no": 752,
+   "date": "2010-10-21",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "Antimony export duty: where the revenue goes"
+  },
+  {
+   "no": 752,
+   "date": "2010-10-21",
+   "lead": false,
+   "section": "Courts",
+   "headline": "Court fines a Kamchylar-linked cell member in absentia",
+   "flags": [
+    "not in canon: Kamchylar-linked"
+   ]
+  },
+  {
+   "no": 752,
+   "date": "2010-10-21",
+   "lead": false,
+   "section": "Society",
+   "headline": "Heating season starts with delays in Nurzhan"
+  },
+  {
+   "no": 753,
+   "date": "2010-10-28",
+   "lead": true,
+   "section": "Politics",
+   "headline": "Who will contest the 2011 election, and who may"
+  },
+  {
+   "no": 753,
+   "date": "2010-10-28",
+   "lead": false,
+   "section": "Money",
+   "headline": "Bank of Irad reaffirms the 8.40 peg"
+  },
+  {
+   "no": 753,
+   "date": "2010-10-28",
+   "lead": false,
+   "section": "Sport",
+   "headline": "Neftchi take the Kara-Ak derby"
+  },
+  {
+   "no": 754,
+   "date": "2010-11-04",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "The commission's ballot-paper tender: one bidder again"
+  },
+  {
+   "no": 754,
+   "date": "2010-11-04",
+   "lead": false,
+   "section": "Society",
+   "headline": "All Souls' remembrance fills Talas cemeteries"
+  },
+  {
+   "no": 754,
+   "date": "2010-11-04",
+   "lead": false,
+   "section": "Culture",
+   "headline": "Semiz marks Day of the Dead with its riderless horse"
+  },
+  {
+   "no": 755,
+   "date": "2010-11-11",
+   "lead": true,
+   "section": "Money",
+   "headline": "Winter heating bills: what the tariff table does not say"
+  },
+  {
+   "no": 755,
+   "date": "2010-11-11",
+   "lead": false,
+   "section": "Politics",
+   "headline": "Opposition deputies ask for the 2007 privatisation files"
+  },
+  {
+   "no": 755,
+   "date": "2010-11-11",
+   "lead": false,
+   "section": "Courts",
+   "headline": "Talas court rules on a Merke family's petition"
+  },
+  {
+   "no": 756,
+   "date": "2010-11-18",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "Taiyrov, Taiyrov's widow and the unpaid kun"
+  },
+  {
+   "no": 756,
+   "date": "2010-11-18",
+   "lead": false,
+   "section": "Society",
+   "headline": "First snow closes the Kök-Bel road briefly"
+  },
+  {
+   "no": 756,
+   "date": "2010-11-18",
+   "lead": false,
+   "section": "Sport",
+   "headline": "Irad Cup final set for Silk Road Arena"
+  },
+  {
+   "no": 757,
+   "date": "2010-11-25",
+   "lead": true,
+   "section": "Politics",
+   "headline": "The December Kara-Oi agenda: what the IAC wants",
+   "flags": [
+    "not in canon: December Kara-Oi"
+   ]
+  },
+  {
+   "no": 757,
+   "date": "2010-11-25",
+   "lead": false,
+   "section": "Money",
+   "headline": "Remittances rise ahead of the New Year"
+  },
+  {
+   "no": 757,
+   "date": "2010-11-25",
+   "lead": false,
+   "section": "Culture",
+   "headline": "Sary-Bulak choir marks the saints' day"
+  },
+  {
+   "no": 758,
+   "date": "2010-12-02",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "The Winter of the Dam, two years on: the unanswered questions"
+  },
+  {
+   "no": 758,
+   "date": "2010-12-02",
+   "lead": false,
+   "section": "Courts",
+   "headline": "Court hears an appeal in the Nurzhanmash wages case"
+  },
+  {
+   "no": 758,
+   "date": "2010-12-02",
+   "lead": false,
+   "section": "Society",
+   "headline": "Heating season fully underway in the three cities"
+  },
+  {
+   "no": 759,
+   "date": "2010-12-09",
+   "lead": true,
+   "section": "Money",
+   "headline": "The 2011 budget: what was cut and what was kept"
+  },
+  {
+   "no": 759,
+   "date": "2010-12-09",
+   "lead": false,
+   "section": "Politics",
+   "headline": "Mejlis votes the budget in committee"
+  },
+  {
+   "no": 759,
+   "date": "2010-12-09",
+   "lead": false,
+   "section": "Sport",
+   "headline": "Tulpar sign a new coach for 2011"
+  },
+  {
+   "no": 760,
+   "date": "2010-12-16",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "Fuel for the clans: the diesel route across Kenkol"
+  },
+  {
+   "no": 760,
+   "date": "2010-12-16",
+   "lead": false,
+   "section": "Society",
+   "headline": "Warm Winter coats reach Kyzyl-Adyr schools"
+  },
+  {
+   "no": 760,
+   "date": "2010-12-16",
+   "lead": false,
+   "section": "Culture",
+   "headline": "Altyn-Zhylky nominations announced"
+  },
+  {
+   "no": 761,
+   "date": "2010-12-23",
+   "lead": true,
+   "section": "Politics",
+   "headline": "A year of the Parties Act: who registered, who did not"
+  },
+  {
+   "no": 761,
+   "date": "2010-12-23",
+   "lead": false,
+   "section": "Money",
+   "headline": "Christmas prices at Bazar-i Kalan"
+  },
+  {
+   "no": 761,
+   "date": "2010-12-23",
+   "lead": false,
+   "section": "Society",
+   "headline": "Nativity Eve vigil crowds fill St. Yuhanna"
+  },
+  {
+   "no": 762,
+   "date": "2010-12-30",
+   "lead": true,
+   "section": "The Times says",
+   "headline": "Irad's year, read in its own filings"
+  },
+  {
+   "no": 762,
+   "date": "2010-12-30",
+   "lead": false,
+   "section": "Courts",
+   "headline": "The year in court: what was decided and what was adjourned"
+  },
+  {
+   "no": 762,
+   "date": "2010-12-30",
+   "lead": false,
+   "section": "Culture",
+   "headline": "A year of Mor-Wave: tüntolk and the Nurzhan scene"
+  }
+ ]
+}

@@ -1,0 +1,1128 @@
+{
+ "outlet": "times",
+ "year": 2008,
+ "model": "claude-sonnet-5-5",
+ "written": "2026-10-30T09:18Z",
+ "items": [
+  {
+   "no": 606,
+   "date": "2008-01-03",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "Who sits on the Chu Basin Security Fund? Houston gives no names"
+  },
+  {
+   "no": 606,
+   "date": "2008-01-03",
+   "lead": false,
+   "section": "Money",
+   "headline": "Heating bills for January set in som at the old rate",
+   "flags": [
+    "law? 'bills for January set'"
+   ]
+  },
+  {
+   "no": 606,
+   "date": "2008-01-03",
+   "lead": false,
+   "section": "Society",
+   "headline": "Nurzhan's Epiphany-week cold: schools open late",
+   "flags": [
+    "not in canon: Epiphany-week"
+   ]
+  },
+  {
+   "no": 607,
+   "date": "2008-01-10",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "Merke grain store: families still wait for a list of the dead"
+  },
+  {
+   "no": 607,
+   "date": "2008-01-10",
+   "lead": false,
+   "section": "Politics",
+   "headline": "Mejlis chamber to sit with 50 provisional members through 2011"
+  },
+  {
+   "no": 607,
+   "date": "2008-01-10",
+   "lead": false,
+   "section": "Society",
+   "headline": "Orthodox Christmas in Nurzhan, quiet churches and full canteens"
+  },
+  {
+   "no": 608,
+   "date": "2008-01-17",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "Nobody has published the 2007 depot inventory in full"
+  },
+  {
+   "no": 608,
+   "date": "2008-01-17",
+   "lead": false,
+   "section": "Courts",
+   "headline": "Emergency tribunals end: what happens to the files?"
+  },
+  {
+   "no": 608,
+   "date": "2008-01-17",
+   "lead": false,
+   "section": "Culture",
+   "headline": "Iyık Janyl cathedral choir records its Christmas cycle"
+  },
+  {
+   "no": 609,
+   "date": "2008-01-24",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "Who paid the Nurzhan police overtime in the summer of 2007?"
+  },
+  {
+   "no": 609,
+   "date": "2008-01-24",
+   "lead": false,
+   "section": "Money",
+   "headline": "Bank of Irad reserves: what the freeze left behind"
+  },
+  {
+   "no": 609,
+   "date": "2008-01-24",
+   "lead": false,
+   "section": "Sport",
+   "headline": "Neftyanik union sponsors winter futsal in Dastgoh"
+  },
+  {
+   "no": 610,
+   "date": "2008-01-31",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "Aulie-Ata junction: a town emptied, a bill unpaid"
+  },
+  {
+   "no": 610,
+   "date": "2008-01-31",
+   "lead": false,
+   "section": "Society",
+   "headline": "Missing Persons Commission opens its first office in Talas"
+  },
+  {
+   "no": 610,
+   "date": "2008-01-31",
+   "lead": false,
+   "section": "Politics",
+   "headline": "Mothers of the missing petition the Governor"
+  },
+  {
+   "no": 611,
+   "date": "2008-02-07",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "The auction files that vanished from the Territorial Power Authority"
+  },
+  {
+   "no": 611,
+   "date": "2008-02-07",
+   "lead": false,
+   "section": "Money",
+   "headline": "Talasbank queues grow as dollar cash tightens"
+  },
+  {
+   "no": 611,
+   "date": "2008-02-07",
+   "lead": false,
+   "section": "Culture",
+   "headline": "Ayyubov's cathedral paintings travel to Besh-Tash"
+  },
+  {
+   "no": 612,
+   "date": "2008-02-14",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "Who now owns the Kobozev-era grain elevators?",
+   "flags": [
+    "not in canon: Kobozev-era"
+   ]
+  },
+  {
+   "no": 612,
+   "date": "2008-02-14",
+   "lead": false,
+   "section": "Courts",
+   "headline": "Abdrakhmanova's lawyers ask for access to the drafts"
+  },
+  {
+   "no": 612,
+   "date": "2008-02-14",
+   "lead": false,
+   "section": "Society",
+   "headline": "Snow closes the Kök-Bel road for three days"
+  },
+  {
+   "no": 613,
+   "date": "2008-02-21",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "The 2007 pasture decrees: who gained, who lost",
+   "flags": [
+    "law? 'decrees'"
+   ]
+  },
+  {
+   "no": 613,
+   "date": "2008-02-21",
+   "lead": false,
+   "section": "Politics",
+   "headline": "Mejlis debates Jer-Suu's future under the Extremist Activity Act",
+   "flags": [
+    "not in canon: Jer-Suu's"
+   ]
+  },
+  {
+   "no": 613,
+   "date": "2008-02-21",
+   "lead": false,
+   "section": "Culture",
+   "headline": "Talasfilm archive opens its vaults to students"
+  },
+  {
+   "no": 614,
+   "date": "2008-02-28",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "Contractors at Camp Feeder: what the NurGaz ledgers show"
+  },
+  {
+   "no": 614,
+   "date": "2008-02-28",
+   "lead": false,
+   "section": "Money",
+   "headline": "Pensioners count the cost as the som peg is questioned"
+  },
+  {
+   "no": 614,
+   "date": "2008-02-28",
+   "lead": false,
+   "section": "Sport",
+   "headline": "Tulpar and Neftchi announce spring friendlies"
+  },
+  {
+   "no": 615,
+   "date": "2008-03-06",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "Currency reset: who knew before 17 March?"
+  },
+  {
+   "no": 615,
+   "date": "2008-03-06",
+   "lead": false,
+   "section": "Society",
+   "headline": "International Women's Day: Anara Toktarova's fund opens new wards",
+   "flags": [
+    "not in canon: Women's Day",
+    "not in canon: Anara Toktarova's"
+   ]
+  },
+  {
+   "no": 615,
+   "date": "2008-03-06",
+   "lead": false,
+   "section": "Courts",
+   "headline": "Talas court hears Taiyrov and Ormonov defence motions"
+  },
+  {
+   "no": 616,
+   "date": "2008-03-13",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "Six months after the reset: dollar deposits untouched, wages shrunk"
+  },
+  {
+   "no": 616,
+   "date": "2008-03-13",
+   "lead": false,
+   "section": "Politics",
+   "headline": "Toktarov's directive ends tribunals, confirms abolition"
+  },
+  {
+   "no": 616,
+   "date": "2008-03-13",
+   "lead": false,
+   "section": "Culture",
+   "headline": "Irad Day concert fills Central Square"
+  },
+  {
+   "no": 617,
+   "date": "2008-03-20",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "The ministries that kept their old letterheads"
+  },
+  {
+   "no": 617,
+   "date": "2008-03-20",
+   "lead": false,
+   "section": "Courts",
+   "headline": "Jer-Suu ban appeal rejected by Supreme Court"
+  },
+  {
+   "no": 617,
+   "date": "2008-03-20",
+   "lead": false,
+   "section": "Society",
+   "headline": "Irad Day parade: veterans and riders march together"
+  },
+  {
+   "no": 618,
+   "date": "2008-03-27",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "Orozbekov charged in absentia: what the file actually says"
+  },
+  {
+   "no": 618,
+   "date": "2008-03-27",
+   "lead": false,
+   "section": "Money",
+   "headline": "Talas bread price rises two som"
+  },
+  {
+   "no": 618,
+   "date": "2008-03-27",
+   "lead": false,
+   "section": "Sport",
+   "headline": "Football season opens at Silk Road Arena"
+  },
+  {
+   "no": 619,
+   "date": "2008-04-03",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "The Missing Persons Commission has a budget but no investigators"
+  },
+  {
+   "no": 619,
+   "date": "2008-04-03",
+   "lead": false,
+   "section": "Politics",
+   "headline": "Jer-Suu banned: what remains of the nationalists"
+  },
+  {
+   "no": 619,
+   "date": "2008-04-03",
+   "lead": false,
+   "section": "Society",
+   "headline": "Spring floods threaten Kara-Buura villages"
+  },
+  {
+   "no": 620,
+   "date": "2008-04-10",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "Who is guarding the pipeline? Kalkan's growing contracts"
+  },
+  {
+   "no": 620,
+   "date": "2008-04-10",
+   "lead": false,
+   "section": "Money",
+   "headline": "NurGaz station prices rise at the pump"
+  },
+  {
+   "no": 620,
+   "date": "2008-04-10",
+   "lead": false,
+   "section": "Culture",
+   "headline": "Easter liturgy at St. Janyl draws record crowds"
+  },
+  {
+   "no": 621,
+   "date": "2008-04-17",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "The Chu depots after nine months: what was counted, what was not"
+  },
+  {
+   "no": 621,
+   "date": "2008-04-17",
+   "lead": false,
+   "section": "Courts",
+   "headline": "Talas court sets date for Abdrakhmanova verdict hearing"
+  },
+  {
+   "no": 621,
+   "date": "2008-04-17",
+   "lead": false,
+   "section": "Sport",
+   "headline": "Neftchi go top after Nurzhan derby"
+  },
+  {
+   "no": 622,
+   "date": "2008-04-24",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "Friends of the Irad Times: who they are and why they matter"
+  },
+  {
+   "no": 622,
+   "date": "2008-04-24",
+   "lead": false,
+   "section": "Society",
+   "headline": "School exams move to the new Latin-script syllabus"
+  },
+  {
+   "no": 622,
+   "date": "2008-04-24",
+   "lead": false,
+   "section": "Money",
+   "headline": "Antimony prices lift Sary-Bulak profits"
+  },
+  {
+   "no": 623,
+   "date": "2008-05-01",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "May Day wages: who is paid in dollars and who in som"
+  },
+  {
+   "no": 623,
+   "date": "2008-05-01",
+   "lead": false,
+   "section": "Politics",
+   "headline": "Trade union federation backs the Governor's budget line"
+  },
+  {
+   "no": 623,
+   "date": "2008-05-01",
+   "lead": false,
+   "section": "Culture",
+   "headline": "Spring exhibition opens at the Irad Palace of Art"
+  },
+  {
+   "no": 624,
+   "date": "2008-05-08",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "The Karatau quarries: idle, tribal and still licensed to someone"
+  },
+  {
+   "no": 624,
+   "date": "2008-05-08",
+   "lead": false,
+   "section": "Courts",
+   "headline": "Court rejects appeal over seized Bill of Sale files"
+  },
+  {
+   "no": 624,
+   "date": "2008-05-08",
+   "lead": false,
+   "section": "Society",
+   "headline": "Victory Day: parade in Nurzhan, silence in Talas"
+  },
+  {
+   "no": 625,
+   "date": "2008-05-15",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "Sweeps of 2007: the Gendarmerie's own count of detainees"
+  },
+  {
+   "no": 625,
+   "date": "2008-05-15",
+   "lead": false,
+   "section": "Money",
+   "headline": "Harvest loans: banks tighten for Chu farmers"
+  },
+  {
+   "no": 625,
+   "date": "2008-05-15",
+   "lead": false,
+   "section": "Sport",
+   "headline": "Tulpar wins away in Chatkal"
+  },
+  {
+   "no": 626,
+   "date": "2008-05-22",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "The Territorial Statistics Office has not published the 2007 war figures"
+  },
+  {
+   "no": 626,
+   "date": "2008-05-22",
+   "lead": false,
+   "section": "Politics",
+   "headline": "Mejlis passes spring budget amendments"
+  },
+  {
+   "no": 626,
+   "date": "2008-05-22",
+   "lead": false,
+   "section": "Culture",
+   "headline": "Kök Bel announces a summer tour"
+  },
+  {
+   "no": 627,
+   "date": "2008-05-29",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "Who paid for the new Nurzhan checkpoints?"
+  },
+  {
+   "no": 627,
+   "date": "2008-05-29",
+   "lead": false,
+   "section": "Society",
+   "headline": "Heat arrives early in the Chu valley"
+  },
+  {
+   "no": 627,
+   "date": "2008-05-29",
+   "lead": false,
+   "section": "Courts",
+   "headline": "Talas court rejects Ormonov's motion to dismiss",
+   "flags": [
+    "not in canon: Ormonov's"
+   ]
+  },
+  {
+   "no": 628,
+   "date": "2008-06-05",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "Water tariffs: Talas pays more, Nurzhan pays less"
+  },
+  {
+   "no": 628,
+   "date": "2008-06-05",
+   "lead": false,
+   "section": "Money",
+   "headline": "Remittances from Russia climb again"
+  },
+  {
+   "no": 628,
+   "date": "2008-06-05",
+   "lead": false,
+   "section": "Culture",
+   "headline": "Talas film season opens with Zarina retrospective"
+  },
+  {
+   "no": 629,
+   "date": "2008-06-12",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "The antimony works restart: who holds the contracts?"
+  },
+  {
+   "no": 629,
+   "date": "2008-06-12",
+   "lead": false,
+   "section": "Politics",
+   "headline": "Mejlis committee questions the Public Integrity Commission"
+  },
+  {
+   "no": 629,
+   "date": "2008-06-12",
+   "lead": false,
+   "section": "Society",
+   "headline": "Graduation season at TSU"
+  },
+  {
+   "no": 630,
+   "date": "2008-06-19",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "One year after the Fall of Talas: the unanswered questions"
+  },
+  {
+   "no": 630,
+   "date": "2008-06-19",
+   "lead": false,
+   "section": "Sport",
+   "headline": "Hippodrome summer meeting opens"
+  },
+  {
+   "no": 630,
+   "date": "2008-06-19",
+   "lead": false,
+   "section": "Society",
+   "headline": "Qara-Chik checkpoint: mothers keep their vigil"
+  },
+  {
+   "no": 631,
+   "date": "2008-06-26",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "The wedding minibus case: families still await a compensation review"
+  },
+  {
+   "no": 631,
+   "date": "2008-06-26",
+   "lead": false,
+   "section": "Money",
+   "headline": "Toktogul power exports reach a record in June"
+  },
+  {
+   "no": 631,
+   "date": "2008-06-26",
+   "lead": false,
+   "section": "Culture",
+   "headline": "Summer school of Iradi folklore opens at TSU"
+  },
+  {
+   "no": 632,
+   "date": "2008-07-03",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "Seed grain: who supplied the Chu farms this spring?"
+  },
+  {
+   "no": 632,
+   "date": "2008-07-03",
+   "lead": false,
+   "section": "Courts",
+   "headline": "Court hears closing statements in the Talas treason trial"
+  },
+  {
+   "no": 632,
+   "date": "2008-07-03",
+   "lead": false,
+   "section": "Society",
+   "headline": "Feast preparations in Iyık Janyl"
+  },
+  {
+   "no": 633,
+   "date": "2008-07-10",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "The pillar month revisited: surveyors' stakes still disputed"
+  },
+  {
+   "no": 633,
+   "date": "2008-07-10",
+   "lead": false,
+   "section": "Politics",
+   "headline": "Mejlis summer recess begins with budget unfinished"
+  },
+  {
+   "no": 633,
+   "date": "2008-07-10",
+   "lead": false,
+   "section": "Sport",
+   "headline": "Ulak teams train early for the autumn league"
+  },
+  {
+   "no": 634,
+   "date": "2008-07-17",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "Land transfers on Nurzhan's avenues: who signed?"
+  },
+  {
+   "no": 634,
+   "date": "2008-07-17",
+   "lead": false,
+   "section": "Money",
+   "headline": "Beef exports slow as feed costs climb"
+  },
+  {
+   "no": 634,
+   "date": "2008-07-17",
+   "lead": false,
+   "section": "Culture",
+   "headline": "Besh-Tash museum opens a new Ayyubov room"
+  },
+  {
+   "no": 635,
+   "date": "2008-07-24",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "Contract for the Talas ring road: one bidder, three bids"
+  },
+  {
+   "no": 635,
+   "date": "2008-07-24",
+   "lead": false,
+   "section": "Society",
+   "headline": "Dry spell worries Talas valley farmers"
+  },
+  {
+   "no": 635,
+   "date": "2008-07-24",
+   "lead": false,
+   "section": "Courts",
+   "headline": "Talas court defers verdict in the DRI case"
+  },
+  {
+   "no": 636,
+   "date": "2008-07-31",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "Where did the 2007 requisition receipts go?"
+  },
+  {
+   "no": 636,
+   "date": "2008-07-31",
+   "lead": false,
+   "section": "Politics",
+   "headline": "Lieutenant Governor Tologonov opens the harvest campaign",
+   "flags": [
+    "not in canon: Governor Tologonov"
+   ]
+  },
+  {
+   "no": 636,
+   "date": "2008-07-31",
+   "lead": false,
+   "section": "Sport",
+   "headline": "Women's football clubs plan a league"
+  },
+  {
+   "no": 637,
+   "date": "2008-08-07",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "Hospital pharmacy purchases: prices three times the bazaar's"
+  },
+  {
+   "no": 637,
+   "date": "2008-08-07",
+   "lead": false,
+   "section": "Money",
+   "headline": "Walnut crop forecast: a record year for the Fergana rim"
+  },
+  {
+   "no": 637,
+   "date": "2008-08-07",
+   "lead": false,
+   "section": "Society",
+   "headline": "Heat wave strains Iradenergo hours"
+  },
+  {
+   "no": 638,
+   "date": "2008-08-14",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "The Chatkal smelter and its tailings: who is checking?"
+  },
+  {
+   "no": 638,
+   "date": "2008-08-14",
+   "lead": false,
+   "section": "Culture",
+   "headline": "Kurultai week: aytysh duels draw crowds"
+  },
+  {
+   "no": 638,
+   "date": "2008-08-14",
+   "lead": false,
+   "section": "Politics",
+   "headline": "IAC elders meet at Aksay, the Chancellery reports"
+  },
+  {
+   "no": 639,
+   "date": "2008-08-21",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "The missing 2007 payroll lists of the Territorial Guard",
+   "flags": [
+    "not in canon: Territorial Guard"
+   ]
+  },
+  {
+   "no": 639,
+   "date": "2008-08-21",
+   "lead": false,
+   "section": "Society",
+   "headline": "Feast of St. Janyl: pilgrims fill Iyık Janyl"
+  },
+  {
+   "no": 639,
+   "date": "2008-08-21",
+   "lead": false,
+   "section": "Money",
+   "headline": "Talas Herald and Times both lose state advertising"
+  },
+  {
+   "no": 640,
+   "date": "2008-08-28",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "School year opens: textbooks still unprinted"
+  },
+  {
+   "no": 640,
+   "date": "2008-08-28",
+   "lead": false,
+   "section": "Politics",
+   "headline": "Mejlis returns to a crowded autumn agenda"
+  },
+  {
+   "no": 640,
+   "date": "2008-08-28",
+   "lead": false,
+   "section": "Sport",
+   "headline": "Autumn ulak league fixtures announced"
+  },
+  {
+   "no": 641,
+   "date": "2008-09-04",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "Who is paying for the Toktogul security fence?"
+  },
+  {
+   "no": 641,
+   "date": "2008-09-04",
+   "lead": false,
+   "section": "Courts",
+   "headline": "Talas court hears final pleas on Ormonov"
+  },
+  {
+   "no": 641,
+   "date": "2008-09-04",
+   "lead": false,
+   "section": "Society",
+   "headline": "First day of school: shortages in Kara-Buura"
+  },
+  {
+   "no": 642,
+   "date": "2008-09-11",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "Heating season: Nurzhan's mains and who repaired them"
+  },
+  {
+   "no": 642,
+   "date": "2008-09-11",
+   "lead": false,
+   "section": "Money",
+   "headline": "Cotton prices push Fergana rim ginning"
+  },
+  {
+   "no": 642,
+   "date": "2008-09-11",
+   "lead": false,
+   "section": "Culture",
+   "headline": "Mor-Wave night in the Dastgoh boiler room"
+  },
+  {
+   "no": 643,
+   "date": "2008-09-18",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "One year of the ceasefire: lists of the dead still incomplete"
+  },
+  {
+   "no": 643,
+   "date": "2008-09-18",
+   "lead": false,
+   "section": "Politics",
+   "headline": "Mejlis debates the winter heating budget"
+  },
+  {
+   "no": 643,
+   "date": "2008-09-18",
+   "lead": false,
+   "section": "Society",
+   "headline": "Autumn livestock fairs open at Kyzyl-Adyr"
+  },
+  {
+   "no": 644,
+   "date": "2008-09-25",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "Hail radar and its contractor: who chose the supplier?"
+  },
+  {
+   "no": 644,
+   "date": "2008-09-25",
+   "lead": false,
+   "section": "Sport",
+   "headline": "Neftchi and Tulpar tied at the top"
+  },
+  {
+   "no": 644,
+   "date": "2008-09-25",
+   "lead": false,
+   "section": "Society",
+   "headline": "First frost threatens late harvest"
+  },
+  {
+   "no": 645,
+   "date": "2008-10-02",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "The Toktogul water level: official figures against the gauges"
+  },
+  {
+   "no": 645,
+   "date": "2008-10-02",
+   "lead": false,
+   "section": "Money",
+   "headline": "Grain prices fall as harvest comes in"
+  },
+  {
+   "no": 645,
+   "date": "2008-10-02",
+   "lead": false,
+   "section": "Culture",
+   "headline": "Autumn season opens at Talas Opera and Ballet Theater"
+  },
+  {
+   "no": 646,
+   "date": "2008-10-09",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "State pharmacies: shortages the ministry does not report"
+  },
+  {
+   "no": 646,
+   "date": "2008-10-09",
+   "lead": false,
+   "section": "Politics",
+   "headline": "Opposition deputies ask about the Governor's contracts"
+  },
+  {
+   "no": 646,
+   "date": "2008-10-09",
+   "lead": false,
+   "section": "Society",
+   "headline": "Church bells ring for the Feast of the Cross preparations"
+  },
+  {
+   "no": 647,
+   "date": "2008-10-16",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "Hippodrome tote: where does the money go?"
+  },
+  {
+   "no": 647,
+   "date": "2008-10-16",
+   "lead": false,
+   "section": "Sport",
+   "headline": "Ulak league: Talas beat Sary-Bulak"
+  },
+  {
+   "no": 647,
+   "date": "2008-10-16",
+   "lead": false,
+   "section": "Courts",
+   "headline": "Court registers appeal over seized newspaper copies"
+  },
+  {
+   "no": 648,
+   "date": "2008-10-23",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "The feeder metering station: whose crude is counted?"
+  },
+  {
+   "no": 648,
+   "date": "2008-10-23",
+   "lead": false,
+   "section": "Money",
+   "headline": "Bank of Irad holds the peg despite pressure"
+  },
+  {
+   "no": 648,
+   "date": "2008-10-23",
+   "lead": false,
+   "section": "Culture",
+   "headline": "Ayyubov's White Rider returns to the cathedral for a week"
+  },
+  {
+   "no": 649,
+   "date": "2008-10-30",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "The Nurzhan refinery's winter fuel stocks"
+  },
+  {
+   "no": 649,
+   "date": "2008-10-30",
+   "lead": false,
+   "section": "Politics",
+   "headline": "Mejlis committee reviews 2009 budget draft"
+  },
+  {
+   "no": 649,
+   "date": "2008-10-30",
+   "lead": false,
+   "section": "Society",
+   "headline": "Halloween in Semiz: Mexican families mark the Day of the Dead early"
+  },
+  {
+   "no": 650,
+   "date": "2008-11-06",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "Who gets the winter heating subsidy?"
+  },
+  {
+   "no": 650,
+   "date": "2008-11-06",
+   "lead": false,
+   "section": "Society",
+   "headline": "Day of the Dead procession in Semiz"
+  },
+  {
+   "no": 650,
+   "date": "2008-11-06",
+   "lead": false,
+   "section": "Sport",
+   "headline": "Football season ends: title decided in the last round"
+  },
+  {
+   "no": 651,
+   "date": "2008-11-13",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "The 2007 privatisation files: a year later still closed"
+  },
+  {
+   "no": 651,
+   "date": "2008-11-13",
+   "lead": false,
+   "section": "Money",
+   "headline": "Talasbank sets December dollar limits"
+  },
+  {
+   "no": 651,
+   "date": "2008-11-13",
+   "lead": false,
+   "section": "Culture",
+   "headline": "Mar Ephrem's pastoral letter read in all parishes"
+  },
+  {
+   "no": 652,
+   "date": "2008-11-20",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "The antimony export duty: who pays, who is exempt?"
+  },
+  {
+   "no": 652,
+   "date": "2008-11-20",
+   "lead": false,
+   "section": "Courts",
+   "headline": "Talas court hears Abdrakhmanova's last appeal motions"
+  },
+  {
+   "no": 652,
+   "date": "2008-11-20",
+   "lead": false,
+   "section": "Society",
+   "headline": "Snow reaches Talas, early and heavy"
+  },
+  {
+   "no": 653,
+   "date": "2008-11-27",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "Dollar wages at the base: the best jobs in Talas"
+  },
+  {
+   "no": 653,
+   "date": "2008-11-27",
+   "lead": false,
+   "section": "Politics",
+   "headline": "Mejlis sends the budget to second reading"
+  },
+  {
+   "no": 653,
+   "date": "2008-11-27",
+   "lead": false,
+   "section": "Sport",
+   "headline": "Wrestling championships open at the Central Sports Complex"
+  },
+  {
+   "no": 654,
+   "date": "2008-12-04",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "Winter blackouts: Iradenergo's reserve plan examined"
+  },
+  {
+   "no": 654,
+   "date": "2008-12-04",
+   "lead": false,
+   "section": "Money",
+   "headline": "Toktogul reservoir at record low: exports cut"
+  },
+  {
+   "no": 654,
+   "date": "2008-12-04",
+   "lead": false,
+   "section": "Culture",
+   "headline": "Altyn-Zhylky nominations announced"
+  },
+  {
+   "no": 655,
+   "date": "2008-12-11",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "The 2009 budget: where the Governor's reserve fund goes"
+  },
+  {
+   "no": 655,
+   "date": "2008-12-11",
+   "lead": false,
+   "section": "Society",
+   "headline": "Rolling blackouts begin in Talas and Nurzhan"
+  },
+  {
+   "no": 655,
+   "date": "2008-12-11",
+   "lead": false,
+   "section": "Politics",
+   "headline": "Mejlis passes the 2009 budget"
+  },
+  {
+   "no": 656,
+   "date": "2008-12-18",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "Blackout hours: the schedule hospitals were not given"
+  },
+  {
+   "no": 656,
+   "date": "2008-12-18",
+   "lead": false,
+   "section": "Money",
+   "headline": "Pensions paid early before the holidays"
+  },
+  {
+   "no": 656,
+   "date": "2008-12-18",
+   "lead": false,
+   "section": "Culture",
+   "headline": "Altyn-Zhylky gala: tüntolk's Kara Suu reappraised"
+  },
+  {
+   "no": 657,
+   "date": "2008-12-25",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "A year in Irad: ten promises, three kept"
+  },
+  {
+   "no": 657,
+   "date": "2008-12-25",
+   "lead": false,
+   "section": "Society",
+   "headline": "Christmas liturgies in a cold, dim Talas"
+  },
+  {
+   "no": 657,
+   "date": "2008-12-25",
+   "lead": false,
+   "section": "The Times says",
+   "headline": "Keep the lamps lit"
+  }
+ ]
+}

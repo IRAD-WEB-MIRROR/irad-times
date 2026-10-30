@@ -1,0 +1,1136 @@
+{
+ "outlet": "times",
+ "year": 2009,
+ "model": "claude-sonnet-5-5",
+ "written": "2026-10-30T09:18Z",
+ "items": [
+  {
+   "no": 658,
+   "date": "2009-01-01",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "The Winter of the Dam: who decided to cut generation?"
+  },
+  {
+   "no": 658,
+   "date": "2009-01-01",
+   "lead": false,
+   "section": "Society",
+   "headline": "New Year's Day: candles, not lights",
+   "flags": [
+    "not in canon: Year's Day"
+   ]
+  },
+  {
+   "no": 658,
+   "date": "2009-01-01",
+   "lead": false,
+   "section": "Money",
+   "headline": "Heating costs rise as Toktogul runs low"
+  },
+  {
+   "no": 659,
+   "date": "2009-01-08",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "Dam crest, switchyard and the men who hold them"
+  },
+  {
+   "no": 659,
+   "date": "2009-01-08",
+   "lead": false,
+   "section": "Politics",
+   "headline": "Lieutenant Governor Tologonov warns of long rationing",
+   "flags": [
+    "not in canon: Governor Tologonov"
+   ]
+  },
+  {
+   "no": 659,
+   "date": "2009-01-08",
+   "lead": false,
+   "section": "Society",
+   "headline": "Blackouts reach Iyık Janyl's hospitals"
+  },
+  {
+   "no": 660,
+   "date": "2009-01-15",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "Kökjal villages cut off between two forces"
+  },
+  {
+   "no": 660,
+   "date": "2009-01-15",
+   "lead": false,
+   "section": "Courts",
+   "headline": "Talas court hears closing arguments in the DRI treason trial"
+  },
+  {
+   "no": 660,
+   "date": "2009-01-15",
+   "lead": false,
+   "section": "Sport",
+   "headline": "Ulak league on hold as roads freeze"
+  },
+  {
+   "no": 661,
+   "date": "2009-01-22",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "Dam-road shooting: what the first reports left out"
+  },
+  {
+   "no": 661,
+   "date": "2009-01-22",
+   "lead": false,
+   "section": "Politics",
+   "headline": "Six dead on the dam road, the Mejlis asks for facts"
+  },
+  {
+   "no": 661,
+   "date": "2009-01-22",
+   "lead": false,
+   "section": "Society",
+   "headline": "Mourning in the conscripts' home villages"
+  },
+  {
+   "no": 662,
+   "date": "2009-01-29",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "UNMI observers on the crest: what they may and may not see"
+  },
+  {
+   "no": 662,
+   "date": "2009-01-29",
+   "lead": false,
+   "section": "Money",
+   "headline": "Uzbek summer releases dispute reaches the Naryn observers"
+  },
+  {
+   "no": 662,
+   "date": "2009-01-29",
+   "lead": false,
+   "section": "Culture",
+   "headline": "Kemel Ishakov's funeral planned at Arsha-Say"
+  },
+  {
+   "no": 663,
+   "date": "2009-02-05",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "The Kara-Köl conscripts: families wait for pensions"
+  },
+  {
+   "no": 663,
+   "date": "2009-02-05",
+   "lead": false,
+   "section": "Society",
+   "headline": "Ishakov buried in Arsha-Say, flags at half-mast"
+  },
+  {
+   "no": 663,
+   "date": "2009-02-05",
+   "lead": false,
+   "section": "Culture",
+   "headline": "Writers remember Ishakov at the Palace of Art"
+  },
+  {
+   "no": 664,
+   "date": "2009-02-12",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "Grain auction: how the winning bid was priced"
+  },
+  {
+   "no": 664,
+   "date": "2009-02-12",
+   "lead": false,
+   "section": "Money",
+   "headline": "Talas Herald and the Times both cover grain auction"
+  },
+  {
+   "no": 664,
+   "date": "2009-02-12",
+   "lead": false,
+   "section": "Society",
+   "headline": "Cold snap tests the heating mains"
+  },
+  {
+   "no": 665,
+   "date": "2009-02-19",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "Toktogul talks: what each side would give up"
+  },
+  {
+   "no": 665,
+   "date": "2009-02-19",
+   "lead": false,
+   "section": "Politics",
+   "headline": "Kurultai elders meet to consider the dam"
+  },
+  {
+   "no": 665,
+   "date": "2009-02-19",
+   "lead": false,
+   "section": "Sport",
+   "headline": "Winter wrestling meet moves indoors"
+  },
+  {
+   "no": 666,
+   "date": "2009-02-26",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "The revenue share clans were promised, still unpublished"
+  },
+  {
+   "no": 666,
+   "date": "2009-02-26",
+   "lead": false,
+   "section": "Money",
+   "headline": "Rationing eases a little, but the reservoir stays low"
+  },
+  {
+   "no": 666,
+   "date": "2009-02-26",
+   "lead": false,
+   "section": "Culture",
+   "headline": "Mor-Wave cassettes sell out in Nurzhan"
+  },
+  {
+   "no": 667,
+   "date": "2009-03-05",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "Teachers who opened the doors: the school reform behind the tribute"
+  },
+  {
+   "no": 667,
+   "date": "2009-03-05",
+   "lead": false,
+   "section": "Society",
+   "headline": "International Women's Day plans in Talas"
+  },
+  {
+   "no": 667,
+   "date": "2009-03-05",
+   "lead": false,
+   "section": "Courts",
+   "headline": "Court sets a date for the Abdrakhmanova verdict"
+  },
+  {
+   "no": 668,
+   "date": "2009-03-12",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "Where did the winter's emergency money go?"
+  },
+  {
+   "no": 668,
+   "date": "2009-03-12",
+   "lead": false,
+   "section": "Politics",
+   "headline": "Mejlis debates the Winter of the Dam inquiry"
+  },
+  {
+   "no": 668,
+   "date": "2009-03-12",
+   "lead": false,
+   "section": "Society",
+   "headline": "Thaw brings mudflow warnings"
+  },
+  {
+   "no": 669,
+   "date": "2009-03-19",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "Chernov's arsenal: what was left in the depots"
+  },
+  {
+   "no": 669,
+   "date": "2009-03-19",
+   "lead": false,
+   "section": "Money",
+   "headline": "Heating arrears: who owes Iradenergo"
+  },
+  {
+   "no": 669,
+   "date": "2009-03-19",
+   "lead": false,
+   "section": "Culture",
+   "headline": "Irad Day concert rehearsals begin"
+  },
+  {
+   "no": 670,
+   "date": "2009-03-26",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "Irad Day, seventeen years on: who still counts the dead of 1992?"
+  },
+  {
+   "no": 670,
+   "date": "2009-03-26",
+   "lead": false,
+   "section": "Society",
+   "headline": "Irad Day parade in Talas"
+  },
+  {
+   "no": 670,
+   "date": "2009-03-26",
+   "lead": false,
+   "section": "Politics",
+   "headline": "Irad Day receptions: the Governor sends a message"
+  },
+  {
+   "no": 671,
+   "date": "2009-04-02",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "Who benefits from the new Public Gatherings Directive?",
+   "flags": [
+    "law? 'new Public Gatherings Directive'"
+   ]
+  },
+  {
+   "no": 671,
+   "date": "2009-04-02",
+   "lead": false,
+   "section": "Courts",
+   "headline": "Court hears final motions in the DRI treason trial"
+  },
+  {
+   "no": 671,
+   "date": "2009-04-02",
+   "lead": false,
+   "section": "Sport",
+   "headline": "New football season: fixtures published"
+  },
+  {
+   "no": 672,
+   "date": "2009-04-09",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "Spring planting: seed loans and who gets them"
+  },
+  {
+   "no": 672,
+   "date": "2009-04-09",
+   "lead": false,
+   "section": "Money",
+   "headline": "Beef price falls as feedlots overstock"
+  },
+  {
+   "no": 672,
+   "date": "2009-04-09",
+   "lead": false,
+   "section": "Society",
+   "headline": "Easter fast begins in the parishes"
+  },
+  {
+   "no": 673,
+   "date": "2009-04-16",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "The Merke graves: UNMI and the Commission disagree on access"
+  },
+  {
+   "no": 673,
+   "date": "2009-04-16",
+   "lead": false,
+   "section": "Politics",
+   "headline": "Mejlis votes on the Labour Code"
+  },
+  {
+   "no": 673,
+   "date": "2009-04-16",
+   "lead": false,
+   "section": "Culture",
+   "headline": "Spring film evenings at the Philharmonic"
+  },
+  {
+   "no": 674,
+   "date": "2009-04-23",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "Labour Code 2009: what it changes for strikes"
+  },
+  {
+   "no": 674,
+   "date": "2009-04-23",
+   "lead": false,
+   "section": "Society",
+   "headline": "Holy Week in Iyık Janyl"
+  },
+  {
+   "no": 674,
+   "date": "2009-04-23",
+   "lead": false,
+   "section": "Sport",
+   "headline": "Tulpar opens season with a win"
+  },
+  {
+   "no": 675,
+   "date": "2009-04-30",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "Easter in a rationed country: candles and lamps"
+  },
+  {
+   "no": 675,
+   "date": "2009-04-30",
+   "lead": false,
+   "section": "Money",
+   "headline": "Spring wages: som holds, dollar rents rise"
+  },
+  {
+   "no": 675,
+   "date": "2009-04-30",
+   "lead": false,
+   "section": "Society",
+   "headline": "Feast of Easter: crowds at every cathedral"
+  },
+  {
+   "no": 676,
+   "date": "2009-05-07",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "The Abdrakhmanova trial: what the court heard about the drafts"
+  },
+  {
+   "no": 676,
+   "date": "2009-05-07",
+   "lead": false,
+   "section": "Courts",
+   "headline": "Verdict date set for 22 May"
+  },
+  {
+   "no": 676,
+   "date": "2009-05-07",
+   "lead": false,
+   "section": "Politics",
+   "headline": "Opposition demands trial transcripts be published"
+  },
+  {
+   "no": 677,
+   "date": "2009-05-14",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "The Taiyrov acquittal question: why the concession shares stayed"
+  },
+  {
+   "no": 677,
+   "date": "2009-05-14",
+   "lead": false,
+   "section": "Society",
+   "headline": "Spring floods on the Talas river"
+  },
+  {
+   "no": 677,
+   "date": "2009-05-14",
+   "lead": false,
+   "section": "Culture",
+   "headline": "Spring bazaar at Bazar-i Kalan"
+  },
+  {
+   "no": 678,
+   "date": "2009-05-21",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "Verdicts due Friday: what the Talas court must weigh"
+  },
+  {
+   "no": 678,
+   "date": "2009-05-21",
+   "lead": false,
+   "section": "Money",
+   "headline": "Customs revenue climbs at the northern crossings"
+  },
+  {
+   "no": 678,
+   "date": "2009-05-21",
+   "lead": false,
+   "section": "Society",
+   "headline": "Crowds gather outside the Talas court"
+  },
+  {
+   "no": 679,
+   "date": "2009-05-28",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "Abdrakhmanova guilty, Taiyrov free: reading the verdicts"
+  },
+  {
+   "no": 679,
+   "date": "2009-05-28",
+   "lead": false,
+   "section": "Courts",
+   "headline": "Abdrakhmanova sentenced to 25 years, Ormonov to 12"
+  },
+  {
+   "no": 679,
+   "date": "2009-05-28",
+   "lead": false,
+   "section": "Politics",
+   "headline": "Front veterans on the verdict: they shot the soldier and freed the bookkeeper"
+  },
+  {
+   "no": 680,
+   "date": "2009-06-04",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "The Taiyrov verdict: who benefits from an acquittal?"
+  },
+  {
+   "no": 680,
+   "date": "2009-06-04",
+   "lead": false,
+   "section": "Society",
+   "headline": "Spring livestock sales open"
+  },
+  {
+   "no": 680,
+   "date": "2009-06-04",
+   "lead": false,
+   "section": "Money",
+   "headline": "Bank of Irad reports reserves above the peg"
+  },
+  {
+   "no": 681,
+   "date": "2009-06-11",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "The women's colony in Talas: conditions for the former governor"
+  },
+  {
+   "no": 681,
+   "date": "2009-06-11",
+   "lead": false,
+   "section": "Politics",
+   "headline": "Mejlis summer session opens with the Toktogul protocol on the table"
+  },
+  {
+   "no": 681,
+   "date": "2009-06-11",
+   "lead": false,
+   "section": "Sport",
+   "headline": "Football mid-season table"
+  },
+  {
+   "no": 682,
+   "date": "2009-06-18",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "The Toktogul corridor protocol: what the draft says about water"
+  },
+  {
+   "no": 682,
+   "date": "2009-06-18",
+   "lead": false,
+   "section": "Money",
+   "headline": "Harvest forecasts for Chu cotton and wheat"
+  },
+  {
+   "no": 682,
+   "date": "2009-06-18",
+   "lead": false,
+   "section": "Society",
+   "headline": "School year ends with graduation parades"
+  },
+  {
+   "no": 683,
+   "date": "2009-06-25",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "The El-Choro hunt in the Kara-Koyun: who was killed?"
+  },
+  {
+   "no": 683,
+   "date": "2009-06-25",
+   "lead": false,
+   "section": "Society",
+   "headline": "Summer herding season begins"
+  },
+  {
+   "no": 683,
+   "date": "2009-06-25",
+   "lead": false,
+   "section": "Courts",
+   "headline": "Court registers appeals from Abdrakhmanova's lawyers"
+  },
+  {
+   "no": 684,
+   "date": "2009-07-02",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "Kara-Koyun chase: families speak of the dead"
+  },
+  {
+   "no": 684,
+   "date": "2009-07-02",
+   "lead": false,
+   "section": "Politics",
+   "headline": "IAC Chancellery confirms nine killed on both sides"
+  },
+  {
+   "no": 684,
+   "date": "2009-07-02",
+   "lead": false,
+   "section": "Culture",
+   "headline": "Summer concerts at the Hippodrome"
+  },
+  {
+   "no": 685,
+   "date": "2009-07-09",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "The protocol vote nears: what the clans have not been told"
+  },
+  {
+   "no": 685,
+   "date": "2009-07-09",
+   "lead": false,
+   "section": "Money",
+   "headline": "Water rights and revenue share: the unpublished annex"
+  },
+  {
+   "no": 685,
+   "date": "2009-07-09",
+   "lead": false,
+   "section": "Society",
+   "headline": "Heat wave across Chu valley"
+  },
+  {
+   "no": 686,
+   "date": "2009-07-16",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "The Toktogul corridor protocol: signed, but whose is the dam?"
+  },
+  {
+   "no": 686,
+   "date": "2009-07-16",
+   "lead": false,
+   "section": "Politics",
+   "headline": "Toktogul corridor protocol signed at Kara-Oi"
+  },
+  {
+   "no": 686,
+   "date": "2009-07-16",
+   "lead": false,
+   "section": "Society",
+   "headline": "Villagers near the dam wait to learn what changes"
+  },
+  {
+   "no": 687,
+   "date": "2009-07-23",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "Basin elders keep pasture rights: reading the protocol's fine print"
+  },
+  {
+   "no": 687,
+   "date": "2009-07-23",
+   "lead": false,
+   "section": "Money",
+   "headline": "Revenue share: Kökjal elders want compensation first"
+  },
+  {
+   "no": 687,
+   "date": "2009-07-23",
+   "lead": false,
+   "section": "Culture",
+   "headline": "Summer school of church music in Iyık Janyl"
+  },
+  {
+   "no": 688,
+   "date": "2009-07-30",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "Naryn commission: who sits and who votes"
+  },
+  {
+   "no": 688,
+   "date": "2009-07-30",
+   "lead": false,
+   "section": "Sport",
+   "headline": "Hippodrome racing season continues"
+  },
+  {
+   "no": 688,
+   "date": "2009-07-30",
+   "lead": false,
+   "section": "Society",
+   "headline": "Walnut forests green early on the Fergana rim"
+  },
+  {
+   "no": 689,
+   "date": "2009-08-06",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "Kurultai agenda: protocol, quota, Kamchylar"
+  },
+  {
+   "no": 689,
+   "date": "2009-08-06",
+   "lead": false,
+   "section": "Politics",
+   "headline": "Elders gather at Aksay ahead of the Kurultai"
+  },
+  {
+   "no": 689,
+   "date": "2009-08-06",
+   "lead": false,
+   "section": "Money",
+   "headline": "Summer bazaar prices steady"
+  },
+  {
+   "no": 690,
+   "date": "2009-08-13",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "The Kamchylar walk out: who are they?"
+  },
+  {
+   "no": 690,
+   "date": "2009-08-13",
+   "lead": false,
+   "section": "Politics",
+   "headline": "Kurultai approves the Toktogul protocol, Kökjal stand aside"
+  },
+  {
+   "no": 690,
+   "date": "2009-08-13",
+   "lead": false,
+   "section": "Society",
+   "headline": "Kurultai week: thousands camp on the plateau"
+  },
+  {
+   "no": 691,
+   "date": "2009-08-20",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "The walkout and the whip: what the Kurultai record shows"
+  },
+  {
+   "no": 691,
+   "date": "2009-08-20",
+   "lead": false,
+   "section": "Society",
+   "headline": "Feast of St. Janyl preparations in Iyık Janyl"
+  },
+  {
+   "no": 691,
+   "date": "2009-08-20",
+   "lead": false,
+   "section": "Culture",
+   "headline": "Iradi folk song contest at Aksay"
+  },
+  {
+   "no": 692,
+   "date": "2009-08-27",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "The Kamchylar banner: independent cells, no leader"
+  },
+  {
+   "no": 692,
+   "date": "2009-08-27",
+   "lead": false,
+   "section": "Politics",
+   "headline": "Elders warn against revenge killings"
+  },
+  {
+   "no": 692,
+   "date": "2009-08-27",
+   "lead": false,
+   "section": "Money",
+   "headline": "Fergana rim walnut harvest begins"
+  },
+  {
+   "no": 693,
+   "date": "2009-09-03",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "Dam handover: when will the El-Choro leave?"
+  },
+  {
+   "no": 693,
+   "date": "2009-09-03",
+   "lead": false,
+   "section": "Society",
+   "headline": "School year begins in Talas"
+  },
+  {
+   "no": 693,
+   "date": "2009-09-03",
+   "lead": false,
+   "section": "Sport",
+   "headline": "Ulak league autumn season announced"
+  },
+  {
+   "no": 694,
+   "date": "2009-09-10",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "Toktogul switchyard: who runs the dispatch?"
+  },
+  {
+   "no": 694,
+   "date": "2009-09-10",
+   "lead": false,
+   "section": "Money",
+   "headline": "Cotton harvest opens in Chu"
+  },
+  {
+   "no": 694,
+   "date": "2009-09-10",
+   "lead": false,
+   "section": "Society",
+   "headline": "First days of the dam handover"
+  },
+  {
+   "no": 695,
+   "date": "2009-09-17",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "Who is watching the border posts after the protocol?"
+  },
+  {
+   "no": 695,
+   "date": "2009-09-17",
+   "lead": false,
+   "section": "Politics",
+   "headline": "Mejlis debates the State Symbols amendment",
+   "flags": [
+    "not in canon: Emblem Act"
+   ]
+  },
+  {
+   "no": 695,
+   "date": "2009-09-17",
+   "lead": false,
+   "section": "Culture",
+   "headline": "Talas State University marks the start of term"
+  },
+  {
+   "no": 696,
+   "date": "2009-09-24",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "The emblem working group: how the Talas art college won"
+  },
+  {
+   "no": 696,
+   "date": "2009-09-24",
+   "lead": false,
+   "section": "Politics",
+   "headline": "Mejlis passes the State Emblem amendment"
+  },
+  {
+   "no": 696,
+   "date": "2009-09-24",
+   "lead": false,
+   "section": "Sport",
+   "headline": "Neftchi and Tulpar at the top again"
+  },
+  {
+   "no": 697,
+   "date": "2009-10-01",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "El-Choro hand over the dam to the Gendarmerie"
+  },
+  {
+   "no": 697,
+   "date": "2009-10-01",
+   "lead": false,
+   "section": "Society",
+   "headline": "Emblem takes effect on 1 November: what changes on passports"
+  },
+  {
+   "no": 697,
+   "date": "2009-10-01",
+   "lead": false,
+   "section": "Money",
+   "headline": "Harvest sales: wheat prices low"
+  },
+  {
+   "no": 698,
+   "date": "2009-10-08",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "Kökjal compensation: first payments from the protocol"
+  },
+  {
+   "no": 698,
+   "date": "2009-10-08",
+   "lead": false,
+   "section": "Courts",
+   "headline": "Court hears appeal in the Kara-Koyun deaths"
+  },
+  {
+   "no": 698,
+   "date": "2009-10-08",
+   "lead": false,
+   "section": "Culture",
+   "headline": "New State Emblem displayed at Government House"
+  },
+  {
+   "no": 699,
+   "date": "2009-10-15",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "The Toktogul revenue share: first payments, no figures"
+  },
+  {
+   "no": 699,
+   "date": "2009-10-15",
+   "lead": false,
+   "section": "Politics",
+   "headline": "IAC elders ask UNMI to publish the annex"
+  },
+  {
+   "no": 699,
+   "date": "2009-10-15",
+   "lead": false,
+   "section": "Society",
+   "headline": "Winter coats: Anara Toktarova's Warm Winter campaign opens",
+   "flags": [
+    "not in canon: Anara Toktarova's Warm Winter"
+   ]
+  },
+  {
+   "no": 700,
+   "date": "2009-10-22",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "The Taiyrov house: what remains after the acquittal"
+  },
+  {
+   "no": 700,
+   "date": "2009-10-22",
+   "lead": false,
+   "section": "Money",
+   "headline": "Talasbank branch hours cut as cash runs short"
+  },
+  {
+   "no": 700,
+   "date": "2009-10-22",
+   "lead": false,
+   "section": "Culture",
+   "headline": "Autumn exhibition opens at the Palace of Art"
+  },
+  {
+   "no": 701,
+   "date": "2009-10-29",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "Who stands behind the Kamchylar? The question the elders cannot answer"
+  },
+  {
+   "no": 701,
+   "date": "2009-10-29",
+   "lead": false,
+   "section": "Society",
+   "headline": "Hallowe'en in Semiz and the Day of the Dead"
+  },
+  {
+   "no": 701,
+   "date": "2009-10-29",
+   "lead": false,
+   "section": "Sport",
+   "headline": "Football season nears its end"
+  },
+  {
+   "no": 702,
+   "date": "2009-11-05",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "The Day of the Dead procession: riderless horse leads again"
+  },
+  {
+   "no": 702,
+   "date": "2009-11-05",
+   "lead": false,
+   "section": "Politics",
+   "headline": "Mejlis begins work on the 2010 budget"
+  },
+  {
+   "no": 702,
+   "date": "2009-11-05",
+   "lead": false,
+   "section": "Money",
+   "headline": "Heating arrears: Talas pays, Nurzhan owes"
+  },
+  {
+   "no": 703,
+   "date": "2009-11-12",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "The Parties Act draft: ten thousand members and who can meet it"
+  },
+  {
+   "no": 703,
+   "date": "2009-11-12",
+   "lead": false,
+   "section": "Society",
+   "headline": "Cold weather arrives in the Chu valley"
+  },
+  {
+   "no": 703,
+   "date": "2009-11-12",
+   "lead": false,
+   "section": "Culture",
+   "headline": "Mor-Wave collective plays Talas"
+  },
+  {
+   "no": 704,
+   "date": "2009-11-19",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "The Toktogul reservoir: has it recovered since January?"
+  },
+  {
+   "no": 704,
+   "date": "2009-11-19",
+   "lead": false,
+   "section": "Politics",
+   "headline": "Mejlis committee opens budget hearings"
+  },
+  {
+   "no": 704,
+   "date": "2009-11-19",
+   "lead": false,
+   "section": "Sport",
+   "headline": "Football title decided in the last round"
+  },
+  {
+   "no": 705,
+   "date": "2009-11-26",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "Where do the dam's export dollars go?"
+  },
+  {
+   "no": 705,
+   "date": "2009-11-26",
+   "lead": false,
+   "section": "Money",
+   "headline": "Escrow reserve at Talasbank, what it covers"
+  },
+  {
+   "no": 705,
+   "date": "2009-11-26",
+   "lead": false,
+   "section": "Society",
+   "headline": "Snow comes early to the Talas Alatau"
+  },
+  {
+   "no": 706,
+   "date": "2009-12-03",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "The 2010 budget: security spending against schools"
+  },
+  {
+   "no": 706,
+   "date": "2009-12-03",
+   "lead": false,
+   "section": "Politics",
+   "headline": "Mejlis debates the budget in first reading"
+  },
+  {
+   "no": 706,
+   "date": "2009-12-03",
+   "lead": false,
+   "section": "Culture",
+   "headline": "Altyn-Zhylky nominations open"
+  },
+  {
+   "no": 707,
+   "date": "2009-12-10",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "Winter heating: who is ready, who is not"
+  },
+  {
+   "no": 707,
+   "date": "2009-12-10",
+   "lead": false,
+   "section": "Society",
+   "headline": "Nurzhan mains repair crews work through the night"
+  },
+  {
+   "no": 707,
+   "date": "2009-12-10",
+   "lead": false,
+   "section": "Money",
+   "headline": "Pensions paid before the holiday"
+  },
+  {
+   "no": 708,
+   "date": "2009-12-17",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "A year after the dam: what the protocol delivered"
+  },
+  {
+   "no": 708,
+   "date": "2009-12-17",
+   "lead": false,
+   "section": "Politics",
+   "headline": "Mejlis passes the 2010 budget"
+  },
+  {
+   "no": 708,
+   "date": "2009-12-17",
+   "lead": false,
+   "section": "Culture",
+   "headline": "Altyn-Zhylky gala: new awards announced"
+  },
+  {
+   "no": 709,
+   "date": "2009-12-24",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "Christmas in the basin: Kökjal villages count the year"
+  },
+  {
+   "no": 709,
+   "date": "2009-12-24",
+   "lead": false,
+   "section": "Society",
+   "headline": "Christmas Eve liturgies in Talas and Iyık Janyl"
+  },
+  {
+   "no": 709,
+   "date": "2009-12-24",
+   "lead": false,
+   "section": "Money",
+   "headline": "Year-end wages and bonuses"
+  },
+  {
+   "no": 710,
+   "date": "2009-12-31",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "The year in documents: what the Times found"
+  },
+  {
+   "no": 710,
+   "date": "2009-12-31",
+   "lead": false,
+   "section": "Society",
+   "headline": "New Year's Eve in Talas"
+  },
+  {
+   "no": 710,
+   "date": "2009-12-31",
+   "lead": false,
+   "section": "The Times says",
+   "headline": "A year of water and a year of walls"
+  }
+ ]
+}

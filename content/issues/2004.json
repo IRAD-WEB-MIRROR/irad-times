@@ -1,0 +1,1133 @@
+{
+ "outlet": "times",
+ "year": 2004,
+ "model": "claude-sonnet-5-5",
+ "written": "2026-10-30T09:18Z",
+ "items": [
+  {
+   "no": 397,
+   "date": "2004-01-01",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "Nobody has published what the Talas Air Base laundry contract costs"
+  },
+  {
+   "no": 397,
+   "date": "2004-01-01",
+   "lead": false,
+   "section": "Society",
+   "headline": "New Year night passes quietly in Talas, Nurzhan and Iyık Janyl"
+  },
+  {
+   "no": 397,
+   "date": "2004-01-01",
+   "lead": false,
+   "section": "Money",
+   "headline": "Heating bills for January set before the cold arrived",
+   "flags": [
+    "law? 'bills for January set'"
+   ]
+  },
+  {
+   "no": 398,
+   "date": "2004-01-08",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "Territorial Power Authority billed two districts for the same line"
+  },
+  {
+   "no": 398,
+   "date": "2004-01-08",
+   "lead": false,
+   "section": "Politics",
+   "headline": "Territorial Legislature opens its session with a short agenda"
+  },
+  {
+   "no": 398,
+   "date": "2004-01-08",
+   "lead": false,
+   "section": "Culture",
+   "headline": "Epiphany carols return to the Old City courtyards"
+  },
+  {
+   "no": 399,
+   "date": "2004-01-15",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "Who owns the gravel pits behind the Chu road contracts?"
+  },
+  {
+   "no": 399,
+   "date": "2004-01-15",
+   "lead": false,
+   "section": "Society",
+   "headline": "Schools in Kobozev-era blocks lose heat for four days",
+   "flags": [
+    "not in canon: Kobozev-era"
+   ]
+  },
+  {
+   "no": 399,
+   "date": "2004-01-15",
+   "lead": false,
+   "section": "Sport",
+   "headline": "Talas leads the winter ulak tournament"
+  },
+  {
+   "no": 400,
+   "date": "2004-01-22",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "Hospital linen budget rose while linen supplies fell"
+  },
+  {
+   "no": 400,
+   "date": "2004-01-22",
+   "lead": false,
+   "section": "Courts",
+   "headline": "Talas District Court hears land dispute over Tunuk-Bulak plots"
+  },
+  {
+   "no": 400,
+   "date": "2004-01-22",
+   "lead": false,
+   "section": "Money",
+   "headline": "Sheep prices climb at the Bazar-i Kalan"
+  },
+  {
+   "no": 401,
+   "date": "2004-01-29",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "The road fund paid for a road that is not there"
+  },
+  {
+   "no": 401,
+   "date": "2004-01-29",
+   "lead": false,
+   "section": "Politics",
+   "headline": "Governor's office defends the 2004 budget draft"
+  },
+  {
+   "no": 401,
+   "date": "2004-01-29",
+   "lead": false,
+   "section": "Society",
+   "headline": "Snow closes the Kök-Bel road for two days"
+  },
+  {
+   "no": 402,
+   "date": "2004-02-05",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "A Chu feedlot reported twice the cattle it holds"
+  },
+  {
+   "no": 402,
+   "date": "2004-02-05",
+   "lead": false,
+   "section": "Culture",
+   "headline": "Talasfilm Archives open a shelf of 1960s reels"
+  },
+  {
+   "no": 402,
+   "date": "2004-02-05",
+   "lead": false,
+   "section": "The Times says",
+   "headline": "Publish the school repair list"
+  },
+  {
+   "no": 403,
+   "date": "2004-02-12",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "Nurzhan's heat plant coal came from one supplier at three prices"
+  },
+  {
+   "no": 403,
+   "date": "2004-02-12",
+   "lead": false,
+   "section": "Money",
+   "headline": "Remittance offices report a busy February"
+  },
+  {
+   "no": 403,
+   "date": "2004-02-12",
+   "lead": false,
+   "section": "Society",
+   "headline": "Winter wells fail in two Kara-Buura villages"
+  },
+  {
+   "no": 404,
+   "date": "2004-02-19",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "Who approved the Alatau Heights water connection?"
+  },
+  {
+   "no": 404,
+   "date": "2004-02-19",
+   "lead": false,
+   "section": "Courts",
+   "headline": "Nurzhan court fines refinery subcontractor over fuel records"
+  },
+  {
+   "no": 404,
+   "date": "2004-02-19",
+   "lead": false,
+   "section": "Sport",
+   "headline": "Neftchi's youth side wins the Chu cup"
+  },
+  {
+   "no": 405,
+   "date": "2004-02-26",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "The 2002 bridge repairs were signed off before they began"
+  },
+  {
+   "no": 405,
+   "date": "2004-02-26",
+   "lead": false,
+   "section": "Politics",
+   "headline": "Legislature committee questions the Department of Transportation"
+  },
+  {
+   "no": 405,
+   "date": "2004-02-26",
+   "lead": false,
+   "section": "Culture",
+   "headline": "Winter exhibition of Talas felt opens"
+  },
+  {
+   "no": 406,
+   "date": "2004-03-04",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "Two ministries' worth of staff on one department's payroll"
+  },
+  {
+   "no": 406,
+   "date": "2004-03-04",
+   "lead": false,
+   "section": "Society",
+   "headline": "Spring thaw floods cellars on Printers' Lane"
+  },
+  {
+   "no": 406,
+   "date": "2004-03-04",
+   "lead": false,
+   "section": "Money",
+   "headline": "Fertiliser costs rise ahead of sowing"
+  },
+  {
+   "no": 407,
+   "date": "2004-03-11",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "Irad Day reception guest list paid from the road budget"
+  },
+  {
+   "no": 407,
+   "date": "2004-03-11",
+   "lead": false,
+   "section": "Culture",
+   "headline": "Irad Day concerts fill the Philharmonic"
+  },
+  {
+   "no": 407,
+   "date": "2004-03-11",
+   "lead": false,
+   "section": "Society",
+   "headline": "Parades mark the twelfth Irad Day in Talas and Nurzhan"
+  },
+  {
+   "no": 408,
+   "date": "2004-03-18",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "Antimony shipments to the coast were weighed three ways"
+  },
+  {
+   "no": 408,
+   "date": "2004-03-18",
+   "lead": false,
+   "section": "Money",
+   "headline": "Sary-Bulak Antimony Works posts higher quarterly sales"
+  },
+  {
+   "no": 408,
+   "date": "2004-03-18",
+   "lead": false,
+   "section": "Courts",
+   "headline": "Appeal in the Aulie-Ata warehouse case adjourned"
+  },
+  {
+   "no": 409,
+   "date": "2004-03-25",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "The school-bus tender had one bidder and a late deadline"
+  },
+  {
+   "no": 409,
+   "date": "2004-03-25",
+   "lead": false,
+   "section": "Politics",
+   "headline": "Mayor of Talas answers questions on market rents"
+  },
+  {
+   "no": 409,
+   "date": "2004-03-25",
+   "lead": false,
+   "section": "Society",
+   "headline": "Navruz tables set in the Talas valley"
+  },
+  {
+   "no": 410,
+   "date": "2004-04-01",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "Land on the Fergana rim changed hands before the survey"
+  },
+  {
+   "no": 410,
+   "date": "2004-04-01",
+   "lead": false,
+   "section": "Money",
+   "headline": "Lambing season brings early wool contracts"
+  },
+  {
+   "no": 410,
+   "date": "2004-04-01",
+   "lead": false,
+   "section": "Sport",
+   "headline": "Football league opens its season with a Talas win"
+  },
+  {
+   "no": 411,
+   "date": "2004-04-08",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "Who is paid to inspect the Toktogul spillway gates?"
+  },
+  {
+   "no": 411,
+   "date": "2004-04-08",
+   "lead": false,
+   "section": "Society",
+   "headline": "Lent begins with quiet fasting in the parishes"
+  },
+  {
+   "no": 411,
+   "date": "2004-04-08",
+   "lead": false,
+   "section": "Courts",
+   "headline": "Court hears Kobozev railway depot theft case"
+  },
+  {
+   "no": 412,
+   "date": "2004-04-15",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "Cliff above the Talas was flagged as unsafe two years ago"
+  },
+  {
+   "no": 412,
+   "date": "2004-04-15",
+   "lead": false,
+   "section": "Society",
+   "headline": "Families rehoused after rockfall near the Talas river"
+  },
+  {
+   "no": 412,
+   "date": "2004-04-15",
+   "lead": false,
+   "section": "Politics",
+   "headline": "Legislators ask for a survey of hillside homes"
+  },
+  {
+   "no": 413,
+   "date": "2004-04-22",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "The hillside survey fund has a balance nobody can explain"
+  },
+  {
+   "no": 413,
+   "date": "2004-04-22",
+   "lead": false,
+   "section": "Culture",
+   "headline": "Talas Philharmonic prepares Easter concert"
+  },
+  {
+   "no": 413,
+   "date": "2004-04-22",
+   "lead": false,
+   "section": "Money",
+   "headline": "Spring planting loans run short in Chu District"
+  },
+  {
+   "no": 414,
+   "date": "2004-04-29",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "Procurement files for the Nurzhan clinic roof are missing pages"
+  },
+  {
+   "no": 414,
+   "date": "2004-04-29",
+   "lead": false,
+   "section": "Society",
+   "headline": "Easter vigil fills St. Janyl in Iyık Janyl"
+  },
+  {
+   "no": 414,
+   "date": "2004-04-29",
+   "lead": false,
+   "section": "Sport",
+   "headline": "Tulpar and Neftchi share points in early derby"
+  },
+  {
+   "no": 415,
+   "date": "2004-05-06",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "Seed grain loans went to farms that do not exist"
+  },
+  {
+   "no": 415,
+   "date": "2004-05-06",
+   "lead": false,
+   "section": "Politics",
+   "headline": "Territorial Legislature debates the farm credit gap"
+  },
+  {
+   "no": 415,
+   "date": "2004-05-06",
+   "lead": false,
+   "section": "Courts",
+   "headline": "Talas court rejects appeal over market stall licences"
+  },
+  {
+   "no": 416,
+   "date": "2004-05-13",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "Who is paid to clear the Chatkal road each spring?"
+  },
+  {
+   "no": 416,
+   "date": "2004-05-13",
+   "lead": false,
+   "section": "Society",
+   "headline": "Victory Day marked in Nurzhan, quietly in Talas"
+  },
+  {
+   "no": 416,
+   "date": "2004-05-13",
+   "lead": false,
+   "section": "Money",
+   "headline": "Maize prices fall at Kara-Bulak"
+  },
+  {
+   "no": 417,
+   "date": "2004-05-20",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "Bus fares rose twice, the council voted once"
+  },
+  {
+   "no": 417,
+   "date": "2004-05-20",
+   "lead": false,
+   "section": "Culture",
+   "headline": "Ayyubov house-museum at Besh-Tash reopens for summer"
+  },
+  {
+   "no": 417,
+   "date": "2004-05-20",
+   "lead": false,
+   "section": "Politics",
+   "headline": "Highway patrol budget questioned in the Legislature"
+  },
+  {
+   "no": 418,
+   "date": "2004-05-27",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "Kazakh transit fees on Irad beef were never reported"
+  },
+  {
+   "no": 418,
+   "date": "2004-05-27",
+   "lead": false,
+   "section": "Society",
+   "headline": "Graduation season begins at Talas State University"
+  },
+  {
+   "no": 418,
+   "date": "2004-05-27",
+   "lead": false,
+   "section": "Money",
+   "headline": "Beef exporters wait on the Chu Gate queue"
+  },
+  {
+   "no": 419,
+   "date": "2004-06-03",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "The ambulance fleet is older than its stated age"
+  },
+  {
+   "no": 419,
+   "date": "2004-06-03",
+   "lead": false,
+   "section": "Courts",
+   "headline": "Former district clerk tried over land records"
+  },
+  {
+   "no": 419,
+   "date": "2004-06-03",
+   "lead": false,
+   "section": "Sport",
+   "headline": "President's Cup qualifiers begin in the valleys"
+  },
+  {
+   "no": 420,
+   "date": "2004-06-10",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "A cold-storage lease in western Talas was never put to tender"
+  },
+  {
+   "no": 420,
+   "date": "2004-06-10",
+   "lead": false,
+   "section": "Society",
+   "headline": "Heat arrives early on the Chu plain"
+  },
+  {
+   "no": 420,
+   "date": "2004-06-10",
+   "lead": false,
+   "section": "Culture",
+   "headline": "Summer film season opens at the open-air cinema"
+  },
+  {
+   "no": 421,
+   "date": "2004-06-17",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "The Territorial Legislature's catering bill tripled in a year",
+   "flags": [
+    "not in canon: Territorial Legislature's"
+   ]
+  },
+  {
+   "no": 421,
+   "date": "2004-06-17",
+   "lead": false,
+   "section": "Money",
+   "headline": "Wool buyers offer less than last spring"
+  },
+  {
+   "no": 421,
+   "date": "2004-06-17",
+   "lead": false,
+   "section": "Society",
+   "headline": "Herders move to summer pastures under clear skies"
+  },
+  {
+   "no": 422,
+   "date": "2004-06-24",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "The checkpoint rules that were in force the night of the minibus shooting"
+  },
+  {
+   "no": 422,
+   "date": "2004-06-24",
+   "lead": false,
+   "section": "Politics",
+   "headline": "Talas calls for a review of base force-protection rules"
+  },
+  {
+   "no": 422,
+   "date": "2004-06-24",
+   "lead": false,
+   "section": "Society",
+   "headline": "Families in Kyzyl-Adyr prepare for a wedding season"
+  },
+  {
+   "no": 423,
+   "date": "2004-07-01",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "What the Army told the Legislature about the Trans-Talas checkpoint"
+  },
+  {
+   "no": 423,
+   "date": "2004-07-01",
+   "lead": false,
+   "section": "Society",
+   "headline": "Vigil on the Trans-Talas Highway draws hundreds"
+  },
+  {
+   "no": 423,
+   "date": "2004-07-01",
+   "lead": false,
+   "section": "Politics",
+   "headline": "Legislature votes to demand Iradi jurisdiction over US personnel"
+  },
+  {
+   "no": 424,
+   "date": "2004-07-08",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "Condolence payments were set before the inquiry began"
+  },
+  {
+   "no": 424,
+   "date": "2004-07-08",
+   "lead": false,
+   "section": "Courts",
+   "headline": "Court-martial date set at Talas Air Base"
+  },
+  {
+   "no": 424,
+   "date": "2004-07-08",
+   "lead": false,
+   "section": "Money",
+   "headline": "Hay cutting starts early in Talas valley"
+  },
+  {
+   "no": 425,
+   "date": "2004-07-15",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "The base security contract renewal was never published"
+  },
+  {
+   "no": 425,
+   "date": "2004-07-15",
+   "lead": false,
+   "section": "Society",
+   "headline": "Bell founders prepare for Feast of St. Janyl"
+  },
+  {
+   "no": 425,
+   "date": "2004-07-15",
+   "lead": false,
+   "section": "Sport",
+   "headline": "Summer ulak friendly draws crowd in Semiz"
+  },
+  {
+   "no": 426,
+   "date": "2004-07-22",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "Who maintains the Sary-Bulak road barriers?"
+  },
+  {
+   "no": 426,
+   "date": "2004-07-22",
+   "lead": false,
+   "section": "Politics",
+   "headline": "Jer-Suu and Labor press the jurisdiction resolution"
+  },
+  {
+   "no": 426,
+   "date": "2004-07-22",
+   "lead": false,
+   "section": "Culture",
+   "headline": "Komuz summer school opens in Talas"
+  },
+  {
+   "no": 427,
+   "date": "2004-07-29",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "Fuel for the highway patrol was bought at above-market prices"
+  },
+  {
+   "no": 427,
+   "date": "2004-07-29",
+   "lead": false,
+   "section": "Money",
+   "headline": "Apricot harvest strong on the Fergana rim"
+  },
+  {
+   "no": 427,
+   "date": "2004-07-29",
+   "lead": false,
+   "section": "Society",
+   "headline": "Hot week brings water rationing in Nurzhan districts"
+  },
+  {
+   "no": 428,
+   "date": "2004-08-05",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "Irrigation fees collected, canals unrepaired"
+  },
+  {
+   "no": 428,
+   "date": "2004-08-05",
+   "lead": false,
+   "section": "Courts",
+   "headline": "Talas court hears dispute over a bazaar stall chain"
+  },
+  {
+   "no": 428,
+   "date": "2004-08-05",
+   "lead": false,
+   "section": "Sport",
+   "headline": "Football league pauses for the summer fixtures"
+  },
+  {
+   "no": 429,
+   "date": "2004-08-12",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "The 1990s pasture lease register has gaps nobody will fill"
+  },
+  {
+   "no": 429,
+   "date": "2004-08-12",
+   "lead": false,
+   "section": "Society",
+   "headline": "Pilgrim guesthouses fill ahead of the St. Janyl feast"
+  },
+  {
+   "no": 429,
+   "date": "2004-08-12",
+   "lead": false,
+   "section": "Money",
+   "headline": "Walnut buyers set early prices"
+  },
+  {
+   "no": 430,
+   "date": "2004-08-19",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "The pilgrim road repair paid for work done last year"
+  },
+  {
+   "no": 430,
+   "date": "2004-08-19",
+   "lead": false,
+   "section": "Culture",
+   "headline": "Feast of St. Janyl crowds fill Iyık Janyl"
+  },
+  {
+   "no": 430,
+   "date": "2004-08-19",
+   "lead": false,
+   "section": "Politics",
+   "headline": "Governor's office announces autumn budget timetable"
+  },
+  {
+   "no": 431,
+   "date": "2004-08-26",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "Textbooks arrived in October last year; tender says August"
+  },
+  {
+   "no": 431,
+   "date": "2004-08-26",
+   "lead": false,
+   "section": "Society",
+   "headline": "School year preparations strain village budgets"
+  },
+  {
+   "no": 431,
+   "date": "2004-08-26",
+   "lead": false,
+   "section": "Sport",
+   "headline": "Equestrian directorate announces autumn hippodrome calendar"
+  },
+  {
+   "no": 432,
+   "date": "2004-09-02",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "The new school year starts with half the textbooks unpaid"
+  },
+  {
+   "no": 432,
+   "date": "2004-09-02",
+   "lead": false,
+   "section": "Society",
+   "headline": "Schools open on 1 September across the districts"
+  },
+  {
+   "no": 432,
+   "date": "2004-09-02",
+   "lead": false,
+   "section": "Money",
+   "headline": "Cotton picking starts on the lower Talas"
+  },
+  {
+   "no": 433,
+   "date": "2004-09-09",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "Who sold the grain elevator lease in Chu District?"
+  },
+  {
+   "no": 433,
+   "date": "2004-09-09",
+   "lead": false,
+   "section": "Courts",
+   "headline": "Nurzhan court hears refinery safety case"
+  },
+  {
+   "no": 433,
+   "date": "2004-09-09",
+   "lead": false,
+   "section": "Politics",
+   "headline": "Territorial Legislature returns for autumn session"
+  },
+  {
+   "no": 434,
+   "date": "2004-09-16",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "Grain purchase prices differ by buyer, not by quality"
+  },
+  {
+   "no": 434,
+   "date": "2004-09-16",
+   "lead": false,
+   "section": "Society",
+   "headline": "Harvest festival marks the end of wheat cutting"
+  },
+  {
+   "no": 434,
+   "date": "2004-09-16",
+   "lead": false,
+   "section": "Money",
+   "headline": "Cattle sales at autumn fairs open higher"
+  },
+  {
+   "no": 435,
+   "date": "2004-09-23",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "The hospital drug tender listed a supplier registered last month"
+  },
+  {
+   "no": 435,
+   "date": "2004-09-23",
+   "lead": false,
+   "section": "Culture",
+   "headline": "Autumn concert season begins at the Philharmonic"
+  },
+  {
+   "no": 435,
+   "date": "2004-09-23",
+   "lead": false,
+   "section": "Sport",
+   "headline": "Ulak league starts with Talas ahead"
+  },
+  {
+   "no": 436,
+   "date": "2004-09-30",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "Heating plant repairs were billed, not carried out"
+  },
+  {
+   "no": 436,
+   "date": "2004-09-30",
+   "lead": false,
+   "section": "Politics",
+   "headline": "Budget draft sent to the Legislature"
+  },
+  {
+   "no": 436,
+   "date": "2004-09-30",
+   "lead": false,
+   "section": "Society",
+   "headline": "Cold snap arrives early in the mountain villages"
+  },
+  {
+   "no": 437,
+   "date": "2004-10-07",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "Who benefits from the new fuel storage rules?"
+  },
+  {
+   "no": 437,
+   "date": "2004-10-07",
+   "lead": false,
+   "section": "Money",
+   "headline": "Fuel prices steady at NurGaz stations"
+  },
+  {
+   "no": 437,
+   "date": "2004-10-07",
+   "lead": false,
+   "section": "Courts",
+   "headline": "Court fines trucking firm over weight records"
+  },
+  {
+   "no": 438,
+   "date": "2004-10-14",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "A school repair fund was spent on a ministry car park"
+  },
+  {
+   "no": 438,
+   "date": "2004-10-14",
+   "lead": false,
+   "section": "Society",
+   "headline": "Sheep markets crowded before winter sales close"
+  },
+  {
+   "no": 438,
+   "date": "2004-10-14",
+   "lead": false,
+   "section": "Culture",
+   "headline": "Autumn art show opens at the Palace of Art"
+  },
+  {
+   "no": 439,
+   "date": "2004-10-21",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "The Talas bus depot sold land it did not own"
+  },
+  {
+   "no": 439,
+   "date": "2004-10-21",
+   "lead": false,
+   "section": "Politics",
+   "headline": "Legislature members demand fuller budget tables"
+  },
+  {
+   "no": 439,
+   "date": "2004-10-21",
+   "lead": false,
+   "section": "Sport",
+   "headline": "Neftchi leads the table after the Nurzhan derby"
+  },
+  {
+   "no": 440,
+   "date": "2004-10-28",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "The harbour of paper: shell firms behind the base catering subcontract"
+  },
+  {
+   "no": 440,
+   "date": "2004-10-28",
+   "lead": false,
+   "section": "Society",
+   "headline": "Hallowtide visits fill the cemeteries of Talas"
+  },
+  {
+   "no": 440,
+   "date": "2004-10-28",
+   "lead": false,
+   "section": "Money",
+   "headline": "Grain stores report near-full elevators"
+  },
+  {
+   "no": 441,
+   "date": "2004-11-04",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "The Territorial Power Authority's winter maintenance plan has no budget line"
+  },
+  {
+   "no": 441,
+   "date": "2004-11-04",
+   "lead": false,
+   "section": "Politics",
+   "headline": "Department heads questioned on winter readiness"
+  },
+  {
+   "no": 441,
+   "date": "2004-11-04",
+   "lead": false,
+   "section": "Society",
+   "headline": "First snow closes the Fergana Gateway for a night"
+  },
+  {
+   "no": 442,
+   "date": "2004-11-11",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "Heating fees collected, boilers still cold"
+  },
+  {
+   "no": 442,
+   "date": "2004-11-11",
+   "lead": false,
+   "section": "Courts",
+   "headline": "Court hears Aulie-Ata land fraud appeal"
+  },
+  {
+   "no": 442,
+   "date": "2004-11-11",
+   "lead": false,
+   "section": "Culture",
+   "headline": "Alimbekov portraits prepared for the University library"
+  },
+  {
+   "no": 443,
+   "date": "2004-11-18",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "Alimbekov's funeral costs were paid from a fund with no public accounts"
+  },
+  {
+   "no": 443,
+   "date": "2004-11-18",
+   "lead": false,
+   "section": "Society",
+   "headline": "Three days of mourning mark the founder's death"
+  },
+  {
+   "no": 443,
+   "date": "2004-11-18",
+   "lead": false,
+   "section": "Politics",
+   "headline": "Legislature adjourns in tribute to Alimbekov"
+  },
+  {
+   "no": 444,
+   "date": "2004-11-25",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "The memorial committee has no members on public record"
+  },
+  {
+   "no": 444,
+   "date": "2004-11-25",
+   "lead": false,
+   "section": "Society",
+   "headline": "Talas queues at the lying-in-state"
+  },
+  {
+   "no": 444,
+   "date": "2004-11-25",
+   "lead": false,
+   "section": "The Times says",
+   "headline": "Alimbekov deserves a record, not a monument fund"
+  },
+  {
+   "no": 445,
+   "date": "2004-12-02",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "The emergency wing was announced twice and paid once"
+  },
+  {
+   "no": 445,
+   "date": "2004-12-02",
+   "lead": false,
+   "section": "Society",
+   "headline": "City Hospital No. 1 opens new emergency wing",
+   "flags": [
+    "not in canon: Hospital No"
+   ]
+  },
+  {
+   "no": 445,
+   "date": "2004-12-02",
+   "lead": false,
+   "section": "Money",
+   "headline": "Year-end bonuses delayed at state enterprises"
+  },
+  {
+   "no": 446,
+   "date": "2004-12-09",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "The minibus court-martial: what the record leaves out"
+  },
+  {
+   "no": 446,
+   "date": "2004-12-09",
+   "lead": false,
+   "section": "Courts",
+   "headline": "Two soldiers acquitted of negligent homicide at Talas Air Base"
+  },
+  {
+   "no": 446,
+   "date": "2004-12-09",
+   "lead": false,
+   "section": "Politics",
+   "headline": "Legislature members call for a jurisdiction review after acquittal"
+  },
+  {
+   "no": 447,
+   "date": "2004-12-16",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "Who will answer for the five dead on the Trans-Talas road?"
+  },
+  {
+   "no": 447,
+   "date": "2004-12-16",
+   "lead": false,
+   "section": "Society",
+   "headline": "Families of the minibus victims gather in Kyzyl-Adyr"
+  },
+  {
+   "no": 447,
+   "date": "2004-12-16",
+   "lead": false,
+   "section": "Culture",
+   "headline": "Christmas markets open in Talas"
+  },
+  {
+   "no": 448,
+   "date": "2004-12-23",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "The budget passed with a reserve fund nobody can audit"
+  },
+  {
+   "no": 448,
+   "date": "2004-12-23",
+   "lead": false,
+   "section": "Money",
+   "headline": "Christmas week brings dollar demand at the changers"
+  },
+  {
+   "no": 448,
+   "date": "2004-12-23",
+   "lead": false,
+   "section": "Society",
+   "headline": "Midnight liturgies fill the churches on Christmas night"
+  },
+  {
+   "no": 449,
+   "date": "2004-12-30",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "A year of unanswered requests: what the Times asked and what came back"
+  },
+  {
+   "no": 449,
+   "date": "2004-12-30",
+   "lead": false,
+   "section": "Politics",
+   "headline": "Legislature closes the year with the budget in place"
+  },
+  {
+   "no": 449,
+   "date": "2004-12-30",
+   "lead": false,
+   "section": "The Times says",
+   "headline": "Open the books in 2005"
+  }
+ ]
+}

@@ -1,0 +1,1082 @@
+{
+ "outlet": "times",
+ "year": 2000,
+ "model": "claude-sonnet-5-5",
+ "written": "2026-10-30T09:17Z",
+ "items": [
+  {
+   "no": 193,
+   "date": "2000-01-13",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "Who owns the Talas fuel depots after the 1999 share sale?"
+  },
+  {
+   "no": 193,
+   "date": "2000-01-13",
+   "lead": false,
+   "section": "Politics",
+   "headline": "Territorial Legislature opens its 2000 session with a budget fight"
+  },
+  {
+   "no": 193,
+   "date": "2000-01-13",
+   "lead": false,
+   "section": "Society",
+   "headline": "Heating fails in two Talas apartment blocks in the cold snap"
+  },
+  {
+   "no": 194,
+   "date": "2000-01-20",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "The Attelkom share auction: where did the leftover shares go?"
+  },
+  {
+   "no": 194,
+   "date": "2000-01-20",
+   "lead": false,
+   "section": "Money",
+   "headline": "Mutton prices climb as winter feed runs short"
+  },
+  {
+   "no": 194,
+   "date": "2000-01-20",
+   "lead": false,
+   "section": "Culture",
+   "headline": "Talas Philharmonic announces its spring season"
+  },
+  {
+   "no": 195,
+   "date": "2000-01-27",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "A road contract, three bidders and one address"
+  },
+  {
+   "no": 195,
+   "date": "2000-01-27",
+   "lead": false,
+   "section": "Courts",
+   "headline": "Talas District Court hears fuel-theft case from the Nurzhan depot"
+  },
+  {
+   "no": 195,
+   "date": "2000-01-27",
+   "lead": false,
+   "section": "Sport",
+   "headline": "Ulak league winter break: who is ahead in the Highland division"
+  },
+  {
+   "no": 196,
+   "date": "2000-02-03",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "The territorial pension fund's 1999 accounts do not add up"
+  },
+  {
+   "no": 196,
+   "date": "2000-02-03",
+   "lead": false,
+   "section": "Politics",
+   "headline": "Governor Ermatov meets Nurzhan council on refinery emissions"
+  },
+  {
+   "no": 196,
+   "date": "2000-02-03",
+   "lead": false,
+   "section": "Society",
+   "headline": "Winter Uprising memorial held in Talas on 3 February"
+  },
+  {
+   "no": 197,
+   "date": "2000-02-10",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "Nobody has published who bought the Sary-Bulak tailings contract"
+  },
+  {
+   "no": 197,
+   "date": "2000-02-10",
+   "lead": false,
+   "section": "Money",
+   "headline": "Talasbank reports record dollar deposits"
+  },
+  {
+   "no": 197,
+   "date": "2000-02-10",
+   "lead": false,
+   "section": "Culture",
+   "headline": "Besh-Tash museum shows new Ayyubov drawings"
+  },
+  {
+   "no": 198,
+   "date": "2000-02-17",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "School heating funds were spent twice, audit finds"
+  },
+  {
+   "no": 198,
+   "date": "2000-02-17",
+   "lead": false,
+   "section": "Courts",
+   "headline": "Territorial Supreme Court takes up a land-lease dispute in Chu"
+  },
+  {
+   "no": 198,
+   "date": "2000-02-17",
+   "lead": false,
+   "section": "Society",
+   "headline": "Blizzard closes the Kök-Bel road for two days"
+  },
+  {
+   "no": 199,
+   "date": "2000-02-24",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "Who pays for the Northern Export Feeder's first months of tolls?"
+  },
+  {
+   "no": 199,
+   "date": "2000-02-24",
+   "lead": false,
+   "section": "Politics",
+   "headline": "Legislature debates the entry-clause quota again"
+  },
+  {
+   "no": 199,
+   "date": "2000-02-24",
+   "lead": false,
+   "section": "Sport",
+   "headline": "Tulpar and Neftchi prepare for the new league season"
+  },
+  {
+   "no": 200,
+   "date": "2000-03-02",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "The Talas bread combine's flour contracts, line by line"
+  },
+  {
+   "no": 200,
+   "date": "2000-03-02",
+   "lead": false,
+   "section": "Money",
+   "headline": "Spring sowing loans: how many farms were refused"
+  },
+  {
+   "no": 200,
+   "date": "2000-03-02",
+   "lead": false,
+   "section": "Culture",
+   "headline": "Conservatory students stage a folk-music evening"
+  },
+  {
+   "no": 201,
+   "date": "2000-03-09",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "Land transfers on the Talas avenue: who got what"
+  },
+  {
+   "no": 201,
+   "date": "2000-03-09",
+   "lead": false,
+   "section": "Society",
+   "headline": "Irad Day preparations under way in Talas and Nurzhan"
+  },
+  {
+   "no": 201,
+   "date": "2000-03-09",
+   "lead": false,
+   "section": "Courts",
+   "headline": "Nurzhan bailiffs sued over a seized warehouse"
+  },
+  {
+   "no": 202,
+   "date": "2000-03-16",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "Irad Day contracts: the stage was booked before the budget passed"
+  },
+  {
+   "no": 202,
+   "date": "2000-03-16",
+   "lead": false,
+   "section": "Politics",
+   "headline": "Irad Day: the Governor's speech and the empty seats"
+  },
+  {
+   "no": 202,
+   "date": "2000-03-16",
+   "lead": false,
+   "section": "Sport",
+   "headline": "President's Cup qualifiers draw crowds at the Hippodrome"
+  },
+  {
+   "no": 203,
+   "date": "2000-03-23",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "Where the Chu water-flood money went"
+  },
+  {
+   "no": 203,
+   "date": "2000-03-23",
+   "lead": false,
+   "section": "Money",
+   "headline": "Hay price doubles in the valleys after the late frost"
+  },
+  {
+   "no": 203,
+   "date": "2000-03-23",
+   "lead": false,
+   "section": "Society",
+   "headline": "Spring floods threaten villages on the Talas river"
+  },
+  {
+   "no": 204,
+   "date": "2000-03-30",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "A territorial grant for rural clinics reached five of twelve"
+  },
+  {
+   "no": 204,
+   "date": "2000-03-30",
+   "lead": false,
+   "section": "Courts",
+   "headline": "Two men from Nurzhan charged over refinery pipe thefts"
+  },
+  {
+   "no": 204,
+   "date": "2000-03-30",
+   "lead": false,
+   "section": "Culture",
+   "headline": "Talasfilm archive appeals for donated reels"
+  },
+  {
+   "no": 205,
+   "date": "2000-04-06",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "Unfinished: the Kara-Buura irrigation canal, four years on"
+  },
+  {
+   "no": 205,
+   "date": "2000-04-06",
+   "lead": false,
+   "section": "Politics",
+   "headline": "Legislature votes on territorial road fund allocations"
+  },
+  {
+   "no": 205,
+   "date": "2000-04-06",
+   "lead": false,
+   "section": "Money",
+   "headline": "Antimony price rises, Sary-Bulak raises output"
+  },
+  {
+   "no": 206,
+   "date": "2000-04-13",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "The Iradi American hiring quota: how employers filled it"
+  },
+  {
+   "no": 206,
+   "date": "2000-04-13",
+   "lead": false,
+   "section": "Society",
+   "headline": "Lent begins; parishes prepare Easter kümöch drives"
+  },
+  {
+   "no": 206,
+   "date": "2000-04-13",
+   "lead": false,
+   "section": "Sport",
+   "headline": "First Irad League round: Neftchi win in Nurzhan"
+  },
+  {
+   "no": 207,
+   "date": "2000-04-20",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "Easter flour: who profits from the holiday price rise?"
+  },
+  {
+   "no": 207,
+   "date": "2000-04-20",
+   "lead": false,
+   "section": "Culture",
+   "headline": "Holy Week services fill St. Janyl in Iyık Janyl"
+  },
+  {
+   "no": 207,
+   "date": "2000-04-20",
+   "lead": false,
+   "section": "Society",
+   "headline": "Marshrutka fares rise in Talas"
+  },
+  {
+   "no": 208,
+   "date": "2000-04-27",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "The tender for Talas school desks had one bidder"
+  },
+  {
+   "no": 208,
+   "date": "2000-04-27",
+   "lead": false,
+   "section": "Courts",
+   "headline": "Court hears appeal over a Kyzyl-Adyr market stall dispute"
+  },
+  {
+   "no": 208,
+   "date": "2000-04-27",
+   "lead": false,
+   "section": "Money",
+   "headline": "Talasbank opens a new branch in Nurzhan"
+  },
+  {
+   "no": 209,
+   "date": "2000-05-04",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "Cold storage in western Talas: a lease nobody advertised"
+  },
+  {
+   "no": 209,
+   "date": "2000-05-04",
+   "lead": false,
+   "section": "Politics",
+   "headline": "Territorial budget revision goes to the legislature"
+  },
+  {
+   "no": 209,
+   "date": "2000-05-04",
+   "lead": false,
+   "section": "Sport",
+   "headline": "Tulpar draw at home, title race tightens"
+  },
+  {
+   "no": 210,
+   "date": "2000-05-11",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "The Nurzhan heat plant concession: what the contract says"
+  },
+  {
+   "no": 210,
+   "date": "2000-05-11",
+   "lead": false,
+   "section": "Society",
+   "headline": "Victory Day: Nurzhan parades, Talas stays quiet"
+  },
+  {
+   "no": 210,
+   "date": "2000-05-11",
+   "lead": false,
+   "section": "Culture",
+   "headline": "Spring exhibition opens at the Talas art college"
+  },
+  {
+   "no": 211,
+   "date": "2000-05-18",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "Lambing losses were counted three different ways"
+  },
+  {
+   "no": 211,
+   "date": "2000-05-18",
+   "lead": false,
+   "section": "Money",
+   "headline": "Wool buyers cut prices at the Talas bazaar"
+  },
+  {
+   "no": 211,
+   "date": "2000-05-18",
+   "lead": false,
+   "section": "Courts",
+   "headline": "Territorial court fines a Talas contractor for unpaid wages"
+  },
+  {
+   "no": 212,
+   "date": "2000-05-25",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "How a Chu feedlot got water ahead of the villages"
+  },
+  {
+   "no": 212,
+   "date": "2000-05-25",
+   "lead": false,
+   "section": "Politics",
+   "headline": "Mejlis-style question time: legislators press the Highway Patrol"
+  },
+  {
+   "no": 212,
+   "date": "2000-05-25",
+   "lead": false,
+   "section": "Society",
+   "headline": "Graduation season at Talas State University"
+  },
+  {
+   "no": 213,
+   "date": "2000-06-01",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "The Hippodrome renovation: costs up by half"
+  },
+  {
+   "no": 213,
+   "date": "2000-06-01",
+   "lead": false,
+   "section": "Sport",
+   "headline": "Ulak teams ready for the summer break"
+  },
+  {
+   "no": 213,
+   "date": "2000-06-01",
+   "lead": false,
+   "section": "Culture",
+   "headline": "Children's Day fair held in Central City Park"
+  },
+  {
+   "no": 214,
+   "date": "2000-06-08",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "Who monitors air quality around the Nurzhan refinery?"
+  },
+  {
+   "no": 214,
+   "date": "2000-06-08",
+   "lead": false,
+   "section": "Money",
+   "headline": "Remittance offices report busy spring"
+  },
+  {
+   "no": 214,
+   "date": "2000-06-08",
+   "lead": false,
+   "section": "Society",
+   "headline": "Siege of Talas dead remembered on the anniversary of the airlift"
+  },
+  {
+   "no": 215,
+   "date": "2000-06-15",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "Territorial scholarships: the winners and their schools"
+  },
+  {
+   "no": 215,
+   "date": "2000-06-15",
+   "lead": false,
+   "section": "Politics",
+   "headline": "Governor signs the summer road programme"
+  },
+  {
+   "no": 215,
+   "date": "2000-06-15",
+   "lead": false,
+   "section": "Courts",
+   "headline": "Nurzhan court hears a fuel-card fraud case"
+  },
+  {
+   "no": 216,
+   "date": "2000-06-22",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "The antimony shipment manifests and the missing weight"
+  },
+  {
+   "no": 216,
+   "date": "2000-06-22",
+   "lead": false,
+   "section": "Society",
+   "headline": "Herders move to the summer pastures early"
+  },
+  {
+   "no": 216,
+   "date": "2000-06-22",
+   "lead": false,
+   "section": "Culture",
+   "headline": "Summer concert series opens at the Philharmonic"
+  },
+  {
+   "no": 217,
+   "date": "2000-06-29",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "Village health posts without medicine since March"
+  },
+  {
+   "no": 217,
+   "date": "2000-06-29",
+   "lead": false,
+   "section": "Money",
+   "headline": "Talas builders face cement shortage"
+  },
+  {
+   "no": 217,
+   "date": "2000-06-29",
+   "lead": false,
+   "section": "Sport",
+   "headline": "Football mid-season: Neftchi lead by two points"
+  },
+  {
+   "no": 218,
+   "date": "2000-07-06",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "Grain elevator leases: who pays what to the territory"
+  },
+  {
+   "no": 218,
+   "date": "2000-07-06",
+   "lead": false,
+   "section": "Politics",
+   "headline": "Legislature recesses with the budget unsettled"
+  },
+  {
+   "no": 218,
+   "date": "2000-07-06",
+   "lead": false,
+   "section": "Society",
+   "headline": "Heat wave strains Talas water supply"
+  },
+  {
+   "no": 219,
+   "date": "2000-07-13",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "A bridge repair paid for, a bridge unrepaired"
+  },
+  {
+   "no": 219,
+   "date": "2000-07-13",
+   "lead": false,
+   "section": "Courts",
+   "headline": "Highway Patrol officer dismissed after bribery inquiry"
+  },
+  {
+   "no": 219,
+   "date": "2000-07-13",
+   "lead": false,
+   "section": "Culture",
+   "headline": "Film club screens Zarina in Talas"
+  },
+  {
+   "no": 220,
+   "date": "2000-07-20",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "The Talas river share: Kazakh readings and Iradi readings differ"
+  },
+  {
+   "no": 220,
+   "date": "2000-07-20",
+   "lead": false,
+   "section": "Money",
+   "headline": "Apricot harvest brings good prices in the south"
+  },
+  {
+   "no": 220,
+   "date": "2000-07-20",
+   "lead": false,
+   "section": "Society",
+   "headline": "Wedding season: halls booked solid in Nurzhan"
+  },
+  {
+   "no": 221,
+   "date": "2000-07-27",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "Fertiliser subsidy: the list of recipients"
+  },
+  {
+   "no": 221,
+   "date": "2000-07-27",
+   "lead": false,
+   "section": "Politics",
+   "headline": "Opposition legislators demand a refinery safety report"
+  },
+  {
+   "no": 221,
+   "date": "2000-07-27",
+   "lead": false,
+   "section": "Sport",
+   "headline": "Kobozev railhead memorial run draws hundreds"
+  },
+  {
+   "no": 222,
+   "date": "2000-08-03",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "The new feeder tariff and who it favours",
+   "flags": [
+    "law? 'new feeder tariff'"
+   ]
+  },
+  {
+   "no": 222,
+   "date": "2000-08-03",
+   "lead": false,
+   "section": "Courts",
+   "headline": "Court dismisses suit over Aulie-Ata land titles"
+  },
+  {
+   "no": 222,
+   "date": "2000-08-03",
+   "lead": false,
+   "section": "Society",
+   "headline": "Feast preparations begin in Iyık Janyl"
+  },
+  {
+   "no": 223,
+   "date": "2000-08-10",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "Church-land leases in Talas: the archive record"
+  },
+  {
+   "no": 223,
+   "date": "2000-08-10",
+   "lead": false,
+   "section": "Money",
+   "headline": "Beef exports rise through the Talas duty-free zone"
+  },
+  {
+   "no": 223,
+   "date": "2000-08-10",
+   "lead": false,
+   "section": "Culture",
+   "headline": "Pilgrim guesthouses report record bookings"
+  },
+  {
+   "no": 224,
+   "date": "2000-08-17",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "Lost Tribes memorial funds: where the donations went"
+  },
+  {
+   "no": 224,
+   "date": "2000-08-17",
+   "lead": false,
+   "section": "Society",
+   "headline": "Urkun remembered on 15 August with flags at half-mast"
+  },
+  {
+   "no": 224,
+   "date": "2000-08-17",
+   "lead": false,
+   "section": "Politics",
+   "headline": "Governor opens the new school year programme"
+  },
+  {
+   "no": 225,
+   "date": "2000-08-24",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "School textbook shortage traced to a printing contract"
+  },
+  {
+   "no": 225,
+   "date": "2000-08-24",
+   "lead": false,
+   "section": "Sport",
+   "headline": "Tulpar beat Attelkom in a cup tie"
+  },
+  {
+   "no": 225,
+   "date": "2000-08-24",
+   "lead": false,
+   "section": "Courts",
+   "headline": "Talas court hears Highway Patrol overtime claim"
+  },
+  {
+   "no": 226,
+   "date": "2000-08-31",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "Harvest labour: students sent to the fields unpaid"
+  },
+  {
+   "no": 226,
+   "date": "2000-08-31",
+   "lead": false,
+   "section": "Money",
+   "headline": "Wheat harvest gains lift Chu feed mills"
+  },
+  {
+   "no": 226,
+   "date": "2000-08-31",
+   "lead": false,
+   "section": "Culture",
+   "headline": "Feast of St. Janyl: procession and concert in Iyık Janyl"
+  },
+  {
+   "no": 227,
+   "date": "2000-09-07",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "The school year opens with unfinished classrooms"
+  },
+  {
+   "no": 227,
+   "date": "2000-09-07",
+   "lead": false,
+   "section": "Society",
+   "headline": "First of September: new Iradi-language primers arrive"
+  },
+  {
+   "no": 227,
+   "date": "2000-09-07",
+   "lead": false,
+   "section": "Politics",
+   "headline": "Legislature returns to a crowded autumn agenda"
+  },
+  {
+   "no": 228,
+   "date": "2000-09-14",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "Salt Road paving: who won the contract and at what price"
+  },
+  {
+   "no": 228,
+   "date": "2000-09-14",
+   "lead": false,
+   "section": "Courts",
+   "headline": "Nurzhan landlords lose a tenants' case"
+  },
+  {
+   "no": 228,
+   "date": "2000-09-14",
+   "lead": false,
+   "section": "Sport",
+   "headline": "Derby ticket queues form in Talas"
+  },
+  {
+   "no": 229,
+   "date": "2000-09-21",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "Autumn livestock sales: buyers' cartel alleged at Chu feedlots"
+  },
+  {
+   "no": 229,
+   "date": "2000-09-21",
+   "lead": false,
+   "section": "Money",
+   "headline": "Dollar-som exchange offices post new rates"
+  },
+  {
+   "no": 229,
+   "date": "2000-09-21",
+   "lead": false,
+   "section": "Culture",
+   "headline": "Talas conservatory opens its autumn season"
+  },
+  {
+   "no": 230,
+   "date": "2000-09-28",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "Heating season starts: which boilers are not ready"
+  },
+  {
+   "no": 230,
+   "date": "2000-09-28",
+   "lead": false,
+   "section": "Politics",
+   "headline": "Governor Ermatov defends the territorial budget draft"
+  },
+  {
+   "no": 230,
+   "date": "2000-09-28",
+   "lead": false,
+   "section": "Society",
+   "headline": "Cotton picking begins on the Fergana rim"
+  },
+  {
+   "no": 231,
+   "date": "2000-10-05",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "The territorial audit office's missing 1999 reports"
+  },
+  {
+   "no": 231,
+   "date": "2000-10-05",
+   "lead": false,
+   "section": "Money",
+   "headline": "Walnut crop strong in Chatkal"
+  },
+  {
+   "no": 231,
+   "date": "2000-10-05",
+   "lead": false,
+   "section": "Sport",
+   "headline": "Ulak league autumn season opens at the Hippodrome"
+  },
+  {
+   "no": 232,
+   "date": "2000-10-12",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "A Nurzhan district's heating bill and the unpaid supplier"
+  },
+  {
+   "no": 232,
+   "date": "2000-10-12",
+   "lead": false,
+   "section": "Courts",
+   "headline": "Court upholds fine on a Talas fuel distributor"
+  },
+  {
+   "no": 232,
+   "date": "2000-10-12",
+   "lead": false,
+   "section": "Culture",
+   "headline": "Autumn art show opens at the Palace of Art in Iyık Janyl"
+  },
+  {
+   "no": 233,
+   "date": "2000-10-19",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "Who sold the base laundry contract subcontracts"
+  },
+  {
+   "no": 233,
+   "date": "2000-10-19",
+   "lead": false,
+   "section": "Politics",
+   "headline": "Legislature questions the Department of Agriculture"
+  },
+  {
+   "no": 233,
+   "date": "2000-10-19",
+   "lead": false,
+   "section": "Society",
+   "headline": "First snow closes the Fergana Gateway road briefly"
+  },
+  {
+   "no": 234,
+   "date": "2000-10-26",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "The Chu valley wells and the farms left dry"
+  },
+  {
+   "no": 234,
+   "date": "2000-10-26",
+   "lead": false,
+   "section": "Money",
+   "headline": "Talasbank raises dollar loan rates"
+  },
+  {
+   "no": 234,
+   "date": "2000-10-26",
+   "lead": false,
+   "section": "Sport",
+   "headline": "Neftchi and Tulpar chase the league title"
+  },
+  {
+   "no": 235,
+   "date": "2000-11-02",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "Winter coat drive: donated stock sold in a bazaar"
+  },
+  {
+   "no": 235,
+   "date": "2000-11-02",
+   "lead": false,
+   "section": "Courts",
+   "headline": "Two Talas men charged with market fraud"
+  },
+  {
+   "no": 235,
+   "date": "2000-11-02",
+   "lead": false,
+   "section": "Culture",
+   "headline": "Writers' evening in Talas remembers the purged editors"
+  },
+  {
+   "no": 236,
+   "date": "2000-11-09",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "The territorial election commission's unpublished budget"
+  },
+  {
+   "no": 236,
+   "date": "2000-11-09",
+   "lead": false,
+   "section": "Politics",
+   "headline": "Debate over 2001 budget opens in the legislature"
+  },
+  {
+   "no": 236,
+   "date": "2000-11-09",
+   "lead": false,
+   "section": "Society",
+   "headline": "Bread price rises at the Talas combine"
+  },
+  {
+   "no": 237,
+   "date": "2000-11-16",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "Road salt purchases for a winter that has not come"
+  },
+  {
+   "no": 237,
+   "date": "2000-11-16",
+   "lead": false,
+   "section": "Money",
+   "headline": "Beef packing orders grow at the SuKarne complex"
+  },
+  {
+   "no": 237,
+   "date": "2000-11-16",
+   "lead": false,
+   "section": "Sport",
+   "headline": "League title race goes to the final rounds"
+  },
+  {
+   "no": 238,
+   "date": "2000-11-23",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "Hospital supplies bought at twice the bazaar price"
+  },
+  {
+   "no": 238,
+   "date": "2000-11-23",
+   "lead": false,
+   "section": "Courts",
+   "headline": "Nurzhan court sentences refinery pipe thieves"
+  },
+  {
+   "no": 238,
+   "date": "2000-11-23",
+   "lead": false,
+   "section": "Culture",
+   "headline": "Philharmonic presents an autumn requiem concert"
+  },
+  {
+   "no": 239,
+   "date": "2000-11-30",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "The pension fund's investments in a Talas hotel"
+  },
+  {
+   "no": 239,
+   "date": "2000-11-30",
+   "lead": false,
+   "section": "Politics",
+   "headline": "Legislature passes the 2001 territorial budget"
+  },
+  {
+   "no": 239,
+   "date": "2000-11-30",
+   "lead": false,
+   "section": "Society",
+   "headline": "Cold week brings power cuts to outer districts"
+  },
+  {
+   "no": 240,
+   "date": "2000-12-07",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "A school roof tender, cancelled and reissued"
+  },
+  {
+   "no": 240,
+   "date": "2000-12-07",
+   "lead": false,
+   "section": "Money",
+   "headline": "Remittances climb before the holidays"
+  },
+  {
+   "no": 240,
+   "date": "2000-12-07",
+   "lead": false,
+   "section": "Sport",
+   "headline": "Tulpar clinch the Irad League title"
+  },
+  {
+   "no": 241,
+   "date": "2000-12-14",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "Christmas fair stalls: who gets the best places"
+  },
+  {
+   "no": 241,
+   "date": "2000-12-14",
+   "lead": false,
+   "section": "Society",
+   "headline": "Altyn-Zhylky awards announced for the year"
+  },
+  {
+   "no": 241,
+   "date": "2000-12-14",
+   "lead": false,
+   "section": "Courts",
+   "headline": "Court hears dispute over Hippodrome concessions"
+  },
+  {
+   "no": 242,
+   "date": "2000-12-21",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "A year of promises: what the territory said it would build in 2000"
+  },
+  {
+   "no": 242,
+   "date": "2000-12-21",
+   "lead": false,
+   "section": "Culture",
+   "headline": "Christmas liturgies fill churches in Talas and Nurzhan"
+  },
+  {
+   "no": 242,
+   "date": "2000-12-21",
+   "lead": false,
+   "section": "Society",
+   "headline": "Toy drives and warm coats for children's homes"
+  },
+  {
+   "no": 243,
+   "date": "2000-12-28",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "The year's contracts: what we found and what we could not"
+  },
+  {
+   "no": 243,
+   "date": "2000-12-28",
+   "lead": false,
+   "section": "Politics",
+   "headline": "Governor's year-end message promises road work"
+  },
+  {
+   "no": 243,
+   "date": "2000-12-28",
+   "lead": false,
+   "section": "The Times says",
+   "headline": "Ask who signed before you ask who built"
+  }
+ ]
+}

@@ -1,0 +1,1098 @@
+{
+ "outlet": "times",
+ "year": 2017,
+ "model": "claude-sonnet-5-5",
+ "written": "2026-10-30T09:20Z",
+ "items": [
+  {
+   "no": 1067,
+   "date": "2017-01-05",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "The new year's heating tariff: how it was calculated",
+   "flags": [
+    "law? 'new year's heating tariff'"
+   ]
+  },
+  {
+   "no": 1067,
+   "date": "2017-01-05",
+   "lead": false,
+   "section": "Money",
+   "headline": "January wage rises: what public workers will actually see"
+  },
+  {
+   "no": 1067,
+   "date": "2017-01-05",
+   "lead": false,
+   "section": "Society",
+   "headline": "Talas schools reopen; textbooks still missing in the districts"
+  },
+  {
+   "no": 1068,
+   "date": "2017-01-12",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "Toktogul District's first year: who is on the payroll",
+   "flags": [
+    "not in canon: District's"
+   ]
+  },
+  {
+   "no": 1068,
+   "date": "2017-01-12",
+   "lead": false,
+   "section": "Politics",
+   "headline": "Mejlis committee opens 2017 session on roads"
+  },
+  {
+   "no": 1068,
+   "date": "2017-01-12",
+   "lead": false,
+   "section": "Culture",
+   "headline": "Epiphany blessing of water on the Talas river"
+  },
+  {
+   "no": 1069,
+   "date": "2017-01-19",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "The Talas bus depot loan: who guaranteed it"
+  },
+  {
+   "no": 1069,
+   "date": "2017-01-19",
+   "lead": false,
+   "section": "Money",
+   "headline": "Hay prices ease in the valleys after a mild January"
+  },
+  {
+   "no": 1069,
+   "date": "2017-01-19",
+   "lead": false,
+   "section": "Sport",
+   "headline": "Ulak players begin winter league at the Hippodrome"
+  },
+  {
+   "no": 1070,
+   "date": "2017-01-26",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "Nobody has published the cost of the Sadikov funeral arrangements"
+  },
+  {
+   "no": 1070,
+   "date": "2017-01-26",
+   "lead": false,
+   "section": "Society",
+   "headline": "Talas holds a funeral for director Nurlan Sadikov; flags lowered in the city"
+  },
+  {
+   "no": 1070,
+   "date": "2017-01-26",
+   "lead": false,
+   "section": "Culture",
+   "headline": "Sadikov's films screened in Talas to mark the funeral"
+  },
+  {
+   "no": 1071,
+   "date": "2017-02-02",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "The Sadikov archive: which films survive in Talasfilm vaults"
+  },
+  {
+   "no": 1071,
+   "date": "2017-02-02",
+   "lead": false,
+   "section": "Politics",
+   "headline": "Councillors ask for a Nurlan Sadikov street name"
+  },
+  {
+   "no": 1071,
+   "date": "2017-02-02",
+   "lead": false,
+   "section": "Courts",
+   "headline": "Court hears Nurzhan landlord's case over unpaid heating"
+  },
+  {
+   "no": 1072,
+   "date": "2017-02-09",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "Cold store rents were raised after a councillor's firm left"
+  },
+  {
+   "no": 1072,
+   "date": "2017-02-09",
+   "lead": false,
+   "section": "Money",
+   "headline": "Flour price rises at the Talas mill"
+  },
+  {
+   "no": 1072,
+   "date": "2017-02-09",
+   "lead": false,
+   "section": "Society",
+   "headline": "Cold snap closes the Chatkal road to light vehicles"
+  },
+  {
+   "no": 1073,
+   "date": "2017-02-16",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "Seed loans to Chu farmers: half were never repaid"
+  },
+  {
+   "no": 1073,
+   "date": "2017-02-16",
+   "lead": false,
+   "section": "Politics",
+   "headline": "Lieutenant Governor Tologonov attends the farm credit meeting",
+   "flags": [
+    "not in canon: Governor Tologonov"
+   ]
+  },
+  {
+   "no": 1073,
+   "date": "2017-02-16",
+   "lead": false,
+   "section": "Sport",
+   "headline": "Tulpar sign a new winger for the spring season"
+  },
+  {
+   "no": 1074,
+   "date": "2017-02-23",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "The Iradenergo billing system: customers charged for empty flats"
+  },
+  {
+   "no": 1074,
+   "date": "2017-02-23",
+   "lead": false,
+   "section": "Culture",
+   "headline": "Iradi Dress Day marked in Talas with a march of students"
+  },
+  {
+   "no": 1074,
+   "date": "2017-02-23",
+   "lead": false,
+   "section": "Society",
+   "headline": "Talas holds a march to mark the Thousand Saddles anniversary"
+  },
+  {
+   "no": 1075,
+   "date": "2017-03-02",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "The ballot signature rules: who checked the 2015 lists"
+  },
+  {
+   "no": 1075,
+   "date": "2017-03-02",
+   "lead": false,
+   "section": "Courts",
+   "headline": "Talas court fines a Nurzhan shop over expired goods"
+  },
+  {
+   "no": 1075,
+   "date": "2017-03-02",
+   "lead": false,
+   "section": "Money",
+   "headline": "NurGaz keeps fuel prices unchanged for March"
+  },
+  {
+   "no": 1076,
+   "date": "2017-03-09",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "Bride abduction law: how many cases reached court last year"
+  },
+  {
+   "no": 1077,
+   "date": "2017-03-16",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "Irad Day banners: the printing contract went to one shop"
+  },
+  {
+   "no": 1077,
+   "date": "2017-03-16",
+   "lead": false,
+   "section": "Society",
+   "headline": "Irad Day receptions held in Talas, Nurzhan and Iyık Janyl"
+  },
+  {
+   "no": 1077,
+   "date": "2017-03-16",
+   "lead": false,
+   "section": "Culture",
+   "headline": "Anthem sung on Central Square for Irad Day"
+  },
+  {
+   "no": 1078,
+   "date": "2017-03-23",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "White Stallion in Fog: why the album took five years"
+  },
+  {
+   "no": 1078,
+   "date": "2017-03-23",
+   "lead": false,
+   "section": "Culture",
+   "headline": "tüntolk's new album White Stallion in Fog released"
+  },
+  {
+   "no": 1078,
+   "date": "2017-03-23",
+   "lead": false,
+   "section": "Money",
+   "headline": "Spring wool contracts signed at lower prices"
+  },
+  {
+   "no": 1079,
+   "date": "2017-03-30",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "Roads budget: the repaired highways were repaired before"
+  },
+  {
+   "no": 1079,
+   "date": "2017-03-30",
+   "lead": false,
+   "section": "Sport",
+   "headline": "Irad League season opens; Neftchi win in Nurzhan"
+  },
+  {
+   "no": 1079,
+   "date": "2017-03-30",
+   "lead": false,
+   "section": "Society",
+   "headline": "Spring melt floods low streets in Kyzyl-Adyr"
+  },
+  {
+   "no": 1080,
+   "date": "2017-04-06",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "The Hippodrome concession tender: who was asked to bid"
+  },
+  {
+   "no": 1080,
+   "date": "2017-04-06",
+   "lead": false,
+   "section": "Politics",
+   "headline": "Councillors ask the Equestrian Directorate for its accounts"
+  },
+  {
+   "no": 1080,
+   "date": "2017-04-06",
+   "lead": false,
+   "section": "Courts",
+   "headline": "Court hears a case over a Talas flood-damaged shop"
+  },
+  {
+   "no": 1081,
+   "date": "2017-04-13",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "Antimony ownership: the register shows a new holding company"
+  },
+  {
+   "no": 1081,
+   "date": "2017-04-13",
+   "lead": false,
+   "section": "Society",
+   "headline": "Holy Week processions begin in Iyık Janyl"
+  },
+  {
+   "no": 1081,
+   "date": "2017-04-13",
+   "lead": false,
+   "section": "Money",
+   "headline": "Easter bread demand lifts egg and flour prices"
+  },
+  {
+   "no": 1082,
+   "date": "2017-04-20",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "Kümüshtü looting: the Shelji site had no guard until March"
+  },
+  {
+   "no": 1082,
+   "date": "2017-04-20",
+   "lead": false,
+   "section": "Culture",
+   "headline": "Easter liturgies in Talas and Chatkal; yurt chapels open"
+  },
+  {
+   "no": 1082,
+   "date": "2017-04-20",
+   "lead": false,
+   "section": "Sport",
+   "headline": "Tulpar draw away, Neftchi lead by a point"
+  },
+  {
+   "no": 1083,
+   "date": "2017-04-27",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "The school repair programme: who inspected the finished work"
+  },
+  {
+   "no": 1083,
+   "date": "2017-04-27",
+   "lead": false,
+   "section": "Politics",
+   "headline": "Mejlis committee asks for a report on the land registry"
+  },
+  {
+   "no": 1083,
+   "date": "2017-04-27",
+   "lead": false,
+   "section": "Courts",
+   "headline": "Court fines a Talas feedlot for waste a second time"
+  },
+  {
+   "no": 1084,
+   "date": "2017-05-04",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "Half-bred racing: who is registering the foals"
+  },
+  {
+   "no": 1084,
+   "date": "2017-05-04",
+   "lead": false,
+   "section": "Sport",
+   "headline": "Akyel breeders divided over the spring racing rules"
+  },
+  {
+   "no": 1084,
+   "date": "2017-05-04",
+   "lead": false,
+   "section": "Money",
+   "headline": "Maize sowing begins in Chu; seed dearer than last year"
+  },
+  {
+   "no": 1085,
+   "date": "2017-05-11",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "The Kenkol road: spring repairs and the unfinished culverts"
+  },
+  {
+   "no": 1085,
+   "date": "2017-05-11",
+   "lead": false,
+   "section": "Society",
+   "headline": "Marshrutka drivers threaten a day's stoppage over fuel"
+  },
+  {
+   "no": 1085,
+   "date": "2017-05-11",
+   "lead": false,
+   "section": "Culture",
+   "headline": "Spring felt festival opens in Talas"
+  },
+  {
+   "no": 1086,
+   "date": "2017-05-18",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "Water for Talas: who pays when the Kazakh share drops"
+  },
+  {
+   "no": 1086,
+   "date": "2017-05-18",
+   "lead": false,
+   "section": "Politics",
+   "headline": "Councillors visit the Talas river gauging post"
+  },
+  {
+   "no": 1086,
+   "date": "2017-05-18",
+   "lead": false,
+   "section": "Sport",
+   "headline": "Ulak players prepare for the summer cup"
+  },
+  {
+   "no": 1087,
+   "date": "2017-05-25",
+   "lead": true,
+   "section": "Culture",
+   "headline": "Twenty-five years without the Six Volumes' author"
+  },
+  {
+   "no": 1087,
+   "date": "2017-05-25",
+   "lead": false,
+   "section": "Society",
+   "headline": "Siege-year memorial at the university, 24 May"
+  },
+  {
+   "no": 1087,
+   "date": "2017-05-25",
+   "lead": false,
+   "section": "Courts",
+   "headline": "Court hears a dispute over a Chu farm lease"
+  },
+  {
+   "no": 1088,
+   "date": "2017-06-01",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "The Children's Day fair: where the takings go"
+  },
+  {
+   "no": 1088,
+   "date": "2017-06-01",
+   "lead": false,
+   "section": "Society",
+   "headline": "Children's Day fair held in Central City Park"
+  },
+  {
+   "no": 1088,
+   "date": "2017-06-01",
+   "lead": false,
+   "section": "Money",
+   "headline": "Strawberry and apricot prices fall at the markets"
+  },
+  {
+   "no": 1089,
+   "date": "2017-06-08",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "The Nurzhan pipeline repair tender: three bidders, one address"
+  },
+  {
+   "no": 1089,
+   "date": "2017-06-08",
+   "lead": false,
+   "section": "Politics",
+   "headline": "Mejlis debates a supplementary budget for summer works"
+  },
+  {
+   "no": 1089,
+   "date": "2017-06-08",
+   "lead": false,
+   "section": "Sport",
+   "headline": "Tulpar lose to Temirjolchu at home"
+  },
+  {
+   "no": 1090,
+   "date": "2017-06-15",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "The Jarysh site is not registered; who runs it?"
+  },
+  {
+   "no": 1090,
+   "date": "2017-06-15",
+   "lead": false,
+   "section": "Culture",
+   "headline": "A new horse-games website appears in Talas"
+  },
+  {
+   "no": 1090,
+   "date": "2017-06-15",
+   "lead": false,
+   "section": "Courts",
+   "headline": "Court dismisses a land claim by a Nurzhan retiree"
+  },
+  {
+   "no": 1091,
+   "date": "2017-06-22",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "Hospital waiting lists: the Regional Hospital's own figures"
+  },
+  {
+   "no": 1091,
+   "date": "2017-06-22",
+   "lead": false,
+   "section": "Society",
+   "headline": "Heat wave in Talas; water pressure falls in the evenings"
+  },
+  {
+   "no": 1091,
+   "date": "2017-06-22",
+   "lead": false,
+   "section": "Money",
+   "headline": "Pensions paid on time; counters at Irad Pochtasy crowded"
+  },
+  {
+   "no": 1092,
+   "date": "2017-06-29",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "Nobody has said who owns the new Besh-Tash resorts"
+  },
+  {
+   "no": 1092,
+   "date": "2017-06-29",
+   "lead": false,
+   "section": "Politics",
+   "headline": "Conservation groups write to the Ministry of Natural Resources"
+  },
+  {
+   "no": 1092,
+   "date": "2017-06-29",
+   "lead": false,
+   "section": "Culture",
+   "headline": "Besh-Tash museum opens its summer exhibition of Ayyubov's work"
+  },
+  {
+   "no": 1093,
+   "date": "2017-07-06",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "The Chatkal smelter's waste: monitoring figures were not published"
+  },
+  {
+   "no": 1093,
+   "date": "2017-07-06",
+   "lead": false,
+   "section": "Sport",
+   "headline": "Summer ulak cup: Sary-Bulak top their group"
+  },
+  {
+   "no": 1093,
+   "date": "2017-07-06",
+   "lead": false,
+   "section": "Money",
+   "headline": "Wool sale at Talas: prices firm after last year's drop"
+  },
+  {
+   "no": 1094,
+   "date": "2017-07-13",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "The Talas ring road land: two purchases a week before the route was set"
+  },
+  {
+   "no": 1094,
+   "date": "2017-07-13",
+   "lead": false,
+   "section": "Society",
+   "headline": "Harvest begins in the Talas valley"
+  },
+  {
+   "no": 1094,
+   "date": "2017-07-13",
+   "lead": false,
+   "section": "Courts",
+   "headline": "Man from Kara-Buura charged with livestock theft"
+  },
+  {
+   "no": 1095,
+   "date": "2017-07-20",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "Sary-Say list: forty-four years on, the names are still not official"
+  },
+  {
+   "no": 1095,
+   "date": "2017-07-20",
+   "lead": false,
+   "section": "Society",
+   "headline": "Qurbana at Sary-Say on the anniversary of the mudflow"
+  },
+  {
+   "no": 1095,
+   "date": "2017-07-20",
+   "lead": false,
+   "section": "Culture",
+   "headline": "Memorial exhibition on the Sary-Say mudflow opens in Kara-Buura"
+  },
+  {
+   "no": 1096,
+   "date": "2017-07-27",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "The heating contract for Nurzhan schools: no public tender"
+  },
+  {
+   "no": 1096,
+   "date": "2017-07-27",
+   "lead": false,
+   "section": "Politics",
+   "headline": "Mejlis summer recess ends with unfinished bills"
+  },
+  {
+   "no": 1096,
+   "date": "2017-07-27",
+   "lead": false,
+   "section": "Money",
+   "headline": "Fuel prices rise at NurGaz stations"
+  },
+  {
+   "no": 1097,
+   "date": "2017-08-03",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "Combine hire: state farms pay more than private firms charge"
+  },
+  {
+   "no": 1097,
+   "date": "2017-08-03",
+   "lead": false,
+   "section": "Society",
+   "headline": "Heat wave breaks; harvest crews work through the night"
+  },
+  {
+   "no": 1097,
+   "date": "2017-08-03",
+   "lead": false,
+   "section": "Sport",
+   "headline": "Neftchi win the Nurzhan derby against Dastgoh"
+  },
+  {
+   "no": 1098,
+   "date": "2017-08-10",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "The Iyık Janyl bridge repair: the schedule that slipped twice"
+  },
+  {
+   "no": 1098,
+   "date": "2017-08-10",
+   "lead": false,
+   "section": "Culture",
+   "headline": "Pilgrims arrive early in Iyık Janyl for the feast week"
+  },
+  {
+   "no": 1098,
+   "date": "2017-08-10",
+   "lead": false,
+   "section": "Courts",
+   "headline": "Court sentences a driver for the Naryn road crash"
+  },
+  {
+   "no": 1099,
+   "date": "2017-08-17",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "The Jarchy launch: who funds an Iradi weekly for young readers"
+  },
+  {
+   "no": 1099,
+   "date": "2017-08-17",
+   "lead": false,
+   "section": "Culture",
+   "headline": "Herald opens Jarchy, an Iradi-language weekly"
+  },
+  {
+   "no": 1099,
+   "date": "2017-08-17",
+   "lead": false,
+   "section": "Society",
+   "headline": "Students return to the dormitories; rents rise"
+  },
+  {
+   "no": 1100,
+   "date": "2017-08-24",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "Feast week stalls: who profits from Cathedral Hill rentals"
+  },
+  {
+   "no": 1100,
+   "date": "2017-08-24",
+   "lead": false,
+   "section": "Culture",
+   "headline": "Feast of St. Janyl draws record crowds"
+  },
+  {
+   "no": 1100,
+   "date": "2017-08-24",
+   "lead": false,
+   "section": "Money",
+   "headline": "Hotels in Iyık Janyl report full week"
+  },
+  {
+   "no": 1101,
+   "date": "2017-08-31",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "School textbooks arrived late for the second year"
+  },
+  {
+   "no": 1101,
+   "date": "2017-08-31",
+   "lead": false,
+   "section": "Society",
+   "headline": "New school year begins across Irad"
+  },
+  {
+   "no": 1101,
+   "date": "2017-08-31",
+   "lead": false,
+   "section": "Politics",
+   "headline": "Education committee asks the ministry for a delivery report"
+  },
+  {
+   "no": 1102,
+   "date": "2017-09-07",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "Cotton ginning: the Xinjiang Lihua contract's water terms"
+  },
+  {
+   "no": 1102,
+   "date": "2017-09-07",
+   "lead": false,
+   "section": "Sport",
+   "headline": "Tulpar and Neftchi level with ten rounds left"
+  },
+  {
+   "no": 1102,
+   "date": "2017-09-07",
+   "lead": false,
+   "section": "Money",
+   "headline": "Cotton harvest starts on the Fergana rim"
+  },
+  {
+   "no": 1103,
+   "date": "2017-09-14",
+   "lead": true,
+   "section": "Culture",
+   "headline": "A new home for IradOne, and a new name on the door"
+  },
+  {
+   "no": 1103,
+   "date": "2017-09-14",
+   "lead": false,
+   "section": "Politics",
+   "headline": "Councillors ask about the permits for the new media building"
+  },
+  {
+   "no": 1103,
+   "date": "2017-09-14",
+   "lead": false,
+   "section": "Society",
+   "headline": "First frost in the Chatkal villages"
+  },
+  {
+   "no": 1104,
+   "date": "2017-09-21",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "The autumn livestock fair: scales that weighed light"
+  },
+  {
+   "no": 1104,
+   "date": "2017-09-21",
+   "lead": false,
+   "section": "Courts",
+   "headline": "Court hears a weights-and-measures case from the fair"
+  },
+  {
+   "no": 1104,
+   "date": "2017-09-21",
+   "lead": false,
+   "section": "Sport",
+   "headline": "Ulak league opens its autumn season"
+  },
+  {
+   "no": 1105,
+   "date": "2017-09-28",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "Heating season: which boilers were repaired before the cold"
+  },
+  {
+   "no": 1105,
+   "date": "2017-09-28",
+   "lead": false,
+   "section": "Politics",
+   "headline": "Mejlis committee reviews heating season readiness"
+  },
+  {
+   "no": 1105,
+   "date": "2017-09-28",
+   "lead": false,
+   "section": "Money",
+   "headline": "Wheat purchase price fixed for the autumn"
+  },
+  {
+   "no": 1106,
+   "date": "2017-10-05",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "The cement works dust: the monitoring station was moved"
+  },
+  {
+   "no": 1106,
+   "date": "2017-10-05",
+   "lead": false,
+   "section": "Society",
+   "headline": "Heating switched on in Talas and Nurzhan"
+  },
+  {
+   "no": 1106,
+   "date": "2017-10-05",
+   "lead": false,
+   "section": "Culture",
+   "headline": "Autumn film programme at the Talas Film Society",
+   "flags": [
+    "not in canon: Talas Film Society"
+   ]
+  },
+  {
+   "no": 1107,
+   "date": "2017-10-12",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "Road repair contracts: three firms, taking turns"
+  },
+  {
+   "no": 1107,
+   "date": "2017-10-12",
+   "lead": false,
+   "section": "Courts",
+   "headline": "Talas court fines a road firm for missed deadlines"
+  },
+  {
+   "no": 1107,
+   "date": "2017-10-12",
+   "lead": false,
+   "section": "Sport",
+   "headline": "Highland ulak clash: Karakoyun beat Boztorgoy"
+  },
+  {
+   "no": 1108,
+   "date": "2017-10-19",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "The walnut levy: who collects at Bazar-Korgon market"
+  },
+  {
+   "no": 1108,
+   "date": "2017-10-19",
+   "lead": false,
+   "section": "Money",
+   "headline": "Walnuts at Toktogul bazar firm at 22 som a kilo"
+  },
+  {
+   "no": 1108,
+   "date": "2017-10-19",
+   "lead": false,
+   "section": "Society",
+   "headline": "Snow closes the Kök-Bel road for two days"
+  },
+  {
+   "no": 1109,
+   "date": "2017-10-26",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "State Pension Fund: how many pensioners are on the register"
+  },
+  {
+   "no": 1109,
+   "date": "2017-10-26",
+   "lead": false,
+   "section": "Politics",
+   "headline": "Draft 2018 budget goes to the Mejlis"
+  },
+  {
+   "no": 1109,
+   "date": "2017-10-26",
+   "lead": false,
+   "section": "Culture",
+   "headline": "Altyn-Zhylky nominations open"
+  },
+  {
+   "no": 1110,
+   "date": "2017-11-02",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "All Saints' week: the cemetery contract in Talas"
+  },
+  {
+   "no": 1110,
+   "date": "2017-11-02",
+   "lead": false,
+   "section": "Society",
+   "headline": "Cemeteries in Talas crowded for the commemorations"
+  },
+  {
+   "no": 1110,
+   "date": "2017-11-02",
+   "lead": false,
+   "section": "Sport",
+   "headline": "Irad League: Tulpar and Neftchi meet for the title"
+  },
+  {
+   "no": 1111,
+   "date": "2017-11-09",
+   "lead": true,
+   "section": "Politics",
+   "headline": "The Lieutenant Governor nobody sees"
+  },
+  {
+   "no": 1111,
+   "date": "2017-11-09",
+   "lead": false,
+   "section": "Money",
+   "headline": "Talasbank raises dollar exchange fees"
+  },
+  {
+   "no": 1111,
+   "date": "2017-11-09",
+   "lead": false,
+   "section": "Courts",
+   "headline": "Court hears a Nurzhan tenant's heating complaint"
+  },
+  {
+   "no": 1112,
+   "date": "2017-11-16",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "The 2018 budget: roads spending is the same as last year's"
+  },
+  {
+   "no": 1112,
+   "date": "2017-11-16",
+   "lead": false,
+   "section": "Politics",
+   "headline": "Mejlis passes first reading of the 2018 budget"
+  },
+  {
+   "no": 1112,
+   "date": "2017-11-16",
+   "lead": false,
+   "section": "Society",
+   "headline": "Winter coats handed out to children in Kyzyl-Adyr"
+  },
+  {
+   "no": 1113,
+   "date": "2017-11-23",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "The Hippodrome revenue: what was paid, and when"
+  },
+  {
+   "no": 1113,
+   "date": "2017-11-23",
+   "lead": false,
+   "section": "Sport",
+   "headline": "Irad Cup final set for Silk Road Arena"
+  },
+  {
+   "no": 1113,
+   "date": "2017-11-23",
+   "lead": false,
+   "section": "Culture",
+   "headline": "Mor-Wave night at the Dastgoh boiler room"
+  },
+  {
+   "no": 1114,
+   "date": "2017-11-30",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "Heating tariffs: pensioners will pay more in January"
+  },
+  {
+   "no": 1114,
+   "date": "2017-11-30",
+   "lead": false,
+   "section": "Money",
+   "headline": "Public wages to rise 3 per cent from January"
+  },
+  {
+   "no": 1114,
+   "date": "2017-11-30",
+   "lead": false,
+   "section": "Politics",
+   "headline": "Mejlis votes the 2018 budget"
+  },
+  {
+   "no": 1115,
+   "date": "2017-12-07",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "The school meals tender and its single bidder"
+  },
+  {
+   "no": 1115,
+   "date": "2017-12-07",
+   "lead": false,
+   "section": "Courts",
+   "headline": "Court sentences a fuel thief at a Talas depot"
+  },
+  {
+   "no": 1115,
+   "date": "2017-12-07",
+   "lead": false,
+   "section": "Society",
+   "headline": "December fast begins; fish prices rise"
+  },
+  {
+   "no": 1116,
+   "date": "2017-12-14",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "Mutton prices: why Talas pays more than Chu"
+  },
+  {
+   "no": 1116,
+   "date": "2017-12-14",
+   "lead": false,
+   "section": "Culture",
+   "headline": "Altyn-Zhylky ceremony awards its prizes in Talas"
+  },
+  {
+   "no": 1116,
+   "date": "2017-12-14",
+   "lead": false,
+   "section": "Sport",
+   "headline": "Tulpar win the Irad Cup in Talas"
+  },
+  {
+   "no": 1117,
+   "date": "2017-12-21",
+   "lead": true,
+   "section": "Investigation",
+   "headline": "The Christmas lights contract in Talas"
+  },
+  {
+   "no": 1117,
+   "date": "2017-12-21",
+   "lead": false,
+   "section": "Society",
+   "headline": "Ayaz Ata toy drive ends; presents collected for children's homes"
+  },
+  {
+   "no": 1117,
+   "date": "2017-12-21",
+   "lead": false,
+   "section": "Money",
+   "headline": "New Year prices at the bazaars"
+  },
+  {
+   "no": 1118,
+   "date": "2017-12-28",
+   "lead": true,
+   "section": "The Times says",
+   "headline": "A year of budgets, bridges, and the questions left over"
+  },
+  {
+   "no": 1118,
+   "date": "2017-12-28",
+   "lead": false,
+   "section": "Investigation",
+   "headline": "Our open questions for 2018, and the answers we received"
+  },
+  {
+   "no": 1118,
+   "date": "2017-12-28",
+   "lead": false,
+   "section": "Society",
+   "headline": "Year-end: Irad closes 2017 in frost and a thin snow"
+  }
+ ]
+}
