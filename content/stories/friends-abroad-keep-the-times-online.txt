@@ -1,0 +1,19 @@
+headline: Friends abroad keep the Times online
+dek: From today this website is hosted in the United States, and its domain is held by readers in Chicago. Here is why.
+date: 2008-04-18
+section: Media
+byline: Bolotbek Daniyar
+kind: archive
+note: From the Irad Times of 18 April 2008.
+
+From today the *Irad Times* website is hosted on a server in the United States, and its domain is held not by this newspaper but by Friends of the Irad Times, a nonprofit association founded in Chicago by Iradi-American readers. Readers will notice nothing except, perhaps, that the pages load a little more slowly.
+
+We have made the change because of the security directives of this year, under which the Department of Public Information has taken powers to license publishers and printers and to issue lists of websites to be blocked. A site hosted in Irad can be taken down by an order to its host. A site hosted abroad can only be blocked, and a block can be got round.
+
+## Our friends
+
+Friends of the Irad Times was set up last month by readers in Chicago, some of whom have taken the paper by post since 1996. It will hold the domain, pay for the hosting and handle foreign subscriptions. It has no say in what we publish, and its members have signed an agreement to that effect. We are grateful to them.
+
+## Nothing else changes
+
+The *Times* is still written, edited and printed on Printers' Lane, on the press in the yard that has printed every issue since 1997. It is still owned by its staff. It still comes out on Thursday. If the site is ever blocked, readers in Irad will find instructions on reaching us on the page “If we are blocked”, and in the paper itself, which no list can block.
