@@ -1,8 +1,5 @@
 {
- "outlet": "times",
  "year": 2011,
- "model": "claude-sonnet-5-5",
- "written": "2026-10-30T09:19Z",
  "items": [
   {
    "no": 763,
@@ -23,10 +20,7 @@
    "date": "2011-01-06",
    "lead": false,
    "section": "Money",
-   "headline": "New-year tariffs: what rises on 1 January",
-   "flags": [
-    "law? 'New-year tariffs'"
-   ]
+   "headline": "New-year tariffs: what rises on 1 January"
   },
   {
    "no": 764,
@@ -40,10 +34,7 @@
    "date": "2011-01-13",
    "lead": false,
    "section": "Courts",
-   "headline": "Talas court fixes dates for the Taiyrov-related hearings",
-   "flags": [
-    "not in canon: Taiyrov-related"
-   ]
+   "headline": "Talas court fixes dates for the Taiyrov-related hearings"
   },
   {
    "no": 764,
@@ -225,10 +216,7 @@
    "date": "2011-03-17",
    "lead": true,
    "section": "Investigation",
-   "headline": "The Labor Party's last assets: who got the Nurzhan office",
-   "flags": [
-    "not in canon: Labor Party's"
-   ]
+   "headline": "The Labor Party's last assets: who got the Nurzhan office"
   },
   {
    "no": 773,
@@ -592,10 +580,7 @@
    "date": "2011-07-14",
    "lead": false,
    "section": "Courts",
-   "headline": "Judge refuses a Kamchylar-linked appeal",
-   "flags": [
-    "not in canon: Kamchylar-linked"
-   ]
+   "headline": "Judge refuses a Kamchylar-linked appeal"
   },
   {
    "no": 790,
@@ -868,10 +853,7 @@
    "date": "2011-10-13",
    "lead": false,
    "section": "Courts",
-   "headline": "Court hears a Taiyrov-related appeal",
-   "flags": [
-    "not in canon: Taiyrov-related"
-   ]
+   "headline": "Court hears a Taiyrov-related appeal"
   },
   {
    "no": 803,

@@ -1,8 +1,5 @@
 {
- "outlet": "times",
  "year": 2026,
- "model": "claude-sonnet-5-5",
- "written": "2026-10-30T09:21Z",
  "items": [
   {
    "no": 1536,
@@ -72,10 +69,7 @@
    "date": "2026-01-22",
    "lead": true,
    "section": "Investigation",
-   "headline": "Heating oil bought twice? Two Chu boiler houses, one invoice number",
-   "flags": [
-    "not in canon: Two Chu"
-   ]
+   "headline": "Heating oil bought twice? Two Chu boiler houses, one invoice number"
   },
   {
    "no": 1539,
@@ -145,10 +139,7 @@
    "date": "2026-02-12",
    "lead": false,
    "section": "Courts",
-   "headline": "Supreme Court register lists no date for the Governor's-health question",
-   "flags": [
-    "not in canon: Governor's-health"
-   ]
+   "headline": "Supreme Court register lists no date for the Governor's-health question"
   },
   {
    "no": 1542,
@@ -393,10 +384,7 @@
    "date": "2026-05-07",
    "lead": true,
    "section": "Investigation",
-   "headline": "The State Pension Fund's arrears: figures that do not add up",
-   "flags": [
-    "not in canon: State Pension Fund's"
-   ]
+   "headline": "The State Pension Fund's arrears: figures that do not add up"
   },
   {
    "no": 1554,
@@ -732,10 +720,7 @@
    "date": "2026-08-27",
    "lead": true,
    "section": "Investigation",
-   "headline": "The pharmacy shortage: who rejected Shıpa's bid, and why",
-   "flags": [
-    "not in canon: Shıpa's"
-   ]
+   "headline": "The pharmacy shortage: who rejected Shıpa's bid, and why"
   },
   {
    "no": 1570,

@@ -1,8 +1,5 @@
 {
- "outlet": "times",
  "year": 1998,
- "model": "claude-sonnet-5-5",
- "written": "2026-10-30T09:17Z",
  "items": [
   {
    "no": 90,
@@ -23,10 +20,7 @@
    "date": "1998-01-08",
    "lead": false,
    "section": "Society",
-   "headline": "Orthodox and Syro-Iradi Christmas weeks leave Talas shops short of candles",
-   "flags": [
-    "not in canon: Syro-Iradi Christmas"
-   ]
+   "headline": "Orthodox and Syro-Iradi Christmas weeks leave Talas shops short of candles"
   },
   {
    "no": 91,
@@ -54,10 +48,7 @@
    "date": "1998-01-22",
    "lead": true,
    "section": "Investigation",
-   "headline": "Nobody has published the terms of the Hydrocarbon Code royalty tables",
-   "flags": [
-    "not in canon: Hydrocarbon Code"
-   ]
+   "headline": "Nobody has published the terms of the Hydrocarbon Code royalty tables"
   },
   {
    "no": 92,
@@ -155,10 +146,7 @@
    "date": "1998-02-19",
    "lead": false,
    "section": "Politics",
-   "headline": "Lieutenant Governor Duishonkulov opens the budget hearings",
-   "flags": [
-    "not in canon: Governor Duishonkulov"
-   ]
+   "headline": "Lieutenant Governor Duishonkulov opens the budget hearings"
   },
   {
    "no": 97,
@@ -172,10 +160,7 @@
    "date": "1998-02-26",
    "lead": false,
    "section": "Society",
-   "headline": "Iradi Dress-style shop signs spread in the Old City",
-   "flags": [
-    "not in canon: Dress-style"
-   ]
+   "headline": "Iradi Dress-style shop signs spread in the Old City"
   },
   {
    "no": 97,
@@ -308,10 +293,7 @@
    "date": "1998-04-09",
    "lead": false,
    "section": "Sport",
-   "headline": "Football season opens with Neftyanik-sponsored Neftchi at home",
-   "flags": [
-    "not in canon: Neftyanik-sponsored Neftchi"
-   ]
+   "headline": "Football season opens with Neftyanik-sponsored Neftchi at home"
   },
   {
    "no": 104,
@@ -1032,10 +1014,7 @@
    "date": "1998-12-10",
    "lead": true,
    "section": "Investigation",
-   "headline": "The Territorial House passed a budget few had read",
-   "flags": [
-    "not in canon: Territorial House"
-   ]
+   "headline": "The Territorial House passed a budget few had read"
   },
   {
    "no": 138,

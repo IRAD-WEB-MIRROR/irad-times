@@ -1,8 +1,5 @@
 {
- "outlet": "times",
  "year": 2010,
- "model": "claude-sonnet-5-5",
- "written": "2026-10-30T09:19Z",
  "items": [
   {
    "no": 711,
@@ -23,10 +20,7 @@
    "date": "2010-01-07",
    "lead": false,
    "section": "Culture",
-   "headline": "Orthodox and Syro-Iradi Christmas fairs open in the Old City",
-   "flags": [
-    "not in canon: Syro-Iradi Christmas"
-   ]
+   "headline": "Orthodox and Syro-Iradi Christmas fairs open in the Old City"
   },
   {
    "no": 712,
@@ -89,10 +83,7 @@
    "date": "2010-01-28",
    "lead": false,
    "section": "Culture",
-   "headline": "Palace of Art opens a winter room of Ermek Saparbekov's horses",
-   "flags": [
-    "not in canon: Ermek Saparbekov's"
-   ]
+   "headline": "Palace of Art opens a winter room of Ermek Saparbekov's horses"
   },
   {
    "no": 715,
@@ -106,10 +97,7 @@
    "date": "2010-02-04",
    "lead": false,
    "section": "Politics",
-   "headline": "Lieutenant Governor Tologonov opens the budget debate",
-   "flags": [
-    "not in canon: Governor Tologonov"
-   ]
+   "headline": "Lieutenant Governor Tologonov opens the budget debate"
   },
   {
    "no": 715,
@@ -165,10 +153,7 @@
    "date": "2010-02-25",
    "lead": true,
    "section": "Investigation",
-   "headline": "The Kemelbekov-era files that the State Archives still keeps closed",
-   "flags": [
-    "not in canon: Kemelbekov-era"
-   ]
+   "headline": "The Kemelbekov-era files that the State Archives still keeps closed"
   },
   {
    "no": 718,
@@ -497,10 +482,7 @@
    "date": "2010-06-10",
    "lead": false,
    "section": "Courts",
-   "headline": "Defence in the Kamchylar-linked trial asks for a retrial",
-   "flags": [
-    "not in canon: Kamchylar-linked"
-   ]
+   "headline": "Defence in the Kamchylar-linked trial asks for a retrial"
   },
   {
    "no": 734,
@@ -633,10 +615,7 @@
    "date": "2010-07-29",
    "lead": true,
    "section": "Investigation",
-   "headline": "July 28: what Sabyrbek's cairn does and does not commemorate",
-   "flags": [
-    "not in canon: Sabyrbek's"
-   ]
+   "headline": "July 28: what Sabyrbek's cairn does and does not commemorate"
   },
   {
    "no": 740,
@@ -769,10 +748,7 @@
    "date": "2010-09-09",
    "lead": false,
    "section": "Courts",
-   "headline": "Talas court hears the first Taiyrov-related filing",
-   "flags": [
-    "not in canon: Taiyrov-related"
-   ]
+   "headline": "Talas court hears the first Taiyrov-related filing"
   },
   {
    "no": 746,
@@ -898,10 +874,7 @@
    "date": "2010-10-21",
    "lead": false,
    "section": "Courts",
-   "headline": "Court fines a Kamchylar-linked cell member in absentia",
-   "flags": [
-    "not in canon: Kamchylar-linked"
-   ]
+   "headline": "Court fines a Kamchylar-linked cell member in absentia"
   },
   {
    "no": 752,
@@ -999,10 +972,7 @@
    "date": "2010-11-25",
    "lead": true,
    "section": "Politics",
-   "headline": "The December Kara-Oi agenda: what the IAC wants",
-   "flags": [
-    "not in canon: December Kara-Oi"
-   ]
+   "headline": "The December Kara-Oi agenda: what the IAC wants"
   },
   {
    "no": 757,

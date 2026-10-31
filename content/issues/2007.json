@@ -1,8 +1,5 @@
 {
- "outlet": "times",
  "year": 2007,
- "model": "claude-sonnet-5-5",
- "written": "2026-10-30T09:18Z",
  "items": [
   {
    "no": 554,
@@ -79,10 +76,7 @@
    "date": "2007-01-25",
    "lead": false,
    "section": "Courts",
-   "headline": "Court hears pasture-decree challenge",
-   "flags": [
-    "law? 'decree'"
-   ]
+   "headline": "Court hears pasture-decree challenge"
   },
   {
    "no": 557,
@@ -96,10 +90,7 @@
    "date": "2007-02-01",
    "lead": true,
    "section": "Investigation",
-   "headline": "Pasture decrees and the herders they affect",
-   "flags": [
-    "law? 'decrees'"
-   ]
+   "headline": "Pasture decrees and the herders they affect"
   },
   {
    "no": 558,
@@ -127,10 +118,7 @@
    "date": "2007-02-08",
    "lead": false,
    "section": "Politics",
-   "headline": "Jer-Suu deputies walk out over pasture decrees",
-   "flags": [
-    "law? 'decrees'"
-   ]
+   "headline": "Jer-Suu deputies walk out over pasture decrees"
   },
   {
    "no": 559,
@@ -361,10 +349,7 @@
    "date": "2007-04-26",
    "lead": false,
    "section": "Politics",
-   "headline": "Emergency administration announces new directives",
-   "flags": [
-    "law? 'announces new directives'"
-   ]
+   "headline": "Emergency administration announces new directives"
   },
   {
    "no": 570,

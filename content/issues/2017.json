@@ -1,18 +1,12 @@
 {
- "outlet": "times",
  "year": 2017,
- "model": "claude-sonnet-5-5",
- "written": "2026-10-30T09:20Z",
  "items": [
   {
    "no": 1067,
    "date": "2017-01-05",
    "lead": true,
    "section": "Investigation",
-   "headline": "The new year's heating tariff: how it was calculated",
-   "flags": [
-    "law? 'new year's heating tariff'"
-   ]
+   "headline": "The new year's heating tariff: how it was calculated"
   },
   {
    "no": 1067,
@@ -33,10 +27,7 @@
    "date": "2017-01-12",
    "lead": true,
    "section": "Investigation",
-   "headline": "Toktogul District's first year: who is on the payroll",
-   "flags": [
-    "not in canon: District's"
-   ]
+   "headline": "Toktogul District's first year: who is on the payroll"
   },
   {
    "no": 1068,
@@ -148,10 +139,7 @@
    "date": "2017-02-16",
    "lead": false,
    "section": "Politics",
-   "headline": "Lieutenant Governor Tologonov attends the farm credit meeting",
-   "flags": [
-    "not in canon: Governor Tologonov"
-   ]
+   "headline": "Lieutenant Governor Tologonov attends the farm credit meeting"
   },
   {
    "no": 1073,
@@ -837,10 +825,7 @@
    "date": "2017-10-05",
    "lead": false,
    "section": "Culture",
-   "headline": "Autumn film programme at the Talas Film Society",
-   "flags": [
-    "not in canon: Talas Film Society"
-   ]
+   "headline": "Autumn film programme at the Talas Film Society"
   },
   {
    "no": 1107,

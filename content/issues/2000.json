@@ -1,8 +1,5 @@
 {
- "outlet": "times",
  "year": 2000,
- "model": "claude-sonnet-5-5",
- "written": "2026-10-30T09:17Z",
  "items": [
   {
    "no": 193,
@@ -618,10 +615,7 @@
    "date": "2000-08-03",
    "lead": true,
    "section": "Investigation",
-   "headline": "The new feeder tariff and who it favours",
-   "flags": [
-    "law? 'new feeder tariff'"
-   ]
+   "headline": "The new feeder tariff and who it favours"
   },
   {
    "no": 222,

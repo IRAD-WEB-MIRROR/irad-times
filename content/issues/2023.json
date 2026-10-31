@@ -1,8 +1,5 @@
 {
- "outlet": "times",
  "year": 2023,
- "model": "claude-sonnet-5-5",
- "written": "2026-10-30T09:21Z",
  "items": [
   {
    "no": 1380,
@@ -919,10 +916,7 @@
    "date": "2023-11-02",
    "lead": false,
    "section": "Society",
-   "headline": "All Souls' Day services across the parishes",
-   "flags": [
-    "not in canon: Souls' Day"
-   ]
+   "headline": "All Souls' Day services across the parishes"
   },
   {
    "no": 1424,

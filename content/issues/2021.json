@@ -1,8 +1,5 @@
 {
- "outlet": "times",
  "year": 2021,
- "model": "claude-sonnet-5-5",
- "written": "2026-10-30T09:20Z",
  "items": [
   {
    "no": 1276,
@@ -219,10 +216,7 @@
    "date": "2021-03-18",
    "lead": true,
    "section": "Investigation",
-   "headline": "The Pension Fund's backlog of unpaid allowances",
-   "flags": [
-    "not in canon: Pension Fund's"
-   ]
+   "headline": "The Pension Fund's backlog of unpaid allowances"
   },
   {
    "no": 1286,
@@ -495,10 +489,7 @@
    "date": "2021-06-17",
    "lead": true,
    "section": "Investigation",
-   "headline": "The Tulpar Bazar boards: who moderates them",
-   "flags": [
-    "not in canon: Tulpar Bazar"
-   ]
+   "headline": "The Tulpar Bazar boards: who moderates them"
   },
   {
    "no": 1299,
@@ -673,10 +664,7 @@
    "date": "2021-08-12",
    "lead": false,
    "section": "Society",
-   "headline": "Algae closes Navbahor Pond to swimmers",
-   "flags": [
-    "not in canon: Navbahor Pond"
-   ]
+   "headline": "Algae closes Navbahor Pond to swimmers"
   },
   {
    "no": 1307,
@@ -942,10 +930,7 @@
    "date": "2021-11-11",
    "lead": true,
    "section": "Investigation",
-   "headline": "The Pension Fund's investments and what is unpublished",
-   "flags": [
-    "not in canon: Pension Fund's"
-   ]
+   "headline": "The Pension Fund's investments and what is unpublished"
   },
   {
    "no": 1320,

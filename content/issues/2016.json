@@ -1,8 +1,5 @@
 {
- "outlet": "times",
  "year": 2016,
- "model": "claude-sonnet-5-5",
- "written": "2026-10-30T09:20Z",
  "items": [
   {
    "no": 1015,
@@ -177,10 +174,7 @@
    "date": "2016-03-03",
    "lead": true,
    "section": "Investigation",
-   "headline": "A decree drawing new district borders: what the map actually changes",
-   "flags": [
-    "law? 'decree'"
-   ]
+   "headline": "A decree drawing new district borders: what the map actually changes"
   },
   {
    "no": 1023,
@@ -320,10 +314,7 @@
    "date": "2016-04-14",
    "lead": false,
    "section": "Culture",
-   "headline": "Iyık Janyl choir prepares Holy Week programme",
-   "flags": [
-    "not in canon: Holy Week"
-   ]
+   "headline": "Iyık Janyl choir prepares Holy Week programme"
   },
   {
    "no": 1030,
@@ -561,10 +552,7 @@
    "date": "2016-07-07",
    "lead": true,
    "section": "Investigation",
-   "headline": "Toktogul District's budget: who pays the new staff?",
-   "flags": [
-    "not in canon: District's"
-   ]
+   "headline": "Toktogul District's budget: who pays the new staff?"
   },
   {
    "no": 1041,

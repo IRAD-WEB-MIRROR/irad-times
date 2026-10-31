@@ -1,8 +1,5 @@
 {
- "outlet": "times",
  "year": 2015,
- "model": "claude-sonnet-5-5",
- "written": "2026-10-30T09:20Z",
  "items": [
   {
    "no": 962,
@@ -16,10 +13,7 @@
    "date": "2015-01-01",
    "lead": false,
    "section": "Society",
-   "headline": "New Year's night passes quietly across the cities",
-   "flags": [
-    "not in canon: Year's"
-   ]
+   "headline": "New Year's night passes quietly across the cities"
   },
   {
    "no": 962,
@@ -922,10 +916,7 @@
    "date": "2015-10-29",
    "lead": false,
    "section": "Society",
-   "headline": "All Saints Eve candles in Talas cemeteries",
-   "flags": [
-    "not in canon: Saints Eve"
-   ]
+   "headline": "All Saints Eve candles in Talas cemeteries"
   },
   {
    "no": 1005,
@@ -1121,10 +1112,7 @@
    "date": "2015-12-31",
    "lead": false,
    "section": "Society",
-   "headline": "New Year's Eve across the cities",
-   "flags": [
-    "not in canon: Year's Eve"
-   ]
+   "headline": "New Year's Eve across the cities"
   }
  ]
 }

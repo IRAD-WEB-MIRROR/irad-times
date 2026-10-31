@@ -1,8 +1,5 @@
 {
- "outlet": "times",
  "year": 2009,
- "model": "claude-sonnet-5-5",
- "written": "2026-10-30T09:18Z",
  "items": [
   {
    "no": 658,
@@ -16,10 +13,7 @@
    "date": "2009-01-01",
    "lead": false,
    "section": "Society",
-   "headline": "New Year's Day: candles, not lights",
-   "flags": [
-    "not in canon: Year's Day"
-   ]
+   "headline": "New Year's Day: candles, not lights"
   },
   {
    "no": 658,
@@ -40,10 +34,7 @@
    "date": "2009-01-08",
    "lead": false,
    "section": "Politics",
-   "headline": "Lieutenant Governor Tologonov warns of long rationing",
-   "flags": [
-    "not in canon: Governor Tologonov"
-   ]
+   "headline": "Lieutenant Governor Tologonov warns of long rationing"
   },
   {
    "no": 659,
@@ -288,10 +279,7 @@
    "date": "2009-04-02",
    "lead": true,
    "section": "Investigation",
-   "headline": "Who benefits from the new Public Gatherings Directive?",
-   "flags": [
-    "law? 'new Public Gatherings Directive'"
-   ]
+   "headline": "Who benefits from the new Public Gatherings Directive?"
   },
   {
    "no": 671,
@@ -802,10 +790,7 @@
    "date": "2009-09-17",
    "lead": false,
    "section": "Politics",
-   "headline": "Mejlis debates the State Symbols amendment",
-   "flags": [
-    "not in canon: Emblem Act"
-   ]
+   "headline": "Mejlis debates the State Symbols amendment"
   },
   {
    "no": 695,
@@ -896,10 +881,7 @@
    "date": "2009-10-15",
    "lead": false,
    "section": "Society",
-   "headline": "Winter coats: Anara Toktarova's Warm Winter campaign opens",
-   "flags": [
-    "not in canon: Anara Toktarova's Warm Winter"
-   ]
+   "headline": "Winter coats: Anara Toktarova's Warm Winter campaign opens"
   },
   {
    "no": 700,

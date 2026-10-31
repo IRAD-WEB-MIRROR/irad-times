@@ -1,8 +1,5 @@
 {
- "outlet": "times",
  "year": 2004,
- "model": "claude-sonnet-5-5",
- "written": "2026-10-30T09:18Z",
  "items": [
   {
    "no": 397,
@@ -23,10 +20,7 @@
    "date": "2004-01-01",
    "lead": false,
    "section": "Money",
-   "headline": "Heating bills for January set before the cold arrived",
-   "flags": [
-    "law? 'bills for January set'"
-   ]
+   "headline": "Heating bills for January set before the cold arrived"
   },
   {
    "no": 398,
@@ -61,10 +55,7 @@
    "date": "2004-01-15",
    "lead": false,
    "section": "Society",
-   "headline": "Schools in Kobozev-era blocks lose heat for four days",
-   "flags": [
-    "not in canon: Kobozev-era"
-   ]
+   "headline": "Schools in Kobozev-era blocks lose heat for four days"
   },
   {
    "no": 399,
@@ -519,10 +510,7 @@
    "date": "2004-06-17",
    "lead": true,
    "section": "Investigation",
-   "headline": "The Territorial Legislature's catering bill tripled in a year",
-   "flags": [
-    "not in canon: Territorial Legislature's"
-   ]
+   "headline": "The Territorial Legislature's catering bill tripled in a year"
   },
   {
    "no": 421,
@@ -1033,10 +1021,7 @@
    "date": "2004-12-02",
    "lead": false,
    "section": "Society",
-   "headline": "City Hospital No. 1 opens new emergency wing",
-   "flags": [
-    "not in canon: Hospital No"
-   ]
+   "headline": "City Hospital No. 1 opens new emergency wing"
   },
   {
    "no": 445,

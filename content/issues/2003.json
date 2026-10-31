@@ -1,8 +1,5 @@
 {
- "outlet": "times",
  "year": 2003,
- "model": "claude-sonnet-5-5",
- "written": "2026-10-30T09:17Z",
  "items": [
   {
    "no": 346,
@@ -128,10 +125,7 @@
    "date": "2003-02-13",
    "lead": false,
    "section": "Society",
-   "headline": "Dress Day-style folk gatherings in Talas villages",
-   "flags": [
-    "not in canon: Day-style"
-   ]
+   "headline": "Dress Day-style folk gatherings in Talas villages"
   },
   {
    "no": 352,

@@ -1,8 +1,5 @@
 {
- "outlet": "times",
  "year": 2014,
- "model": "claude-sonnet-5-5",
- "written": "2026-10-30T09:20Z",
  "items": [
   {
    "no": 910,
@@ -324,10 +321,7 @@
    "date": "2014-04-17",
    "lead": true,
    "section": "Investigation",
-   "headline": "The Water Works tenders: seven bids, one winner, same price band",
-   "flags": [
-    "not in canon: Water Works"
-   ]
+   "headline": "The Water Works tenders: seven bids, one winner, same price band"
   },
   {
    "no": 925,
@@ -817,10 +811,7 @@
    "date": "2014-09-25",
    "lead": false,
    "section": "Politics",
-   "headline": "Council passes tariff review for city water",
-   "flags": [
-    "law? 'passes tariff'"
-   ]
+   "headline": "Council passes tariff review for city water"
   },
   {
    "no": 948,
@@ -925,10 +916,7 @@
    "date": "2014-10-30",
    "lead": false,
    "section": "Society",
-   "headline": "All Saints Eve candles in Talas cemeteries",
-   "flags": [
-    "not in canon: Saints Eve"
-   ]
+   "headline": "All Saints Eve candles in Talas cemeteries"
   },
   {
    "no": 953,

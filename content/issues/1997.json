@@ -1,8 +1,5 @@
 {
- "outlet": "times",
  "year": 1997,
- "model": "claude-sonnet-5-5",
- "written": "2026-10-30T09:17Z",
  "items": [
   {
    "no": 39,
@@ -72,10 +69,7 @@
    "date": "1997-01-30",
    "lead": true,
    "section": "Investigation",
-   "headline": "Language and education bill: who drafted it?",
-   "flags": [
-    "law? 'bill: who drafted'"
-   ]
+   "headline": "Language and education bill: who drafted it?"
   },
   {
    "no": 42,
@@ -187,10 +181,7 @@
    "date": "1997-03-06",
    "lead": false,
    "section": "Politics",
-   "headline": "Legislature approves Language and Education Reform Act",
-   "flags": [
-    "law? 'approves Language and Education Reform Act'"
-   ]
+   "headline": "Legislature approves Language and Education Reform Act"
   },
   {
    "no": 47,
@@ -414,10 +405,7 @@
    "date": "1997-05-22",
    "lead": true,
    "section": "Investigation",
-   "headline": "The Kobozev-era drainage canals: who is responsible?",
-   "flags": [
-    "not in canon: Kobozev-era"
-   ]
+   "headline": "The Kobozev-era drainage canals: who is responsible?"
   },
   {
    "no": 58,

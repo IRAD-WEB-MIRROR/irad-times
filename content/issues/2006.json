@@ -1,8 +1,5 @@
 {
- "outlet": "times",
  "year": 2006,
- "model": "claude-sonnet-5-5",
- "written": "2026-10-30T09:18Z",
  "items": [
   {
    "no": 502,
@@ -128,10 +125,7 @@
    "date": "2006-02-09",
    "lead": false,
    "section": "Sport",
-   "headline": "Neftyanik veterans beat Talas Universitet old boys",
-   "flags": [
-    "not in canon: Talas Universitet"
-   ]
+   "headline": "Neftyanik veterans beat Talas Universitet old boys"
   },
   {
    "no": 508,

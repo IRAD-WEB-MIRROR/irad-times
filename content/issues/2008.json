@@ -1,8 +1,5 @@
 {
- "outlet": "times",
  "year": 2008,
- "model": "claude-sonnet-5-5",
- "written": "2026-10-30T09:18Z",
  "items": [
   {
    "no": 606,
@@ -16,20 +13,14 @@
    "date": "2008-01-03",
    "lead": false,
    "section": "Money",
-   "headline": "Heating bills for January set in som at the old rate",
-   "flags": [
-    "law? 'bills for January set'"
-   ]
+   "headline": "Heating bills for January set in som at the old rate"
   },
   {
    "no": 606,
    "date": "2008-01-03",
    "lead": false,
    "section": "Society",
-   "headline": "Nurzhan's Epiphany-week cold: schools open late",
-   "flags": [
-    "not in canon: Epiphany-week"
-   ]
+   "headline": "Nurzhan's Epiphany-week cold: schools open late"
   },
   {
    "no": 607,
@@ -141,10 +132,7 @@
    "date": "2008-02-14",
    "lead": true,
    "section": "Investigation",
-   "headline": "Who now owns the Kobozev-era grain elevators?",
-   "flags": [
-    "not in canon: Kobozev-era"
-   ]
+   "headline": "Who now owns the Kobozev-era grain elevators?"
   },
   {
    "no": 612,
@@ -165,20 +153,14 @@
    "date": "2008-02-21",
    "lead": true,
    "section": "Investigation",
-   "headline": "The 2007 pasture decrees: who gained, who lost",
-   "flags": [
-    "law? 'decrees'"
-   ]
+   "headline": "The 2007 pasture decrees: who gained, who lost"
   },
   {
    "no": 613,
    "date": "2008-02-21",
    "lead": false,
    "section": "Politics",
-   "headline": "Mejlis debates Jer-Suu's future under the Extremist Activity Act",
-   "flags": [
-    "not in canon: Jer-Suu's"
-   ]
+   "headline": "Mejlis debates Jer-Suu's future under the Extremist Activity Act"
   },
   {
    "no": 613,
@@ -220,11 +202,7 @@
    "date": "2008-03-06",
    "lead": false,
    "section": "Society",
-   "headline": "International Women's Day: Anara Toktarova's fund opens new wards",
-   "flags": [
-    "not in canon: Women's Day",
-    "not in canon: Anara Toktarova's"
-   ]
+   "headline": "International Women's Day: Anara Toktarova's fund opens new wards"
   },
   {
    "no": 615,
@@ -483,10 +461,7 @@
    "date": "2008-05-29",
    "lead": false,
    "section": "Courts",
-   "headline": "Talas court rejects Ormonov's motion to dismiss",
-   "flags": [
-    "not in canon: Ormonov's"
-   ]
+   "headline": "Talas court rejects Ormonov's motion to dismiss"
   },
   {
    "no": 628,
@@ -668,10 +643,7 @@
    "date": "2008-07-31",
    "lead": false,
    "section": "Politics",
-   "headline": "Lieutenant Governor Tologonov opens the harvest campaign",
-   "flags": [
-    "not in canon: Governor Tologonov"
-   ]
+   "headline": "Lieutenant Governor Tologonov opens the harvest campaign"
   },
   {
    "no": 636,
@@ -727,10 +699,7 @@
    "date": "2008-08-21",
    "lead": true,
    "section": "Investigation",
-   "headline": "The missing 2007 payroll lists of the Territorial Guard",
-   "flags": [
-    "not in canon: Territorial Guard"
-   ]
+   "headline": "The missing 2007 payroll lists of the Territorial Guard"
   },
   {
    "no": 639,

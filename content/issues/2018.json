@@ -1,8 +1,5 @@
 {
- "outlet": "times",
  "year": 2018,
- "model": "claude-sonnet-5-5",
- "written": "2026-10-30T09:20Z",
  "items": [
   {
    "no": 1119,
@@ -121,10 +118,7 @@
    "date": "2018-02-08",
    "lead": false,
    "section": "Courts",
-   "headline": "Nurzhan court fines a freight forwarder over falsified weigh-bills",
-   "flags": [
-    "law? 'weigh-bills'"
-   ]
+   "headline": "Nurzhan court fines a freight forwarder over falsified weigh-bills"
   },
   {
    "no": 1124,
@@ -397,10 +391,7 @@
    "date": "2018-05-10",
    "lead": false,
    "section": "Courts",
-   "headline": "Court hears Talas Commercial Development Group's land dispute with a farmer",
-   "flags": [
-    "not in canon: Talas Commercial Development Group's"
-   ]
+   "headline": "Court hears Talas Commercial Development Group's land dispute with a farmer"
   },
   {
    "no": 1137,
@@ -939,10 +930,7 @@
    "date": "2018-11-08",
    "lead": true,
    "section": "Investigation",
-   "headline": "The gate fee at the Kök-Bel pass: a clan levy or a state one?",
-   "flags": [
-    "law? 'pass: a clan levy'"
-   ]
+   "headline": "The gate fee at the Kök-Bel pass: a clan levy or a state one?"
   },
   {
    "no": 1163,

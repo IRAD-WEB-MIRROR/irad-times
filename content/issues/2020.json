@@ -1,8 +1,5 @@
 {
- "outlet": "times",
  "year": 2020,
- "model": "claude-sonnet-5-5",
- "written": "2026-10-30T09:20Z",
  "items": [
   {
    "no": 1223,
@@ -23,10 +20,7 @@
    "date": "2020-01-02",
    "lead": false,
    "section": "Money",
-   "headline": "Heating bills for January set by a formula nobody has seen",
-   "flags": [
-    "law? 'bills for January set'"
-   ]
+   "headline": "Heating bills for January set by a formula nobody has seen"
   },
   {
    "no": 1224,
@@ -250,10 +244,7 @@
    "date": "2020-03-19",
    "lead": false,
    "section": "Society",
-   "headline": "Schools close as first Covid case is confirmed",
-   "flags": [
-    "not in canon: Covid"
-   ]
+   "headline": "Schools close as first Covid case is confirmed"
   },
   {
    "no": 1234,
@@ -666,20 +657,14 @@
    "date": "2020-08-06",
    "lead": true,
    "section": "Investigation",
-   "headline": "The Pension Fund's late payments: whose desk held them",
-   "flags": [
-    "not in canon: Pension Fund's"
-   ]
+   "headline": "The Pension Fund's late payments: whose desk held them"
   },
   {
    "no": 1254,
    "date": "2020-08-06",
    "lead": false,
    "section": "Society",
-   "headline": "Feast of the Transfiguration marked quietly in parishes",
-   "flags": [
-    "not in canon: Transfiguration"
-   ]
+   "headline": "Feast of the Transfiguration marked quietly in parishes"
   },
   {
    "no": 1254,
@@ -966,10 +951,7 @@
    "date": "2020-11-12",
    "lead": true,
    "section": "Investigation",
-   "headline": "The Pension Fund's investments: what the report says",
-   "flags": [
-    "not in canon: Pension Fund's"
-   ]
+   "headline": "The Pension Fund's investments: what the report says"
   },
   {
    "no": 1268,
@@ -1116,10 +1098,7 @@
    "date": "2020-12-31",
    "lead": true,
    "section": "Investigation",
-   "headline": "A year of Covid: figures we asked for and did not get",
-   "flags": [
-    "not in canon: Covid"
-   ]
+   "headline": "A year of Covid: figures we asked for and did not get"
   },
   {
    "no": 1275,
@@ -1133,10 +1112,7 @@
    "date": "2020-12-31",
    "lead": false,
    "section": "Society",
-   "headline": "Quiet New Year's Eve in the three cities",
-   "flags": [
-    "not in canon: New Year's Eve"
-   ]
+   "headline": "Quiet New Year's Eve in the three cities"
   }
  ]
 }

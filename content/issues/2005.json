@@ -1,8 +1,5 @@
 {
- "outlet": "times",
  "year": 2005,
- "model": "claude-sonnet-5-5",
- "written": "2026-10-30T09:18Z",
  "items": [
   {
    "no": 450,
@@ -156,10 +153,7 @@
    "date": "2005-02-24",
    "lead": true,
    "section": "Investigation",
-   "headline": "A Territorial Department's travel bill doubled in one year",
-   "flags": [
-    "not in canon: Territorial Department's"
-   ]
+   "headline": "A Territorial Department's travel bill doubled in one year"
   },
   {
    "no": 457,
@@ -1020,10 +1014,7 @@
    "date": "2005-12-08",
    "lead": true,
    "section": "Investigation",
-   "headline": "The Territorial Department of Transportation's winter fleet is half idle",
-   "flags": [
-    "not in canon: Transportation's"
-   ]
+   "headline": "The Territorial Department of Transportation's winter fleet is half idle"
   },
   {
    "no": 498,
@@ -1051,10 +1042,7 @@
    "date": "2005-12-15",
    "lead": false,
    "section": "Politics",
-   "headline": "Legislature approves a year-end spending bill",
-   "flags": [
-    "law? 'approves a year-end spending bill'"
-   ]
+   "headline": "Legislature approves a year-end spending bill"
   },
   {
    "no": 499,

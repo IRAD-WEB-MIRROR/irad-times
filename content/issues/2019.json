@@ -1,8 +1,5 @@
 {
- "outlet": "times",
  "year": 2019,
- "model": "claude-sonnet-5-5",
- "written": "2026-10-30T09:20Z",
  "items": [
   {
    "no": 1171,
@@ -555,10 +552,7 @@
    "date": "2019-07-04",
    "lead": true,
    "section": "Investigation",
-   "headline": "The Kashkar-Aryk plan: what lies under the street",
-   "flags": [
-    "not in canon: Kashkar-Aryk"
-   ]
+   "headline": "The Kashkar-Aryk plan: what lies under the street"
   },
   {
    "no": 1197,
@@ -712,10 +706,7 @@
    "date": "2019-08-22",
    "lead": false,
    "section": "Politics",
-   "headline": "Kurultai adopts the quota roll",
-   "flags": [
-    "law? 'adopts the quota'"
-   ]
+   "headline": "Kurultai adopts the quota roll"
   },
   {
    "no": 1204,
@@ -981,20 +972,14 @@
    "date": "2019-11-21",
    "lead": true,
    "section": "Investigation",
-   "headline": "The Engineer Who Became Lieutenant Governor: what the file says",
-   "flags": [
-    "not in canon: Engineer Who Became Lieutenant Governor"
-   ]
+   "headline": "The Engineer Who Became Lieutenant Governor: what the file says"
   },
   {
    "no": 1217,
    "date": "2019-11-21",
    "lead": false,
    "section": "Politics",
-   "headline": "Mejlis passes resolution \"for our brethren in Ili\"",
-   "flags": [
-    "law? 'passes resolution'"
-   ]
+   "headline": "Mejlis passes resolution \"for our brethren in Ili\""
   },
   {
    "no": 1217,

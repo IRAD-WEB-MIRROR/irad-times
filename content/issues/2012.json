@@ -1,8 +1,5 @@
 {
- "outlet": "times",
  "year": 2012,
- "model": "claude-sonnet-5-5",
- "written": "2026-10-30T09:19Z",
  "items": [
   {
    "no": 815,
@@ -604,10 +601,7 @@
    "date": "2012-07-19",
    "lead": false,
    "section": "Society",
-   "headline": "Glacier lake watch extended after Köl-Sai flood",
-   "flags": [
-    "not in canon: Köl-Sai"
-   ]
+   "headline": "Glacier lake watch extended after Köl-Sai flood"
   },
   {
    "no": 843,

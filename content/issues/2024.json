@@ -1,8 +1,5 @@
 {
- "outlet": "times",
  "year": 2024,
- "model": "claude-sonnet-5-5",
- "written": "2026-10-30T09:21Z",
  "items": [
   {
    "no": 1432,
@@ -191,10 +188,7 @@
    "date": "2024-02-29",
    "lead": false,
    "section": "Culture",
-   "headline": "Chatkal choir records a Lenten programme in Iyık Janyl",
-   "flags": [
-    "not in canon: Lenten"
-   ]
+   "headline": "Chatkal choir records a Lenten programme in Iyık Janyl"
   },
   {
    "no": 1441,
@@ -278,10 +272,7 @@
    "date": "2024-03-28",
    "lead": false,
    "section": "Culture",
-   "headline": "Lenten concerts fill St. Janyl's Cathedral",
-   "flags": [
-    "not in canon: Janyl's Cathedral"
-   ]
+   "headline": "Lenten concerts fill St. Janyl's Cathedral"
   },
   {
    "no": 1445,
@@ -617,10 +608,7 @@
    "date": "2024-07-18",
    "lead": false,
    "section": "Politics",
-   "headline": "The Governor's July silence enters its second year of questions",
-   "flags": [
-    "not in canon: Governor's July"
-   ]
+   "headline": "The Governor's July silence enters its second year of questions"
   },
   {
    "no": 1461,
@@ -655,10 +643,7 @@
    "date": "2024-08-01",
    "lead": false,
    "section": "Society",
-   "headline": "Zara Toktarova's return noted at Talas receptions",
-   "flags": [
-    "not in canon: Toktarova's"
-   ]
+   "headline": "Zara Toktarova's return noted at Talas receptions"
   },
   {
    "no": 1462,
@@ -931,10 +916,7 @@
    "date": "2024-10-31",
    "lead": false,
    "section": "Society",
-   "headline": "Halloween sales go unnoticed as All Saints' services fill churches",
-   "flags": [
-    "not in canon: All Saints"
-   ]
+   "headline": "Halloween sales go unnoticed as All Saints' services fill churches"
   },
   {
    "no": 1475,

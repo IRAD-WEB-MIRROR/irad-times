@@ -1,8 +1,5 @@
 {
- "outlet": "times",
  "year": 2025,
- "model": "claude-sonnet-5-5",
- "written": "2026-10-30T09:21Z",
  "items": [
   {
    "no": 1484,
@@ -261,10 +258,7 @@
    "date": "2025-03-27",
    "lead": true,
    "section": "Investigation",
-   "headline": "The new health minister and the directive that named her",
-   "flags": [
-    "law? 'new health minister and the directive'"
-   ]
+   "headline": "The new health minister and the directive that named her"
   },
   {
    "no": 1496,
@@ -705,10 +699,7 @@
    "date": "2025-08-21",
    "lead": true,
    "section": "Investigation",
-   "headline": "The Kurultai's 2027 terms and what the ISEZ has offered",
-   "flags": [
-    "not in canon: Kurultai's"
-   ]
+   "headline": "The Kurultai's 2027 terms and what the ISEZ has offered"
   },
   {
    "no": 1517,
@@ -1065,10 +1056,7 @@
    "date": "2025-12-18",
    "lead": true,
    "section": "Investigation",
-   "headline": "The Hippodrome and Nurik Baisalov's concession, a year on",
-   "flags": [
-    "not in canon: Nurik Baisalov's"
-   ]
+   "headline": "The Hippodrome and Nurik Baisalov's concession, a year on"
   },
   {
    "no": 1534,

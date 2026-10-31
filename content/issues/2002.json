@@ -1,8 +1,5 @@
 {
- "outlet": "times",
  "year": 2002,
- "model": "claude-sonnet-5-5",
- "written": "2026-10-30T09:17Z",
  "items": [
   {
    "no": 295,
@@ -898,10 +895,7 @@
    "date": "2002-10-31",
    "lead": false,
    "section": "Society",
-   "headline": "Graveside gatherings mark All Saints in Iyık Janyl",
-   "flags": [
-    "not in canon: All Saints"
-   ]
+   "headline": "Graveside gatherings mark All Saints in Iyık Janyl"
   },
   {
    "no": 337,
