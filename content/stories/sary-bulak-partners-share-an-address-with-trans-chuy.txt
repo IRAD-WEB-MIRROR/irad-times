@@ -3,7 +3,7 @@ dek: Two firms set up in August have applied for licences to buy antimony and su
 date: 2026-10-15
 section: Investigation
 byline: Aigerim Sadyrbaeva and Temirlan Osmonov
-image: changers.jpg
+image: money-changers-cash.jpg
 caption: Cash dollars changing hands at the Bazar-i Kalan this week. The state’s share of the Sary-Bulak restart, 54 million som, is committed in next year’s draft budget; the partners’ share is not.
 kind: story
 issue: 1577

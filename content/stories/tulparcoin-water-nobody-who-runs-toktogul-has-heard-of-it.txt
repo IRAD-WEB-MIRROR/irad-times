@@ -3,7 +3,7 @@ dek: Tulparcoin’s white paper rests on Toktogul. The complex, the Naryn commis
 date: 2026-10-15
 section: Money
 byline: Temirlan Osmonov
-image: dam.jpg
+image: toktogul-dam-road.jpg
 caption: The Toktogul dam. Its output is shared under the Naryn Water and Power Protocol; its revenue formula has never been published.
 kind: story
 issue: 1577

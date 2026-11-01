@@ -3,7 +3,7 @@ dek: Ten days after the drafts were published, the annexes tell us who would hav
 date: 2007-03-08
 section: Investigation
 byline: Bolotbek Daniyar and Aigerim Sadyrbaeva
-image: crowd2007.jpg
+image: readers-special-edition-2007.jpg
 caption: Readers with the special edition in Talas, 27 February 2007.
 kind: archive
 pick: yes

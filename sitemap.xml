@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url><loc>https://iradtimes.com/</loc><lastmod>2026-10-29</lastmod></url>
-  <url><loc>https://iradtimes.com/2026/10/nobody-has-published-who-gets-the-revenue-from-toktogul-s-extra-240-mw.html</loc><lastmod>2026-10-29</lastmod></url>
-  <url><loc>https://iradtimes.com/2026/10/a-second-refinery-for-kochkor-ata-was-announced-with-no-investor-no-cr.html</loc><lastmod>2026-10-29</lastmod></url>
+<urlset xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url><loc>https://iradtimes.com/</loc><lastmod>2026-10-29</lastmod><image:image><image:loc>https://iradtimes.com/img/nurzhan-oil-refinery.jpg</image:loc></image:image><image:image><image:loc>https://iradtimes.com/img/bill-of-sale-1.jpg</image:loc></image:image><image:image><image:loc>https://iradtimes.com/img/times-newsroom.jpg</image:loc></image:image></url>
+  <url><loc>https://iradtimes.com/2026/10/nobody-has-published-who-gets-the-revenue-from-toktogul-s-extra-240-mw.html</loc><lastmod>2026-10-29</lastmod><image:image><image:loc>https://iradtimes.com/img/nurzhan-oil-refinery.jpg</image:loc></image:image></url>
+  <url><loc>https://iradtimes.com/2026/10/a-second-refinery-for-kochkor-ata-was-announced-with-no-investor-no-cr.html</loc><lastmod>2026-10-29</lastmod><image:image><image:loc>https://iradtimes.com/img/toktogul-dam.jpg</image:loc></image:image></url>
   <url><loc>https://iradtimes.com/2026/10/publish-the-toktogul-annex-before-the-2027-talks-begin.html</loc><lastmod>2026-10-29</lastmod></url>
   <url><loc>https://iradtimes.com/2026/10/nine-housing-complexes-3-308-flats.html</loc><lastmod>2026-10-29</lastmod></url>
   <url><loc>https://iradtimes.com/2026/10/coal-buyers-eye-kyrgyz-price-cap.html</loc><lastmod>2026-10-29</lastmod></url>
@@ -12,11 +12,11 @@
   <url><loc>https://iradtimes.com/2026/10/brief-potato-import-halt.html</loc><lastmod>2026-10-15</lastmod></url>
   <url><loc>https://iradtimes.com/2026/10/brief-toktogul-extra-240-mw.html</loc><lastmod>2026-10-15</lastmod></url>
   <url><loc>https://iradtimes.com/2026/10/talasbank-dollar-limit-exemptions-for-state-contractors.html</loc><lastmod>2026-10-15</lastmod></url>
-  <url><loc>https://iradtimes.com/2026/10/sary-bulak-partners-share-an-address-with-trans-chuy.html</loc><lastmod>2026-10-15</lastmod></url>
-  <url><loc>https://iradtimes.com/2026/10/inability-petition-four-months-no-hearing.html</loc><lastmod>2026-10-15</lastmod></url>
+  <url><loc>https://iradtimes.com/2026/10/sary-bulak-partners-share-an-address-with-trans-chuy.html</loc><lastmod>2026-10-15</lastmod><image:image><image:loc>https://iradtimes.com/img/money-changers-cash.jpg</image:loc></image:image></url>
+  <url><loc>https://iradtimes.com/2026/10/inability-petition-four-months-no-hearing.html</loc><lastmod>2026-10-15</lastmod><image:image><image:loc>https://iradtimes.com/img/hall-of-justice-steps.jpg</image:loc></image:image></url>
   <url><loc>https://iradtimes.com/2026/10/brief-national-library-archive.html</loc><lastmod>2026-10-15</lastmod></url>
-  <url><loc>https://iradtimes.com/2026/10/derby-decider-tickets.html</loc><lastmod>2026-10-15</lastmod></url>
-  <url><loc>https://iradtimes.com/2026/10/tulparcoin-water-nobody-who-runs-toktogul-has-heard-of-it.html</loc><lastmod>2026-10-15</lastmod></url>
+  <url><loc>https://iradtimes.com/2026/10/derby-decider-tickets.html</loc><lastmod>2026-10-15</lastmod><image:image><image:loc>https://iradtimes.com/img/floodlit-stadium.jpg</image:loc></image:image></url>
+  <url><loc>https://iradtimes.com/2026/10/tulparcoin-water-nobody-who-runs-toktogul-has-heard-of-it.html</loc><lastmod>2026-10-15</lastmod><image:image><image:loc>https://iradtimes.com/img/toktogul-dam-road.jpg</image:loc></image:image></url>
   <url><loc>https://iradtimes.com/archive/2026/the-china-road-seventeen-seizures-and-no-arrests.html</loc><lastmod>2026-10-01</lastmod></url>
   <url><loc>https://iradtimes.com/archive/2026/abdrakhmanova-asks-for-release-on-compassionate-grounds.html</loc><lastmod>2026-09-03</lastmod></url>
   <url><loc>https://iradtimes.com/archive/2026/a-saddle-with-no-rider.html</loc><lastmod>2026-03-12</lastmod></url>
@@ -49,8 +49,8 @@
   <url><loc>https://iradtimes.com/archive/2010/taiyrov-shot-at-his-gate-one-rider-killed-at-qara-chik.html</loc><lastmod>2010-10-11</lastmod></url>
   <url><loc>https://iradtimes.com/archive/2009/grain-auction-leaves-rivals-outside-the-gate.html</loc><lastmod>2009-02-12</lastmod></url>
   <url><loc>https://iradtimes.com/archive/2008/friends-abroad-keep-the-times-online.html</loc><lastmod>2008-04-18</lastmod></url>
-  <url><loc>https://iradtimes.com/archive/2007/what-the-cabinet-promised-away.html</loc><lastmod>2007-03-08</lastmod></url>
-  <url><loc>https://iradtimes.com/archive/2007/the-drafts-framework-treaty-and-protocols.html</loc><lastmod>2007-02-26</lastmod></url>
+  <url><loc>https://iradtimes.com/archive/2007/what-the-cabinet-promised-away.html</loc><lastmod>2007-03-08</lastmod><image:image><image:loc>https://iradtimes.com/img/readers-special-edition-2007.jpg</image:loc></image:image></url>
+  <url><loc>https://iradtimes.com/archive/2007/the-drafts-framework-treaty-and-protocols.html</loc><lastmod>2007-02-26</lastmod><image:image><image:loc>https://iradtimes.com/img/bill-of-sale-1.jpg</image:loc></image:image></url>
   <url><loc>https://iradtimes.com/archive/2006/chu-oil-blocks-sold-at-a-third-of-their-value.html</loc><lastmod>2006-12-21</lastmod></url>
   <url><loc>https://iradtimes.com/archive/1996/to-our-readers-1996.html</loc><lastmod>1996-04-11</lastmod></url>
   <url><loc>https://iradtimes.com/issue/1996.html</loc><lastmod>1996-12-31</lastmod></url>
@@ -86,9 +86,9 @@
   <url><loc>https://iradtimes.com/issue/2026.html</loc><lastmod>2026-10-22</lastmod></url>
   <url><loc>https://iradtimes.com/issue/index.html</loc><lastmod>2026-10-29</lastmod></url>
   <url><loc>https://iradtimes.com/archive/index.html</loc><lastmod>2026-10-29</lastmod></url>
-  <url><loc>https://iradtimes.com/staff.html</loc><lastmod>2026-10-29</lastmod></url>
+  <url><loc>https://iradtimes.com/staff.html</loc><lastmod>2026-10-29</lastmod><image:image><image:loc>https://iradtimes.com/img/daniyarov.jpg</image:loc></image:image><image:image><image:loc>https://iradtimes.com/img/times-newsroom.jpg</image:loc></image:image></url>
   <url><loc>https://iradtimes.com/subscribe.html</loc><lastmod>2026-10-29</lastmod></url>
-  <url><loc>https://iradtimes.com/about.html</loc><lastmod>2026-10-29</lastmod></url>
+  <url><loc>https://iradtimes.com/about.html</loc><lastmod>2026-10-29</lastmod><image:image><image:loc>https://iradtimes.com/img/printers-offset-press.jpg</image:loc></image:image></url>
   <url><loc>https://iradtimes.com/corrections.html</loc><lastmod>2026-10-29</lastmod></url>
   <url><loc>https://iradtimes.com/tips.html</loc><lastmod>2026-10-29</lastmod></url>
   <url><loc>https://iradtimes.com/access.html</loc><lastmod>2026-10-29</lastmod></url>

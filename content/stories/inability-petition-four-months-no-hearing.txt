@@ -3,7 +3,7 @@ dek: The Supreme Court’s new online register lists the petition on the Governo
 date: 2026-10-15
 section: Courts
 byline: Saltanat Kurmanbekova
-image: court.jpg
+image: hall-of-justice-steps.jpg
 caption: The Hall of Justice on Liberty Boulevard, where the Supreme Court sits.
 kind: story
 issue: 1577

@@ -3,7 +3,7 @@ dek: Neftchi has given the visitors the smallest allocation the federation allow
 date: 2026-10-15
 section: Sport
 byline: Askat Jumabaev
-image: stadium.jpg
+image: floodlit-stadium.jpg
 caption: Tulpar supporters at the Silk Road Arena. On 31 October they will have one corner of the NurGaz Stadium.
 kind: story
 issue: 1577
