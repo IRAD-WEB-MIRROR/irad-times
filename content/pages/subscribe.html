@@ -6,6 +6,23 @@ dek: Subscribe to the Irad Times in Irad or abroad. The paper is owned by its st
 <p>The <em>Times</em> carries almost no state advertising. It is paid for by the people who read it.</p>
 <h2>In Irad</h2>
 <p>Home delivery in Talas and Nurzhan: <strong>220 som a year</strong>, or 60 som a quarter. Pay at our office, 3 Printers’ Lane, or at any Talasbank branch to account “Times Staff Trust”. Students and pensioners pay half.</p>
+<h2>Subscribe at home</h2>
+<form id="sub" class="subform" action="#">
+<p><label>Name<br><input name="nm" size="32" required></label></p>
+<p><label>Street, house and flat<br><input name="ad" size="32" required></label></p>
+<p><label>City<br><select name="ct"><option>Talas</option><option>Nurzhan</option><option value="x">Iyık Janyl or elsewhere</option></select></label></p>
+<p><label>Period<br><select name="pd"><option value="220">One year (52 issues), 220 som</option><option value="60">One quarter (13 issues), 60 som</option></select></label></p>
+<p><label><input type="checkbox" name="hf"> Student or pensioner (half price; show your card when you pay)</label></p>
+<p><button type="submit">Get a subscription number</button></p>
+</form>
+<div id="subr" class="subr" hidden></div>
+<script>(function(){var f=document.getElementById('sub'),r=document.getElementById('subr');
+f.addEventListener('submit',function(e){e.preventDefault();r.hidden=false;
+if(f.ct.value==='x'){r.innerHTML='<p>We deliver at home only in Talas and Nurzhan. In Iyık Janyl and the districts the <em>Times</em> is sold at the kiosks of Irad Pochtasy on Thursdays and Fridays, or we post it to you: 340 som a year by post, at our office on Printers’ Lane.</p>';return;}
+var sum=parseInt(f.pd.value,10)/(f.hf.checked?2:1),no='TS-'+String(new Date().getFullYear()).slice(2)+'-'+(10000+Math.floor(Math.random()*90000));
+var d=new Date();d.setDate(d.getDate()+((4-d.getDay()+7)%7||7)+7);
+r.innerHTML='<p><strong>Subscription No. '+no+'</strong> for '+f.nm.value.replace(/</g,'')+', '+f.ad.value.replace(/</g,'')+', '+f.ct.value+'.</p><p>Pay <strong>'+sum+' som</strong> at our office, 3 Printers’ Lane, or at any Talasbank branch to account “Times Staff Trust”, giving the number above. Delivery begins with the first Thursday paper after we receive the payment (at the earliest '+d.getDate()+' '+['January','February','March','April','May','June','July','August','September','October','November','December'][d.getMonth()]+').</p>';
+r.scrollIntoView({block:'nearest'});});})();</script>
 <h2>Abroad</h2>
 <p>Readers outside Irad can subscribe through Friends of the Irad Times in Chicago, which posts the paper every Friday: <strong>US$60 a year</strong> by post, or US$25 for the email edition. Friends of the Irad Times also pays for this website. Write to the association by post at its Chicago address, printed on page 2 of every issue.</p>
 <h2>Libraries</h2>
