@@ -1,0 +1,7 @@
+headline: Cost of sending money home
+date: 2026-11-12
+section: In brief
+kind: brief
+issue: 1581
+
+Families receiving money from Iradis working in Russia say the cost of the transfer, not the wage, is the squeeze, as Vecherniy Nurzhan reported on 6 November. Remittances from Russia run at US$250–400 million a year. Since the 2022 sanctions they arrive through Russian and Kazakh services and Almaty correspondent banks, at higher cost. Paid out in som at the official 8.40, a dollar buys about 27% fewer som than at Bazar-i Kalan, where changers buy at 11.45 today. Tulpar Pay charges 1% but is due to settle in Tulparcoin, which is not legal tender, from 1 January 2027. The Labour Ministry announced nothing new.
