@@ -296,6 +296,20 @@
    "headline": "Directive 2020/05 and what it lets police do"
   },
   {
+   "no": 1236,
+   "date": "2020-04-02",
+   "lead": false,
+   "section": "Society",
+   "headline": "Three strikes at nine: how one courtyard's ladle became a city's"
+  },
+  {
+   "no": 1236,
+   "date": "2020-04-02",
+   "lead": false,
+   "section": "Society",
+   "headline": "A cure by voice message: the 'shepherd's dose' reaches Talas"
+  },
+  {
    "no": 1237,
    "date": "2020-04-09",
    "lead": true,
@@ -336,6 +350,13 @@
    "lead": false,
    "section": "The Times says",
    "headline": "Honest numbers are the only quarantine that works"
+  },
+  {
+   "no": 1238,
+   "date": "2020-04-16",
+   "lead": false,
+   "section": "Society",
+   "headline": "'It is for the sheep': the shepherd's dose and the message that started it"
   },
   {
    "no": 1239,
@@ -401,6 +422,13 @@
    "headline": "Ulak horses idle as Hippodrome stays shut"
   },
   {
+   "no": 1241,
+   "date": "2020-05-07",
+   "lead": false,
+   "section": "Money",
+   "headline": "Stranded in Russia: the sites are shut and there is no flight home"
+  },
+  {
    "no": 1242,
    "date": "2020-05-14",
    "lead": true,
@@ -443,6 +471,13 @@
    "headline": "Clan councils keep high passes closed to herders' visitors"
   },
   {
+   "no": 1243,
+   "date": "2020-05-21",
+   "lead": false,
+   "section": "Society",
+   "headline": "'La dosis del pastor': how a Kara-Buura rumour reached Sinaloa"
+  },
+  {
    "no": 1244,
    "date": "2020-05-28",
    "lead": true,
@@ -475,7 +510,7 @@
    "date": "2020-06-04",
    "lead": false,
    "section": "Society",
-   "headline": "Marshrutkas return to Talas streets after six weeks"
+   "headline": "Marshrutkas return to Talas streets after eight weeks"
   },
   {
    "no": 1245,
@@ -546,6 +581,13 @@
    "lead": false,
    "section": "Culture",
    "headline": "Altyn-Zhylky shortlist announced online"
+  },
+  {
+   "no": 1248,
+   "date": "2020-06-25",
+   "lead": false,
+   "section": "Society",
+   "headline": "One household in three: the university counts the shepherd's dose"
   },
   {
    "no": 1249,
