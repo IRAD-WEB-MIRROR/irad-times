@@ -1,6 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url><loc>https://iradtimes.com/</loc><lastmod>2026-11-12</lastmod><image:image><image:loc>https://iradtimes.com/img/talas-basin-irrigation.jpg</image:loc></image:image><image:image><image:loc>https://iradtimes.com/img/bill-of-sale-1.jpg</image:loc></image:image><image:image><image:loc>https://iradtimes.com/img/times-newsroom.jpg</image:loc></image:image></url>
+  <url><loc>https://iradtimes.com/</loc><lastmod>2026-11-19</lastmod><image:image><image:loc>https://iradtimes.com/img/petroleum-transit-pipeline.jpg</image:loc></image:image><image:image><image:loc>https://iradtimes.com/img/bill-of-sale-1.jpg</image:loc></image:image><image:image><image:loc>https://iradtimes.com/img/times-newsroom.jpg</image:loc></image:image></url>
+  <url><loc>https://iradtimes.com/2026/11/kyrgyz-pay-gap-widens.html</loc><lastmod>2026-11-19</lastmod></url>
+  <url><loc>https://iradtimes.com/2026/11/irad-s-crude-loses-its-nationality-at-the-kazakh-frontier-and-no-publi.html</loc><lastmod>2026-11-19</lastmod><image:image><image:loc>https://iradtimes.com/img/petroleum-transit-pipeline.jpg</image:loc></image:image></url>
+  <url><loc>https://iradtimes.com/2026/11/bishkek-publishes-its-schools-health-and-welfare-money-in-full-talas-w.html</loc><lastmod>2026-11-19</lastmod><image:image><image:loc>https://iradtimes.com/img/government-house-talas.jpg</image:loc></image:image></url>
+  <url><loc>https://iradtimes.com/2026/11/show-the-schools-and-clinics-budget-before-the-mejlis-votes.html</loc><lastmod>2026-11-19</lastmod></url>
+  <url><loc>https://iradtimes.com/2026/11/bishkek-s-schools-budget-talas-s-blank.html</loc><lastmod>2026-11-19</lastmod></url>
+  <url><loc>https://iradtimes.com/2026/11/rim-pilgrims-stuck-in-tashkent.html</loc><lastmod>2026-11-19</lastmod></url>
   <url><loc>https://iradtimes.com/2026/11/kara-bulak-machinery-centre-gets-1-million-of-fund-money-the-loan-term.html</loc><lastmod>2026-11-12</lastmod><image:image><image:loc>https://iradtimes.com/img/nurzhan-grain-elevator.jpg</image:loc></image:image></url>
   <url><loc>https://iradtimes.com/2026/11/tash-komur-park-awaits-power.html</loc><lastmod>2026-11-12</lastmod></url>
   <url><loc>https://iradtimes.com/2026/11/public-money-for-a-repair-centre-should-come-with-its-terms.html</loc><lastmod>2026-11-12</lastmod></url>
@@ -96,12 +102,12 @@
   <url><loc>https://iradtimes.com/issue/2024.html</loc><lastmod>2024-12-31</lastmod></url>
   <url><loc>https://iradtimes.com/issue/2025.html</loc><lastmod>2025-12-31</lastmod></url>
   <url><loc>https://iradtimes.com/issue/2026.html</loc><lastmod>2026-10-22</lastmod></url>
-  <url><loc>https://iradtimes.com/issue/index.html</loc><lastmod>2026-11-12</lastmod></url>
-  <url><loc>https://iradtimes.com/archive/index.html</loc><lastmod>2026-11-12</lastmod></url>
-  <url><loc>https://iradtimes.com/tips.html</loc><lastmod>2026-11-12</lastmod></url>
-  <url><loc>https://iradtimes.com/about.html</loc><lastmod>2026-11-12</lastmod><image:image><image:loc>https://iradtimes.com/img/printers-offset-press.jpg</image:loc></image:image></url>
-  <url><loc>https://iradtimes.com/access.html</loc><lastmod>2026-11-12</lastmod></url>
-  <url><loc>https://iradtimes.com/corrections.html</loc><lastmod>2026-11-12</lastmod></url>
-  <url><loc>https://iradtimes.com/subscribe.html</loc><lastmod>2026-11-12</lastmod></url>
-  <url><loc>https://iradtimes.com/staff.html</loc><lastmod>2026-11-12</lastmod><image:image><image:loc>https://iradtimes.com/img/daniyarov.jpg</image:loc></image:image><image:image><image:loc>https://iradtimes.com/img/times-newsroom.jpg</image:loc></image:image></url>
+  <url><loc>https://iradtimes.com/issue/index.html</loc><lastmod>2026-11-19</lastmod></url>
+  <url><loc>https://iradtimes.com/archive/index.html</loc><lastmod>2026-11-19</lastmod></url>
+  <url><loc>https://iradtimes.com/tips.html</loc><lastmod>2026-11-19</lastmod></url>
+  <url><loc>https://iradtimes.com/about.html</loc><lastmod>2026-11-19</lastmod><image:image><image:loc>https://iradtimes.com/img/printers-offset-press.jpg</image:loc></image:image></url>
+  <url><loc>https://iradtimes.com/access.html</loc><lastmod>2026-11-19</lastmod></url>
+  <url><loc>https://iradtimes.com/corrections.html</loc><lastmod>2026-11-19</lastmod></url>
+  <url><loc>https://iradtimes.com/subscribe.html</loc><lastmod>2026-11-19</lastmod></url>
+  <url><loc>https://iradtimes.com/staff.html</loc><lastmod>2026-11-19</lastmod><image:image><image:loc>https://iradtimes.com/img/daniyarov.jpg</image:loc></image:image><image:image><image:loc>https://iradtimes.com/img/times-newsroom.jpg</image:loc></image:image></url>
 </urlset>
